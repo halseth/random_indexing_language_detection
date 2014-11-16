@@ -9,17 +9,8 @@ from unidecode import unidecode
 include = string.lowercase
 exclude = string.punctuation
 
-if(len(sys.argv) < 4):
-    print "Usage: python script.py <inputFile.txt> <outputFile.txt> <language>"
-    exit()
-
-language = str(sys.argv[3])
-if(language == 'English'):
-    pass
-elif(language == 'Norwegian'):
-    include = include + 'æøå'
-else:
-    print('Unknown language. Exiting')
+if(len(sys.argv) < 3):
+    print "Usage: python script.py <inputFile.txt> <outputFile.txt>"
     exit()
 
 inputFile = codecs.open(str(sys.argv[1]), encoding='utf-8')
