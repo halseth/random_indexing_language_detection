@@ -29,7 +29,6 @@ lang_vectors = np.zeros((num_lang,N))
 for i in xrange(num_lang):
 		print "processing " + str(languages[i])
 		# load text one at a time (to save mem), English, German, Norwegian
-		# as list, text_list = [english_text, german_text, ..., norwegian_text]
 		lang_text = utils.load_lang(languages[i])
 		for letter in lang_text:
 				letter_idx = alphabet.find(letter)
