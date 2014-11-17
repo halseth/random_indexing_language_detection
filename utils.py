@@ -24,6 +24,9 @@ def load_lang(language):
 		elif language.lower() == 'norwegian':
 				print 'loading norwegian text'
 				textfile = open(languages_dir + 'norwegian.txt')
+		elif language.lower() == 'finnish':
+				print 'loading finnish text'
+				textfile = open(languages_dir + 'finnish.txt')
 		else:
 				print "sorry, no text stored in " + language
 

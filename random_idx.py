@@ -5,6 +5,8 @@
 import numpy as np
 import string
 import utils
+import pandas as pd
+
 
 # constants
 alphabet = string.lowercase
@@ -13,7 +15,7 @@ M = 26 # latin letters
 # to be parametrized later!
 N = 1000 # dimension of random index vectors
 k = 10 # number of + (or -)
-languages = ['english','german','norwegian']
+languages = ['english','german','norwegian','finnish']
 
 num_lang = len(languages) # english, german, norwegian (in this order)
 
@@ -33,3 +35,17 @@ for i in xrange(num_lang):
 		for letter in lang_text:
 				letter_idx = alphabet.find(letter)
 				lang_vectors[i,:] += RI[letter_idx,:]
+
+# normalize vectors
+lang_vectors_normd = np.zeros(lang_vectors.shape)
+for i in xrange(num_lang):
+		lang_vectors_normd[i,:] = lang_vectors[i,:]/np.linalg.norm(lang_vectors[i,:])
+
+# cosine angles for similarity!
+cos_angles = lang_vectors_normd.dot(lang_vectors_normd.T)
+
+# label the cosine angles table
+labeled_cosangles = pd.DataFrame(cos_angles, index=languages, columns=languages)
+
+print '============'
+print labeled_cosangles
