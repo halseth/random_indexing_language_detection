@@ -8,49 +8,66 @@ import string
 import utils
 import pandas as pd
 
-# constants
 alphabet = string.lowercase
-M = 26 # latin letters
 
-if len(sys.argv) < 3:
-		print "Usage: python random_idx.py <dimension of RI vectors> <number of nonzero elements>"
-		exit()
+def generate_vectors(N, k, cluster_sz, languages=None):
 
-# to be parametrized later!
-N = int(sys.argv[1])# dimension of random index vectors
-k = int(sys.argv[2])# number of + (or -)
-languages = ['english','german','norwegian','finnish']
+		if languages == None:
+				languages = ['english','german','norwegian','finnish']
 
-num_lang = len(languages) # english, german, norwegian (in this order)
+		clusters = utils.generate_clusters(alphabet,cluster_sz=cluster_sz)
+		#print clusters
 
-# build row-wise k-sparse random index matrix
-# each row is random index vector for letter
-RI = np.zeros((M,N))
-for i in xrange(M):
-		rand_idx = np.random.permutation(N)
-		RI[i,rand_idx[0:k]] = 1
-		RI[i,rand_idx[k:2*k]] = -1
+		M = len(clusters) # number of letter clusters
+		num_lang = len(languages)
+		num_letters = len(alphabet)
 
-lang_vectors = np.zeros((num_lang,N))
-for i in xrange(num_lang):
-		#print "processing " + str(languages[i])
-		# load text one at a time (to save mem), English, German, Norwegian
-		lang_text = utils.load_lang(languages[i])
-		for letter in lang_text:
-				letter_idx = alphabet.find(letter)
-				lang_vectors[i,:] += RI[letter_idx,:]
+		# build row-wise k-sparse random index matrix
+		# each row is random index vector for letter
+		RI_letters = np.zeros((num_letters,N))
+		for i in xrange(num_letters):
+				rand_idx = np.random.permutation(N)
+				RI_letters[i,rand_idx[0:k]] = 1
+				RI_letters[i,rand_idx[k:2*k]] = -1
+		RI = np.zeros((M,N))
+		for i in xrange(M):
+				# calculate repeats
+				cluster = clusters[i]
+				first = cluster[0]
+				repeats = 0
+				for char in cluster:
+						if first == char:
+								repeats += 1
 
-# normalize vectors
-lang_vectors_normd = np.zeros(lang_vectors.shape)
-for i in xrange(num_lang):
-		lang_vectors_normd[i,:] = lang_vectors[i,:]/np.linalg.norm(lang_vectors[i,:])
+				if repeats == len(cluster):
+						# check if cluster all same letter
+						letter_idx = alphabet.find(first)
+						#print first, RI_letters[letter_idx,:]
+						RI[i,:] = RI_letters[letter_idx,:]
+				else:
+						letters = list(cluster)
+						prod = np.ones((1,N))
+						for letter in letters:
+								letter_idx = alphabet.find(letter)
+								prod = np.multiply(prod, RI_letters[letter_idx,:])
+						RI[i,:] = prod
+		#				print cluster, RI[i,:]
+		#		print cluster, RI[i,:]
+		#print RI
+		lang_vectors = np.zeros((num_lang,N))
+		for i in xrange(num_lang):
+				# load text one at a time (to save mem), English, German, Norwegian
+				lang_text = utils.load_lang(languages[i])
+				for char_num in xrange(len(lang_text)):
+						if char_num < cluster_sz:
+								continue
+						else:
+								# build cluster
+								cluster = ''
+								for j in xrange(cluster_sz):
+										cluster = lang_text[char_num - j] + cluster
+								if cluster in clusters:
+										cluster_idx = clusters.index(cluster)
+										lang_vectors[i,:] += RI[cluster_idx,:]
 
-# cosine angles for similarity!
-cos_angles = lang_vectors_normd.dot(lang_vectors_normd.T)
-
-# label the cosine angles table
-labeled_cosangles = pd.DataFrame(cos_angles, index=languages, columns=languages)
-
-print '============'
-print 'N = ' + str(N) + '; k = ' + str(k) + '\n'
-print labeled_cosangles
+		return lang_vectors
