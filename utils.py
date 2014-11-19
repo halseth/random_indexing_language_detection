@@ -11,7 +11,7 @@ import numpy as np
 import itertools
 
 # constants
-languages_dir = os.getcwd() + '/preprocessed_texts/'
+text_dir = os.getcwd() + '/preprocessed_texts/'
 whitespace = string.whitespace
 
 
@@ -20,19 +20,25 @@ def load_lang(language):
 
 		if language.lower() == 'english':
 				print 'loading english text'
-				textfile = open(languages_dir + 'english.txt')
+				text = load_text('english.txt')
 		elif language.lower() == 'german':
 				print 'loading german text'
-				textfile = open(languages_dir + 'german.txt')
+				text = load_text('german.txt')
 		elif language.lower() == 'norwegian':
 				print 'loading norwegian text'
-				textfile = open(languages_dir + 'norwegian.txt')
+				text = load_text('norwegian.txt')
 		elif language.lower() == 'finnish':
 				print 'loading finnish text'
-				textfile = open(languages_dir + 'finnish.txt')
+				text = load_text('finnish.txt')
 		else:
 				print "sorry, no text stored in " + language
 
+		return text
+
+def load_text(text_name):
+		# loads text of text_name, assumes text has .txt and the file exists
+
+		textfile = open(text_dir + text_name)
 		text = textfile.read()
 		text = text.translate(None,whitespace)
 		textfile.close()
@@ -78,7 +84,7 @@ def generate_ordered_clusters(alphabet, cluster_sz=1):
 				old_alph = new_alph
 
 		return old_alph
-        
+
 def generate_unordered_clusters(alphabet, cluster_sz=1):
 		# generate list of letter clusters of size "cluster" with "alphabet", unordered
         

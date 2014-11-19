@@ -10,16 +10,13 @@ import pandas as pd
 
 alphabet = string.lowercase
 
-def generate_vectors(N, k, cluster_sz, languages=None):
+def generate_id(N,k,alph=alphabet,cluster_sz=1):
+		# generate id vectors of clusters from "alphabet" with size "cluster_sz"
 
-		if languages == None:
-				languages = ['english','german','norwegian','finnish']
-
-		clusters = utils.generate_clusters(alphabet,cluster_sz=cluster_sz)
-		#print clusters
+		# generate clusters
+		clusters = utils.generate_unordered_clusters(alph,cluster_sz=cluster_sz)
 
 		M = len(clusters) # number of letter clusters
-		num_lang = len(languages)
 		num_letters = len(alphabet)
 
 		# build row-wise k-sparse random index matrix
@@ -52,12 +49,44 @@ def generate_vectors(N, k, cluster_sz, languages=None):
 								letter_idx = alphabet.find(letter)
 								prod = np.multiply(prod, RI_letters[letter_idx,:])
 						RI[i,:] = prod
+		return clusters, RI
+
+def generate_RI_text(clusters, RI, text_name):
+		# generate RI vector for "text_name"
+		# assumes text_name has .txt
+
+		text = utils.load_text(text_name)
+		for char_num in xrange(len(lang_text)):
+
+				if char_num < cluster_sz:
+						continue
+				else:
+						# build cluster
+						cluster = ''
+						for j in xrange(cluster_sz):
+								cluster = lang_text[char_num - j] + cluster
+						if cluster in clusters:
+								cluster_idx = clusters.index(cluster)
+								lang_vectors[i,:] += RI[cluster_idx,:]
+		return text_vector
+
+def generate_RI(clusters, RI, languages=None):
+
+		if languages == None:
+				languages = ['english','german','norwegian','finnish']
+
+		N = RI.shape[1] # dimension of random indexing vectors
+		cluster_sz = len(clusters[0])
+		num_lang = len(languages)
 
 		lang_vectors = np.zeros((num_lang,N))
 		for i in xrange(num_lang):
+
 				# load text one at a time (to save mem), English, German, Norwegian
 				lang_text = utils.load_lang(languages[i])
+
 				for char_num in xrange(len(lang_text)):
+
 						if char_num < cluster_sz:
 								continue
 						else:
