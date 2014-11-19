@@ -1,0 +1,3281 @@
+The Project Gutenberg eBook, Bell's Cathedrals: The Cathedral Church of
+Exeter, by Percy Addleshaw
+
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+
+
+
+Title: Bell's Cathedrals: The Cathedral Church of Exeter
+       A Description of Its Fabric and a Brief History of the Episcopal See
+
+
+Author: Percy Addleshaw
+
+
+
+Release Date: October 1, 2006  [eBook #19424]
+
+Language: English
+
+
+***START OF THE PROJECT GUTENBERG EBOOK BELL'S CATHEDRALS: THE CATHEDRAL
+CHURCH OF EXETER***
+
+
+E-text prepared by Jonathan Ingram, Keith Edkins, and the Project
+Gutenberg Online Distributed Proofreading Team (http://www.pgdp.net/)
+
+
+
+Note: Project Gutenberg also has an HTML version of this
+      file which includes the original illustrations.
+      See 19424-h.htm or 19424-h.zip:
+      (http://www.gutenberg.net/dirs/1/9/4/2/19424/19424-h/19424-h.htm)
+      or
+      (http://www.gutenberg.net/dirs/1/9/4/2/19424/19424-h.zip)
+
+
+Transcriber's notes:
+
+      1) Words and phrases which were italicized in the original
+         have been surrounded by underscores('_') in this version.
+         Words or phrases which were in bold face have been
+         surrounded by pound signs('#').
+
+      2) Obvious printer's errors have been corrected without note.
+
+
+
+
+
+THE CATHEDRAL CHURCH OF EXETER
+
+A Description of Its Fabric and a Brief History of the Episcopal See
+
+by
+
+PERCY ADDLESHAW, B.A. (Oxon.)
+
+With XXXVII [Illustration] Illustrations
+
+
+
+
+
+
+
+[Illustration: EXETER CATHEDRAL--FROM THE SOUTH-WEST.
+               The Photochrom. Co. Ld. Photo.]
+
+
+
+London G. Bell and Sons, Ltd. 1921
+First Published, January 1898
+Second Edition, Revised, 1899
+Third Impression, 1907
+Fourth Impression, 1912
+New and Revised Edition, 1921.
+
+
+
+
+
+AUTHOR'S PREFACE
+
+
+Among various books consulted the author specially owes his
+acknowledgments to "The Fabric Rolls"; Leland's "Itinerary"; Holler's
+"History"; Izacke's "Antiquities of Exeter"; Britton's "History and
+Antiquities of Exeter"; "Transactions of Exeter Architectural Society";
+Oliver's "Lives of the Bishops of Exeter"; Murray's "Handbook of
+Exeter"; Archdeacon Freeman's "Architectural History of Exeter
+Cathedral"; Professor Freeman's "Exeter" (Historic Towns Series);
+Prince's "Worthies of Devon"; Worth's "History of Devonshire"; Fuller's
+"Worthies of Devon"; Macaulay's "History of England"; and Green's "Short
+History of the English People." The author would also express his
+special thanks to the late Canon Hingeston-Randolph, the learned editor
+of the Episcopal Registers of the Diocese, for information which
+contributed largely to the improvement of the second edition of this
+book.
+
+
+
+
+PREFACE TO THE THIRD EDITION
+
+
+In reissuing this handbook, which during the lapse of twenty-three years
+had become out of date in many ways, the editor has introduced
+considerable alterations in the arrangement of the matter, with a view
+to facilitating its use as a guide to the various parts of the
+Cathedral. For suggestions as to this, and for numerous improvements and
+corrections in detail he is particularly indebted to Miss Beatrix F.
+Cresswell, whose published works "Exeter Churches," "Notes on the
+Churches of the Deanery of Ken," and "Edwardian Inventories for the City
+and County of Exeter" have made her an authority on the ecclesiology of
+the Diocese.
+
+E.B.
+
+_June_, 1921.
+
+
+
+
+
+CONTENTS
+
+                                                          PAGE
+HISTORY OF THE CHURCH OF ST. MARY AND ST. PETER IN EXETER    1
+
+THE FABRIC OF THE CATHEDRAL. EXTERIOR                       19
+  The Towers                                                23
+  The Roof                                                  24
+  The North Porch                                           24
+  The West Front                                            27
+
+THE FABRIC OF THE CATHEDRAL. INTERIOR                       31
+  The Nave                                                  31
+  The Minstrels' Gallery                                    36
+  St. Radegunde's Chapel                                    36
+  St. Edmund's Chapel                                       39
+  Monuments in the Nave                                     39
+  The North Transept                                        43
+  Sylke Chantry                                             44
+  St. Paul's Chapel                                         44
+  The South Transept                                        44
+  Monuments in the South Transept                           47
+  The Choir Screen                                          48
+  The Organ                                                 52
+  The Choir                                                 52
+  The Choir Stalls                                          55
+  The Reredos                                               56
+  The Bishop's Throne                                       56
+  The Sedilia                                               56
+  St. James' Chapel                                         59
+  St. Andrew's Chapel                                       61
+  The Ambulatory                                            61
+  Speke's Chantry                                           63
+  Bishop Oldham's Chantry                                   63
+  The Lady Chapel                                           65
+  Bronscombe's Tomb                                         66
+  Stafford's Tomb                                           66
+  Tomb of Sir John and Lady Doddridge                       67
+  St. Gabriel's Chapel                                      69
+  Quivil's Tomb                                             69
+  St. Mary Magdalen Chapel                                  69
+
+TOMBS IN THE CHOIR AND CHOIR AISLES                         71
+
+THE CHAPTER HOUSE AND CLOISTER                              73
+
+THE CLOSE AND CATHEDRAL LIBRARY                             78
+
+THE BISHOP'S PALACE                                         79
+
+THE DIOCESE OF EXETER                                       83
+
+ROUGEMONT CASTLE AND THE GUILDHALL                          91
+
+DIMENSIONS                                                  96
+
+INDEX                                                       97
+
+
+
+
+ILLUSTRATIONS
+
+                                                          PAGE
+Exeter Cathedral--from the South-west            _Frontispiece_
+Arms of the Diocese                                     _Title_
+View of the Cathedral from the South                       xii
+Interior--Chapter House                                     13
+Exeter Cathedral, from an old print                         21
+The Cathedral--from the South-east                          22
+The Northern Tower                                          25
+The West Front                                              26
+Portals of the West Front                                   29
+The Nave--from the South Transept                           30
+The Nave--looking West                                      33
+Corbels and Bosses                                          34
+The Minstrels' Gallery                                      35
+Bays of Nave                                                37
+The "Patteson" Pulpit                                       38
+The Nave--looking East                                      41
+The Transept--looking North                                 45
+Interior in the last century                                49
+The Choir Screen                                            51
+The Choir--looking West                                     53
+The Choir before Restoration                                54
+The Choir--looking East                                     57
+The Sedilia                                                 58
+Pulpit in the Choir                                         60
+St. James' Chapel                                           61
+St. George's Chapel                                         62
+The Lady Chapel                                             64
+Bishop Bronscombe's Monument                                66
+Screen of St. Gabriel's Chapel                              68
+Tomb of Bishop Stapledon                                    72
+Monument of Bishop Marshall                                 73
+The East Gate (pulled down in 1784)                         77
+The Bishop's Palace                                         81
+Old Houses in Fore Street                                   90
+Rougemont Castle                                            93
+The Guildhall, Exeter                                       94
+
+PLAN OF THE CATHEDRAL                                  _at end_
+
+
+
+[Illustration: EXETER CATHEDRAL, FROM THE SOUTH.]
+
+
+
+
+EXETER CATHEDRAL.
+
+
+
+
+HISTORY OF THE CHURCH OF ST. MARY AND ST. PETER IN EXETER.
+
+
+The history of any ancient cathedral must always be interesting, and
+that of Exeter is no exception, though "it supplies less of
+architectural history than those churches whose whole character has been
+altered over and over again." A cathedral represents not only the
+spiritual, but the active, laborious, and artistic life of past
+generations. The bishop, too, was in many ways the head man of the
+province, and combined, not seldom, the varied qualities of priest,
+warrior, and statesman. The acts of such ecclesiastics were full of
+importance, not for their own city only, but often also for the whole
+nation. As men who had frequently travelled much and studied deeply,
+they summoned to their aid in the building and beautifying of their
+churches the most skilled artists end artificers of their time; so, with
+the story of the lives of the bishops of a diocese, the history of a
+cathedral's building is inextricably woven. To be elevated to a
+bishopric generally meant to be put into possession of great
+wealth--when Veysey became bishop the revenues of the see of Exeter
+have, by some authors, been computed at £100,000; Canon Hingeston-Randolph
+puts them, with more reason and authority, at the sum of £30,000--and a
+large portion of this money was spent on works connected with the chief
+church of the diocese. It is not wonderful, therefore, this generosity
+being joined to marvellous skill and taste, that our old cathedrals are
+at once the despair and envy of the modern architect. And it is with a
+feeling of reverence that one recalls the history of those who built in
+the heart of each populous city "grey cliffs of lonely stone into the
+midst of sailing birds and silent air."
+
+The story of Exeter has an unique interest, and its church, as we shall
+see, is in many respects without a rival. The fact that a building of
+such great beauty should adorn a city so situated is remarkable; for
+long after--as we read in Macaulay--weekly posts left London for various
+parts of England, Exeter was still, as it were, on the borders of
+territories scarcely explored, and was the furthest western point to
+which letters were conveyed from the metropolis. Fuller thus describes
+the county of Devonshire in his day (1646): "Devonshire hath the narrow
+seas on the South, the Severn on the North, Cornwall on the West, Dorset
+and Somersetshire on the East. A goodly province, the second in England
+for greatness, clear in view without measuring, as bearing a square of
+fifty miles. Some part thereof, as the South Hams, is so fruitful it
+needs no art; but generally (though not running of itself) it answers to
+the spur of industry. No shire showes more industrious, or so many
+Husbandmen, who by Marle (blew and white), Chalk, Lime, Seasand,
+Compost, Sopeashes, Rags and what not, make the ground both to take and
+keep a moderate fruitfulness; so that Virgil, if now alive, might make
+additions to his Georgicks, from the Plough-practice in this county. As
+for the natives thereof, generally they are dexterous in any employment,
+and Queen Elizabeth was wont to say of the gentry: _They were all born
+courtiers with a becomming confidence_."
+
+The city of Exeter is of great age. "Isca Damnoniorum, Caer Wise,
+Exanceaster, Exeter, keeping essentially the same name under all
+changes, stands distinguished as the one great city which has, in a more
+marked way than any other, kept its unbroken being and its unbroken
+position throughout all ages." But though Whitaker asserts that in the
+middle of the fifth century it was the seat of a bishop, Professor
+Freeman, with more authority, declares that the city did not become a
+bishop's see till the latter half of the eleventh century, at which
+period the bishopstools were removed from the small to the great towns.
+Until 703 A.D. Devonshire formed part of the vast diocese of Wessex.
+About the year 900 A.D. the diocese of Devon and Cornwall was divided
+into two--the former with its bishop's seat at Crediton--only to be
+reunited again a hundred and fifty years later when Leofric was
+appointed bishop.
+
+The first record of a church dedicated to SS. Mary and Peter in Exeter,
+is that of an abbey church founded by Athelstan. But Sweyn destroyed it
+seventy years later, and it seems frequently to have been attacked by
+invaders previous to its destruction. But in 1019 Canute endowed a new
+church and confirmed by charter their lands and privileges to the monks.
+This building must have been of some pretensions, for it was given to
+Leofric for his cathedral church in 1050. It occupied the site of the
+present Lady Chapel. When Warelwast and Marshall built their Norman
+church they placed it on the east of the old church, leaving an
+intervening space. Their nave occupied the site of the present nave, the
+transeptal towers were the same, but the choir was shorter and probably
+terminated in an apse flanked by smaller apses at the ends of the choir
+aisles. Traces of one of these have been found at the end of the third
+bay of the north choir aisle. Bronscombe and Quivil (see p. 5) began
+their reconstruction at this end, and by adding the ambulatory and Lady
+Chapel linked together the sites of the old and new churches.
+
+With the episcopate of Leofric, Exeter first assumes the rank of a
+cathedral city. The sees of Devon and Cornwall had been held together by
+Lyfing, the last bishop of Crediton. But Crediton, an unfortified
+"vill," was an easy prey to the Irish, Danes, and other pirates, who
+devastated the diocese from time to time. Leofric felt the urgent
+necessity for a change, and fixed on the walled town of Exeter to be his
+cathedral city. He sent a clerk to the pope asking him to write to the
+king recommending the change. The king readily consented, and the church
+of St. Mary and St. Peter was given to the bishop as his cathedral
+church. The event was clearly regarded as of considerable importance,
+for at his installation Edward the Confessor "supported his right arm
+and Queen Eadgytha his left." Archbishops, bishops, and nobles also
+assisted at the ceremony. Leofric proved a hard-working and wise
+prelate, and gave generously of lands and moneys to his church. He had
+found it but poorly furnished, the wardrobe only containing "one
+worthless priest's dress." He also remembered it in his will, and the
+great "Liber Exoniensis" was his gift.
+
+But if the history of the see has its birth with Leofric, the story of
+the cathedral begins with the appointment in 1107 of Warelwast as
+bishop. This noteworthy man was a nephew of the Conqueror and chaplain
+to both William II and Henry I. Inheriting to the full the Norman
+passion for building, he pulled down the Saxon edifice and began to
+erect a great Norman cathedral in its stead. The transeptal towers
+attest the magnificence of his scheme. There is nothing quite like them
+anywhere else, though at Barcelona and Chalons-sur-Marne may be seen
+something similar. But they suffice to stamp him as an architect of
+exceptional genius. He laboured zealously in other matters, founding at
+Plympton a wealthy Augustinian priory; he also represented the king at
+Rome in his famous quarrel with Anselm. It is said that he became blind
+and died, an old man, at his priory of Plympton.
+
+The next important date to notice is 1194, when Henry Marshall, brother
+of Walter Earl Marshall, was made bishop. For two years the episcopal
+throne had remained empty, the king being absent from England in the
+Holy Land. But with the appointment of Marshall a most important stage
+is reached. King John gave to the see the tithes of the tin in
+Devonshire and Cornwall. This must have largely increased the episcopal
+income, for Marshall quickly set about completing the work Warelwast had
+begun a hundred years before. To this end he granted the emoluments of
+St. Erth's Church, near Hayle, Cornwall, to be used towards defraying
+the cost of repairs. He also called upon each householder to show his
+interest in the work by subscribing, at Pentecost, an alms of "unum
+obolum ad minim." For the sufficient remuneration of the choral vicars
+he made over to them the church of St. Swithun in Woodbury, "with all
+its appurtenances."
+
+To Marshall we owe extensive additions to the nave, the north porch, and
+the cloister doorway. He completed the Norman church begun by Warelwast,
+but there is no evidence that he extended to the eastward, as is
+sometimes stated. The position of the tomb in the "founder's place" on
+the north side of the choir indicates that it terminated only a few
+yards farther to the east. Beyond there must have been an open space
+between the Norman and the old Saxon cathedrals.
+
+For nearly fifty years there are but scant records of work done to the
+building. Though Professor Freeman[1] speaks of its "not long-lived
+perfection," it is quite possible that Marshall's work was considered,
+by his own and the succeeding generation, to be final. Any interest
+there may be in the lives of two of the succeeding bishops, until the
+election of Bronscombe in 1257, is for the most part due to their
+labours in other matters. For example, under Simon de Apulia, the city
+of Exeter was divided into parishes; and by William Bruere the chapter
+house and stalls of the old choir were completed. He was one of the
+leaders of the English army at Acre in 1228. He also created the deanery
+of Exeter.
+
+    [1] "Exeter" (Historic Towns Series), by Prof. E.A. Freeman
+    (Longmans).
+
+But with the arrival of Walter Bronscombe a new career of architectural
+energy begins. Now dawns that wonderful transformation period, at the
+close of which the church stood pretty much as we now know it.
+Concerning Bronscombe's character there has been somewhat bitter
+dispute. It is certain that he was accused of craftiness and meanness.
+But William of Worcester, whose testimony is valuable, called him Walter
+le Good. Whatever may be the real truth of the matter, he seems to have
+made an admirable bishop, his election reflecting considerable credit on
+the acumen of those concerned in it. For he had not, surely, much to
+recommend him, at first sight, for so important a position. Though he
+was Archdeacon of Surrey at the time of his appointment, he was not a
+priest, and he was quite a young man. He was a vigorous supporter of
+learning throughout the diocese, probably because of his anxiety to give
+other men of humble origin a fair chance of making their way in the
+world. He restored the College of Crediton, and built one at Glaseney.
+Bronscombe may be credited with giving the first impetus to the
+reconstruction of the cathedral by his work in the Lady Chapel and the
+chapels on either side of it, viz., that of St. Mary Magdalen on the
+north, and St. Gabriel on the south, the latter being destined for his
+own tomb. To his Dean and Chapter he appropriated the church of St.
+Bruared in Cornwall, that the feast of his patron saint, Gabriel, might
+be worthily maintained.
+
+Peter Quivil, his successor in the see, was probably working with him,
+as he was a canon of the cathedral before being raised to the bishopric.
+He invented and designed the Decorated cathedral, and transformed the
+transepts. He must be classed with Warelwast as the chief of the
+building bishops. Admirably and sympathetically as his work was
+continued by those who followed him, their claim on our recognition and
+gratitude is less. His skill, too, seems to have been almost equalled by
+his generosity, for out of gratitude the Chapter promised to maintain
+his yearly obit. In the office of the mass, in the memento for the dead,
+his name was ordered to be spoken _primum et praecipium._ He seems to
+have given the Franciscans some cause for anger; it is suggested that
+his Dominican confessor urged him to treat the followers of St. Francis
+with severity. Anyhow, the aggrieved ones had their revenge, for the
+bishop's death, which happened on the eve of St. Francis, "after
+drinking of a certain sirrop," was popularly attributed to the direct
+intervention of the saint himself. He is buried in the Lady Chapel,
+which he had transformed and decorated with such tender care, and a slab
+in the centre of the pavement, bearing the legend "Petra tegit Petrum
+nihil officiat sibi tetrum," is dedicated to his memory.
+
+It has been ascertained by Canon Hingeston-Randolph that Bishop Quivil
+was the first to endow the office of chaunter with an adequate salary,
+and that the first to enjoy the benefit of it was Walter de Lecchelade
+or Lechlade, though he was by no means the first chaunter or precentor.
+A dispute that long agitated antiquaries has thus been settled. For it
+was contended by some that John the chaunter was the first to hold the
+office, by others that Quivil founded the office and that the bishop's
+name was really John Cauntor. But the explanation that the stipend was
+only increased by Quivil, and that it existed before his day, was
+entirely satisfactory, we may hope, to the supporters of the rival
+theories. The above-mentioned Walter Lechlade was murdered "about two in
+the morning" on his return from matins in the cathedral cloisters. The
+murderers escaped through the south gate of the city, which was left
+open. An extraordinary sensation was created, not in Exeter only but
+throughout England. The bishop invited Edward I. and his queen to keep
+their Christmas at the Palace. We are told "they were very industrious
+in finding out the murtherers." At last Alfred Dupont, an ex-mayor and
+porter of the south gate, was found guilty and executed accordingly.
+Perhaps, had the office of chaunter not been endowed, Walter Lechlade
+might have continued for many long years to chaunt in sonorous voice
+"matins, vespers, obits, and the like." At any rate the story is worth
+telling, being an interesting picture of manners in the middle ages. It
+will be found given, with many interesting details, in an appendix by
+Canon Hingeston-Randolph to his edition of the Register of Bishop Quivil
+(p. 438).
+
+Quivil's successor was Thomas De Bytton, Dean of Wells. Under his
+guidance the work of transformation planned by his predecessor was
+loyally continued, for he faithfully adhered to the original design.
+Though Bytton appears to have been less active outside his diocese than
+many of the Exeter bishops, his mode of life must have commended itself
+to a large circle. A grant of forty days' indulgence was the reward of
+all those who availed themselves of his spiritual ministrations, or
+offered prayers for his prosperity during his life and after death.
+Among the signatures appended to the document notifying this singular
+privilege are those of numerous archbishops and bishops, among them
+being those of the archbishops of Cosensa and Jerusalem, and Manfred,
+Bishop of St. Mark's, Venice. "The seal of Manfred," Dr. Oliver says,
+"is perfect; he stands robed, with a piece of embroidery on his alb. The
+crozier is simply curved. His legend is S. MANFREDI. DEI. GRA. EPISCOP.
+SCI. MARCHI." It was dated at Rome in the year 1300. Possibly Bytton's
+great learning, by which he had risen to be Professor of Canon Law at
+Oxford and Pope's Chaplain, was partly the reason of so notable a
+compliment. But the noble work he was doing in the cathedral church of
+his diocese, we may hope, had not a little to do with the honour. For to
+him we owe the entire transformation of the choir with its aisles.
+Bytton's labours were, indeed, very great. We hear of large quantities
+of stone procured from Barley, and of sandstone from Salcombe and
+Branscombe. He also put a good deal of stained glass into the windows;
+so that in the eleventh year of his episcopate the following item is
+recorded: "Master Walter le Verrouer for setting the glass of the upper
+gable and of eight upper windows, and of six windows in the aisles of
+the new work, in gross, £4 l0s." Bytton was succeeded, in 1308, by
+Walter de Stapledon, the most famous of all the bishops of Exeter. A
+younger son of Sir Richard Stapledon of Annery, his appointment was the
+first of a succession of aristocratic nominations. He, too, had been a
+professor of canon law at Oxford, was a chaplain to the Pope and
+precentor of the cathedral church of Exeter. The feast given after his
+enthronement was unusually splendid, the revenues for a whole year being
+spent on the festivities. It seems as though, conscious of his great
+talents, he determined to signalize his accession to the episcopal
+office by some event of unusual magnificence. It must be remembered that
+Exeter was at this time one of the largest and richest sees in England.
+As Professor Freeman has pointed out, "The Bishop of Exeter, like the
+Archbishop of York, was the spiritual head of a separate people."
+Stapledon set about expediting the work of transforming the cathedral
+into the Decorated style in vigorous fashion. The Fabric Rolls record
+that he himself gave the (then) enormous sum of £1,800 towards defraying
+the cost. His generosity encouraged others to subscribe liberally
+towards the building fund. One of his first duties was to complete the
+choir, a payment being made to William Canon of £35 2s. 8d. for "marble
+from Corfe for the columns." But the choir was really Bytton's, the new
+bishop had only to give to it "a few final, though not unimportant,
+touches." Still he found plenty of work to hand that might receive the
+impress of his sole initiative. He designed and completed the triforium
+arcade above the choir arches, and directed the colouring of the choir
+vault, the total expenses for oil and colour being estimated at £1 9s.
+7¾d. By these "final touches" the transformation of the choir into the
+Decorated style was completed. But Stapledon determined to further
+enrich his already beautiful church with accessories of surpassing
+splendour. He erected a high altar of silver, also the beautiful
+sedilia, and though there has been a good deal of dispute about the
+matter, the more trustworthy authorities attribute to him the bishop's
+throne of carved wood. At any rate, in 1312, there is a charge of £6
+12s. 8½d. for "timber for the bishop's seat." The altar, unfortunately,
+has disappeared, but it is reputed to have cost a sum equivalent to
+£7,000 of our money. Canon Freeman thus describes it: "Above, as it
+should seem (for the entries are very obscure), was a canopy of
+considerable extent, wrought with bosses internally. The whole seems to
+have been surmounted by a figure of our Lord." With Stapledon building
+seems to have been a favourite recreation; for though he gave most
+largely both of time and money to the cathedral work, he found
+opportunity to build and endow Harts Hall, Stapledon Inn--now Exeter
+College--Oxford, and the "very fair" Essex House in London. In 1320 he
+was created Lord High Treasurer by Edward II., and later in the same
+year received from his sovereign the power of holding pleas of "hue and
+cry" in the lands, tenements, and fees of the bishopric in the county of
+Cornwall. The neglected condition of many of the parish churches in his
+diocese distressed him, and almost his last public appearance in the
+west of England was at Lawhitton, where he spoke severely on this matter
+to his Dean and Chapter, and bade them see to it that in future there
+should be no good cause of complaint. In the autumn of 1324 he set out
+for France, accompanying the young Prince Edward, who was about to do
+homage to the French king for the duchies of Aquitaine and Poitou. But
+his "irreproachable integrity" made him unpopular, and his life was
+threatened. On his return to England he saw that a crisis was at hand,
+and almost immediately after his arrival Queen Eleanor landed on the
+coast of Suffolk. Edward II., in a brief moment of wisdom, assigned to
+the faithful bishop the government of London and retreated to Bristol.
+But it was too late to effect a reconciliation or prevent a catastrophe.
+With a firm hand Stapledon endeavoured to restore order and quiet, and
+promulgated a decree by which all rebels were excommunicated. But the
+citizens, wisely perhaps, sided with the conquerors, and the bishop died
+a martyr to duty. The story is well told in the French chronicles quoted
+by Dr. Oliver. "The Bishop of Exeter, riding towards his inn or hotel,
+in Eldeanes-lane for dinner, encountered the mob, and, hearing them
+shout Traitor, he rode rapidly to St. Paul's for sanctuary, but was
+unhorsed, taken to Cheapside, stripped and beheaded. About the hour of
+vespers, the same day, October 15th, the choir of St. Paul's took up the
+headless body of the prelate and conveyed it to St. Paul's, but, on
+being informed that he died under sentence, the body was brought to St.
+Clement's beyond the Temple, but was ejected; so that the naked corpse,
+with a rag given by the charity of a woman, was laid on the spot called
+'Le Lawles Cherche,' and without any grave, lay there with those of his
+two esquires, without office of priest or clerk. His house was attacked,
+the gates burned, quantities of jewels and plate plundered."
+
+In another account of his death it is stated that his head was "fixed on
+a long pole by way of trophy, that it might be to all beholders a
+lasting memorial of his attempted crime." There was a personal reason
+why the bishop was unpopular among the citizens, for "he procured that
+the justices in eyre should sit in London; on which occasion, because
+the citizens had committed various offences, they were heavily punished
+by the loss of their liberties, by pecuniary mulcts, and by bodily
+chastisment, as they deserved." But the queen caused his body to be
+rescued from the "hepe of rubische," and it was removed to Exeter, where
+it lies on the north side of the choir. He left behind him large sums of
+money and plate, a valuable library and, unique item, ninety-one rings.
+He was certainly one of the greatest prelates in English history, and
+though he may have been, as his detractors asserted, "fumische and
+without pite," he was revered in his diocese, and left an example of
+courage and honesty to succeeding generations. His executors, animated
+by a wish to do what he would have desired, distributed £210 8s. 8d. in
+charities, and gave considerable sums to other worthy objects. And the
+Abbot of Hartland caused the 15th of October to be solemnly observed,
+out of gratitude for the late bishop's bounty, and decreed that on that
+day "for all future times 'XIII. pauperes in aulâ abbatis, pro ipsius
+anima, pascantur.'"
+
+To follow so redoubtable a prelate as Stapledon must have been an
+extremely difficult task. But Grandisson, who was appointed after
+Berkeley's short episcopate ended, has sometimes been called the most
+magnificent prelate who ever filled the see. He was nominated directly
+by the pope, and consecrated by his holiness at Avignon. His chief glory
+is that he allowed the splendour of the see in no wise to diminish, and
+he kept up the Stapledon traditions of princely hospitality and
+well-doing. His reputation of "grave, wise, and politick" seems to have
+been fairly earned. As a descendant of the great ducal house of
+Burgundy, he had lived much with princes and held the position of nuncio
+"at the courts of all the mightiest princes of Christendom." His
+election was carried out in direct opposition to the wishes of the
+canons of Exeter, but a wise choice had been made, and by his long
+episcopate of forty years he gained honour for himself and good fortune
+for his people. He had to face many difficulties at first that might
+well have appalled a weaker man. The tragic death of Stapledon had
+terrified all men, the great work of that giant intellect remained
+unfinished, and required some one of exceptional energy to complete it
+fitly. Added to these difficulties, the episcopal manors had been
+plundered and the accounts were terribly muddled. Grandisson, luckily,
+was a man who looked upon difficulties as things to be overcome. He
+applied to the members of his family for funds, and the negotiations are
+to his family and subsequently to the diocese at large for funds. The
+negotiations are interesting, for the borrower is the only person who
+maintained his dignity unimpaired. With courteous pertinacity and a
+fitting show of anger, he got the supplies he needed. With indomitable
+energy he managed to arrange in perfect order the confused affairs of
+his diocese. Turning eagerly to the task of completing the building of
+his church, he transformed the six west bays of the nave, vaulting,
+aisles, west window, and north cloister. In spiritual and temporal
+affairs he was equally busy. Twice at least he was the host of royalty,
+once the Black Prince visited his diocese with the captive king of
+France. The same illustrious warrior, shortly before his death, again
+enjoyed the bishop's hospitality.
+
+In 1343 Grandisson was sent as ambassador to Rome, and the sound sense
+he had shown at Exeter was equally apparent in the conduct of his
+mission, so that it was written of him that "he did his message with
+much wisdom and honour." Certainly, few bishops have had so exalted a
+view of the dignity and importance of the episcopal office, and none
+ever dared to fight more boldly for his imagined rights. When the
+Archbishop Mepham determined to make a personal visitation, Grandisson's
+anger was kindled. Gathering round him a body of armed retainers, he met
+the archbishop at the north-west gate of the close. There might have
+been a bloody conflict, for neither prelate was likely to give way.
+Fortunately, sober counsels prevailed, and the quarrel was referred to
+the pope. His holiness decided in Grandisson's favour, and "the dispute
+did half break Mepham's heart, and the Pope, siding with the Bishop of
+Exeter, did break the other half." So writes Fuller, and the quaint
+sentence does not lack authority, for the archbishop died shortly after
+the termination of the quarrel.
+
+Grandisson remembered his cathedral in his will. He bequeathed to his
+successors his crozier and mitre, and to the diocese 2,000 marks. At his
+funeral, in accordance with his instructions, a hundred poor persons
+were clothed and money was distributed among the prisoners and the sick.
+He remembered, too, the needs of the poorer clergy and the hospitals,
+while to Pope Urban and Edward III. he left splendid legacies. His
+funeral, as his life, was simple and economical. For his magnificent
+presents, his gorgeous works on the structure of his church, were made
+possible by his own simple, almost parsimonious manner of living. He was
+buried in the chapel of St. Radegunde, but the tomb was destroyed in
+Elizabeth's time, and his ashes lie "no man knows where."
+
+Brantyngham, the next bishop, completed the cloisters, the east window
+and west front. But, as Canon Freeman has said, "the rest of the works
+of this and the following century are little else than petty
+restorations; of course in a later and inferior style, and generally to
+the detriment of the building." But there is still much in the history
+of the church and the see that deserves a passing notice. Under
+Brantyngham, the old feud that Grandisson had finished so satisfactorily
+to himself, began again. But the victory this time was with the
+archbishop. At Topsham, a village not far from the city, the bishop's
+servants attacked savagely the archbishop's mandatory. Full of zeal for
+the honour, as they conceived it, of their own prelate, they made the
+wretched creature eat the archbishop's writ and seal. But the meal of
+parchment and wax did not by any means settle the dispute. The bishop's
+cause, indeed, was irretrievably damaged, the king was furious, an
+appeal to the pope was unsuccessful, and Brantyngham had to make full
+submission to the offended primate. Henceforth the archbishop's right of
+visitation was not opposed. Had another than Grandisson been bishop in
+Mepham's day the dispute would never, probably, have arisen; for the
+archbishop was undoubtedly only exercising his rights, such visitations
+being according to canon, and of ancient usage.
+
+The next bishop whose episcopate is important is Lacy, who glazed the
+nave windows and raised the chapter house. He has, too, an unique claim
+on our regard because of his saintly character. As yet no saint had made
+the cathedral venerable, and the sentimental affection and profit which
+saintly relics were wont to cause was still lacking. It is said that
+Iscanus had contrived to get some relics of Becket for his cathedral,
+but there was no local saint, and this want Lacy supplied. Yet the days
+of his episcopacy were by no means absolutely calm. At the very moment
+of his accession he involved himself in a dispute with the city
+corporation as to the liberties of his cathedral. Nor was he, though
+meek and holy, at all inclined to submit to any infringement of his
+prerogatives, even when the transgressor happened to wear a crown.
+Indeed, he most successfully protested against the conduct of Henry VI.,
+who held a jail delivery in the bishop's hall. Two men were condemned to
+death, but the bishop remonstrated so forcibly against this exercise of
+temporal authority within the precincts of the sanctuary, that they were
+released. As an author Lacy gained a considerable reputation. His "Liber
+Pontificalis" is still preserved, his office in honour of Raphael the
+Archangel was admired and used in many cathedrals and churches. When he
+died miracles were performed at his tomb, and pilgrimages were
+constantly made to it by the common people.
+
+[Illustration: THE CHAPTER HOUSE (FROM BRITTON'S 'EXETER', 1826).]
+
+From this time onward the architectural history of the cathedral becomes
+less important. Its great periods may thus be summed up, 1107 to 1206
+Warelwast and Marshall built the Norman church; 1257 to 1280 Bronscombe
+and Quivil began the Decorated work; 1292 to 1308 Bytton and Stapledon
+completed the eastern part; 1327 to 1369 Grandisson and Brantyngham
+completed the nave, west front, and cloister. The fifth and last change
+is the introduction of Perpendicular work, chiefly noticeable in the
+chapter house, the west screen, and the great east window. The day of
+the great builders was waning fast. The old faith that inspired them was
+dwindling, the attraction of national concerns was too great for local
+effort. Moreover, the desire to make intricately beautiful, right enough
+in itself, had vitiated, as it was bound to do, the taste of architect
+and builder. The old Norman cathedrals, however rugged, were imposing in
+their stern and simple strength. The desire for decoration affected
+various transformations, which at first left the building more beautiful
+and not less strong. But gradually the simplicity and strength disappear
+altogether. Luckily, as we shall see, the great church of St. Mary and
+St. Peter has suffered less than most buildings that have undergone so
+many changes. "As it is, the church of Exeter is a remarkable case of
+one general design being carried out through more than a hundred years."
+The church is Quivil's design, and the variations, though important, do
+not seriously detract from it.
+
+The events of the next five hundred years belong more to the history of
+the see, and even of England, than to the church. In the election of
+George Neville (1458) we notice the immense value put on noble birth.
+Only one other reason can be alleged as weighing with those responsible
+for the choice. And this reason is so ridiculous as to be almost
+incredible. None the less it had, doubtless, a good deal to do with
+Neville's election to the bishopric. He was not only a brother to the
+great Earl of Warwick, but he early showed his intention of keeping up
+the almost kingly traditions of his family. Here is an account of the
+festivities that took place at Oxford after he had performed "his
+exercises in the nave of St. Mary's Church, as the custom now is, and
+before was, for nobleman's sons." "Such entertainment was given for two
+days space that the memory of man being not now able to produce, I have
+thought it worth my pains to remember. On the first day therefore were
+600 messes of meat, and on the second 300 for the entertainment only of
+scholars and certain of the Proceeders, relations and acquaintances." A
+later Oxford historian asserts that Neville was elected chancellor the
+very next year "by an appreciative university!" It is not at all
+unlikely, therefore, that this display of hospitality had something to
+do with his being chosen bishop, as a fitting successor to the office
+once filled by Grandisson. For four years after his election he was
+unable, owing to his youth, to be consecrated. But by one of those
+ecclesiastical scandals, which seem not to have annoyed or astonished
+his contemporaries, he was permitted to enjoy the temporalities of the
+see. At the age of twenty-seven he was fully ordained bishop, and a few
+years later was transferred to York. During the episcopate of his
+successor, Bothe, the city was besieged by Perkin Warbeck. In 1495
+Oliver King, who was elected in 1492, was translated to the see of Bath
+and Wells, and to him is due the rebuilding of the abbey church of Bath
+which was then ruinous.
+
+From 1504 to 1519 Oldham, a Lancashire man, was bishop. He built the
+Oldham and Speke chapels.
+
+Veysey, who succeeded him, lived during the reign of Henry VIII. His
+courtly manners made him popular. In addition to his rich ecclesiastical
+office, he became Lord President of Wales and tutor to the Princess
+Mary. He founded the town of Sutton Coleshill, now Sutton Coldfield, and
+introduced there the making of kersies. On this enterprise he spent the
+larger part of his fortune. At the accession of Edward VI. he was left
+undisturbed, though suspected of favouring the old religion. But when a
+rising in favour of the unreformed church disturbed the western
+counties, he was accused of participation in the movement, and resigned
+his charge. But he retained the temporalities, and on Mary's accession
+was reinstated. But he was nearly 103 years old, and soon after died at
+his town of Sutton Coleshill in 1555.
+
+Miles Coverdale, the translator, with Tyndale, of the Bible, his
+successor, was bishop for only two years. He was unpopular, although his
+life was "most godly" and virtuous. But "the common people," says Hoker,
+"whose bottles would receive no new wine, could not brook or digest him,
+for no other cause but because he was a preacher of the Gospel, an enemy
+to Papistry, and a married man." This dislike is easily accounted for.
+Exeter was very far from London, the new ideas travelled slowly, and the
+west was staunchly conservative. As with many reformers, too, his zeal
+was spoilt by indiscretion; the sternness of the Puritan militated
+against his success, and people preferred the old errors more becomingly
+supported. His successor, Turberville, was a man quite after the heart
+of the people, and he won praise from Protestant and Catholic alike.
+
+He was succeeded by William Alleyn, and as a result of Veysey's
+extravagance and Henry's greed it may be noticed that, by royal charter,
+the number of canons was limited to nine.
+
+In 1627 the see was held by Joseph Hall, a man of great distinction.
+Though too conciliatory to care greatly for Laud's policy, he wrote a
+justly famous "Defence of the Church of England and her doctrines."
+After his translation to Norwich he underwent a good deal of
+persecution, which he himself has recorded, and was for six months a
+prisoner in the Tower. He is buried in Higham parish church, his
+monument a skeleton holding "in the right hand a bond to death sealed
+and signed, 'Debemus morti nos nostrique,' and in his left the same bond
+torn and cancelled, with the endorsement 'Persolvit et quietus est.'"
+Fuller says of the famous satirist that he was "not unhappy at
+controversies, more happy at comments, very good in his characters,
+better in his sermons, best of all in his meditations."
+
+John Gauden, who became bishop in 1660, was far more fortunate, though
+probably not more happy. He does not seem to have been over scrupulous,
+and his desire for "a good manger" is unpleasantly obvious. But as the
+author of the [Greek: EIKÔN BASILIKÊ] he is remembered. The authorship
+has been disputed, but Charles II. certainly recognized his claim, and
+Clarendon believed his assertions about it. He was clever enough to have
+written even a better book, and there is no sufficient ground for
+depriving him of this honour. It is certain that he owed his preferment
+to his reputed merit as its author; though, oddly enough, he had taken
+the covenant and preached a notorious sermon against "pictures, images,
+and other superstitions of popery." But he publicly recanted, later, and
+protested against the murder of the king, whose supposed last prayers
+and meditations he was skilfully inventing. After being in Exeter two
+years he was removed to Worcester. But he had looked to become bishop of
+Winchester, and it is said that his death was hastened by
+disappointment.
+
+Seth Ward, who followed him, had, as dean of Exeter, distinguished
+himself by his zeal and courage. He drove from the cathedral precincts
+the buyers and sellers who had encroached thereon, and the partition
+wall that divided the cathedral was taken down at his request. During
+the Commonwealth "the building which was now formally called 'the late
+cathedral church' was divided by a brick wall into two places of
+worship, known as East Peter's and West Peter's." The east portion was
+used by the Independents and the west by Presbyterians. Ward spent
+£20,000 on redeeming the cathedral from the degradation it had suffered,
+and bought an organ, "esteemed the best in England," which cost him
+£2,000. He was translated to Salisbury in 1667. He was a man of
+considerable ability and was a founder of the Royal Society.
+
+Sparrow succeeded to the see in 1667. During his episcopate the Grand
+Duke Cosmo visited Exeter and wondered at the worthy bishop, his wife,
+and his nine children. The Duke of Tuscany was spoken of in the local
+reports as the Duke of Tuskey, and he received from the corporation a
+gift of "£20, or thereabouts." Sparrow, on his translation to Norwich,
+was succeeded by Lamplugh, whose political acumen, at any rate, compels
+admiration, if not respect. He fervently bade his flock rally round the
+unfortunate James II, and then, posting to London, was rewarded by the
+grateful king with the archbishopric of York. He then without any
+compunction crowned William of Orange, King of England. But his
+smartness availed little, "for within three years continuance of that
+high throne of York he was summoned before an higher." Macaulay has
+finely described the entrance of the prince into the cathedral. "As he
+passed under the gorgeous screen, that renowned organ, scarcely
+surpassed by any of those which are the boast of his native Holland,
+gave out a peal of triumph. He mounted the bishop's seat, a stately
+throne, rich with the carving of the fifteenth century. Burnet stood
+below, and a crowd of warriors and nobles appeared on the right hand and
+on the left. The singers robed in white sang the 'Te Deum.' When the
+chaunt was over Burnet read the Prince's declaration; but as soon as the
+first words were uttered, prebendaries and singers crowded in all haste
+out of the choir. At the close, Burnet, in a loud voice, cried, 'God
+save the Prince of Orange,' and many fervent voices answered 'Amen.'"
+This is certainly the most remarkable, as it is also the last, of the
+great historical events that have happened under the shadow of the
+cathedral walls. There had been nothing to compare with it since the day
+when Grandisson with his armed retainers met Mepham at the close gate
+three hundred years before. Offspring Blackall is the last bishop we
+need mention. He was a famous preacher, and worked hard for the comfort
+and education of the indigent classes. To him Exeter owes her charity
+schools.
+
+Of the remaining bishops there is nothing of moment to record.
+
+It has seemed wiser in this brief sketch to devote a paragraph to each
+of those bishops who either architecturally or historically made their
+episcopates events of national importance. The early bishops,
+especially, busied themselves exceedingly in making beautiful their
+principal church. It is by knowing something of their lives and times
+that one can best appreciate their labours, and trace with intelligent
+interest the causes of the splendid result to be studied minutely in the
+remaining chapters of this book.
+
+Moreover, all lovers of the great in art, all who love what is
+beautiful, as all may with a little trouble, will not be sorry to have
+even a passing acquaintance with those who have wrought so nobly. And
+this short notice of the most famous of the bishops of Exeter proves
+that they were for the most part chosen, not for their lineage, however
+splendid, nor the favour they had gained as gracious courtiers, but for
+their excellent lives, their plain living and high thinking, their taste
+and learning, and for qualities which, if rarer now, were not common
+even hundreds of years ago.
+
+
+
+
+THE FABRIC OF THE CATHEDRAL.
+
+THE EXTERIOR.
+
+
+Before examining the various details, it may be well to recall the
+following facts, which have already been referred to. First, the
+cathedral was Saxon and remained so for nearly seventy years; then came
+a Norman bishop who pulled down the existing building and replaced it by
+the foundations and towers of a finer one. For ninety-nine years,
+sometimes languishingly, sometimes vigorously, the work continued: so
+that by the end of Marshall's episcopate (1206) Warelwast's noble
+ambition was realized. Between this date and 1280 the church was
+scarcely touched, but a chapter house was built by Bishop Bruere "to God
+and the Church of St. Mary and St. Peter, a sufficient area to make a
+Chapter House in our garden near the Tower of St. John." A third style,
+Early English, was then introduced, to be followed by the almost
+complete transformation of the entire building into the Decorated style.
+Following on this we get some examples of Perpendicular work. Now, this
+series of changes is noticeable in itself, and remarkable because it has
+not affected the building in a way that might have been expected. The
+first impression, indeed, that a view of the exterior gives one, is that
+it is the result of one design, which is largely the case. It is only on
+closer inspection that the remnants of the pre-decorated periods are
+visible. "The Church," as Professor Freeman neatly puts it, "grew up
+after one general pattern, but with a certain advance in detail as the
+work went westward."
+
+The second thing that strikes the visitor is that he has never seen a
+church quite like it. "It forms a class by itself, and can be compared
+with nothing save its own miniature at Ottery."
+
+Putting aside the Saxon cathedral of Leofric it is possible to trace
+four distinct styles in what has been wisely called "the noblest
+monument of religious zeal of our forefathers in the west of England."
+But in discovering these the feeling of wonder increases as the building
+is found to be not a mere jumble but a complete whole. Though it is
+possible to date the separate parts of the edifice, and recognize the
+varying forms of workmanship, the architects laboured with so clear an
+understanding of a beautiful result to be attained, that there is no
+appearance of patchwork.
+
+The best views of the building are those to be got from a distance. In
+some ways this is not without compensation; for the cathedral church
+was, and is, not only splendid as a building, but the centre of the
+spiritual life of the diocese. It is, therefore, appropriate that it
+should seem most beautiful to the dwellers in the villages and hamlets
+beyond the city, giving them, as it were, a kind of property in the
+building, which they might not have felt had it been less visible.
+Nearing Exeter by train, from the Plymouth side, the noble roof and
+towers are seen above the red houses of the city. The site, indeed, was
+well chosen. Below the hill on which the city stands are gardens gay
+with flowers and fair apple orchards. Above, there is a blue sky richer
+and deeper than is usual in England. On all sides but one stretches the
+beautiful Devonshire country, meadow, hedgerow, and wooded hill. On that
+side the Exe flows rapidly, broadening as it goes, towards the sea.
+Southward but a few miles, the blue channel waters creep up against the
+yellow sand dunes. No cathedral, not even Lincoln, boasts a more lovely
+and appropriate position. "In the minds of all early Christians," says
+Mr. Ruskin, "the church itself was most frequently symbolized under the
+image of a ship," There is no country so saturated with traditions of
+the sea as Cornwall and Devon. "Exe terra"--out of the earth--is
+sometimes declared to be the derivation of the name Exeter. Maybe this
+was only the grateful jest of some seaman who found himself, after the
+winter storms, gliding up the quiet river with the city walls rising up
+before him. Yet the remembrance of such western heroes as Raleigh and
+Drake, who bade their followers sit well in order, and strike--
+
+    "The sounding furrows, for my purpose holds
+    To sail beyond the sunset and the baths
+    Of all the Western stars until I die,"[2]
+
+makes one realize how fit it is that the towers of the cathedral should
+look across the country to the "deep waters," and be to the mariner as
+the masts of a vessel whereon was safety, however fierce the storm.
+
+    [2] Tennyson's "Ulysses."
+
+[Illustration: EXETER CATHEDRAL, FROM AN ENGRAVING BY DANIEL KING,
+               c. 1650.]
+
+[Illustration: THE CATHEDRAL--FROM THE SOUTH-EAST.
+               The Photochrom. Co. Photo.]
+
+From many parts of the surrounding country fine views may be obtained,
+from Waddlesdown, Alphington Causeway, and many a canal and river bank.
+
+A closer view may seem at first disappointing. Every writer has echoed
+Dr. Oliver's regret that it should be surrounded "by dwelling-houses of
+such disparate character." But even a nearer survey is, with patience,
+rewarded. The towers, exquisitely traceried windows, sculptured
+doorways, and magnificent roof, easily persuade us to forget its mean
+surroundings.
+
+#The Towers.#--To many these will be the most interesting portion of the
+building. The exterior of no other cathedral boasts so unusual a
+feature. Their position is extraordinary and has given rise to endless
+controversies. It has been suggested that they were meant to stand as
+western towers, and that the building was to stand east of them, and
+that, as an afterthought, they were converted into transepts. But Canon
+Freeman, in his history,[3] dismisses this view as merely attractive.
+They would certainly be more elaborate, he thinks, if they had been
+built as western towers, but they have neither portal nor ornamental
+work. Indeed, up to more than half their height they have very much the
+appearance of fortresses. It may well be that they served as such in
+Stephen's time, for the northern one was severely battered. It differs
+somewhat in detail from that on the south side, there being an
+interlacing arcade half-way up, possibly being so rebuilt when the
+devastation caused by the siege was being repaired. There are six stages
+on each tower, but only the uppermost four are in any way ornamented.
+These have blind arcades and window openings of circular form; but the
+details differ slightly on each. The turrets at the angles of the
+summits, and the battlements were added in the fifteenth century, but
+the effect is not inharmonious, and the original details are well
+preserved. According to an old seventeenth-century print, the north
+tower formerly had an attic with a pyramidal roof. This was probably an
+addition when the great bell was first hung (see p. 74). The effect of
+these transeptal towers is so fine as to make us regret their rarity. A
+case in which they were obviously imitated is to be seen in the fine
+parish church of Ottery S. Mary, Devon. There are also most practical
+reasons in their favour, and a consideration of them tends to increase
+one's wonder that they should not be found more frequently. In the first
+place it is possible to get a continuous, uniform, stretch of vault, the
+roof being broken by no central tower. Also the plan is simplified, and
+nave and choir have more architectural continuity. Again, by building
+transeptal towers and discarding the usual central tower, the interior
+escapes a danger it is often hard to overcome, the difficulty of holding
+up the central tower. It is quite possible that Warelwast was far-seeing
+enough to anticipate this trouble. The histories of other cathedrals
+prove it to be a very real one. In 1107 the tower of Winchester fell in.
+At Salisbury the spire is still a constant source of anxiety, despite "a
+complex arrangement of iron bands and ties," which has been reinforced
+more than once. The tower of Chichester collapsed in 1861. There is a
+legend of the fall of a central tower at Christchurch Priory, and other
+warnings could be cited, such as Hereford, Selby, Peterborough, and
+Wells.
+
+    [3] "Architectural History of Exeter Cathedral," by Philip
+        Freeman, Archdeacon and Canon of Exeter (Bell), 1888.
+
+Originally these two towers were cut off, by two arches underneath, from
+the body of the church. But Quivil, wishing to enlarge the interior, did
+so by "throwing the Tower spaces into it."
+
+#The Roof# is one of the most striking features of the building,
+especially as it is seen from a distance. The long line of the ridge of
+nave and choir, unbroken by a central tower, give it a unique
+distinction amongst English cathedrals. The delicate cresting of
+fleurs-de-lis, and the pinnacles which crown the supporting buttresses
+obviate any impression of heaviness, and together with the long series
+of clerestory windows, alike in form yet differing in their admirable
+tracery, give a singular impression of beauty.
+
+#The North Porch.#--This was the northern entrance of the Norman church,
+and from the outside it is possible to trace the line where the
+fifteenth-century front was added to the old structure. It is decorated
+with seven canopied niches in the style of that period. These, however,
+remained vacant until 1920, when they were filled with statues, by Mr.
+H. Read of Exeter, representing the patron saints of England and the
+Allies: St. George, St. Denys, St. Joseph; SS. Cyril and Methodius; St.
+Vladimir, and St. Ambrose. The roof is vaulted, and on the central boss
+is a finely-carved Agnus Dei. Within a recess of the eastern wall are
+three headless figures, representing, in the centre, the Crucifixion,
+St. Mary and St. John standing on either side. Over the inside doorway
+is a niche that probably once held a figure of the Virgin.
+
+[Illustration: THE NORTHERN TOWER.
+               The Photochrom Co. Photo.]
+
+[Illustration: EXETER CATHEDRAL--THE WEST FRONT.
+               The Photochrom Co. Photo.]
+
+#The West Front# is one of the features which gives a peculiar character
+to this cathedral. In the wealth of imagery on the projecting screen
+which forms the lowest stage of the front it is second only to Wells
+amongst English cathedrals. The actual west wall of the church is the
+work of Bishop Grandisson, who formed on the south side of the central
+doorway the small chapel of St. Radegunde as a burial place for himself.
+The greater part of the end wall of the nave is filled by a large window
+with remarkably beautiful tracery in its head. The date must be about
+1350. Above this is a battlemented parapet sloped at each end to follow
+the lines of the aisle-roofs. Above this parapet appears the gable of
+the main roof in which is inserted a triangular window, with elegant
+tracery, lighting the space between the vault and outer roof. At the
+apex of the gable is a niche containing a small statue of St. Peter.
+
+The screen, which forms the lowest stage of this front, must have been
+finished in Brantyngham's time, though it seems probable that it was
+designed if not begun by Grandisson. It contains eighty-eight figures,
+in three rows, representing angels, warriors, kings, and saints. Their
+costume and armour are characteristic of the fashions of Richard II.'s
+reign. The lowest row consists of angelic figures each sustaining a
+triple pilaster with capitals. On these capitals stand the statues of
+the second row, a long line of knights and kings, above which are the
+angels and apostles of the third row. Above the third row stand two
+figures, said to represent Athelstan and Edward the Confessor. The
+former once drove out the Britons from the city; the latter, as we know,
+founded the bishopric.
+
+This group of statues has been the subject of a monograph by Miss E.K.
+Prideaux, who shows that the intention was to symbolize the Heavenly
+Jerusalem, where angels, saints, and monarchs unite to honour the
+enthroned Saviour and His Blessed Mother, who, as representative of the
+Church Triumphant, is being crowned by her Son. The Coronation of the
+Virgin was depicted in the central group immediately over the great
+doorway, the figures being those of St. Peter, Our Lady, Our Lord, and
+St. Paul. At some unknown date the statue of the Virgin was destroyed,
+and a figure intended to represent Richard II was substituted in 1818.
+Two other figures, assigned to James the Less and King William I, are
+modern reproductions by Alfred Stevens; some new heads were also added.
+Many circumstances have combined with the action of time to injure these
+sculptures: but the general effect is rich if somewhat heavy. Above the
+screen is a platform, from which the bishop probably blessed the people,
+and the minstrels welcomed with song the approach of royal or
+illustrious visitors.
+
+The three doorways in the screen are worthy of notice, being richly
+decorated. That on the south side is the most beautiful, and contains
+two fine pieces of sculpture, one generally declared to be an angel
+appearing to Joseph in a dream, the other certainly recording the
+Adoration of the Shepherds. The central porch is decorated with
+sculptured foliage, and the Crucifixion is exhibited on the central boss
+of the groined roof tracery.
+
+[Illustration: PORTALS OF WEST FRONT.
+               The Photochrom Co. Photo.]
+
+[Illustration: THE NAVE, FROM THE SOUTH TRANSEPT
+               (FROM BRITTON'S 'EXETER,' 1826).]
+
+
+
+
+THE FABRIC OF THE CATHEDRAL.
+
+THE INTERIOR.
+
+
+Fine as is the exterior, the interior of the building is quite as
+beautiful. Restoration of an unusually careful and discreet style has
+done much to revive the deteriorated splendours of the place. Sixty
+years ago the nave was filled with hideous and cumbersome pews, and such
+work as had been done towards keeping the place in repair was in the
+worst possible taste. But a change has been wrought of the happiest kind
+in recent years, so that no cathedral in the country can boast a more
+admirable interior.
+
+It has been the custom to deplore the lack of elevation, and its lowness
+has compelled comparisons with the cathedrals of France. But this
+objection is, surely, rather trivial. For though the long vaulted roof,
+uninterrupted the whole length of the building, might tend to take away
+from the appearance of height, the work on the roof itself, the delicate
+ornaments on capitals and windows, do much to atone for this effect. To
+the ordinary visitor, it may safely be asserted, lack of height will
+only be obvious when pointed out to him.
+
+#The Nave.#--Little of the Norman masonry is now to be seen, yet it is
+clear that when Marshall completed Warelwast's design he found the nave
+finished. To quote Canon Freeman, whose book, too technical for the
+general public, is of incalculable value to the student: "On the
+interior face of both north and south walls of the nave aisles,
+disturbances of masonry occurring at regular intervals indicate the
+position of a series of Norman pilasters, the base of one of them having
+recently been found _in situ_ beneath the stone seat. Outside, and
+corresponding to the position of each several pilaster, may be observed
+either flat buttresses of Norman form and masonry, or else traces of
+their removal. These remains, linking together the obviously Norman
+towers and the massive west wall, point to the conclusion that the
+Norman cathedral, as Marshall found it, included the entire nave."
+
+When the changes began, the Fabric Rolls, if they "do not entirely
+desert us," give us but meagre help, so that the exact date and cost of
+each detail is only to be guessed at. Stapledon probably intended, as
+early as 1325, to begin the work of recasting the nave. In that year he
+made purchases of "15 great poplar trees bought for scaffolds, and 100
+alder trees." Further entries tell us of seven and eightpence worth of
+timber "bought by the Bishop at London," and "48 great trees from
+Langford." The work hitherto attempted by Stapledon did not demand an
+outlay of this kind; so, though Grandisson gets the honour of having
+finished the nave, something is due to Stapledon for having given the
+initiative. The large balances of the preceding nine years had left a
+great sum of money in the latter's hands, and a donation of Stapledon's
+further increased that balance by the substantial sum of £600. In
+January, 1333, is a record of William Canon's bill for marble he had
+been commissioned to furnish. He had agreed to supply the Purbeck
+pillars for the nave, receiving £10 16s. for eleven large columns, and
+5s. a-piece for bases and capitals. This is one of the most interesting
+items we have of the building and cost of the cathedral, and occurs
+fortunately at a time when such information is unusually scanty. In
+addition to the above-mentioned Purbeck marble, stone from the quarries
+of Caen in Normandy, and other places nearer home, was procured in large
+quantities. In 1338 the bishop gave permission to the Dean and Chapter
+to obtain from his agents at Chudleigh "twelve suitable oaks from his
+wood there." About 1350 the building of the nave was completed. It was
+extensively restored in recent years under the guidance of Sir Gilbert
+Scott. The Purbeck columns had fallen into a most dilapidated state, and
+were carefully repaired, the material used being obtained from those
+spots which had supplied the original builders.
+
+The view of the nave as one enters the west door is most impressive. Its
+full height of seventy feet is not dwarfed by the unhindered stretch of
+roof. The groined and ribbed roof itself is of marvellous beauty and
+springs from slender vaulting shafts, of which the bosses are
+exquisitely carved with a strange mixture of religious and legendary
+figures, foliage and animals. The artists seem to have ransacked the
+whole universe for subjects, and to have interpreted their ideas with
+great cunning. The corbels that support the vaulting shafts are equally
+elaborately carved.
+
+[Illustration: THE NAVE, LOOKING WEST.
+               The Photochrom Co. Photo.]
+
+[Illustration: CORBELS AND BOSSES (FROM BRITTON'S 'EXETER,' 1826).
+
+               (2) Virgin and Child. (3) Minstrel and tumbler. (4)
+               Coronation of the Virgin. (5) Murder of S. Thomas
+               (Becket), from Nave. (6) From Lady Chapel. (7) From
+               Choir. (8) and (11) Heads popularly identified with
+               Edward III and Q. Philippa. (10) The Virgin and her
+               Coronation. (See Prideaux and Shafto, "Bosses and
+               Corbels of Exeter Cathedral.")]
+
+They consist of figures and foliage, and the variety of subjects chosen
+is no less surprising than the skill the artists have shown in the
+realization of their ideas. Whether they are peculiar to Exeter or not,
+it may be safely said that one could not easily find their equals either
+in design or execution. The subjects treated are too numerous for
+detailed treatment in this place, but the carving of vines and acorns
+and oakleaves will be readily admired.
+
+[Illustration: THE MINSTRELS' GALLERY.
+               The Photochrom Co. Photo.]
+
+The nave has seven bays, and the arcades are supported by clustered
+pillars of Purbeck marble, showing various tints of blue and grey. There
+are sixteen shafts in each pier corresponding with the eight subordinate
+mouldings in each pair of arches, and the diagonal position of each
+cluster adds much to its graceful appearance. In the retro-choir there
+are earlier examples of this kind of pier, showing how the builders
+experimented with the grouping of the shafts before they attained the
+perfect proportions of the pillars in the nave and choir. It seems that
+they utilized the Norman pillars as the central core round which to
+group the Purbeck shafts. The triforium, in groups of four arches, is
+unusually low, and rests on small clustered columns, broken in one place
+only on the north side to make way for the Minstrels' Gallery.
+
+#The Minstrels' Gallery.#--This is the most beautiful gallery of its
+kind to be found in England, its twelve decorated niches containing
+figures of musicians. The musical instruments represented include the
+cittern, bagpipe, hautboy, crowth, harp, trumpet, organ, guitar,
+tambour, and cymbals, with two others which are uncertain. The tinted
+figures of the angels, standing out against an orange-coloured
+background--each in a separate niche with an elaborately carved
+canopy--playing upon the various instruments, are admirably carved and
+most graceful in form and arrangement. The two niches on either side of
+the gallery contained figures of St. Mary and St. Peter; the niches are
+supported by corbelled heads of Edward III and Queen Philippa. Edward
+III created the Black Prince Duke of Cornwall in 1337, and made the city
+of Exeter part of the duchy. "The city," according to Izacke, "being
+held of the said duke, as parcel of the dutchy, by the fee farm rent of
+twenty pounds per ann." To this connexion has been traced the erection
+of the gallery, for such duchies "were territorial realities," and the
+prince would be received by minstrels chaunting in the gallery whenever
+he paid a visit to his feudal dependency. It is asserted that it was
+first used after the battle of Poictiers, when the Black Prince brought
+with him to England, visiting Exeter _en route_ for London, the captured
+French King. But Professor Freeman thinks the Duke did not pay a visit
+to Exeter at that time, and that local tradition refers really to a
+later date when "he came home as a sick man" not long before his death.
+
+The lofty character of the clerestory above the gallery, and set
+somewhat farther back, is remarkable. The tracery of all the windows is
+of the best type of the fourteenth century and is unrivalled by that of
+any other English cathedral of similar date. In their main features the
+opposite windows are alike, though they vary in detail.
+
+[Illustration: BAYS OF NAVE, WITH THE MINSTRELS' GALLERY
+               (FROM BRITTON'S 'EXETER,' 1826).]
+
+[Illustration: THE 'PATTESON' PULPIT.
+               The Photochrom Co. Photo.]
+
+#St. Radegunde's Chapel.#--On the south side of the main entrance and
+within the thickness of the western wall is the chapel of St. Radegunde,
+one of the most interesting in the cathedral. As early as 1220 a deed
+belonging to the Chapter makes mention of this chapel "within St.
+Peter's cemetery," and is dated in the mayoralty of one Turbest and
+attested by the then bishop, Simon de Apuliâ. Grandisson, in accordance
+with the custom of his day, while completing the work of transforming
+the cathedral, looked out for a suitable place of burial for himself. He
+chose this chapel, and in 1350 the Fabric Rolls contain a reference to
+the glazing of the windows and the better securing of them with nine
+bars of iron. In accordance with a clause in his will, "Corpus vero meum
+volo quod sepeliatur extra ostium occidentale Ecclesiae Exon. ita
+celeriter sicut fieri poterit," his remains were placed under the low
+arch in the east of the chapel. Here they lay for many years, but in the
+later years of Elizabeth, apparently without creating any public
+indignation, his tomb was rifled and his ashes scattered to the "four
+winds." There seems to be no good reason why religious fanaticism should
+have caused the tomb of so great and good a man to be despoiled. Two
+interesting details are the carved figure of Christ on the roof and the
+holes in the stones from which the lamps were formerly hung.
+
+#St. Edmund's Chapel#, in the north-west corner of the nave, was part of
+the Norman church, and was incorporated in his new work by Bishop
+Grandisson. In it is a large font of modern Gothic style, presented in
+the nineteenth century by Archdeacon Bartholomew.
+
+#The Font.#--At the south-west side of the nave stands the
+chalice-shaped font of white marble, purposely made in 1644 for the
+baptism of Henrietta Anne, youngest child of Charles I, afterwards
+Duchess of Orleans, who was born in Exeter during the Parliamentary
+wars. The font is said to have been made in a fortnight, which may
+account for the inferior character of the sculpture. But if not of
+artistic merit, it is certainly of historic interest, and after being
+set aside for some years, was replaced in its present position in 1891,
+and is now always used for baptisms.
+
+#The Patteson Pulpit# was placed in the nave in 1877. It is of Mansfield
+stone, and is a beautiful example of modern sculpture. The panels
+represent the Martyrdom of St. Alban, the embarkation of St. Boniface
+and his companions for Germany, and the natives of Nukapu, Melanesia,
+placing the body of Bishop Patteson in a canoe. The Martyred Bishop is
+shown wrapped in a native mat, a relic still preserved in his family.
+
+
+MONUMENTS IN THE NAVE
+
+The great west window was filled with stained glass in 1904 in
+commemoration of Dr. Temple, Bishop of Exeter 1869, of London 1885, and
+in 1896 Archbishop of Canterbury. Figures in the lower lights represent
+the most notable Bishops of Exeter from Leofric to Frederick Temple.
+
+The monument under the west window commemorates services and losses of
+the 1st Battalion of the Duke of Cornwall's Light Infantry, which, as
+the 32nd Regiment, greatly distinguished itself during the Sepoy revolt
+in India in 1857-8.
+
+On the north-west is a mural tablet with medallion portrait
+commemorating Richard Blackmore, the author of _Lorna Doone_, 1825-1900.
+The three lights of the small window above are filled with stained glass
+in connexion with this memorial. The corresponding window on the south
+side was filled with stained glass by Dean Cowie.
+
+The largest monument in the north aisle is that to the memory of
+officers and men of the 9th Lancers who fell during long and
+distinguished service in India.
+
+Farther on is a large brass, of no particular merit, to the memory of
+the men of the 2nd Battalion of the North Devon Regiment who fell in the
+Afghan War of 1880-81. It is surmounted by two regimental flags.
+
+Above a mural tablet to Lieutenant G.A. Allen is a window of stained
+glass erected to the memory of the 11th Earl of Devon. The colour scheme
+is particularly good, and the design, representing Jacob's dream, is not
+unsuccessful.
+
+A plain tablet to the memory of Samuel Sebastian Wesley, the famous
+musician, is the only other monument in the aisle of general interest.
+
+In the same aisle have recently been placed the colours of those
+battalions of the Devons who served in the great European War, 1914-18.
+
+To complete the examination of the nave we must cross to the south
+aisle, in the first bay of which is the ancient doorway, probably built
+by Bishop Bruere, leading into the cloister. At the end of the aisle is
+the monument of Colonel John Macdonald, who died in 1831, a son of the
+celebrated Flora Macdonald. The most eastern window of the aisle is
+filled with stained glass representing four bishops of the Courtenay
+family. Peter Courtenay, Bishop of Exeter, will be recognized as he
+holds the great "Peter" bell, his gift to the cathedral, which hangs in
+the north tower. He is the bishop alluded to by Shakespeare (_Richard
+III._, Act iv, Sc. 4):
+
+                   "In Devonshire
+  Sir Edward Courtenay, and the haughty Prelate,
+  Bishop of Exeter, his elder brother,
+  With many more confederates are in arms."
+
+After the accession of Henry VII., he was translated to Winchester.
+
+[Illustration: THE NAVE, LOOKING EAST.
+               The Photochrom. Co. Photo.]
+
+Formerly there was a Courtenay chantry in the last bay of this aisle,
+corresponding with Bishop Brantyngham's chantry on the north side. These
+became ruinous and were removed early in the nineteenth century. The
+Courtenay tomb in the south transept is entirely a restoration. The
+effigies represent Sir Hugh Courtenay, 2nd Earl of Devon, and Margaret
+de Bohun, his wife. The great brass of their son, Sir Peter Courtenay,
+also formerly in the chantry, is now in the south choir aisle: it has
+been sadly injured by being trodden under foot for many hundred years,
+and is now protected by matting. He was standard bearer to Edward III.
+and Richard II., and one of the first Knights of the Garter.
+
+The centre window of the south nave aisle is filled with stained glass
+in memory of those of the Devon Regiment who served in the South African
+War, 1899-1901. The tablets with their names are in St. Edmund's Chapel.
+Their flags hang on either side of the window.
+
+The large brass tablet, though, like too many of the memorials in the
+nave, unnecessarily large and far from meritorious in design, is not
+without interest. It is to the memory of Major-General Howard
+Elphinstone, V.C., who was drowned off Ushant in 1890.
+
+Above a tablet of brass to Hugh, 2nd Earl of Devon, and his wife, is a
+window erected by Sir Edwin Watkin to the memory of Thomas Latimer. The
+small window to the left, erected by Dean Cowie in memory of his wife,
+should be noticed.
+
+#North Transept.#--We have already seen that the two great towers of the
+cathedral were in their nature transeptal from the beginning. But they
+were quite separated from the body of the church, the arches connecting
+them being filled in with strongly built masonry, forming a complete
+wall. But Quivil, wishing to enlarge the interior of the building, took
+down these walls, and he set about altering the arches and converting
+them into the same Decorated style to match this work in the rest of the
+building. He also altered and transformed the Norman chapels that
+projected on the east side of each transept. In the north transept one
+window and two narrow doorways still betray their Norman origin. The
+open galleries in each transept are connected by a passage with the
+clerestory. This, too, is Quivil's work, and his windows in the two
+chapels of St. John and St. Paul, easily distinguishable by their
+wheel-shape, are interesting.
+
+Here is Chantry's fine statue of the Devonshire artist Northcote, and a
+tablet to the memory of the men and officers of the 20th (Devon)
+Regiment who fell in the Crimea. Visitors will notice with interest a
+fairly successful mural painting representing the resurrection, the
+soldiers in armour being drawn with considerable spirit.
+
+#Sylke Chantry# is in the north transept. Sylke was a person of
+considerable importance in his day, and one who deserved and obtained no
+little honour from his contemporaries. He administered the affairs of
+the diocese as vicar-general during the absence of Bishop Courtenay, and
+also during that of Bishop Fox. In 1499 he was made precentor, and held
+that office till his death. The priests, grateful for the efforts he had
+made to further their comfort, decided to keep his obit. The abbot and
+convent of St. Mary of Cleeve, in Somersetshire, willing to show their
+sense of obligation to him and Canon Moore, gave yearly to the Dean and
+Chapter the sum of £6 13s. 4d. to be spent in celebrating their
+anniversary. Sylke's tomb represents a very ghostly figure with the
+epitaph, "Sum quod eris, fueram quod es, pro me, precor, ora." The
+chantry is in the style of the later Gothic, and is one of those "final
+touches" to the cathedral Archdeacon Freeman esteems so happily imparted
+to it. The ancient works of the thirteenth-century clock, upon the north
+wall, have been placed in this chantry, the machinery being in motion
+though it does not now work any part of the actual clock. The various
+parts are of different dates; the oldest wheel has been working more or
+less regularly for about 700 years. The dial represents the sun and moon
+revolving round the earth in the centre, the varying phases of the moon
+being indicated.
+
+#St. Paul's Chapel# is on the east side of the north transept.
+Attributed to the time of Marshall or his immediate predecessors. On the
+tiles are the arms of Henry III.'s brother, Richard of Cornwall, who was
+elected King of the Romans. It is used as a vestry for the lay choral
+vicars.
+
+#South Transept.#--Opening from the east wall is the #Chapel of St. John
+the Baptist#. It corresponds with that of St. Paul in the north
+transept. Some of the glass in the windows was placed there at the
+restoration of 1870. The screen dividing it from the transept is
+Oldham's work. The chapel is now furnished for private meditation and
+prayer.
+
+[Illustration: THE TRANSEPT, NORTH, SHOWING THE ORGAN AND CLOCK.
+               The Photochrom. Co. Photo.]
+
+#Chapel of the Holy Ghost.#--This, one of the most ancient parts of the
+cathedral, lies between the south tower and chapter house. It occupies
+the place of the passage known as the slype in monastic churches. The
+plain stone barrel roof should be noted. It is now used as the
+choristers' vestry.
+
+The south transept contains a very interesting collection of monuments.
+
+#Monuments in South Transept.#--On the east wall a shallow recess, in
+which are set some fragments of sculpture, is traditionally described as
+the tomb of Leofric, first Bishop of Exeter. Hoker thus tells the story:
+"This Leofricus died an. 1073, and was buried in the cemetery or
+churchyard of his own church, under a simple or broken marble stone;
+which place, by the since enlarging of his church is now within the
+South Tower of the same, where of late, anno 1568, a new monument was
+erected to the memory of so good, worthy & noble a personage, by the
+industry of the writer hereof but at the charges of the Dean & Chapter."
+
+In the corner at the south-east is the grave of Bishop John the
+Chaunter, who died in 1191. He was for thirty years precentor of the
+cathedral, and was consecrated bishop by Baldwin, Archbishop of
+Canterbury, "preacher and pilgrim of the Crusade," and a native of
+Exeter. Bishop John assisted at the coronation of Richard I. He held the
+see for six years.
+
+Sir Peter Carew, whose mural tablet is a conspicuous feature, was buried
+at Waterford in Ireland. He is one of the most distinguished members of
+an ancient western family. On the Whitsunday of 1549, the village of
+Samford Courtenay rose in revolt against the new prayer-book that Edward
+VI. had ordered to be used in the churches, and the whole diocese
+speedily followed the lead. The people swore that "they would keep the
+old and ancient religion as their forefathers before them had done." Sir
+Gawain Carew, Sir Peter Carew, and Sir Thomas Dennis, the sheriff, were
+busy in stemming the tide of rebellion. Efforts at compromise were
+useless. The people bitterly demanded the old religion, and called the
+new form of worship "a Christian game," while the Cornishmen declared
+that they, since "certain of us understand no English, utterly refuse
+the new English." Early in July the malcontents set siege to Exeter. The
+wealth of the civic dignitaries stimulated the besiegers, who summoned
+the city to surrender three times, vowing that "they would enter by
+force and take the spoil of it," were their demands refused. There was
+discontent and plotting within the walls, and food gave out. Many were
+eager to let in the rebels, and Hoker records that "but two days before
+the delivery of the city," the malcontents paraded the streets, crying
+out: "Come out these heretics and twopenny bookmen! Where be they! By
+God's wounds and blood we will not be pinned in to serve their turn: we
+will go out and have in our neighbours; they be honest good and godly
+men." But the principal citizens, though nurtured in the old faith, held
+out grimly for the king. The siege was raised by John, Lord Russell,
+whom Sir Peter had hastily summoned from Hinton St. George, in
+Somersetshire. Food was supplied to the city "by the special industry
+and travels of a thousand Welshmen under Sir William Herbert." Sir
+Peter, on his arrival in London, was threatened with hanging by the Lord
+Protector "as having caused the commotion by burning the barns at
+Crediton. He pleaded the king's letter under his hand and privy signet."
+But he escaped with difficulty, though he obtained from Lord Russell the
+lands of Winislacre as a reward. Later on he opposed Queen Mary's
+marriage with the King of Naples, and as Fuller puts it: "This active
+gentleman had much adoe to expedite himself, and save his life, being
+imprisoned for his compliance with Sir Thomas Wyate." He lived an
+active, reckless life to the last, closing his career by some "signal
+service" in Ireland. He was a brother of the Earl of Totnes. The
+handsome Elizabethan monument is to Sir John Gilbert, brother of the
+more famous Humphrey, and his wife, Elizabeth Chudleigh. He was one of
+the merchant adventurers and a half-brother of Raleigh. His relations
+with Exeter were very friendly, the merchants being keenly interested in
+maritime discoveries, for they hoped in far away Asia to get a new
+market for their cloth.
+
+Heroes of later days are not forgotten in this gallant company, and a
+tablet on the east wall commemorates the men of the 32nd Regiment
+(Cornwall Light Infantry) who fell in the Indian Mutiny. The colours of
+the regiment show the names of Waterloo and Lucknow.
+
+[Illustration: INTERIOR OF THE NAVE IN THE LAST CENTURY
+               (FROM A PRINT IN THE BRITISH MUSEUM).]
+
+#The Choir Screen.#--This is the work of Bishop Stapledon, and was
+probably completed about 1324. The Dean and Chapter anticipated the
+admiration which this screen would cause in after ages, and we read that
+they presented William Canon, the executor of the marble work, "£4, out
+of their courtesy." High above the screen, as we learn from the Fabric
+Rolls, the rood with Mary and John rested on an iron bar.
+
+[Illustration: CHOIR SCREEN, LOOKING N.E.
+               (FROM BRITTON'S 'EXETER,' 1826).]
+
+The paintings within the panels above the beautifully carved spandrils
+have little interest or merit, though it is thought that they date from
+the same period as the screen itself. It is difficult, however, to
+believe that they can be so old, or that such good and bad work could
+belong to the same period. James I. introduced into the foliage of the
+spandrils the rose and thistle; but this uncalled-for emendation was
+summarily removed in the year 1875. The side arches of the screen were
+at one period filled up with thick walls, and two strong doors barred
+the arch of entrance, but this was altered by the restorers in 1875.
+
+#The Organ# was originally built by John Loosemore about 1665. In its
+existing form it is an enlarged reconstruction by Messrs. Willis, the
+old instrument being incorporated in it as a choir-organ. The organ
+case, which was an elegant specimen of Renaissance woodwork, has also
+undergone alteration and renovation.
+
+#The Choir.#--If the chief glory with regard to the exterior of the
+cathedral remains undoubtedly with the designer and builder of the great
+towers, the choir, the work of Bytton and Stapledon, is no less
+certainly the supreme glory of the interior. The Norman choir reached no
+farther than the third bay, counting from the choir screen. Traces
+recently discovered seem to prove that it had an apsidal termination.
+Bishop Marshall, in completing Warelwast's work, added four bays and
+destroyed the triple apse. It is also possible that, as the transition
+period to Early English was in its birth, some of the vaulting was
+pointed. Bytton converted the choir as left by Marshall into the
+Decorated style, inspired to the work by the success which had attended
+Quivil's efforts in the easternmost bay of the nave. The whole work--the
+transformation of the choir with its aisles--took about fifteen years to
+complete, the speed and skill with which it was accomplished being due
+to the fact that the task was not entirely in the hands of one body of
+labourers. It seems to have been divided into two portions, at which the
+builders worked simultaneously. Admirable as Quivil's work in the nave
+had been, that of Bytton in the choir is an improvement. Doubtless he
+had learnt something from the difficulties his predecessor encountered,
+and knew how to avoid them. At any rate, he pushed forward the work with
+great vigour and boldness. He formed his pillars of horizontal sections
+of Purbeck marble from nine to fifteen inches thick: five boutelles on
+each side presenting "the appearance of twenty-five shafts bound in
+one." In the pavement of the choir more than ten thousand tiles were
+used. For the vaulting of the choir, also his work, though the honour
+due to him has till lately been denied, he procured quantities of
+Portland stone. Material for bases and capitals was imported also from
+Portland: the entry in the Fabric Rolls runs: "For the purchase of 18
+great blocks of stone at Portland for the keys or bosses, together with
+60 bases and capitals, including carriage by sea £4 16 8." The colouring
+of the keystones was due to Stapledon in the first year of his
+episcopate.
+
+[Illustration: THE CHOIR, LOOKING WEST.
+               The Photochrom. Co. Photo.]
+
+[Illustration: THE CHOIR BEFORE RESTORATION
+               (FROM AN ENGRAVING AFTER CHARLES WILD).]
+
+Between 1870 and 1875 the choir underwent very extensive repairs. For
+the most part they were successful, and if in particular instances
+objection may be taken, it would be hyper-criticism to detract from
+their value. Wherever possible, the stone was taken from the quarries
+used by the first builders. The Purbeck marbles especially had severely
+suffered, and the mouldings and bases ruthlessly destroyed for the
+better accommodation of the wainscoting to the stalls; moreover, the
+differences in the nature of the stone were rendered null by a hideous
+yellow wash with which they had been lavishly besprinkled. During the
+restoration the corbels and roof-bosses were cleaned and carefully
+repaired. These, though of the same character as those in the nave, are
+both richer and more varied in design and more skilfully carved.
+
+#The Choir Stalls.#--The stalls are entirely modern, and the work of Sir
+Gilbert Scott. Originally, no doubt, they were similar in style to the
+bishop's throne, one of the most admirable of Stapledon's additions to
+the cathedral. They were probably surmounted with canopies, with an open
+arcade of stone behind them. The modern designer has so constructed his
+stalls as to bear out this idea, since as far as possible they are meant
+to replace the earlier ones. The misericords of Bishop Bruere have been
+placed beneath the seats. These misericords have not their equal in
+England. They are richly carved, representing foliage, wild beasts, an
+elephant, men fighting, others playing musical instruments, and
+legendary monsters. The introduction of an elephant proves that these
+misericords were not completed until after Bruere's death in 1244; the
+elephant having been first brought into England in 1255. There is also a
+representation of a knight in a swan-boat, showing that the legend of
+Lohengrin was known in England.
+
+#The Reredos.#--This, too, is modern work, and most successfully has
+Earp carried out the designs of Sir Gilbert Scott. It is of alabaster,
+inlaid with agate, carnelian, and jasper. In the centre of the three
+compartments into which it is divided is the Ascension, the other two
+groups representing the Descent of the Holy Ghost and the
+Transfiguration. As the work has met with considerable opposition, it is
+well to remember Archdeacon Freeman's words, he having the best of all
+rights to speak. "With its delicate canopies of alabaster, and
+sculptures wrought in bold relief, its inlay of choice marbles, its
+redundance of costly stones, and its attendant angel figures, it
+enshrines a multitude of ideas well harmonizing with its place and
+purpose." The ancient altar of Stapledon's has long since disappeared.
+This was mostly of silver, the mensa only being of marble. In the
+monument of Leofric, erected by Hoker, the historian, was found a large
+slab of marble marked with crosses. This possibly was a portion of
+Stapledon's altar destroyed by an Order in Council, 1550 (see below, p.
+69).
+
+#The Bishop's Throne# was Stapledon's work, erected in 1316. It is
+notable for not having a single nail in it, being entirely fixed
+together with wooden pegs. This "magnificent sheaf of carved oak," as it
+has been called, rises to the height of fifty-seven feet. The carving
+shows foliage and finials of great beauty, and beneath the canopies are
+angel figures bearing the insignia of the Bishop's office. On one side
+the chalice and Host of blessing; on the other, the bell, book, and
+candle that conveyed the Bishop's curse.
+
+At the date of the 1870 restorations the throne was in a very defective
+state. It had been covered with brown paint, and the lower panels were
+not a little damaged. There are traces of ancient colouring still, but
+only the paintings at the base have been renovated, which commemorate
+the quartette of famous bishops, Warelwast, Quivil, Stapledon, and
+Grandisson, and were, no doubt, somewhat later than the throne itself.
+Originally the niches of the tabernacle work were filled with figures,
+but these have disappeared.
+
+[Illustration: THE CHOIR, LOOKING EAST.
+               The Photochrom. Co. Photo.]
+
+[Illustration: SEDILIA IN THE CHOIR.
+               The Photochrom. Co. Photo.]
+
+#The Sedilia.#--It is natural after an examination of the throne in wood
+to turn to Stapledon's equally splendid achievement in stone. The
+sedilia were most carefully restored under Sir Gilbert Scott. There are
+three arches, each ten feet high, of openwork, above which is a rich
+display of tabernacle work. The niches once contained statues, for the
+sockets are visible. The carving, extraordinarily skilful and intricate,
+consists of leaves and animals' heads. Like much of the carving in the
+cathedral that is attributed to this date, it was the work of De
+Montacute, a French artist. The seats are divided by metal shafts, the
+terminal divisions being supported by lions. It has been contended that
+these lions are of considerably earlier date than the rest of the work;
+but there is no evidence to go upon except a fancied resemblance to
+Early English work. There seems no reason why Stapledon should not have
+chosen lions as a fitting decoration, and carved them in a style more or
+less traditional. Three small heads are carved on the back of the
+sedilia, the centre one being that of Leofric, and on either side the
+heads of Edward the Confessor and his wife Eadgytha. It will be
+remembered that they were present, with their whole court, at the
+installation of Leofric. The central seat is known as Leofric's stone,
+on which he is traditionally said to have sat, and there is an entry in
+the year 1418 recording that twenty pence was paid "for writing on the
+stone of my Lord Leofric."
+
+On the triforium arcading, just over the sedilia, the heads of Leofric,
+Edward, and Eadgytha are repeated.
+
+The decoration of the choir vault is by Messrs. Clayton and Bell. The
+attempt to give life to the roofing by gilding the bosses and painting
+the ribs red and blue and gold, while the ground colour is a dull white,
+is not without merit.
+
+#Pulpit in Choir# of Devon marbles and alabaster, erected in 1871. The
+beautifully carved panels represent our Lord blessing the children; the
+Sermon on the Mount; St. Peter preaching on the day of Pentecost; St.
+Paul at Athens; and St. Paul before Festus.
+
+#The East Window.#--Henry de Blakeborn, a canon of the cathedral,
+enlarged "this Gable window in the Perpendicular style." Although it was
+damaged a good deal in Cromwell's time, much of the old glass remains.
+The shields on the upper part of the window are modern, but those at the
+bottom are those of the first bishops and benefactors. The three centre
+figures in the lowest row were added in Brantyngham's day.
+
+[Illustration: PULPIT IN THE CHOIR.
+               The Photochrom. Co. Photo.]
+
+[Illustration: ST. JAMES' CHAPEL (DRAWN BY H.P. CLIFFORD).]
+
+#St. James' Chapel.#--In the aisle on the south of the choir. In the
+north aisle immediately opposite is the companion chapel of St. Andrew.
+It will be noticed how frequently one part balances another throughout
+the building. These chapels are partly Marshall's work. When the apsidal
+chapels were pulled down at the time the apse was destroyed, Marshall
+built the present chapels of St. James and St. Andrew. Bronscombe
+altered them considerably, and the first item in the Fabric Rolls is,
+"for 3 windows for St. James Chapel 8s. 9d.; for glass 16s." This is the
+last year of Bronscombe's episcopate, and proves he had, at any rate,
+almost finished the renovation of this chapel. The most noticeable
+features are the upper chamber, and the magnificent but half-destroyed
+monument popularly known as Leofric's tomb. The chapel contained two
+altars, one dedicated to St. James and the other probably to St. Thomas
+of Canterbury.
+
+Nearly opposite this chapel are the effigies of two knights, dating from
+the fourteenth century; their cross-legged attitude leading to the
+erroneous notion that they were Crusaders. They probably represent
+Humphrey de Bohun, father of Margaret, wife of Hugh Courtenay, 1332, and
+Sir Arthur Chichester of Raleigh, 1301. Old histories describe armorial
+bearings painted on their shields, but these have long since perished.
+
+#St. Andrew's Chapel.#--Opposite to, and corresponding with that of St.
+James'. It was Marshall's work originally, like its fellow chapel, being
+a substitute for one of the old apsidal chapels of the Norman choir.
+Stapledon completed the renovations so as to make it a parallel to
+Bronscombe's restored chapel of St. James. The detached shafts are
+clearly an imitation of the earlier bishop's work. The chapel contains
+an upper chamber, formerly used as a muniments room. The chapel
+originally contained altars to St. Andrew and St. Catherine. In 1305 is
+an order of Bytton's that chantry services should be held here for
+Andrew de Kilkenny, late dean, and others. Among the names we find that
+of Henry de Kilkenny, who was at the time of Bytton's order still
+living, and a canon of the cathedral.
+
+[Illustration: ST. GEORGE'S CHAPEL (OR SPEKE'S CHANTRY).
+               DRAWN BY H.P. CLIFFORD.]
+
+#The Ambulatory.#--Between the high altar and the Lady Chapel is the
+ambulatory. It is noticeable that the shafts differ from those in other
+parts of the building. The north and south windows are of the time of
+Bishop Bruere (thirteenth century). The architecture throughout the
+retrochoir is Early Decorated.
+
+Two old oak bible-boxes are attached, one to each pillar: though ugly
+and clumsy they are distinctly interesting.
+
+The windows are modern and excellent. Messrs. Clayton and Bell have
+seldom done anything better. The colours are quite admirable and well
+blended. Two monuments of Jacobean work are well worthy of attention.
+Concerning the subject of one, Jacob Railard, there is nothing to be
+learnt; but the other, John Bidgood, was "one of the most accomplished
+and beneficial physicians of his age," and was born in 1623. He was
+deprived of his fellowship at Exeter College in 1648 "for drinking of
+healths to the confusion of Reformers." Like many another good man he
+had to suffer for his loyalty. He obtained his doctor's degree at Padua
+and won a great reputation as a skilful and humane practitioner. With
+the Restoration he obtained his Oxford degree but continued to practise
+in his native city. He died in his sixty-eighth year.
+
+At the north end of the ambulatory is #Speke's Chantry#, also called St.
+George's Chapel. It is of late, and exceedingly rich, Perpendicular
+work. Oliver notices that in 1657 the east window and altar were
+destroyed to make a passage "into the great church of St.
+Peter's-in-the-East, partitioned from West Peter's by a brick wall
+erected, plastered, and whitened on both sides by Walter Deeble, at the
+expense of £150." The effigy of Sir John Speke rests in the chapel; the
+carving behind the figure is very elaborate. His home was at White
+Lackington in Somersetshire, and he was the owner of Brampford Speke
+near Exeter. To secure the observance of his and his wife's obit, he
+endowed the chapel with the "lands, tenements, and hereditaments in
+Langford, Frehead, and Ashill, in Somersetshire."
+
+The north window is to the memory of Archdeacon Bartholomew, and was
+placed here in 1865.
+
+[Illustration: THE LADY CHAPEL.
+               The Photochrom. Co. Photo.]
+
+At the other end of the ambulatory is #Bishop Oldham's Chantry#,
+dedicated to our Saviour. It was richly restored by Bishop Oldham, who
+also restored the Speke--or St. George--Chantry immediately opposite. It
+is to this bishop we owe the "delicate and elegant screening which
+imparts distance and veiling to all nine chapels and to Prior Sylke's
+chantry in the north transept." The walls and vaulting are richly
+decorated, and the panelling and rebus at the north-east corner contain
+a rebus on the bishop's name (oul-dom), being decorated with owls. In
+accordance with his object in restoring the chapel, his body was buried
+there and his effigy lies in a niche of the south wall. Oldham was a
+part founder of Corpus Christi College, Oxford, by whose orders the
+chapel was restored some years ago. He settled the arms of the
+see--gules, a sword erect in pale argent, pommelled and hilted or,
+surmounted with two keys in saltire of the last. He was a native of
+Manchester, founded the grammar school there, and held the post of
+warden. He was a man of very methodical habits, according to Hoker. He
+dined regularly at eleven, and supped at five. "To ensure precision he
+had a house clock to strike the hours and a servant to look after it.
+Should his lordship be prevented by important business from coming to
+table at the appointed time, the servant would delay the clock's
+striking the hour until he knew that his master was ready. Sometimes, if
+asked what was the hour, he would humorously answer, 'As your lordship
+pleaseth,' at which the bishop would smile and go away."
+
+#The Lady Chapel.#--It has been suggested that this chapel occupies the
+site of the choir in the old cathedral of Leofric. The earliest mention
+of it is in a deed of Bishop Bruere's in 1237. It was remodelled by
+Bronscombe and Quivil. But the "two pointed arches with solid
+piers--totally different from any others in the Cathedral--dividing the
+Chapel from the side chapels," though their moulding has been altered
+very considerably in order to tally with a later style, show evidence of
+much earlier date. The shafts are of Purbeck marble, and the windows,
+arranged as in the nave, contain the last importation of glass from
+abroad, save that in the transeptal windows, used in the cathedral. The
+bosses in the eastern bay, with the evangelists' emblems and head of
+Christ, should be noticed. The elaborate fourteenth century reredos is
+the work of Grandisson. The central niche contained a figure of the
+Virgin, before which a lamp was suspended. The sedilia and double
+piscina on the south side are interesting.
+
+The Lady Chapel contains several monumental tombs of interest. Beneath
+the arches conducting to the side chapels are the effigies of Bishops
+Bronscombe and Stafford.
+
+Bronscombe died in 1280, Stafford in 1419; but with a regard to
+symmetry, which is conspicuous in the cathedral, the earlier effigy of
+Bronscombe was raised and provided with a new canopy to correspond with
+Stafford's tomb on the opposite side. Bronscombe lies on the south side,
+at the entrance to, or the north side of, his chapel of St. Gabriel. The
+colouring on the effigy must have been uncommonly splendid, and even the
+remnants of the patterns have not faded out of all beauty.
+
+[Illustration: BISHOP BRONSCOMBE'S MONUMENT
+               (FROM BRITTON'S 'EXETER,' 1826).]
+
+Stafford's tomb is on the north side at the entrance to the chapel of
+St. Mary Magdalen. It has had to contend with severer enemies than old
+age, but shockingly as the effigy has suffered, it still preserves
+something of its original beauty and stateliness. The attitude is
+simple; the gloved hands of the bishop are joined over his breast in an
+attitude of prayer. The face is thin and ascetic, its saintly austerity
+being rendered more noticeable owing to the rich mitre that crowns the
+head. The folds of the robe are managed with a consummate simplicity and
+skill. In Leland's "Itinerary" the bishop's epitaph is preserved:
+
+  "Hic jacet Edmundus de Stafforde intumulatus,
+  Quondam profundus legum doctor reputatus,
+  Verbis facundus, Comitum de stirpe creatus,
+  Felix et mundus Pater hujus Pontificatus."
+
+#Tomb of Sir John and Lady Doddridge.#--Sir John Doddridge came of an
+old Devonshire family, for in 1285 one Walter Doddridge and his wife
+surrendered to the Dean and Chapter of Exeter a right of entrance into
+the close from their house in High Street. Fuller says of him that it
+were "hard to say, whether he was better artist, divine, Cure, or Common
+Lawyer, though he fixed on the last for his publick Profession." He was
+second justice of the King's Bench, and gained great renown as a judge
+of stern integrity. Sir John was three times married, the lady whose
+effigy is here represented being his third wife, Dorothy, daughter of
+Sir Amias Bampfylde. She died in 1615. Sir John, who became a judge of
+the King's Bench, lived till 1628. He won the nickname of the "sleepy
+judge," for he always closed his eyes in court, the better to keep his
+attention fixed on the case. The monument is very elaborate, and if not
+beautiful is well worth attention on account of its technical qualities
+and the probable accuracy of its representation. The dress of Lady
+Dorothy Doddridge exhibits a good example of costume; the skirt
+embroidered with pansies and carnations; the ruff and cuffs showing old
+Devonshire "bone lace." It was no doubt copied from one of the lady's
+actual gowns.
+
+On the south side of the Lady Chapel are two most interesting monuments
+of early bishops. That towards the east has been assigned to Bartholomew
+Iscanus (1161-84), but in all probability it represents one of his far
+earlier predecessors. The sculpture is almost archaic in style, the
+mitre low, the face bearded, and the type extraordinarily Byzantine. The
+left hand holds the pastoral staff, the point of which impales a winged
+dragon, with a sphinx-like head, at his feet. In the angles of the
+archway at the tomb are the figures of two angels with censers.
+
+The other tomb is that of Simon de Apulia (d. 1223). It presents a great
+contrast to that just described. The great advance made in the art of
+sculpture is noticeable in the more human character of the face, which
+is clean shaven, and the more skilful management of the hands. The
+artist, too, seems to have courted difficulties, for the bishop's robe
+and mitre are richly jewelled, and the foliage and animal at his feet,
+though conventional, are most elaborately designed.
+
+[Illustration: SCREEN OF ST. GABRIEL'S CHAPEL.]
+
+#Bishop Peter Quivil# (1291).--This tombstone in the centre of the
+pavement was restored here in 1820 on the representation of Mr. John
+Jones of Franklyn; the cross and letters were re-cut under his
+directions. The epitaph is "Petra tegit Petrum, nihil officiat sibi
+tetrum," and Westcott in his "View of Devon" writes, "which verse was
+written in an ancient character, each letter distant from the other at
+least four inches; so that this short verse supplied the whole large
+circumference, and cost me some labour in finding out and reading it."
+
+Certainly this is one of the most interesting memorials in the
+cathedral; indeed, it may be well considered the most interesting, for
+it is dedicated to the man by whose genius the whole great design was
+begotten. Its simplicity is noteworthy. But Quivil required no elaborate
+sepulture; the cathedral itself is his mighty monument, since it was he
+who founded--
+
+    "A fane more noble than the vestal trod--
+     The Christian's temple, to the Christian's God."[4]
+
+    [4] Richard Clarke Sewell, 1825, Magdalen College.
+
+#St. Gabriel's Chapel.#--This chapel was transformed by Bishop
+Bronscombe (1257-80). The vaulting has been recoloured in conformity
+with the ancient tints and patterns. The chapel contained several
+monuments, but these have been removed to other parts of the cathedral.
+Bronscombe transformed the chapel that it might be used for his burial
+place. St. Gabriel was his patron saint, and he caused the day of the
+archangel to be celebrated with honours similar to Easter Day and
+Christmas Day. There is some old glass in the windows. Note the kneeling
+figure of the bishop with the scroll: "O Sancte Gabriel Archangele,
+intercede pro gratia." The skilful restoration of the south window with
+pieces of old glass is one of the most happy results of later work in
+the cathedral. The altar slab marked with five crosses, appears to have
+been used in Leofric's monument, where it was found in the last century.
+It was placed here by Dean Cowie.
+
+#St. Mary Magdalen Chapel#, first mentioned in the Fabric Rolls for
+1284. It was probably Marshall's work originally, Bronscombe further
+improved it, and Quivil entirely remodelled it. With the exception of
+the Perpendicular screen shutting it off from the north aisle, it is of
+the same date as the Lady Chapel. The north window is Bronscombe's work,
+and the still finer east window, containing a good deal of the early
+fifteenth-century glass, is Quivil's. The chapel originally contained an
+altar to St John the Evangelist and a figure of the Magdalene, for in
+Bishop Lacy's register are the words, "extra vestibulum coram ymagine
+Sanctae Marie Magdalene." On the floor of the chapel is a brass to Canon
+Langton, dated 1413. He was a cousin of Bishop Stafford. He is
+represented kneeling, clothed in a most rich cope and alb, on which is
+designed the Stafford knot. His hands are met in prayer. The epitaph
+only gives the date of his death, and refers to his relationship with
+the above-named bishop.
+
+In this chapel also is a magnificent monument to Sir Gawain Carew and
+his wife, and their nephew, Sir Peter. It is in two parts: on the upper
+lie the figures of Sir Gawain and his dame, on the lower that of the
+more famous nephew, with his legs crossed, an unusual position for a
+figure on so late a tomb. Sir Peter and his uncle took an active part in
+quashing the rebellion that disturbed the western counties in the reign
+of Edward VI. The former died at Waterford, in Ireland, 1575. Sir Peter
+Carew sat on the King's Commission of 1552, which summoned the Dean and
+Chapter to the bishop's palace, "then and there to answer all demands
+and questions concerning the jewells plate and other ornaments of your
+cathedrall churche."
+
+In 1857 the monument was admirably restored by the members of the Carew
+family, the whole being gilded and coloured.
+
+
+TOMBS IN THE CHOIR AND CHOIR AISLES.
+
+The first tomb to notice on the north side of the choir is that of the
+murdered bishop, Stapledon. The canopy was judiciously restored at the
+beginning of the century. From beneath it one observes a great image of
+Christ, the pierced hands raised to bless. The wounded feet stand upon a
+sphere, possibly to represent His dominion over the world, and an
+insignificant earthly king, in scarlet robes, seems to take refuge in
+the shadow of the Saviour. Beneath the canopy lies the figure of the
+bishop, grasping the crozier in his left hand and a book in his right.
+The keys upon his sleeve represent the arms of the see. Above the
+monument the arms of the bishop figure on the choir screen, and over the
+tombs of Lacy and Marshall the same plan has been observed. This screen
+was erected about the close of the fourteenth century.
+
+Below the sacrarium, on the north, are the tombs of the Elizabethan
+bishop, William Bradbridge, and that of Bishop Lacy (1420-55). His arms,
+"Three shovellers heads erased," may be seen on the screen work above
+it. The tomb is despoiled of the brass that once adorned it--said to
+have been taken out by the Reformation Dean, Simon Hayes (who also
+despoiled St. Radegunde's Chapel), because pilgrims resorted to Lacy's
+tomb, and regarded him as a saint.
+
+The next tomb, that of Marshall, is of peculiar interest, and it is
+unfortunate that a good view is not easily attainable. It has been
+pointed out by a specialist that the ornament on the chasuble is almost
+unique, reminding one of the foliage in Early English work. The
+medallions at the side are especially interesting.
+
+At the west, near the Speke Chantry, is the remarkable monument,
+generally supposed to be the tomb of Sir Richard de Stapledon, an elder
+brother of the great bishop whose tragic death we have already described
+in the first chapter of this book. He was a lawyer and one of his
+Majesty's judges. Prince's quaint description of his tomb is worth
+quoting in full: "In a niche in the wall is a monument erected to his
+Memory, representing his Figure lively cut in stone sitting on
+horseback; where is cut out also in the same, a cripple taking hold of
+the foreleg of his horse: which seems to confirm the Tradition, That a
+certain Cripple, as Sir Richard was riding into the City of London with
+his Brother, lying at the gate, laid hold on one of his Horse's
+Fore-legs, and by crossing of it threw Horse and Rider to the Ground; by
+which means he was soon slain; and that from this occasion the place
+obtain'd the name of Cripple-gate, which it retains to this day." It is
+a pity so quaint a story belongs to the realm of legend, for there is no
+substantial proof forthcoming of its truth.
+
+[Illustration: TOMB OF BISHOP STAPLEDON.]
+
+The next monument on this side is an emaciated figure, or _Memento
+Mori_, a gruesome style popular in the fifteenth century. It may have
+been intended for a cenotaph of Bishop Bothe, the legend, nearly erased,
+at the top, being the same as that on his brass in the church of East
+Horsley, Surrey, where he is buried.
+
+[Illustration: MONUMENT OF BISHOP MARSHALL
+               (FROM BRITTON'S 'EXETER,' 1826).]
+
+The monument to Anthony Harvey of Colomb John is of no great interest,
+being poorly designed. Its date is 1564. Harvey was steward of the
+abbeys of Hartland, Buckland, and Newenham at the time when the
+religious houses were suppressed. He is said to have amassed very
+considerable wealth; for, in addition to the profits derived from the
+spoliation of the above monasteries, he received from Henry VIII
+considerable lands belonging to the abbey of Tewkesbury, which he sold,
+probably most advantageously, to a clothier of Crediton. Harvey was
+connected with the Carews through the marriage of his daughter, and
+heiress, with George Carew, Dean of Exeter, the notorious pluralist.
+Their son, Harvey's grandson, was created Earl of Totnes, but died
+without issue.
+
+At the west end of the south aisle is the monument of Bishop Gary
+(1621-26) and a mural tablet commemorating Robert Hall, eldest son of
+Bishop Hall, and treasurer of the cathedral. To him Exeter owes a
+perpetual debt of gratitude, for, when the city surrendered to Fairfax
+in 1646, he took down the Bishop's Throne and concealed it (buried it
+according to local tradition), and after the Restoration was able to
+re-erect in its proper place the most magnificent Bishop's throne in
+England.
+
+Neither the effigy of Bishop Cotton (1621) nor the angel resting on the
+sarcophagus of Bishop Weston--a typical Georgian monument--are of much
+intrinsic merit. Flaxman's statue to General Simcox, the hero of the
+Queen's Rangers in the American War, is the only other notable
+monumental achievement in the south choir aisle.
+
+The Peter, or Great Bell, of Exeter is said to have been a gift of
+Bishop Courtenay's. This opinion is very much disputed, as the Fabric
+Rolls show that there were bells here in the time of Edward II. As early
+as 1351 is an entry of 6s. for mending the Peter Bell. Again in 1453,
+twenty-five years before Courtenay was created bishop, mention is made
+of the spending of twenty pence "in una bauderick pro Maxima Campana in
+Campanili Boreali." Oliver, however, acutely points out that this last
+entry is dated the very year that Courtenay was appointed Archdeacon of
+Exeter, and suggests that "on that occasion he may have offered such
+valuable presents." On the 5th November, 1611, the bell was crazed, but
+was recast in 1676. Its reputed weight is 12,500 lb. If this is correct,
+it is the second largest bell in England. Great Tom of Christ Church,
+Oxford, is more than 5,000 lb. heavier, but it easily exceeds its other
+rivals, Tom of Lincoln and the Great Bell of St. Paul's, which weigh
+respectively 11,296 lb. and 8,400 lb.
+
+       *       *       *       *       *
+
+#The Chapter House# lies at the south end of the transept beyond the
+Chapel of the Holy Ghost. The lower part of the room is the original
+building of the early thirteenth century, between 1224 and 1244, and the
+face of the wall is decorated with Early English arcades separated by
+delicate shafts. This building probably had a stone vaulted roof. Lacy
+heightened it, adding lofty Perpendicular windows; and the whole is
+completed by a rich tie-beam roof, partly the work of Bishop Bothe
+(1465-78), whose arms, with Lacy's, are painted on it (see p. 13). The
+east window, recently restored, contains many coats of arms in ancient
+glass. Among these is the Austrian eagle quartered with the lion of
+Bohemia, reminding us that Richard, Earl of Cornwall, brother of Henry
+III, and lord of Rougemont Castle, Exeter, was about 1260 elected King
+of the Romans, thus associating Exeter with the highest secular honour
+then known to Europe.
+
+#The Cloister.#--Archdeacon Freeman thinks that originally the cloister
+"was confined to the east side, as a necessary communication between the
+chapter house and the great south door of the nave." During Stapledon's
+time a desire had been evinced to enlarge this cloister; and in 1323
+there is a record to the effect that eight heads had been carved for
+vaulting the cloister. In the Fabric Rolls are entries that show the
+work of building proceeded with some activity and considerable
+cheapness. Here are a few extracts that are interesting:
+
+"Twenty-five horse-loads of sand for the cloister, 9d. A thousand lath
+nails and healing pins for do. S. Clifford sculpanti 18 capites 3/9: 10
+do. 2/-."
+
+By 1342 the work was probably finished to the north, and forty years
+later the whole must have been completed. It has been said that the old
+cloister was inferior to those of Worcester and Gloucester. But they
+must have had considerable merit if Mr. Pearson's restoration really
+represents, and there is little doubt it does, the old structure.
+
+It is curious that the cloister, certainly the least offensive and not
+the most beautiful part of the cathedral, should have suffered so
+severely at the hands of the Puritans. For on the whole the cathedral
+proper escaped with but small damage. Professor Freeman, in discussing
+the alleged desecrations suffered by St. Mary and St. Peter, after the
+entrance of Fairfax and his army into the city, writes thus: "The
+account in Mercurius Rusticus, which has given vogue to the common story
+is wholly untrue." He further adds: "Some fanatic soldier may, indeed,
+according to the story, have broken off the head of Queen Elizabeth,
+mistaking her for our Lady. But no general mutilation or desecration
+took place at this time. And at Exeter, one form of mutilation, which
+specially affected the west front, was not the work of enemies but of
+devotees. For ages the country folk who came into the city loved to
+carry home a Peter stone for the healing of their ailments." It is only
+fair to add that Archdeacon Freeman refers in very different language to
+the result of the occupation by the Puritans, but though the decorative
+portions of the cloister may have suffered, we cannot account for the
+disappearance of the exterior walls without a better reason for their
+destruction. It should be noted, however, that in the fifteenth century
+the Dean and Chapter bitterly complained of the conduct of the Exeter
+boys, who played "unlawfull games as the toppe, queke, penny pryke &
+most atte tenys" in the cloister, whereby they were "defowled & the glas
+windows all to-brost." But at this time the cathedral and municipal
+authorities were far from friendly to each other. Dr. Oliver writes of
+the ruins in his day that they "have disappeared with the exception of
+part of a fluted column at the west corner of the carpenter's shop."
+With the debris small and mean houses were built. On the 30th of
+October, 1657, we are given a hint as to what may have been the meaning
+of this wanton destruction. Apparently the ground set apart for "the
+convenience of the studious and contemplative" was found to have
+valuable attributes as a market-place, for on the above day the "Friday
+cloth market for serges and other drapery" was ordered to be held in
+this place. Commerce did not triumph for long, though, as only three
+years later the buyers and sellers were bundled back into South Street.
+
+[Illustration: THE EAST GATE, PULLED DOWN IN 1784.]
+
+A large number of bosses and carvings of the original structure,
+discovered during the recent excavations, have been skilfully
+incorporated by Mr. Pearson in his restoration. Above the cloister is a
+library containing 8,000 volumes, many of them bequeathed by the late
+Chancellor Harrington.
+
+#The Close.#--This was an important adjunct to all cathedrals in the
+days following the Conquest. We have seen that on one occasion at least
+the cathedral church of Exeter was severely bombarded, with the result
+that the northern tower differs considerably from the southern in
+places. The church, then, we may presume, was intended to be used, when
+necessary, as a fortress: but as it was also something else very
+different, this necessity was rather shunned than courted. Therefore it
+was customary to separate the church from the world by walls and gates
+of proved strength. This space so secured formed an outer fortress,
+against which the attacks of an enemy must, perforce, have been directed
+first. It placed entirely in the hands of the clergy the defence of
+their own church, a task they were quite capable of performing with
+credit; for Matthew Paris tells us of one bishop of Exeter, Bruere, that
+he displayed activity both "spiritual and temporal" in the Holy Land.
+The defence of the city, that of the sacred building being thus provided
+for, was the business of the captains and men-at-arms. The walls and
+gates of the close have vanished, without leaving a trace of their
+existence. One privilege, however, yet haunts the place--the corporation
+have no jurisdiction over it.
+
+In the close at the north side of the cathedral has been placed a statue
+of Richard Hooker, the theologian (1553-1600), author of "The Laws of
+Ecclesiastical Polity." The "Judicious Hooker" was born in Exeter, and
+was a nephew of John Vowel, alias Hoker, Chamberlain and Historian of
+the city.
+
+#The Cathedral Library# was founded by Leofric himself. One of his
+principal reasons for translating the see from Crediton to Exeter being
+his fear lest the valuable books he had collected should at any time be
+destroyed by raiders in an unfortified town.
+
+When, in the beginning of the seventeenth century, Sir Thomas Bodley,
+himself a native of Exeter, founded the Bodleian Library at Oxford, the
+Dean and Chapter of Exeter presented to it a large number of books and
+manuscripts, many of which had belonged to Leofric. Fortunately one
+volume remained in Exeter, overlooked by owners then unaware of its
+value, possibly of its very existence. This volume, "The Exeter Book,"
+is the greatest treasure possessed by the Dean and Chapter, being an
+Anglo-Saxon manuscript, containing almost a third of all the Anglo-Saxon
+literature that is known. The contents include "Cynewulf's Christus," a
+poem on the life of our Lord; some legends of saints; and a quaint
+collection of riddles and jokes. The ink of its writing, nearly one
+thousand years old, is as fresh as if it had been inscribed but
+recently.
+
+As already mentioned, the muniments room was formerly above St. Andrew's
+Chapel. At a later date the library was placed in the Lady Chapel, and
+was thence removed to the chapter house. Towards the end of the last
+century Canon Cook and Chancellor Harrington left their valuable
+libraries to the Dean and Chapter, and in order to accommodate the books
+Dean Cowie restored the south side of the cloister, and built a new
+library over it.
+
+Here may be seen the Exeter Book, the Exeter Domesday, Grandisson's
+Ordinale, Lacy's Pontifical, and other beautiful examples of
+illumination. Also the original charter of Edward the Confessor
+appointing Leofric Bishop of Exeter, signed by the King and Queen, Earl
+Godwin, and a notable group of Saxon Thanes.
+
+Among the printed books are a First Folio of Shakespeare, and the sealed
+Prayer Book of King Charles II.
+
+The library is open to the public after Matins on Tuesdays and Fridays.
+
+#The Palace# is a building so closely associated with the cathedral as
+to demand a brief notice. In it is the chapel of St. Mary, which seems
+to have been frequently used in preference to the cathedral for the
+celebration of espiscopal functions. Ordination services were often held
+within its walls. It was originally built that services might be said
+there for the repose of the souls of dead bishops of Exeter. A document
+is quoted by Oliver, in which the parish of Alwyngton is called upon to
+pay the officiating chaplain a yearly sum of four marks and that of
+Harberton two. This chapel, now restored, is used for domestic purposes.
+But at one time it was clearly regarded as pertaining to the cathedral,
+for the Dean and Chapter, on the festival of St. Faith, presented to it
+a pair of wax candles. Brantyngham, in 1381, mentions the "fructus et
+proventus cantariae infra Palatium nostrum Exonie, pro animabus
+predecessorum nostorum ipsius fundatorum." The old entrance was under
+the great archway, and battlements, by gracious permission of royalty,
+surrounded the whole. In the great hall feasts were held for 100 poor
+people; but the palace now is shorn of a good deal of its grandeur. The
+Ecclesiastical Commissioners in 1845 decided to rebuild and repair what
+remained.
+
+[Illustration: THE BISHOP'S PALACE.
+               Alfred Pumphrey Photo.]
+
+
+THE DIOCESE OF EXETER.
+
+A chronological list of the bishops of the diocese, from the days of
+Leofric, when the seat of the bishopric was removed from Crediton, to
+our own day, when the diocese of Truro has been carved out from that of
+Exeter, is here given briefly, since the more notable holders of the see
+have been already mentioned in the first chapter.
+
+#Leofric# (1046-1072). In 1050 the see was removed from Crediton and the
+new See of Exeter founded.
+
+#Osbern# (1072-1103). No alterations were made to the building during
+this period. The bishop was admired for his "simplicity of English
+manners and habits," for although Norman by birth he had been educated
+in England.
+
+#William Warelwast# (1107-1136), a nephew of William the Conqueror,
+began to demolish the Saxon Church. To him may be attributed the towers,
+choir, apse, and nave of the Norman building. The story of his
+blindness, and of his being sent on an embassy to Rome, rests on
+somewhat slender authority.
+
+#Robert Chichester# (1138-1155) was promoted from the deanery of
+Salisbury at the Council of Northampton. He continued Warelwast's work.
+
+#Robert Warelwast# (1155-1160) was a nephew of the former bishop of that
+name.
+
+#Bartholomæus Iscanus# (1161-1184), a native of Exeter, was of humble
+birth. He is said to have been an enemy of Becket's and was called by
+Pope Alexander III. "the luminary of the English Church."
+
+#John the Chaunter# (1186-1191) continued the buildings which had been
+suspended during the last episcopate.
+
+#Henry Marshall# (1194-1206), brother to the Earl of Pembroke, Marshal
+of England, was promoted from York, of which cathedral he was dean. He
+completed the buildings as designed by the first Warelwast. To him we
+owe the Lady Chapel, the larger choir, the north porch, cloister
+doorway, and six chapels. He assisted at the coronation of King Richard
+at Winchester in 1194, and at that of John in 1199.
+
+#Simon de Apulia# (1214-1223). But little is recorded of this bishop. He
+assisted at Henry III.'s coronation at Gloucester when the king was a
+lad of ten. To him also is attributed the fixing of the boundaries of
+the city parishes. His tomb is in the Lady Chapel.
+
+#William Bruere# (1224-1244) served as Precentor of Exeter before he was
+made bishop. To him are due the chapter house and stalls in the old
+choir. For five years he was in the Holy Land, and Matthew Paris writes
+of his energy and untiring devotion in administering to the wants of his
+countrymen.
+
+#Richard Blondy# (1245-1257). According to Hoker this bishop was the son
+of Hilary Blondy, Mayor of Exeter in 1227.
+
+#Walter Bronescombe# (1257-1280), a native of Exeter, was only in
+deacon's orders when chosen bishop. He restored the chapels of St.
+Gabriel, St. Mary Magdalene and St. James. He also founded a college at
+Glasney and restored "the establishment of Crediton" to much of its
+former splendour.
+
+#Peter Quivil# (1280-1291) was born in Exeter, and a _protégé_ of
+Bronescombe's. His first preferment was as Archdeacon of St. David's,
+from whence he was promoted bishop of his native city. He it was who
+designed the Decorated cathedral and transformed transepts with chapels,
+eastern bay of the nave, and the Lady Chapel.
+
+#Thomas de Bytton# (1292-1307) continued Quivil's work, transforming the
+choir and its aisles. He was a native of Gloucestershire and had been
+Dean of Wells. An indulgence of forty days was granted by the Pope,
+Boniface VIII., three archbishops and five bishops, to all who should
+pray for his prosperity. The rules he made for the government of the
+collegiate church at Crediton won general approval.
+
+#Walter de Stapledon# (1308-1326) was Professor of Canon Law at Oxford
+and a chaplain to Pope Clement V. He was killed by a London mob. The
+transformed choir transepts are his work, and he erected the organ
+screen, bishop's throne, and sedilia. During his episcopate, also, the
+cloisters were begun.
+
+#James Berkeley# (1326-1327), Archdeacon of Huntingdon, and grandson of
+William de Ferrers, Earl of Derby, died a few weeks after his
+consecration.
+
+#John Grandisson# (1327-1369) was born in Herefordshire, of good family.
+His long tenure of the see is one of the most memorable chapters in the
+history of Exeter. The fatal Black Death occurred during his episcopacy,
+1348-1369. He inherited the transforming zeal of his predecessors and
+set his seal on the six western bays of the nave, the great west
+windows, and the vaulting and the aisles. He completed the north
+cloister.
+
+#Thomas Brantyngham# (1370-1394) was educated at the Court of Edward
+III., and was a canon of Exeter when chosen bishop. He was a constant
+adviser of the king, only being released from his privy council and
+parliamentary duties when his advanced age made them irksome to him. He
+was very busy in all the affairs of the diocese, but found time to
+complete the cloisters, east window, and west front.
+
+#Edmund Stafford# (1395-1419) came of a greatly distinguished family. He
+was a canon of York when Pope Boniface IX. advanced him to the See of
+Exeter. For a time he served the king as Lord High Chancellor. He has
+been abused by Campbell in his "Lives of the Lord Chancellors of
+England": but there seems little doubt that he deserved the reputation
+he certainly got of being learned, grave, and wise, and "very well
+accounted generally of all men." To him are attributed the canopies over
+the tombs in the Lady Chapel.
+
+#John Ketterick# or #Catterick# (1419) died at Florence a month after
+his appointment.
+
+#Edmund Lacy# (1420-1455), composer of an office in honour of the
+Archangel Raphael, left a saintly reputation, and pilgrimages were, for
+long, made to his tomb. According to Canon Freeman he raised the chapter
+house and glazed the nave windows.
+
+#George Neville# (1458-1465) was a son of the Earl of Salisbury. He was
+Chancellor of Oxford, and only twenty-four when made bishop. Though for
+several years Lord High Chancellor, and translated to York, he died in
+disgrace and comparative poverty.
+
+#John Bothe# (1465-1478) was the son of a Cheshire knight. He has often,
+but wrongly, been credited with being the donor of the throne. With more
+certainty the roof of the chapter house has been acknowledged as his
+work.
+
+#Peter Courtenay# (1478-1486), son of Sir Philip Courtenay of Powderham,
+had been Archdeacon of Exeter and Wiltshire, and Dean of Windsor and
+Exeter before he was appointed Bishop of Exeter. He assisted at the
+coronation of Richard III., but was none the less translated, for his
+services, by Henry to the diocese of Winchester.
+
+#Richard Fox# (1487-1491), the next bishop, was held in great esteem by
+Henry VII., whom he represented for a time as Ambassador at the Court of
+Scotland. He arranged the preliminaries of the marriage of Henry's
+daughter Margaret with James IV. He was translated to Bath and Wells,
+then to Durham, and finally to Winchester. He is said to have refused
+the dignity of Archbishop of Canterbury, which his godson, Henry VIII.,
+was anxious he should accept.
+
+#Oliver King# (1492-1495) was Bishop of Exeter for a short time only,
+being translated to Bath and Wells. He began building the Abbey Church
+at Bath, but did not live to see much of it completed.
+
+#Richard Redman# (1496-1501) was translated to Exeter from St. Asaph. He
+resigned the see on becoming Bishop of Ely.
+
+#John Arundell# (1502-1503) was translated from the See of Lichfield and
+Coventry. He was famous for his benevolence and hospitality. He died
+after barely two years' tenancy of the western bishopric.
+
+#Hugh Oldham# (1504-1519) came of an ancient Lancashire family. A large
+and flourishing manufacturing town in that county bears his name. He
+founded the grammar school in Manchester, and on his elevation became
+famous throughout the west of England for his learning and piety.
+
+#John Vesey (Harman)# (1519-1551). A lengthy account is given of this
+bishop in the first chapter.
+
+#Miles Coverdale# (1551-1553) was a famous reformer, and revised
+Tyndale's translation of the Bible. He was not popular in the diocese,
+and on Queen Mary's accession was deprived of his see, to the great
+satisfaction of his flock.
+
+#James Turberville# (1555-1559) was deprived of his see on his refusal
+to acknowledge the ecclesiastical supremacy of Elizabeth. He had been
+popular in the west of England, where the Reformation was at first
+heartily disliked.
+
+#William Alleyn# (1560-1570). Oliver writes the surname Alley. The
+diocese was now so poor that he was compelled to reduce the number of
+canons from twenty-four to nine. Only by accepting the rectorship of
+Honiton was the bishop himself able to support the dignity of his
+office. He was the author of several religious books that had
+considerable popularity in their day.
+
+#William Bradbridge# (1570-1578) is said to have speculated largely in
+agricultural land, and to have died a debtor for a large amount,
+including £1,400 owed to Queen Elizabeth. Beyond this little is recorded
+of him except that he lived at Newton Ferrers, of which he held the
+living _in commendam_, which must have put his clergy to great
+inconvenience.
+
+#John Wolton# (1579-1594). During Wolton's episcopate the revenues were
+restored to the chapter, the crown reserving to itself the sum of £145
+yearly. The priest-vicars, also, received back from the queen the
+greater portion of their possessions.
+
+#Gervase Babington# (1595-1597) was translated from Llandaff. He
+remained at Exeter but a short time. He seems to have been a favourite
+with the queen, who took an early opportunity to promote him to the
+wealthy See of Worcester.
+
+#William Cotton# (1598-1621).
+
+#Valentine Carey# (1621-1626) had been Master of Christ's College,
+Cambridge, and Dean of St. Paul's.
+
+#Joseph Hall# (1627-1641) was Dean of Worcester when promoted to the See
+of Exeter. He was a famous theological writer, and was translated to
+Norwich in 1641. There he suffered a great deal of unmerited
+persecution, which he bore bravely, though the ill-treatment of his
+enemies killed him.
+
+#Ralph Brownrigg# (1642-1659), Master of St. Catharine's, Cambridge, was
+bishop in troublous times. He had to retire to a friend's house in
+Berkshire. He was elected Preacher of the Temple, and was buried at the
+cost of the Inn.
+
+#John Gauden# (1660-1662) was Master of the Temple. His title to fame is
+as the reputed author of the [Greek: EIKÔN BASILIKÊ]. Being the first
+bishop appointed after the Restoration, his arrival in Exeter was gladly
+welcomed by the loyal citizens. But he does not seem to have been a
+lovable man, and was over-eager for riches. He was translated to
+Worcester on his complaint of poverty reaching the king's ears.
+
+#Seth Ward# (1662-1667) was already popular as dean when he succeeded
+Gauden as bishop. He cleared the cathedral of the small traders who
+desecrated the precincts, and gave to his church the finest organ then
+known in England. He was translated to Salisbury, and became Chancellor
+of the Order of the Garter. He obtained an enviable reputation for his
+good sense, piety, learning, and generosity.
+
+#Anthony Sparrow# (1667-1676) was Master of King's College, Cambridge,
+when consecrated bishop. Cosmo III. visited Exeter during his tenancy of
+the see.
+
+#Thomas Lamplugh# (1676-1688) seems to have been a clever politician. By
+expressing his loyalty to James II., when William had landed at Torbay,
+he was created Archbishop of York; thereupon he actively supported the
+Prince of Orange. "My Lord, you are a genuine old Cavalier," was the
+king's greeting. One hopes the memory of those words troubled the
+archbishop during his three years' experience of an ill-deserved
+dignity.
+
+#Jonathan Trelawny# (1689-1707) came of a famous Cornish family. As
+Bishop of Bristol he was already famous, for he was one of the seven
+bishops whose trial and acquittal hastened the downfall of the last
+Stuart king. He was translated to Winchester. A popular refrain, wedded
+to verses by the celebrated parson Hawker, of Morwenstow, keeps his
+memory alive in the western counties.
+
+#Offspring Blackball# (1708-1716) was chiefly and honourably known as a
+promoter of charity schools.
+
+#Launcelot Blackburne# (1717-1724). Of this bishop there is little to
+record. He was translated to the Archbishopric of York in 1724.
+
+#Stephen Weston# (1724-1742). The episcopal registers were now kept for
+the first time in English. His long reign seems to have been quite
+uneventful, and probably was, therefore, entirely successful.
+
+#Nicholas Claggett# (1742-1746) was translated from St. David's.
+
+#George Lavington# (1747-1762).
+
+#Frederick Keppel# (1762-1777), a son of the Earl of Albemarle, was a
+canon of Windsor when appointed Bishop of Exeter.
+
+#John Ross# (1778-1792).
+
+#William Buller# (1792-1796), of an old west country family, was
+promoted from the deanery of Canterbury.
+
+#Henry Reginald Courtenay# (1797-1803), translated to this see from
+Bristol.
+
+#John Fisher# (1803-1807) was tutor to the Duke of Kent, father of Queen
+Victoria. He was translated to Salisbury in 1807.
+
+#George Pelham# (1807-1820) was translated from Bristol. After,
+according to Oliver, "for thirteen years expecting higher preferment,"
+he was promoted to Lincoln.
+
+#William Carey# (1820-1830), head master of Westminster School. When he
+had been ten years at Exeter he was translated to St. Asaph, a curious
+reversal of the usual proceeding. For although a Welsh bishopric often
+led to an English one, a change from Exeter to St. Asaph could hardly
+have been "preferment" in the ordinary sense.
+
+#Christopher Bethell# (1830-1831). Exeter, for this bishop also, was
+merely a stepping-stone between Gloucester and Bangor.
+
+#Henry Phillpotts# (1831-1868) was the most famous bishop who has held
+the see in this century. He restored the palace, which had fallen into a
+ruined condition. He was energetic about the affairs of his diocese, a
+born ruler of men, and a scholar of eminence. The story of his
+episcopate is a well-known chapter to students of the ecclesiastical
+history of the first half of the queen's reign.
+
+#Frederick Temple# (1869-1885), head master of Rugby, 1858-1869; Bishop
+of Exeter, 1869; translated to London, 1885, and to the Metropolitan See
+of Canterbury, 1896.
+
+#Edward Henry Bickersteth# (1885-1901) was Dean of Gloucester when
+appointed bishop. Resigned.
+
+#Herbert Edward Ryle# (1901-1903) translated to Winchester. On resigning
+the see of Winchester he became Dean of Westminster.
+
+#Archibald Robertson# (1903-1916). Resigned.
+
+#Rupert Ernest William Gascoyne Cecil# (1916- ).
+
+[Illustration: OLD HOUSES IN FORE STREET. A. Pumphrey Photo.]
+
+
+
+
+ROUGEMONT CASTLE AND THE GUILDHALL.
+
+
+It is related that when Gytha fled towards the river and William the
+Conqueror marched through the eastern gate of the city, claiming it as
+his prize, he promised the citizens their lives, goods, and limbs. But,
+although he adhered strictly to his promise, and took care that his
+victorious soldiers should not pillage or insult the inhabitants, he was
+well aware of the supreme value of his conquest. The taking of Exeter
+was practically the taking of all western England. So he determined to
+make his position impregnable, and to this end set about the building of
+a castle on the Red Mount. The task was not a hard one: the Norman
+engineers had little need to display their peculiar ingenuity. Nature
+had done much, and to her work Briton, Roman, and Englishman had made
+additions. As Professor Freeman puts it: "The hillside was ready
+scarped, the ditch was ready dug." Baldwin de Molles was appointed
+superintendent and commander, and so well did he carry out his trust
+that within a year the castle was built and the men of Cornwall and
+Devon had attacked its walls in vain. Perhaps because William had been a
+merciful conqueror, not despoiling or ill-using the citizens, perhaps
+because the citizens were afraid, knowing the just man was strong and
+his hand heavy in anger, the besiegers found no help within the city
+walls. Henceforth Exeter was for the king.
+
+A curious example of its loyalty was shown in the troubled days of King
+Stephen. Earl Baldwin, from all accounts a cruel and violent man, took
+arms against the king. Stephen demanded that the castle should be
+delivered up. For his answer the Earl laid in provisions, and at the
+head of his followers patrolled the streets of the city threatening
+vengeance on those who opposed his will. Stephen, speedily apprised by
+his faithful citizens of these riotous doings, sent two hundred knights
+to confront the rebel. Later he came himself, and the castle was closely
+besieged. After three months' heavy fighting the wells in the castle
+gave out. Deprived of water, Baldwin, who was brave enough, made shift
+with wine, using it both for cookery and extinguishing the fires. But at
+last the king was victorious and, not heeding the wise counsel of his
+brother Henry of Winchester, permitted the followers of Baldwin to "go
+forth with their goods and follow what lord they would."
+
+In 1483, Richard III., fearing that the west favoured the claims of
+Henry, Earl of Richmond, hastened to Exeter. He was civilly greeted by
+John Attwill, the mayor. But his coming was not very welcome, nor did
+his conduct contribute to the gaiety of the inhabitants. In his train
+was Lord Scrope, whose business it was to try the rebels. None could be
+found, however, save the king's brother-in-law, St. Leger, and his
+esquire, John Rame. Richard none the less determined to strike terror
+into the hearts of all who wavered in their allegiance. So both men were
+beheaded at the Carfax. This done, the king busied himself in studying
+the surrounding country, and made careful note of the city and castle.
+The military strength of Rougemont pleased him, though the name did not.
+A west country accent, some say, gave it a sound like Ridgemount, too
+close an echo of his rival's title. The incident is referred to by
+Shakespeare in these well-known lines:
+
+  "Richmond! when I last was at Exeter,
+  The mayor in courtesy showed me the castle,
+  And called it Rougemont--at which name I started;
+  Because a bard of Ireland told me once,
+  I should not live long after I saw Richmond."
+
+The castle was considerably injured a few years later when Perkin
+Warbeck, at the head of his Cornishmen, attacked the city. The fight
+seems to have been a long and furious one. The North Gate was burned,
+and both there and at the East Gate the rebels were temporarily
+successful. But after the Earl of Devon and his retinue came to the help
+of the citizens the rebels were expelled and had to make their way to
+Taunton, unsuccessful. Henry soon afterwards arrived bringing Perkin
+Warbeck with him. By his clemency towards the rebels he created real
+enthusiasm, so that the prisoners "hurled away their halters and cried
+God Save the King."
+
+By the time Charles I. came to the throne the castle was already showing
+"gaping chinks and an aged countenance." Fairfax and his Roundheads
+completed the ruin. But it was not war only which left the building as
+we now see it. An ivy-covered gateway is all that remains. Yet from its
+summit one has a fine view of the surrounding country, and can readily
+understand of what strategical value its possession must have been in
+"battles long ago."
+
+[Illustration: ROUGEMONT CASTLE.
+               Photochrom Co. Ltd. Photo.]
+
+[Illustration: THE GUILDHALL, EXETER.
+               The Photochrom Co. Photo.]
+
+The hand of the reformer proved stronger than that of the victorious
+captain. What war had failed to do enterprising citizens accomplished in
+times of peace. About the year 1770 the city fathers seem to have been
+animated by an unholy passion for destruction. Not only was the house of
+the Earls of Bedford, a house full of historic and majestic memories,
+pulled down, but the venerable fortress attracted attention. First a
+gateway, then the chapel, later the castellan's house disappeared. New
+assize courts, superlatively ugly, proudly rose in their stead. But even
+then the zeal of the reformers was not satiated. "Ten years later the
+Eastern Gate, with its two mighty flanking towers soaring over the
+picturesque house on each side with its wide and lofty Tudor arch
+spanning the road, its statue of Henry the Seventh, commemorating its
+rebuilding after the siege by Perkin Warbeck--the gate which was heir to
+that through which the conqueror made his way--all perished, to the
+great satisfaction of the Exeter of that day; for 'a beautiful Vista was
+opened from St. Sidwell's into the High Street, a very great and
+necessary improvement.'" It is easy to share Professor Freeman's
+indignation; less easy, unhappily, to persuade men of our own day to
+deal kindly by the ancient monuments that are still left to us.
+
+Another building that has played a notable part in the history of the
+city is the #Guildhall#, of which the portico makes so pleasing an
+ornament to the High Street. The building is a picturesque medley,
+"English windows and Italian pillars," and Professor Freeman wittily
+suggests that it serves to remind us of the jumble of tongues
+characterizing "much of the law business that has been done within it."
+The present building was built in 1464, replacing one of earlier date.
+There are many pictures of local interest in the hall, and also
+portraits by Sir Peter Lely of Princess Henrietta, Anne, Duchess of
+Orleans, and of General Monk. The Princess was born in Exeter, and the
+portrait was presented to the city by Charles II after the Restoration.
+General Monk belonged to a Devonshire family whose residence was near
+Torrington. There seems to have been at one time a guild or
+confraternity connected with the chapel of St. George, erected over the
+hall about the last year of Richard III. In the accounts are found
+entries such as this: "Principae and others for exequis and masses said
+in the chapel of Guildhall for the repose of the souls for the brothers
+and sisters of the fraternity of St. George."
+
+When Richard III was nearing the end of his reign, the roof was
+fortified by a gun placed in charge of John Croker and ten soldiers. It
+is a strange coincidence that the chapel should have been built at this
+time. Evidently the wise citizens were determined to protect their
+interests both here and hereafter.
+
+
+
+
+DIMENSIONS.
+
+  Internal length                383 ft.
+  Nave, length                   140 ft.
+    "   breadth (with aisles)     72 ft.
+    "   height                    66 ft.
+  Choir, length                  123 ft.
+  Transept, length               140 ft.
+  Area                    29,600 sq. ft.
+
+
+
+
+INDEX
+
+
+  Ambulatory, 61.
+
+  Bell, great, 74.
+  Bishops, list of, 83-89.
+  Bishop's throne, 56.
+  Blackall, Offspring, Bishop, 18.
+  Brantyngham, Th., Bishop, 11.
+  Bronscombe, Walter, Bishop, 4;
+    his tomb, 66.
+  Bruere, Wm., Bishop, 4, 8.
+  Bytton, Thomas de, Bishop, 6, 78.
+
+  Carew monument, 70.
+  Chapels and Chantries:
+    St. Andrew's, 61.
+    St. Edmund's, 39.
+    St. Gabriel's, 69.
+    Holy Ghost, of the, 47.
+    St. James', 59.
+    St. John Baptist's, 44.
+    Lady, 65.
+    St. Mary Magdalen's, 69.
+    Oldham's, 63.
+    St. Paul's, 44.
+    St. Radegunde's, 36.
+    Speke's, 63.
+    Sylke's, 44.
+  Chapter House, 75.
+  Choir, 52-61.
+  Choir screen, 48.
+  Choir stalls, 55.
+  Clock, 44.
+  Cloister, 75.
+  Close, 78.
+  Corbels and Bosses, 32, 35.
+  Courtenay memorials, 40, 57.
+
+  Dimensions, 96.
+  Doddridge Tomb, 67.
+
+  Font, 39.
+
+  Gauden, John, Bishop, 16.
+  Grandisson, John, Bishop, 10;
+    his tomb, 38.
+  Guildhall, 95.
+
+  Hall, Joseph, Bishop, 16.
+
+  Lacy, Edmund, Bishop, 12.
+  Lady Chapel, 65.
+  Lamplugh, Thomas, Bishop, 17.
+  Lechlade, Walter de, Cantor, 6.
+  Leofric, 1st Bishop, 3.
+  Liber Exoniensis, 3.
+  Library, Cathedral, 78.
+
+  Marshall, Henry, Bishop, 4.
+  Minstrels' gallery, 36.
+  Misericords, 55.
+  Monuments, nave, 39-43;
+    transepts, 44, 47.
+
+  Nave, interior, 31-43.
+  Neville, George, Bishop, 14.
+
+  Oldham, Hugh, Bishop, 15, 63.
+  Organ, 52.
+
+  Palace, 79.
+  Porch, north, 24.
+  Pulpits, 39, 59.
+
+  Quivil, Peter, Bishop, 5;
+    his tomb, 69.
+
+  Radegunde, St., chapel of, 36.
+  Reredos, 56.
+  Richard III, at Exeter, 96.
+  Roof, 24; interior, 32.
+  Rougemont Castle, 91.
+
+  Sedilia, 56-59.
+  Simon de Apulia, Bishop, 4; his tomb, 67.
+  Stafford, Edmund, Bishop, his tomb, 66.
+  Stapledon, Walter de, Bishop, 7-10.
+  Sylke, his chantry, 44.
+
+  Tombs:
+    Bradbridge, 71.
+    Bronscombe, 66.
+    Stafford, 66.
+    Sir John and Lady Doddridge, 67.
+    Iscanus. 67.
+    Simon de Apulia, 67.
+    Quivil, 69.
+    Marshall, 71.
+    Simcox, 74.
+    Stapledon, 71.
+  Towers, 23.
+  Transept, North, 43; South, 44.
+  Triforium, 35.
+
+  Vault, 32.
+  Vesey, John, Bishop, 15.
+
+  Ward, Seth, Bishop, 17.
+  Warelwast, Bishop, 3.
+  West Front, 27-29.
+  William III, at Exeter, 17.
+  Window, East, 59.
+  Windows of nave, 39-43; tracery, 36.
+
+       *       *       *       *       *
+
+[Illustration: PLAN OF EXETER CATHEDRAL
+               From Britton's 'Antiquities of Exeter.'
+
+               #REFERENCES TO PLAN.#
+
+               A. B. West Doors.
+                  C. The Nave.
+               D. D. Nave Aisles.
+                  E. Chapel of St. Edmund.
+                  F. North Porch
+                  G. Transept North (St. Paul's Tower).
+                  H. Chapel of St. John the Baptist.
+                  I. Canon's Vestry.
+                  J. The Choir.
+               K. K. Choir Aisles.
+                  L. Syke's Chantry.
+                  M. Chapel of St. James.
+                  N. Chapel of St. George (Speke's Chantry).
+                  O. Chapel of St. Saviour (Bishop Oldham's Chantry).
+                  P. Lady Chapel.
+                  Q. Chapel of St. Mary Magdalen.
+                  R. Chapel of St. Gabriel.
+                  T. Transept South (St. Peter's Tower).
+                  U. Chapel of the Holy Ghost.
+                  V. The Chapter House.
+                  Y. St. Paul's Chapel (North Transept).
+                  Z. St. Radegunde's Chapel.]
+
+       *       *       *       *       *
+
+    CHISWICK PRESS: CHARLES WHITTINGHAM AND GRIGGS (PRINTERS), LTD.
+                 TOOKS COURT, CHANCERY LANE, LONDON.
+
+       *       *       *       *       *
+
+
+
+
+           BELL'S CATHEDRAL SERIES
+
+
+BANGOR. By P.B. IRONSIDE-BAX.
+BRISTOL. By H.J.L.J. MASSÉ, M.A. 2nd Edition.
+CANTERBURY. By HARTLEY WITHERS. 9th Edition.
+CARLISLE. By C.K. ELEY. 2nd Edition.
+CHESTER. By CHARLES HIATT. 4th Edition.
+CHICHESTER. By H.C. CORLETTE, A.R.I.B.A. 3rd Edition.
+DURHAM. By J.E. BYGATE, A.R.C.A. 4th Edition.
+ELY. By Rev. W.D. SWEETING, M.A. 5th Edition.
+EXETER. By PERCY ADDLESHAW, B.A. 5th Edition, revised.
+GLASGOW. By P. MACGREGOR CHALMERS.
+GLOUCESTER. By H.J.L.J. MASSÉ, M.A. 6th Edition.
+HEREFORD. By A. HUGH FISHER, A.R.E. 2nd Edition, revised.
+LICHFIELD. By A.B. CLIFTON. 3rd Edition, revised.
+LINCOLN. By A.F. KENDRICK, B.A. 5th Edition.
+LLANDAFF. By E.C. MORGAN-WILLMOTT, A.R.I.B.A.
+MANCHESTER. By the Rev. T. PERKINS, M.A., F.R.A.S.
+NORWICH. By C.H.B. QUENNELL. 2nd Edition, revised.
+OXFORD. By Rev. PERCY DEARMER, M.A. 2nd Edition, revised.
+PETERBOROUGH. By Rev. W.D. SWEETING, M.A. 4th Edition, revised.
+RIPON. By CECIL HALLET, B.A. 2nd Edition.
+ROCHESTER. By G.H. PALMER, B.A. 2nd Edition, revised.
+ST. ALBANS. By Rev. T. PERKINS, M.A.
+ST. ASAPH. By P.B. IRONSIDE-BAX.
+ST. DAVID'S. By PHILIP ROBSON, A.R.I.B.A. 2nd Edition.
+ST. PATRICK'S, DUBLIN. By the Rt. Rev. the BISHOP OF OSSORY, M.A. 2nd
+  Edition.
+ST. PAUL'S. By Rev. ARTHUR DIMOCK, M.A. 5th Edition, revised.
+SALISBURY. By GLEESON WHITE. 6th Edition, revised.
+SOUTHWARK, ST. SAVIOUR'S. By GEORGE WORLEY.
+SOUTHWELL. By Rev. ARTHUR DIMOCK, M.A. 2nd Edition, revised.
+WELLS. By Rev. PERCY DEARMER, M.A. 6th Edition, revised.
+WINCHESTER. By P.W. SERGEANT. 4th Edition, revised.
+WORCESTER. By EDWARD F. STRANGE. 3rd Edition.
+YORK. By A. CLUTTON BROCK. 6th Edition.
+
+          _Uniform with above Series._
+
+BEVERLEY MINSTER. By CHARLES HIATT. 47 Illustrations. 3rd Edition.
+THE CHURCHES OF COVENTRY. By FREDERIC W. WOODHOUSE.
+ST. MARTIN'S CHURCH, CANTERBURY. By Rev. CANON ROUTLEDGE, M.A.,
+  F.S.A. 24 Illustrations. 2nd Edition.
+ST. MARY REDCLIFFE. BRISTOL. By H.J.L.J. MASSÉ, M.A. _In the Press._
+STRATFORD-ON-AVON. By HAROLD BAKER, 2nd Edition.
+ST. BARTHOLOMEW'S, SMITHFIELD. By GEORGE WORLEY.
+TEWKESBURY ABBEY AND DEERHURST PRIORY. By H.J.L.J. MASSÉ,
+  M.A. 44 Illustrations. 4th Edition.
+WESTMINSTER ABBEY. By CHARLES HIATT. 4th Edition.
+MALVERN PRIORY. By REV. ANTHONY DEANE.
+
+
+       BELL'S HANDBOOKS TO CONTINENTAL CHURCHES.
+
+  _Profusely Illustrated. Crown 8vo, cloth, 3s. net each._
+
+CHARTRES: The Cathedral and Other Churches. By H.J.L.J. MASSÉ, M.A.
+ROUEN: The Cathedral and Other Churches. By the Rev. T. PERKINS, M.A.
+AMIENS. By the Rev. T. PERKINS, M.A., F.R.A S.
+MONT ST. MICHEL. By H.J.L.J. MASSÉ, M.A.
+BAYEUX. By the Rev. R.S. MYLNE, M.A.
+
+
+LONDON: G. BELL AND SONS, LTD.
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK BELL'S CATHEDRALS: THE CATHEDRAL
+CHURCH OF EXETER***
+
+
+******* This file should be named 19424-8.txt or 19424-8.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/1/9/4/2/19424
+
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.gutenberg.org/fundraising/pglaf.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://www.gutenberg.org/about/contact
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://www.gutenberg.org/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit:
+http://www.gutenberg.org/fundraising/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
