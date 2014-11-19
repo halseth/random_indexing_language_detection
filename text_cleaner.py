@@ -3,6 +3,7 @@
 import sys
 import string
 import codecs
+import re
 
 from unidecode import unidecode
 
@@ -16,7 +17,8 @@ if(len(sys.argv) < 3):
 inputFile = codecs.open(str(sys.argv[1]), encoding='utf-8')
 outputFile = open(str(sys.argv[2]), 'w')
 
-for s in inputFile:   
+for s in inputFile:
+    s = re.sub(u'ø', 'oe', s)
     s = unidecode(s)
     string_split = s.split()
     new_s = ''
