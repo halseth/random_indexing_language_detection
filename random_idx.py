@@ -29,6 +29,7 @@ def generate_vectors(N, k, cluster_sz, languages=None):
 				rand_idx = np.random.permutation(N)
 				RI_letters[i,rand_idx[0:k]] = 1
 				RI_letters[i,rand_idx[k:2*k]] = -1
+
 		RI = np.zeros((M,N))
 		for i in xrange(M):
 				# calculate repeats
@@ -51,9 +52,7 @@ def generate_vectors(N, k, cluster_sz, languages=None):
 								letter_idx = alphabet.find(letter)
 								prod = np.multiply(prod, RI_letters[letter_idx,:])
 						RI[i,:] = prod
-		#				print cluster, RI[i,:]
-		#		print cluster, RI[i,:]
-		#print RI
+
 		lang_vectors = np.zeros((num_lang,N))
 		for i in xrange(num_lang):
 				# load text one at a time (to save mem), English, German, Norwegian

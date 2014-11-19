@@ -59,8 +59,8 @@ def cosangles(lang_vectors,languages):
 		print labeled_cosangles
 		return cos_angles
 
-def generate_clusters(alphabet, cluster_sz=1):
-		# generates list of letter clusters of size "cluster" with "alphabet"
+def generate_ordered_clusters(alphabet, cluster_sz=1):
+		# generates list of letter clusters of size "cluster" with "alphabet", ordered
 
 		cluster_sz -= 1
 
@@ -77,9 +77,17 @@ def generate_clusters(alphabet, cluster_sz=1):
 								new_alph.append(old_alph[i] + alph[j])
 				old_alph = new_alph
 
+		return old_alph
+
+def generate_clusters(alphabet, cluster_sz=1):
+		# generate list of letter clusters of size "cluster" with "alphabet", unordered
+
+		# generate list of ordered clusters first
+		old_alph = generate_ordered_clusters(alphabet, cluster_sz)
+
+		# make faster later
 		new_alph = []
 		for cluster in old_alph:
-				#print cluster
 				permutations = list(itertools.permutations(cluster,len(cluster)))
 				perm_exists = 0
 				for i in xrange(len(permutations)):
@@ -88,6 +96,5 @@ def generate_clusters(alphabet, cluster_sz=1):
 								perm_exists = 1
 				if not perm_exists:
 						new_alph.append(cluster)
-				#print new_alph, '\n'
 
 		return new_alph
