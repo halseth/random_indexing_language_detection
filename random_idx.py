@@ -53,10 +53,13 @@ def generate_id(N,k,alph=alphabet,cluster_sz=1):
 
 def generate_RI_text(clusters, RI, text_name):
 		# generate RI vector for "text_name"
-		# assumes text_name has .txt
+		# assumes text_name has .txt        
 
+		N = RI.shape[1] # dimension of random indexing vectors
+		cluster_sz = len(clusters[0])
+		text_vector = np.zeros((1, N))
 		text = utils.load_text(text_name)
-		for char_num in xrange(len(lang_text)):
+		for char_num in xrange(len(text)):
 
 				if char_num < cluster_sz:
 						continue
@@ -64,10 +67,10 @@ def generate_RI_text(clusters, RI, text_name):
 						# build cluster
 						cluster = ''
 						for j in xrange(cluster_sz):
-								cluster = lang_text[char_num - j] + cluster
+								cluster = text[char_num - j] + cluster
 						if cluster in clusters:
 								cluster_idx = clusters.index(cluster)
-								lang_vectors[i,:] += RI[cluster_idx,:]
+								text_vector += RI[cluster_idx,:]
 		return text_vector
 
 def generate_RI(clusters, RI, languages=None):
@@ -80,22 +83,11 @@ def generate_RI(clusters, RI, languages=None):
 		num_lang = len(languages)
 
 		lang_vectors = np.zeros((num_lang,N))
-		for i in xrange(num_lang):
 
+		for i in xrange(num_lang):
 				# load text one at a time (to save mem), English, German, Norwegian
 				lang_text = utils.load_lang(languages[i])
-
-				for char_num in xrange(len(lang_text)):
-
-						if char_num < cluster_sz:
-								continue
-						else:
-								# build cluster
-								cluster = ''
-								for j in xrange(cluster_sz):
-										cluster = lang_text[char_num - j] + cluster
-								if cluster in clusters:
-										cluster_idx = clusters.index(cluster)
-										lang_vectors[i,:] += RI[cluster_idx,:]
+				lang_vectors[i,:] = generate_RI_text(clusters, RI, languages[i] + '.txt') 
+				print lang_vectors[i]
 
 		return lang_vectors

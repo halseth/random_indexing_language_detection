@@ -5,8 +5,8 @@
 import random_idx
 import utils
 
-N = 1000 # dimension of random index vectors
-k = 100 # number of + (or -)
+N = 10 # dimension of random index vectors
+k = 5 # number of + (or -)
 cluster_max = 3 # size of max letter cluster
 languages = ['english','german','norwegian','finnish']
 
