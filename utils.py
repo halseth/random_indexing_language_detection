@@ -78,8 +78,21 @@ def generate_ordered_clusters(alphabet, cluster_sz=1):
 				old_alph = new_alph
 
 		return old_alph
+        
+def generate_unordered_clusters(alphabet, cluster_sz=1):
+		# generate list of letter clusters of size "cluster" with "alphabet", unordered
+        
+        old_alph = ['']
+        while len(old_alph[0]) < cluster_sz:
+            new_alph = []
+            for s in old_alph:
+                for c in alphabet:
+                    if len(s)==0 or s[len(s)-1] <= c:
+                        new_alph.append(s + c)
+            old_alph = new_alph
+        return old_alph
 
-def generate_clusters(alphabet, cluster_sz=1):
+def old_generate_unordered_clusters(alphabet, cluster_sz=1):
 		# generate list of letter clusters of size "cluster" with "alphabet", unordered
 
 		# generate list of ordered clusters first
