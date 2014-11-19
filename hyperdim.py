@@ -11,6 +11,7 @@ cluster_max = 3 # size of max letter cluster
 languages = ['english','german','norwegian','finnish']
 
 total_vectors = []
+unknown_tots = []
 
 
 for cluster_sz in xrange(1,cluster_max+1):
@@ -20,9 +21,12 @@ for cluster_sz in xrange(1,cluster_max+1):
 
 		print "~~~~~~~~~~"
 		# calculate language vectors
-		lang_vectors = random_idx.generate_RI(clusters, RI, languages=languages)
+		lang_vectors = random_idx.generate_RI_lang(clusters, RI, languages=languages)
 		total_vectors.append(lang_vectors)
-		#unknown_vector = random_idx.generate_RI(clusters, RI)
+
+		# calculate unknown vector
+		unknown_vector = random_idx.generate_RI_text(clusters, RI,'unknown1.txt')
+		unknown_tots.append(unknown_vector)
 
 		# print cosine angles 
 		print '=========='
@@ -36,3 +40,5 @@ print 'N = ' + str(N) + '; k = ' + str(k) + '; max size letters clusters are ' +
 cosangles = utils.cosangles(final_lang, languages)
 
 # compare with "unknown text"
+final_unknown = sum(unknown_tots)
+utils.find_language(final_unknown, final_lang, languages)

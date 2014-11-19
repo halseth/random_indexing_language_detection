@@ -65,6 +65,28 @@ def cosangles(lang_vectors,languages):
 		print labeled_cosangles
 		return cos_angles
 
+def find_language(text_vector, lang_vectors, languages):
+
+		# number of languages
+		num_lang,N = lang_vectors.shape
+
+		# normalize language vectors
+		lang_vectors_normd = np.zeros(lang_vectors.shape)
+		for i in xrange(num_lang):
+				lang_vectors_normd[i,:] = lang_vectors[i,:]/np.linalg.norm(lang_vectors[i,:])
+
+		# normalize text vector
+		text_vector_normd = text_vector/np.linalg.norm(text_vector)
+
+		cos_angles = lang_vectors_normd.dot(text_vector_normd.T)
+		labeled_cosangles = pd.DataFrame(cos_angles, index=languages, columns=['likelihood'])
+		print labeled_cosangles
+
+		likely_lang_idx = np.argmax(cos_angles)
+		likely_language = languages[likely_lang_idx]
+		print 'most likely language of text is ' + str(likely_language)
+		return likely_language
+
 def generate_ordered_clusters(alphabet, cluster_sz=1):
 		# generates list of letter clusters of size "cluster" with "alphabet", ordered
 

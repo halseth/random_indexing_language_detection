@@ -73,7 +73,7 @@ def generate_RI_text(clusters, RI, text_name):
 								text_vector += RI[cluster_idx,:]
 		return text_vector
 
-def generate_RI(clusters, RI, languages=None):
+def generate_RI_lang(clusters, RI, languages=None):
 
 		if languages == None:
 				languages = ['english','german','norwegian','finnish']
