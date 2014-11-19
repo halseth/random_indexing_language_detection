@@ -89,7 +89,6 @@ def generate_RI_lang(clusters, RI, languages=None):
 
 		for i in xrange(num_lang):
 				# load text one at a time (to save mem), English, German, Norwegian
-				lang_text = utils.load_lang(languages[i])
 				lang_vectors[i,:] = generate_RI_text(clusters, RI, languages[i] + '.txt') 
 
 		return lang_vectors
