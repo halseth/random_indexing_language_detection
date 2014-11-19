@@ -10,12 +10,15 @@ import pandas as pd
 
 alphabet = string.lowercase
 
-def generate_id(N,k,alph=alphabet,cluster_sz=1):
+def generate_id(N,k,alph=alphabet,cluster_sz=1, ordered=0):
 		# generate id vectors of clusters from "alphabet" with size "cluster_sz"
 
 		# generate clusters
-		clusters = utils.generate_unordered_clusters(alph,cluster_sz=cluster_sz)
-
+		if ordered == 0:
+			clusters = utils.generate_unordered_clusters(alph,cluster_sz=cluster_sz)
+		else:
+			clusters = utils.generate_ordered_clusters(alph,cluster_sz=cluster_sz)
+			
 		M = len(clusters) # number of letter clusters
 		num_letters = len(alphabet)
 
