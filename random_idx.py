@@ -53,7 +53,7 @@ def generate_id(N,k,alph=alphabet,cluster_sz=1):
 
 def generate_RI_text(clusters, RI, text_name):
 		# generate RI vector for "text_name"
-		# assumes text_name has .txt        
+		# assumes text_name has .txt
 
 		N = RI.shape[1] # dimension of random indexing vectors
 		cluster_sz = len(clusters[0])
@@ -88,6 +88,5 @@ def generate_RI(clusters, RI, languages=None):
 				# load text one at a time (to save mem), English, German, Norwegian
 				lang_text = utils.load_lang(languages[i])
 				lang_vectors[i,:] = generate_RI_text(clusters, RI, languages[i] + '.txt') 
-				print lang_vectors[i]
 
 		return lang_vectors
