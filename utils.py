@@ -9,43 +9,28 @@ import string
 import pandas as pd
 import numpy as np
 import itertools
+import matplotlib.pyplot as plt
+import networkx as nx
 
 # constants
 text_dir = os.getcwd() + '/preprocessed_texts/'
 whitespace = string.whitespace
 
 
-def load_lang(language):
-		# loads text in language and removes all spaces
-
-		if language.lower() == 'english':
-				print 'loading english text'
-				text = load_text('english.txt')
-		elif language.lower() == 'german':
-				print 'loading german text'
-				text = load_text('german.txt')
-		elif language.lower() == 'norwegian':
-				print 'loading norwegian text'
-				text = load_text('norwegian.txt')
-		elif language.lower() == 'finnish':
-				print 'loading finnish text'
-				text = load_text('finnish.txt')
-		else:
-				print "sorry, no text stored in " + language
-
-		return text
-
 def load_text(text_name):
 		# loads text of text_name, assumes text has .txt and the file exists
-
-		textfile = open(text_dir + text_name)
-		text = textfile.read()
-		text = text.translate(None,whitespace)
-		textfile.close()
+		try:
+				print 'loading ' + str(text_name)
+				textfile = open(text_dir + text_name)
+				text = textfile.read()
+				text = text.translate(None,whitespace)
+				textfile.close()
+		except UnboundLocalError:
+				print 'sorry, no such file named ' + text_name + ' in ' + text_dir
 
 		return text
 
-def cosangles(lang_vectors,languages):
+def cosangles(lang_vectors,languages,display=0):
 		# measures the cosine angle of the given "lang_vectors" and labels them with "language"
 
 		# number of languages
@@ -63,9 +48,44 @@ def cosangles(lang_vectors,languages):
 		labeled_cosangles = pd.DataFrame(cos_angles, index=languages, columns=languages)
 
 		print labeled_cosangles
+		if display:
+
+				# calculate angles
+				acos_angles = np.arccos(cos_angles)
+				acos_angles[np.isnan(acos_angles)] = 0
+				acos_angles[acos_angles < 1e-5] = 0
+
+				display_graph(acos_angles, languages)
 		return cos_angles
 
-def find_language(text_vector, lang_vectors, languages):
+def display_graph(similarity, languages):
+		# display network of languages
+
+		num_lang = len(languages)
+		offset=0.07
+		'''
+		G = nx.Graph()
+		G.add_nodes_from(languages)
+		for i in xrange(num_lang):
+				for j in xrange(num_lang):
+						G.add_edge(languages[i], languages[j], dist = similarity[i,j])
+		labels = {}
+		for node in G.nodes():
+					labels[node] = node
+		pos = nx.fruchterman_reingold_layout(G)
+		nx.draw(G,pos=pos,with_labels=True, node_color='r',font_color='k',font_size=16,alpha=0.5)
+		plt.show()
+		'''
+		dt = [('len',float)]
+		similarity = similarity.view(dt)
+
+		G = nx.from_numpy_matrix(similarity)
+		G = nx.relabel_nodes(G, dict(zip(range(len(G.nodes())),languages)))
+		nx.draw_graphviz(G,prog='neato',alpha=0.5,with_labels=True)
+		plt.show()
+
+
+def find_language(text_name, text_vector, lang_vectors, languages):
 
 		# number of languages
 		num_lang,N = lang_vectors.shape
@@ -84,7 +104,7 @@ def find_language(text_vector, lang_vectors, languages):
 
 		likely_lang_idx = np.argmax(cos_angles)
 		likely_language = languages[likely_lang_idx]
-		print 'most likely language of text is ' + str(likely_language)
+		print 'most likely language of ' + text_name + ' is ' + str(likely_language)
 		return likely_language
 
 def generate_ordered_clusters(alphabet, cluster_sz=1):
