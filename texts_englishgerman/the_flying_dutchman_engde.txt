@@ -1,0 +1,3553 @@
+﻿The Project Gutenberg EBook of Der Fliegende Holländer, by Richard Wagner
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Der Fliegende Holländer
+       The Flying Dutchman
+
+Author: Richard Wagner
+
+Release Date: April 12, 2010 [EBook #31963]
+
+Language: German
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK DER FLIEGENDE HOLLÄNDER ***
+
+
+
+
+Produced by Louise Hope, Juliet Sutherland and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+[This text uses UTF-8 (Unicode) file encoding. If the apostrophes and
+quotation marks in this paragraph appear as garbage, make sure your
+text reader’s “character set” or “file encoding” is set to Unicode
+(UTF-8). You may also need to change the default font. As a last
+resort, use the Latin-1 version of the file instead.
+
+In the original, German and English were printed on facing two-columned
+pages. For this e-text, they are shown speech by speech, with differing
+indentation. The German libretto alone, without parallel translation,
+is available from Project Gutenberg as e-text 27769. The texts are
+identical except that a few additional errors have been corrected.
+
+Typographical errors are listed at the end of the e-text. In the
+German text, inconsistent labeling of acts and scenes is unchanged.]
+
+
+
+
+                 PRICE 65 CENTS
+  Metropolitan Opera Association, Incorporated
+
+
+                  METROPOLITAN
+
+                     OPERA
+
+
+                    LIBRETTO
+
+     The Original Italian, French or German
+            Libretto with a correct
+              English Translation
+
+                   *   *   *
+
+                FLYING DUTCHMAN
+
+                   *   *   *
+
+               FRED RULLMAN, Inc.
+       _1425 Broadway, New York 18, N.Y._
+
+    THE ONLY CORRECT AND AUTHORIZED EDITION
+          Knabe Piano Used Exclusively
+
+  Printed in U.S.A.
+
+
+
+
+                      THE
+
+                FLYING DUTCHMAN
+
+           (Der Fliegende Hollaender)
+
+
+                 Romantic Opera
+                 In Three Acts
+
+
+                       By
+                 RICHARD WAGNER
+
+
+                  Published By
+      FRED. RULLMAN, INC., NEW YORK, N.Y.
+
+
+
+
+ARGUMENT
+
+
+ACT I.
+
+A Norwegian brig is driven out of her course on the homeward voyage, and
+near the rockbound Norwegian Coast meets with the phantom ship of the
+“Flying Dutchman.” Daland, the captain of the Norwegian vessel, enters
+into a compact with the “Flying Dutchman” whose identity, however, is
+unknown to him, to give him a home and his daughter, Senta, for a wife,
+in consideration of the rich treasures stored away in the “Flying
+Dutchman’s” ship.
+
+
+ACT II.
+
+When the curtain rises, a bevy of Norwegian Girls, among whom are
+Daland’s daughter, Senta and her nurse Mary, are discovered turning
+their spinning wheels and singing a spinning song. A picture of the
+“Flying Dutchman” adorns the wall, and Senta, after singing a ballad
+sketching in incoherent, passionate strains, a story of the subject of
+the picture, solemnly vows that she will become the means of terminating
+the torment, to which the “Flying Dutchman” is subjected, and who can
+only be saved by a woman unwaveringly constant in her love. During the
+confusion which ensues upon this avowal, the father’s arrival is
+announced. In the time intervening between this announcement and
+Daland’s arrival, Erik, Senta’s lover, pleads for his love, and
+endeavors to persuade Senta that her infatuation for a phantom lover
+will lead to her irretrievable ruin; but to no avail. Daland arrives
+and presents the “Flying Dutchman” to his daughter. Senta accepts him
+as her affianced husband.
+
+
+ACT III.
+
+The curtain rises on the crew of the Norwegian brig singing a frolicking
+sailor song, and jesting with a bevy of girls, who bring them
+refreshments. The special object of their jest and fun (in which the
+girls also join), is the crew of the “Flying Dutchman,” whom they cannot
+persuade to join in their merry-making. They finally conclude that the
+crew of the neighboring ship must be dead, and the suspicion gains
+belief that the “Flying Dutchman” is playing one of his ugly tricks.
+The crew of the “Flying Dutchman” sing a fantastic song to which the
+Norwegian sailors intently listen, and whose weird words they finally
+endeavor to drown in a song of their own. Erik pleads again with Senta,
+and the “Flying Dutchman” appears on the scene, and orders his crew to
+prepare for immediate departure, thinking Senta had proven as faithless
+and inconstant in the love she had vowed him, as the rest of womankind
+he had come in contact with. Senta, however, vows that she will be true
+to him, and even after the “Flying Dutchman” discloses his identity, she
+does not falter in her resolution. “Thine will I be, until death shall
+us part!” she passionately exclaims and the curtain falls.
+
+
+
+
+  DRAMATIS PERSONAE
+
+
+  DALAND                     _A Norwegian Navigator_
+  SENTA                               _His Daughter_
+  ERIK                                  _A Huntsman_
+  MARY                               _Senta’s Nurse_
+  THE MATE                      _Of Daland’s Vessel_
+  THE FLYING DUTCHMAN.
+
+  _Sailors of the Norwegian Vessel. The Crew of the
+  Flying Dutchman. Girls._
+
+  SCENE: The Norwegian Coast
+
+
+
+
+  ERSTER AKT.
+
+      ACT I.
+
+
+  ERSTER AUFTRITT.
+
+      SCENE I.
+
+  MATROSEN.
+
+  Hohoje! Hohoje! Halloho! u. s. w.
+
+      SAILORS.
+
+      Heigho! Heigho! Halloho!
+
+  DALAND.
+
+  Kein Zweifel! Sieben Meilen fort
+  Trieb uns der Sturm vom sichern Port.
+  So nah’ dem Ziel nach langer Fahrt,
+  War mir der Streich noch aufgespart!
+
+      DALAND.
+
+      No doubt! Full seven miles away
+      Drove us the storm at break of day
+      So near the port, and to be met
+      By adverse wind--’tis ’nough to fret!
+
+  STEUERMANN.
+
+  Ho! Capitän!
+
+      MATE.
+
+      Ho! Captain!
+
+  DALAND.
+
+  Am Bord bei Euch, wie steht’s?
+
+      DALAND.
+
+      On deck I am with you. How do things progress?
+
+  STEUERMANN.
+
+  Gut, Capitän! Wir sind auf sicherm Grund.
+
+      MATE.
+
+      Well, captain, we are in home waters.
+
+  DALAND.
+
+  ’s ist Sandwyk-Strand, genau kenn’ ich die Bucht. --
+  Verwünscht! schon sah am Ufer ich mein Haus,
+  Senta, mein Kind, glaubt’ ich schon zu umarmen.
+  Da bläst er aus dem Teufels-Loch heraus. . . .
+  Wer baut auf Wind, baut auf Satans Erbarmen!
+  Was hilft’s? der Sturm lässt nach, --
+  Wenn so er tobte, währt’s nicht lang.
+  He! Bursche! lange war’t ihr wach;
+  Zur Ruhe denn, mir ist’s nicht bang!
+  Nun, Steuermann! die Wache nimmst Du wohl für mich?
+  Gefahr ist nicht, doch gut ist’s, wenn Du wachst.
+
+      DALAND.
+
+      ’Tis Sandwyk beach, full well know I the bay.
+      Confound the luck! I saw my house; a welcome sight!
+      Senta, my child, I fancied in my arms I held,
+      When of a sudden changeth the wind,
+      And blew a gale, as if in league with Satan’s power;
+      But now the worst is past, and its fury
+      The storm hath spent in fitful blasts.
+      Well, boys, you’ve had to work with giant power,
+      And you may rest, now that past the danger;
+      And you, mate, you may take the watch for me;
+      There’s no danger now, still keep a sharp look-out!
+
+  STEUERMANN.
+
+  Seid ausser Sorg’! Schlaft ruhig, Capitän!
+
+      MATE.
+
+      Rely on me! Good night, captain.
+
+  STEUERMANN.
+
+  Mit Gewitter und Sturm aus fernem Meer --
+  Mein Mädel, bin dir nah’.
+  Über thurmhohe Fluth vom Süden her --
+  Mein Mädel, ich bin da!
+  Mein Mädel, wenn nicht Südwind wär’,
+  Ich nimmer wohl käm’ zu Dir; --
+  Ach, lieber Südwind! blas’ noch mehr,
+  Mein Mädel verlangt nach mir!
+  Hohohe! Jolohe! Hoho! Ho! Ho! etc.
+  Von des Südens Gestad’, aus weitem Land’ --
+  Ich hab’ an Dich gedacht;
+  Durch Gewitter und Meer vom Mohrenstrand
+  Hab’ ich Dir was mitgebracht.
+  Mein Mädel, preis’ den Südwind hoch.
+  Ich bring’ Dir ein gülden Band; --
+  Ach, lieber Südwind, blase doch!
+  Mein Mädel hätt’ gern den Tand.
+  Hoho! Ho jolohe! etc.
+
+      MATE.
+
+      In tempest’s roar, on the wide sea,
+      My girl, I think of thee!
+      The gale, ah, well! it came from the South,
+      Lucky for thee and me!
+      My girl, if it hadn’t Southwind been,
+      I wouldn’t see thee again!
+      Ah! come and blow, my Southwind fair,
+      Else waits my love in vain.
+      Hohohe! Jolohe! Heigho! heigho! heigho
+      On Southland’s coast, in far off land,
+      My girl, I thought of thee!
+      All o’er the main, from tropic coast,
+      A gift I brought for thee;
+      My love I bring a golden toy--
+      Come, Southwind, blow again!
+      Southwind, thou art a lovely boy,
+      If thou wilt blow again.
+      Hoho! ho! jolohe! heigho!
+
+
+  ZWEITE SCENE.
+
+      SCENE II.
+
+  HOLLAENDER.
+
+  Die Frist ist um, und abermals verstrichen
+  Sind sieben Jahr! -- Voll Überdruss wirft mich
+  Das Meer an’s Land. . . Ha, stolzer Ocean!
+  In kurzer Frist sollst du mich wieder tragen!
+  Dein Trotz ist beugsam -- doch ewig meine Qual.
+  Das Heil, das auf dem Land ich suche, nimmer
+  Werd’ ich es finden! Euch, des Weltmeers Fluthen,
+  Bleib’ ich getreu, bis eure letzte Welle
+  Sich bricht und euer letztes Nass versiegt!
+  Wie oft in Meeres tiefsten Schlund
+  Stürzt’ ich voll Sehnsucht mich hinab,
+  Doch ach! den Tod, ich fand ihn nicht!
+  Da, wo der Schiffe furchtbar Grab,
+  Trieb _mein_ Schiff ich zum Klippengrund,
+  Doch ach! mein Grab, es schloss sich nicht!
+  Verhöhnend droht’ ich dem Piraten,
+  Im wilden Kampfe hofft’ ich Tod: --
+
+      THE FLYING DUTCHMAN.
+
+      The time is up, and to Eternity’s tomb consign’d
+      Another seven years! Disgusted is the main,
+      And throws me on the strand. Ah! sea so proud,
+      Thy waves, ere many days are past, I’ll ride again.
+      What of thy scorn with my torment in the balance weigh’d?
+      The rest which on land I seek, oh! never
+      Shall I find; for to the ocean waves
+      My destiny is bound, until the last wave
+      Ceases to flow, and evaporates into air.
+      How often into deepest abyss of the sea
+      Have I thrown my ship and hapless me;
+      But, alas! the death I sought I never found.
+      Where yawns the grave for ship and sailor,
+      I drove my ship to craggy rock,
+      But not was watery grave my lot.
+      Where sails the pirate’s dreaded craft,
+      Have oft I waited for bloody strife;
+
+  „Hier -- rief ich -- zeige deine Thaten!
+  Von Schätzen voll ist Schiff und Boot!“
+  Doch ach! des Meers barbar’scher Sohn
+  Schlägt bang’ das Kreuz und flieht davon!
+  Nirgends ein Grab! Niemals der Tod!
+  Dies der Verdammniss Schreck-Gebot.
+  Dich frage ich, gepries’ner Engel Gottes,
+  Der meines Heils Bedingung mir gewann,
+  War ich Unsel’ger Spielwerk Deines Spottes,
+  Als die Erlösung Du mir zeigtest an?
+  -- Vergebne Hoffnung! Furchtbar eitler Wahn!
+  Um ew’ge Treu’ auf Erden ist’s gethan! --
+  Nur _eine_ Hoffnung soll mir bleiben,
+  Nur _eine_ unerschüttert stehn!
+
+      “Now,” thus I challenged, “show thy pluck,
+      My ship with treasures rich is freight’d;”
+      But he, the sea’s barbarian son,
+      In horror did he cross himself, and take to flight.
+      For me no grave! For me no death!
+      Such damnation’s inflexible law.
+      I ask thee, heavenly angel mine,
+      Who my salvation’s condition hath secur’d,
+      Was I the foot-ball of thy caprice,
+      When the way to salvation thou didst show to me?
+      Ah! vain the hope, vain as is my prayer!
+      Faith hath taken wings, and soar’d to other worlds.
+      But one hope now remains,
+      But one hope I cherish!
+
+  So lang’ der Erde Keim’ auch treiben,
+  So muss sie doch zu Grunde gehn.
+  Tag des Gerichtes, jüngster Tag!
+  Wann brichst du an in meiner Nacht?
+  Wann dröhnt er, der Vernichtungsschlag;
+  Mit dem die Welt zusammenkracht?
+  Wann alle Todten auferstehn,
+  Dann werde ich in Nichts vergehn!
+  Ihr Welten, endet euren Lauf!
+  Ew’ge Vernichtung, nimm mich auf!
+
+      Though the globe still sails through space,
+      It, too, must end its course some day.
+      Last day of Earth, oh! judgment day,
+      Thou wilt end my misery.
+      When comes the day, the dreaded day,
+      That solves Life’s great mystery?
+      When the sea gives up its dead,
+      Then will _my_ requiem be said!
+      Die out, ye stars, in heaven’s dome,
+      Father above, oh, call me home!
+
+  CHOR.
+
+  Ew’ge Vernichtung, nimm uns auf!
+
+      (_Chorus._)
+
+      Father above, oh, call us home!
+
+
+  DRITTE SCENE.
+
+      SCENE III.
+
+  DALAND.
+
+  He! Holla! Steuermann!
+
+      DALAND.
+
+      Ho! Heigho! Mate! Heigho!
+
+  STEUERMANN.
+
+  ’s ist nichts! ’s ist nichts! --
+  Ach, lieber Südwind, blas’ noch mehr,
+  Mein Mädel. . . . .
+
+      MATE.
+
+      Nothing there, nothing!
+      Ah! come and blow, thou Southwind fair,
+      My girl--
+
+  DALAND.
+
+  Du siehst nichts? Gelt! Du wachest brav, mein Bursch! Dort liegt
+  ein Schiff! -- Wie lange schliefst Du schon?
+
+      DALAND.
+
+      You see nothing, and I thought that sharp lookout you’d keep.
+      There lies a ship! Answer me: How long did you sleep?
+
+  STEUERMANN.
+
+  Zum Teufel auch! -- Verzeiht mir, Capitän!
+  Werda! Werda!
+
+      MATE.
+
+      Damnation! Pardon, captain! Who’s there? Who’s there?
+
+  DALAND.
+
+  Es scheint, sie sind gerad so faul als wir.
+
+      DALAND.
+
+      Seems to me they are just as lazy dogs as we.
+
+  STEUERMANN.
+
+  Gebt Antwort! Schiff und Flagge!
+
+      MATE.
+
+      Answer, ye! whence and whither, and what’s your flag?
+
+  DALAND.
+
+  Lass sein. Mich dünkt, ich seh den Capitän. -- He! Holla!
+  Seemann! Nenne Dich! Wess Landes?
+
+      DALAND.
+
+      Cease your questioning! methinks I see the captain--
+      Ye! holo! ye o’er there; whence and whither?
+
+  HOLLAENDER.
+
+  Weit komm’ ich her. Verwehrt bei Sturm und Wetter Ihr mir
+  den Ankerplatz?
+
+      THE FLYING DUTCHMAN.
+
+      From far I come. In such dreadful weather.
+      Will you deny me anchorage safe?
+
+  DALAND.
+
+  Behüt’ es Gott! Gastfreundschaft kennt der Seemann.
+  -- Wer bist Du?
+
+      DALAND.
+
+      God forbid! the mariner knows full well hospitality’s worth.
+      Who are you?
+
+  HOLLAENDER.
+
+  Holländer.
+
+      THE FLYING DUTCHMAN.
+
+      Dutch.
+
+  DALAND.
+
+  Gott zum Gruss! -- So trieb auch Dich
+  Der Sturm an diesen nackten Felsenstrand?
+  Mir ging’s nicht besser, wenig Meilen nur
+  Von hier ist meine Heimath; fast erreicht,
+  Musst’ ich auf’s Neu’ mich von ihr wenden. -- Sag’,
+  Woher kommst Du? Hast Schaden Du genommen?
+
+      DALAND.
+
+      Be welcome then! I perceive the storm
+      Drove you, too, to this craggy shore;
+      I fared no better; but a few miles distant
+      Is my home. Almost within its charm’d circle,
+      I had to change my course. But, say,
+      Whence do you come? Has damage sustained your ship?
+
+  HOLLAENDER.
+
+  Mein Schiff ist fest, es leidet keinen Schaden. -- --
+  Durch Sturm und bösen Wind verschlagen,
+  Irr’ auf den Wassern ich umher; --
+  Wie lange? weiss ich kaum zu sagen,
+  Schon zähl’ ich nicht die Jahre mehr.
+  Unmöglich dünkt mich’s, dass ich nenne
+  Die Länder alle, die ich fand:
+  Das Einz’ge nur, nach dem ich brenne,
+  Ich find’ es nicht; mein Heimathland!
+  Vergönne mir auf kurze Frist Dein Haus,
+  Und Deine Freundschaft soll Dich nicht gereu’n,
+  Mit Schätzen aller Gegenden und Zonen
+  Ist reich mein Schiff beladen: -- willst Du handeln,
+  So sollst Du sicher Deines Vortheils sein.
+
+      THE FLYING DUTCHMAN.
+
+      My ship is sound, and wind and tempest proof.
+      Storm and adverse wind, in league,
+      Keep me away from the shore;
+      How long? How should I know it still,
+      When count I keep not any more?
+      I cannot tell the scenes I saw,
+      Nor name the ports I sought to reach;
+      The only scene I long to see,
+      I cannot find--my native beach!
+      And now, my friend, come take me home,
+      Give me shelter and give me rest.
+      My ship is freighted with treasures rare,
+      Choose thou the rarest, take the best--
+      Thy humble roof, oh, let me share!
+
+  DALAND.
+
+  Wie wunderbar! Soll Deinem Wort ich glauben?
+  Ein Unstern, scheint’s, hat Dich bis jetzt verfolgt.
+  Um Dir zu dienen, biet’ ich, was ich kann;
+  Doch -- darf ich fragen, was Dein Schiff enthält?
+
+      DALAND.
+
+      How strange this sounds. Can I believe such tale?
+      It will seem that thine is a strange fate.
+      If I can serve thee, thou wilt find me ready;
+      But, may I ask, what does thy ship contain?
+
+  HOLLAENDER.
+
+  Die seltensten der Schätze sollst Du sehn,
+  Kostbare Perlen, edelstes Gestein.
+  Blick’ hin und überzeuge Dich vom Werthe
+  Des Preises, den ich für ein gastlich Dach
+  Dir biete!
+
+      THE FLYING DUTCHMAN.
+
+      The rarest of treasures I’ll show thee,
+      Gold and pearls and precious stones;
+      See how they glitter! Is the price
+      Ample, and does it compensate
+      For hospitable roof?
+
+  DALAND.
+
+  Wie? Ist’s möglich? Diese Schätze!
+  Wer ist so reich, den Preis dafür zu bieten?
+
+      DALAND.
+
+      What! Is it possible? These treasures!
+      Who has riches enough to outweigh their value?
+
+  HOLLAENDER.
+
+  Den Preis? So eben hab’ ich ihn genannt:
+  Dies für das Obdach einer einz’gen Nacht!
+  Doch was Du siehst, ist nur der kleinste Theil
+  Von dem, was meines Schiffes Raum verschliesst.
+  Was frommt der Schatz? Ich habe weder Weib
+  Noch Kind, und meine Heimath find’ ich nie.
+  All’ meinen Reichthum biet’ ich Dir, wenn bei
+  Den Deinen Du mir neue Heimath giebst.
+
+      THE FLYING DUTCHMAN.
+
+      I told thee how to repay for these treasures all;
+      I give them for the shelter of a single night.
+      Still what thou seest but small portion is
+      Of the riches stored in my ship’s hold.
+      Of what value all these treasures? No wife I have,
+      Nor child, and my native land I’ll never reach
+      All my riches shall be thine, as the price
+      I pay with all my heart for the home I crave.
+
+  DALAND.
+
+  Was muss ich hören?
+
+      DALAND.
+
+      What must I hear?
+
+  HOLLAENDER.
+
+  Hast Du eine Tochter?
+
+      THE FLYING DUTCHMAN.
+
+      Hast thou a daughter?
+
+  DALAND.
+
+  Fürwahr, ein theures Kind.
+
+      DALAND.
+
+      I have, and dear she is to me.
+
+  HOLLAENDER.
+
+  Sie sei mein Weib!
+
+      THE FLYING DUTCHMAN.
+
+      Then give her unto me for wife.
+
+  DALAND.
+
+  Wie? Hör’ ich recht? Meine Tochter sein Weib?
+  Er selbst spricht aus den Gedanken: --
+  Fast fürcht’ ich, wenn unentschlossen ich bleib’,
+  Er müsst’ im Vorsatze wanken.
+  Wüsst’ ich, ob ich wach’ oder träume!
+  Kann ein Eidam willkommener sein?
+  Ein Thor, wenn das Glück ich versäume;
+  Voll Entzücken schlage ich ein.
+
+      DALAND.
+
+      My child shall be his; why should I delay,
+      When great is the wealth that will be my part?
+      The bargain is good, I’ll close it this day,
+      ’Ere yet he might change his mind, and depart;
+      I will give him my child to be his bride,
+      So she will be a rich man’s happy wife;
+      A fool if such good offer I denied,
+      It’s the best bargain I made in my life.
+
+  HOLLAENDER.
+
+  Ach, ohne Weib, ohne Kind bin ich,
+  Nichts fesselt mich an die Erde.
+  Rastlos verfolgte das Schicksal mich,
+  Die Qual nur war mein Gefährte.
+  Nie werd’ ich die Heimath erreichen;
+  Zu was frommt mir der Güter Gewinn?
+  Lässt Du zu dem Bund Dich erweichen,
+  O, so nimm meine Schätze dahin!
+
+      THE FLYING DUTCHMAN.
+
+      No heir, no child, no wife are given me,
+      And no earthly joy have ever I known;
+      Fate, relentless through all eternity,
+      Wildly pursues me like a hunted fawn.
+      Whenever I can reach my home again,
+      What shall I do with all my riches rare?
+      The terms are good; let us close the bargain,
+      And my ship’s whole cargo shall be thy share.
+
+  DALAND.
+
+  Wohl, Fremdling, hab’ ich eine schöne Tochter,
+  Mit treuer Kindeslieb’ ergeben mir;
+  Sie ist mein Stolz, das höchste meiner Güter,
+  Mein Trost im Unglück, meine Freud’ im Glück.
+
+      DALAND.
+
+      Truly, stranger, a pretty daughter I call mine,
+      With filial love she is attached to me;
+      She is my pride, the best of all I have,
+      And I feel for her as only a father feels.
+
+  HOLLAENDER.
+
+  Dem Vater stets bewahr’ sie ihre Liebe,
+  _Ihm_ treu, wird sie auch treu dem Gatten sein.
+
+      THE FLYING DUTCHMAN.
+
+      For the father she may always cherish filial love.
+      If true to him, true she will be to him she weds.
+
+  DALAND.
+
+  Du giebst Juwelen, unschätzbare Perlen,
+  Das höchste Kleinod doch, ein treues Weib. . .
+
+      DALAND.
+
+      While jewels and pearls are costly things,
+      The costliest still is a loving wife.
+
+  HOLLAENDER.
+
+  Du giebst es mir?
+
+      THE FLYING DUTCHMAN.
+
+      And she shall be mine?
+
+  DALAND.
+
+  Ich gebe Dir mein Wort.
+  Mich rührt Dein Loos; freigebig, wie Du bist,
+  Zeigst Edelmuth und hohen Sinn Du mir: --
+  Den Eidam wünscht’ ich so, und wär’ Dein Gut
+  Auch nicht so reich, wählt’ ich doch keinen Andern.
+
+      DALAND.
+
+      My word I pledge to thee,
+      Thy fate has won my heart; thou’rt lavish;
+      Thus must be he who weds my daughter,
+      And if less rich thou wert, no other would I choose.
+
+  HOLLAENDER.
+
+  Hab’ Dank! Werd’ ich die Tochter heut’ noch sehn?
+
+      THE FLYING DUTCHMAN.
+
+      Thanks! Will I see thy girl ere sinks the day to rest?
+
+  DALAND.
+
+  Der nächste günst’ge Wind führt uns nach Haus.
+  Du sollst sie sehn, und wenn sie Dir gefällt --
+
+      DALAND.
+
+      With change of wind we set our sails homeward;
+      Once on shore, and if my daughter suits thee, then--
+
+  HOLLAENDER.
+
+  So ist sie mein. . . Wird sie mein Engel sein?
+  Wenn aus der Qualen Schreckgewalten
+  Die Sehnsucht nach dem Heil mich treibt,
+  Ist mir’s erlaubt, mich fest zu halten
+  An _einer_ Hoffnung, die mir bleibt.
+  Darf ich in jenem Wahn noch schmachten,
+  Dass sich ein Engel mir erweicht?
+  Der Qualen, die mein Haupt umnachten,
+  Ersehntes Ziel hätt’ ich erreicht.
+  Ach! ohne Hoffnung wie ich bin,
+  Geb’ ich mich doch der Hoffnung hin!
+
+      THE FLYING DUTCHMAN.
+
+      Then she will be mine--my angel she shall be.
+      When out of torment’s iron hold,
+        I long to see salvation near,
+      I cling--for so have I been told--
+        To _one_ hope still remaining dear.
+      May still I hope--I cannot pray--
+        That pity feel might angel-wife?
+      Then will I praise this happy day,
+        When o’er, at last, this woeful strife.
+      Though hope has died, and left no trace,
+      I hope again for joy and grace.
+
+  DALAND.
+
+  Gepriesen seid, des Sturms Gewalten,
+  Die ihr an diesen Strand mich triebt.
+  Fürwahr! Blos brauch ich festzuhalten,
+  Was sich so schön von selbst mir giebt.
+  Die ihn an diese Küste brachten
+  Ihr Winde sollt gesegnet sein!
+  Ja, wonach alle Väter trachten,
+  Ein reicher Eidam, er ist mein.
+  Dem Mann mit Gut und hohem Sinn
+  Geb’ froh ich Haus und Tochter hin!
+
+      DALAND.
+
+      When from the South it blew a gale
+      That drove me to this rocky shore,
+      I did at first my fate bewail;
+      But now I wail and grieve no more.
+      I praise the wind that drove me here,
+      For here I met a lucky fate,
+      For here I found a treasure dear:
+      A rich man with my child to mate!
+      He who with treasure sails the sea,
+      Shall welcome to my daughter be!
+
+  STEUERMANN.
+
+  Südwind! Südwind!
+  Ach! lieber Südwind, blas’ noch mehr!
+
+      MATE.
+
+      Southwind! Southwind!
+      Come, Southwind, blow again!
+
+  MATROSEN.
+
+  Holloje! Hollajo!
+
+      SAILORS.
+
+      Heigho! Heigho! Heigho!
+
+  DALAND.
+
+  Du siehst, das Glück ist günstig Dir:
+  Der Wind ist gut, die See in Ruh’.
+  Sogleich die Anker lichten wir
+  Und segeln schnell der Heimath zu.
+
+      DALAND.
+
+      We are lucky, indeed; for good is the wind,
+      And smooth as a sea of glass is the sea;
+      Let us weigh the anchors without delay,
+      And set sail for the sheltering port.
+
+  MATROSEN.
+
+  Hohohe! Hohohe! Halloho! Jo! etc.
+
+      SAILORS.
+
+      Heigho! ho! Heigho! ho! ho!
+
+  HOLLAENDER.
+
+  Darf ich Dich bitten, segelst Du voran;
+  Der Wind ist frisch, doch, meine Mannschaft müd’,
+  Ich gönn’ ihr kurze Ruh’, und folge dann.
+
+      THE FLYING DUTCHMAN.
+
+      You sail ahead, if it so pleases you,
+      The wind is good, but fatigued are my men;
+      I’ll give them rest, and then I follow.
+
+  DALAND.
+
+  Doch unser Wind?
+
+      DALAND.
+
+      But if the wind should change?
+
+  HOLLAENDER.
+
+  Er bläst noch lang’ aus Süd’,
+  Mein Schiff ist schnell, es holt Dich sicher ein.
+
+      THE FLYING DUTCHMAN.
+
+      ’T will blow from the South, be assured.
+      My ship sails fast, and will reach you soon.
+
+  DALAND.
+
+  Du glaubst? Wohlan! Es möge denn so sein.
+  Leb’ wohl! mögst heute Du mein Kind noch sehn!
+
+      DALAND.
+
+      As you say, so it be.
+      Farewell! And my child, will you see her this day?
+
+  HOLLAENDER.
+
+  Gewiss!
+
+      THE FLYING DUTCHMAN.
+
+      This day I shall see her.
+
+  DALAND.
+
+  Hei! Wie die Segel schon sich bläh’n!
+  Hallo! Hallo! Frisch, Jungen! Greifet an!
+
+      DALAND.
+
+      See how swell in the wind the sails!
+      Hallo! Hallo! Be up and doing, boys!
+
+  MATROSEN.
+
+  Mit Gewitter und Sturm aus fernem Meer.
+  Mein Mädel, bin Dir nah!
+  Ueber thurmhohe Fluth, vom Süden her --
+  Mein Mädel, ich bin da!
+  Mein Mädel, wenn nicht Südwind wär’,
+  Ich nimmer wohl käm’ zu Dir!
+  Ach, lieber Südwind, blas’ noch mehr!
+  Mein Mädel verlangt nach mir!
+  Hohoje! Halloho! Hoho! Ho! Ho! Ho!
+
+      SAILORS.
+
+      In tempest’s roar, on the wide sea,
+      My girl, I think of thee!
+      The gale, ah, well! it came from the South--
+      Lucky for thee and me!
+      My girl, if it hadn’t Southwind been,
+      I wouldn’t see thee again!
+      Ah! come and blow, my Southwind fair,
+      Else waits my love in vain.
+      Hohohe! Johohe! heigho! heigho!
+
+
+
+
+  ZWEITER ACT.
+
+      ACT II.
+
+
+  ERSTE SCENE.
+
+      SCENE I.
+
+  MAEDCHEN.
+
+  Summ und brumm, du gutes Rädchen,
+  Munter, munter dreh’ dich um!
+  Spinne, spinne tausend Fädchen,
+  Gutes Rädchen, summ’ und brumm!
+  Mein Schatz ist auf dem Meere draus,
+  Er denkt nach Haus
+  An’s fromme Kind:
+  Mein gutes Rädchen saus’ und braus’!
+  Ach, gäbst du Wind,
+  Er käm’ geschwind!
+  Spinnt, spinnt!
+  Fleissig, Mädchen!
+  Summ, brumm,
+  Gutes Rädchen!
+
+      GIRLS.
+
+      Hum and buzz! What cheerful sound!
+      Turn round the wheel, quick, quick, quick!
+      Spin the golden thread around!
+      Hum and buzz like magic trick!
+      My love sails o’er stormy sea,
+      And thinks of me,
+      His own sweetheart.
+      Pray, O pray, for him and me,
+      That storm depart,
+      Fair wind his part!
+      Spin and spin
+      The wheel around,
+      Hum and buzz
+      With cheery sound!
+
+  MARY.
+
+  Ei! Fleissig, fleissig, wie sie spinnen!
+  Will jede sich den Schatz gewinnen.
+
+      MARY.
+
+      See, how quick they turn the wheel!
+      Must be for love they for him feel.
+
+  MAEDCHEN.
+
+  Frau Mary, still! denn wohl Ihr wisst,
+  Das Lied noch nicht zu Ende ist.
+
+      GIRLS.
+
+      Thou mustn’t speak! While floats our song
+      On airy wings, please hold thy tongue!
+
+  MARY.
+
+  So singt! dem Rädchen lässt’s nicht Ruh’.
+  Du aber, Senta, schweigst dazu?
+
+      MARY.
+
+      Then sing your song the life-long night!
+      But, Senta! child, thou art so quiet.
+
+  MAEDCHEN.
+
+  Summ und brumm, du gutes Rädchen,
+  Munter, munter dreh’ dich um!
+  Spinne, spinne tausend Fädchen,
+  Gutes Rädchen, summ und brumm!
+  Mein Schatz da draussen auf dem Meer
+  Im Süden er
+  Viel Gold gewinnt.
+  Ach, gutes Rädchen, braus’ noch mehr!
+  Er giet’s dem Kind,
+  Wenn’s fleissig spinnt.
+  Spinnt, spinnt!
+  Fleissig, Mädchen!
+  Summ, brumm,
+  Gutes Rädchen!
+
+      GIRLS.
+
+      Hum and buzz! What cheerful sound
+      Turn round the wheel, quick, quick, quick!
+      Spin the golden thread around!
+      Hum and buzz like magic trick!
+      My love sails o’er stormy sea,
+      On Southland’s coast
+      He seeks for gold.
+      Pray, O pray, that I may boast,
+      And share his gold.
+      And now behold
+        How turns the wheel
+      With cheery sound,
+        While sure I feel
+      For home he’s bound!
+
+  MARY.
+
+  Du böses Kind, wenn Du nicht spinnst,
+  Vom Schatz Du kein Geschenk gewinnst!
+
+      MARY.
+
+      Thou bad child, thou, if thou wilt not spin,
+      Thou ne’er the gold thy love brings shalt win.
+
+  MAEDCHEN.
+
+  Sie hat’s nicht noth, dass sie sich eilt,
+  Ihr Schatz nicht auf dem Meere weilt;
+  Bringt er nicht Gold, bringt er doch Wild,
+  Man weiss ja, was ein Jäger gilt!
+
+      GIRLS.
+
+      Why should she spin and work as we?
+      _Her_ love not sails o’er stormy sea,
+      Her love’s a huntsman gay and bold,
+      He brings her game instead of gold.
+
+  MARY.
+
+  Da seht Ihr’s! Immer vor dem Bild! --
+  Wirst Du Dein ganzes junges Leben
+  Verträumen vor dem Conterfei?
+
+      MARY.
+
+      Look at her! Always before the picture!
+      Senta, art thou to dream away thy young life,
+      Contemplating this portrait?
+
+  SENTA.
+
+  Was hast Du Kunde mir gegeben,
+  Was mir erzählet, wer es sei!
+  Der arme Mann!
+
+      SENTA.
+
+      Thine the blame!
+      From thee his history I learned--
+      Poor man he!
+
+  MARY.
+
+  Gott sei mit Dir!
+
+      MARY.
+
+      May God protect thy young life!
+
+  MAEDCHEN.
+
+  Ei, ei! Ei, ei! Was hören wir?
+  Sie seufzet um den bleichen Mann.
+
+      GIRLS.
+
+      What! what’s this! listen well!
+      She sighs for him, this pale man.
+
+  MARY.
+
+  Den Kopf verliert sie noch darum.
+
+      MARY.
+
+      Her head will be turned, God knows!
+
+  MAEDCHEN.
+
+  Da sieht man, was ein Bild doch kann!
+
+      GIRLS.
+
+      This a simple picture’s power shows.
+
+  MARY.
+
+  Nichts hilft es, wenn ich täglich brumm’:
+  Komm’, Senta! wend’ Dich doch herum!
+
+      MARY.
+
+      All my scolding is in vain,
+      Come, Senta, be a good child.
+
+  MAEDCHEN.
+
+  Sie hört Euch nicht, -- sie ist verliebt.
+  Ei, ei! Wenn’s nur nicht Händel giebt!
+  Erik ist gar ein heisses Blut,
+  Dass er nur keinen Schaden thut!
+  Sagt nichts, er schiesst sonst wuthentbrannt
+  Den Nebenbuhler von der Wand.
+
+      GIRLS.
+
+      Not does she mind thee; she’s in love,
+      A bad affair this will be,
+      You know how jealous Erik is,
+      Why! he’ll be apt to act quite rash,
+      And, blinded by his jealousy, shoot
+      His rival hanging on the wall.
+
+  SENTA.
+
+  O schweigt! Mit Eurem tollen Lachen
+  Wollt Ihr mich ernstlich böse machen?
+
+      SENTA.
+
+      Cease this talk, you foolish things,
+      Or angry I will be.
+
+  MAEDCHEN.
+
+  Summ und brumm, du gutes Rädchen,
+  Munter, munter dreh’ dich um!
+  Spinne, spinne tausend Fädchen,
+  Gutes Rädchen, brumm und summ!
+
+      GIRLS.
+
+      Hum and buzz! What cheerful sound!
+        Turn round the wheel, quick, quick, quick!
+      Spin the golden thread around!
+        Hum and buzz like magic trick!
+
+  SENTA.
+
+  O macht dem tollen Lied ein Ende,
+  Es summt und brummt mir vor dem Ohr!
+  Wollt Ihr, dass ich mich zu Euch wende,
+  So sucht was Besseres hervor!
+
+      SENTA.
+
+      Enough, now, of this spinning song
+        It hums and buzzes in my ear;
+      If I must join your busy throng,
+        Then sing the song I hold so dear.
+
+  MAEDCHEN.
+
+  Gut, singe Du!
+
+      GIRLS.
+
+      Tired we are; sing it for us.
+
+  SENTA.
+
+  Hört, was ich rathe.
+  Frau Mary singt uns die Ballade.
+
+      SENTA.
+
+      For me it is too long;
+      Why can’t Mary sing the song?
+
+  MARY.
+
+  Bewahre Gott! das fehlte mir!
+  Den fliegenden Holländer lasst in Ruh’.
+
+      MARY.
+
+      Heav’n forbid! ’tis no time to jest,
+      Leave the Flying Dutchman at rest.
+
+  SENTA.
+
+  Wie oft doch hört’ ich sie von Dir!
+  Ich sing’ sie selbst, hört, Mädchen, zu.
+  Lasst mich’s Euch recht zu Herzen führen,
+  Des Aermsten Loos, es muss Euch rühren.
+
+      SENTA.
+
+      Why not sing it now as well?
+      Come, girls, I will sing you the song,
+      That you may hear how relentless fate
+      Ever and ever pursueth this man.
+
+  MAEDCHEN.
+
+  Uns ist es recht.
+
+      GIRLS.
+
+      Give us the song!
+
+  SENTA.
+
+  Merkt auf die Wort’!
+
+      SENTA.
+
+      Be quiet and listen.
+
+  MAEDCHEN.
+
+  Dem Spinnrad Ruh’!
+
+      GIRLS.
+
+      The wheels at rest!
+
+  MARY.
+
+  Ich spinne fort.
+
+      MARY.
+
+      Not mine! I turn my wheel quick, quick!
+
+  SENTA.
+
+  Johohoe! Johohohoe! etc. etc.
+  Traft ihr das Schiff im Meere an,
+  Blutroth die Segel, schwarz der Mast?
+  Auf hohem Bord der bleiche Mann,
+  Des Schiffes Herr, wacht ohne Rast.
+  Hui! Wie saust der Wind! -- Johohe!
+  Hui! Wie pfeift’s im Tau! -- Johohe!
+  Hui! Wie ein Pfeil fliegt er hin -- ohne Ziel --
+    ohne Rast -- ohne Ruh!
+
+      SENTA.
+
+      Heigho! ho! heigho! ho! heigho! ho!
+      There sails a ship o’er the deep main,
+        With blacken’d mast and crimson’d sail,
+      On deck you see the man of pain,
+        His eyes so dark, his face so pale.
+      Huzza! Listen the wind! Heigho! Heigho! heigho! ho!
+      Huzza! See the sails spread! Heigho! heigho!
+      Huzza! She leaps and leaps, from wave forever, evermore!
+
+  Doch kann dem bleichen Manne Erlösung einst noch werden,
+  Fänd’ er ein Weib, das bis in den Tod getreu ihm auf Erden.
+  Ach, wann wirst du bleicher Seemann, sie finden!
+  Betet zum Himmel, dass bald
+  Ein Weib Treue ihm halt’!
+
+      But he can be saved, this captain so pale,
+      If woman’s heart in her mission not fail!
+      But when will he find this woman so rare,
+        this woman so rare?
+      Pray for the man at sea,
+      That woman true to him be!
+
+  Bei bösem Wind und Sturmes Wuth
+  Umsegeln wollt’ er einst ein Cap;
+  Er flucht’ und schwur in tollem Muth:
+  „In Ewigkeit lass’ ich nicht ab!“ --
+  Hui! -- Und Satan hört’s -- Johohe!
+  Hui! -- Nahm ihn bei’m Wort! -- Johohe!
+  Hui! Und verdammt zieht er nun durch das Meer,
+    ohne Rast, ohne Ruh’.
+
+      Around a cape he once would sail,
+      And thus it was that he did hail:
+      “I’ll sail, I’ll sail, I’ll sail evermore!”
+      Huzza! Satan, he heard him hail! ho! heigho!
+      Huzza! Satan took him by his word! ho! heigh!
+      Huzza! And damned he! His ship, she leaps
+        from wave to wave forever, evermore!
+
+  Doch, dass der arme Mann noch Erlösung fände auf Erden,
+  Zeigt’ Gottes Engel an, wie sein Heil ihm einst könne werden!
+  Ach! möchtest Du, bleicher Seemann, es finden!
+  Betet zum Himmel, dass bald
+  Ein Weib Treue ihm halt’! --
+
+      But that he might be saved, this captain so pale,
+      An angel points to woman’s heart without fail.
+      Oh! that he may soon find this woman so rare,
+        this woman so rare!
+      Pray for the man at sea
+      That woman constant be!
+
+  Vor Anker alle sieben Jahr,
+  Ein Weib zu frei’n, ging er an’s Land.
+  Er freite alle sieben Jahr,
+  Noch nie ein treues Weib er fand. --
+  Hui! „die Segel auf!“ -- Johohe!
+  Hui! „den Anker los!“ -- Johohe!
+  Hui! falsche Lieb’, falsche Treu’!
+    Auf in See! Ohne Rast, ohne Ruh!
+
+      Once in seven years he sought,
+      Still love for gold he ne’er bought!
+      Once in seven years he tried,
+      Still woman constant he ne’er spied!
+      Huzza! Spread the sails! heigho! ho!
+      Huzza! the anchor weigh! heigho! ho!
+      Huzza! False Love! Woman frail!
+        leap, ship--leap from wave to wave forevermore!
+
+  MAEDCHEN.
+
+  Ach, wo weilt sie, die Dir Gottes Engel einst könne zeigen?
+  Wo triffst Du sie, die bis in den Tod Dein bliebe treueigen?
+
+      GIRLS.
+
+      Where, oh, where is the woman so rare,
+        His love to win, his treasures to share?
+
+  SENTA.
+
+  Ich sei das Weib! Meine Treu’ soll Dich erlösen!
+  Mög’ Gottes Engel mich Dir zeigen;
+  Durch mich sollst Du das Heil erreichen!
+
+      SENTA.
+
+      Mine this mission be! My love thy salvation shall be!
+      Angel above, oh! bring to me
+      The pale man sailing o’er the sea!
+
+  MARY UND DIE MAEDCHEN.
+
+  Hilf Himmel! Senta! Senta!
+
+      MARY AND ALL THE GIRLS.
+
+      Heaven help us! Senta! Senta!
+
+  ERIK.
+
+  Senta! Senta! Willst Du mich verderben?
+
+      ERIK.
+
+      Senta! Senta! think of me who owns thy love!
+
+  MAEDCHEN.
+
+  Hilf uns, Erik, sie ist von Sinnen!
+
+      GIRLS.
+
+      Erik, help, help! Her head is turned.
+
+  MARY.
+
+  Vor Schreck fühl’ ich mein Blut gerinnen!
+  Abscheulich Bild, Du sollst hinaus,
+  Kommt nur der Vater erst nach Haus!
+
+      MARY.
+
+      My brain, it reels, it reels!
+      I’ll tear the picture into shreds,
+      As soon as her father returns.
+
+  ERIK.
+
+  Der Vater kommt.
+
+      ERIK.
+
+      The father! he’s coming!
+
+  SENTA.
+
+  Der Vater kommt?
+
+      SENTA.
+
+      My father, does he come?
+
+  ERIK.
+
+  Vom Fels sah ich sein Schiff sich nahen.
+
+      ERIK.
+
+      His ship is sailing round the rock.
+
+  MARY.
+
+  Nun seht, zu was Euer Treiben frommt!
+  Im Hause ist noch nichts gethan.
+
+      MARY.
+
+      Be up and doing, girls, and put the house in order.
+
+  MAEDCHEN.
+
+  Sie sind daheim! -- Auf, eilt hinaus!
+
+      GIRLS.
+
+      See them land! let us greet them!
+
+  MARY.
+
+  Halt! Halt! Ihr bleibet fein im Haus!
+  Das Schiffsvolk kommt mit leerem Magen! --
+  In Küch’ und Keller! Säumet nicht!
+  Lasst Euch nur brav die Neugier plagen,
+  Vor Allem geht an Eure Pflicht!
+
+      MARY.
+
+      Easy, my beauties! in the house you’ll stay,
+      The crew quite hungry they’ll be
+      Coming from the stormy sea.
+      Set the table without delay,
+      Fill the glasses on the tray.
+
+
+  ZWEITE SCENE.
+
+      SCENE II.
+
+  ERIK.
+
+  Bleib’, Senta! Bleib’ nur einen Augenblick!
+  Aus meinen Qualen reisse mich! Doch willst Du --
+  Ach! so verdirb mich ganz!
+
+      ERIK.
+
+      Stay, Senta, stay! one moment stay!
+      End my torment, end it quick,
+      Pity, pity my despair!
+
+  SENTA.
+
+  Was soll’s, Erik. . . ?
+
+      SENTA.
+
+      Erik, thy despair I not comprehend.
+
+  ERIK.
+
+  O Senta, sprich, was aus mir werden soll?
+  Dein Vater kommt, -- eh’ wieder er verreist
+  Wird er vollbringen, was schon oft er wollte. . .
+
+      ERIK.
+
+      Tell me, Senta, tell me true what’s to become of me?
+      Thy father comes; ere hence he sails again,
+      He will accomplish what oft he did contemplate.
+
+  SENTA.
+
+  Und was, Erik?
+
+      SENTA.
+
+      And what did he contemplate?
+
+  ERIK.
+
+  Dir einen Gatten geben. --
+  Mein Herz voll Treue bis zum Sterben,
+  Mein dürftig Gut, mein Jägerglück: --
+  Darf so um Deine Hand ich werben,
+  Stösst mich Dein Vater nicht zurück?
+  Wenn sich mein Herz in Jammer bricht,
+  Sag’, Senta, wer dann für mich spricht?
+
+      ERIK.
+
+      Choose a man for thee, a man for thee;
+      But little I call mine save this trusty rifle;
+      It will weight quite lightly in the scale,
+      And thy father will reject my suit.
+      When then my heart strong comfort needs
+      Say, Senta, say, who for me pleads?
+
+  SENTA.
+
+  O schweige jetzt, Erik! Lass mich hinaus,
+  Den Vater zu begrüssen!
+  Wenn nicht, wie sonst, an Bord die Tochter kommt,
+  Wird er nicht zürnen müssen?
+
+      SENTA.
+
+      Why discuss this question now? let me go
+      To welcome home the father.
+      If not on board his daughter he does see,
+      Quite angry he will be.
+
+  ERIK.
+
+  Du willst mich fliehn?
+
+      ERIK.
+
+      Why thus evade me?
+
+  SENTA.
+
+  Ich muss zum Port.
+
+      SENTA.
+
+      To the ship I must go.
+
+  ERIK.
+
+  Du weichst mir aus?
+
+      ERIK.
+
+      My presence does not please thee?
+
+  SENTA.
+
+  Ach! lass mich fort!
+
+      SENTA.
+
+      Let go, I say, let go!
+
+  ERIK.
+
+  Fliehst Du zurück vor dieser Wunde,
+  Die Du mir schlugst, den Liebeswahn?
+  O höre mich zu dieser Stunde,
+  Hör’ meine letzte Frage an!
+  Wenn dieses Herz in Jammer bricht,
+  Wird’s Senta sein, die für mich spricht?
+
+      ERIK.
+
+      Do not evade me now,
+      For great it is my grief,
+      But one word more, then go!
+      Let me ask, and answer give:--
+      When this heart strong comfort needs,
+      Will it Senta be who for me pleads?
+
+  SENTA.
+
+  Wie? zweifelst Du an meinem Herzen?
+  Du zweifelst, ob ich gut Dir bin? --
+  Doch sag’, was weckt Dir solche Schmerzen?
+  Was trübt mit Argwohn Deinen Sinn?
+
+      SENTA.
+
+      Why doubt my heart, why doubt my love,
+      Why doubt my devotion’s faith and strength?
+      Why now these thoughts that give but pang,
+      Why this suspicion all at once?
+
+  ERIK.
+
+  Dein Vater -- ach! nach Schätzen geizt er nur. . .
+  Und Senta, Du! Wie dürft’ auf Dich ich zählen?
+  Erfülltest Du nur eine meiner Bitten?
+  Kränkst Du mein Herz nicht jeden Tag?
+
+      ERIK.
+
+      Thou knowest well that gold is all thy father careth for,
+      And he that can offer riches will wed his daughter sure.
+      These the thoughts that fill my heart with grief,
+      And then, Senta, thou, too, addest to my anguish.
+
+  SENTA.
+
+  Dein Herz?
+
+      SENTA.
+
+      I? And how?
+
+  ERIK.
+
+  Was soll ich denken. Jenes Bild. . .
+
+      ERIK.
+
+      Thy worship for that picture--
+
+  SENTA.
+
+  Das Bild?
+
+      SENTA.
+
+      This picture?
+
+  ERIK.
+
+  Lässt Du von Deiner Schwärmerei wohl ab?
+
+      ERIK.
+
+      ’Tis a strange infatuation which--
+
+  SENTA.
+
+  Kann meinem Blick Theilnahme ich verwehren?
+
+      SENTA.
+
+      Why should I not feel sympathy?
+
+  ERIK.
+
+  Und die Ballade, heut noch sangst Du sie!
+
+      ERIK.
+
+      And the song you love to sing.
+
+  SENTA.
+
+  Ich bin ein Kind und weiss nicht was ich singe. . . !
+  Erik, sag’! fürchtest Du ein Lied, ein Bild?
+
+      SENTA.
+
+      Child am I, and know not what I sing.
+      Say, Erik, dost a song thou fear, a picture?
+
+  ERIK.
+
+  Du bist so bleich. . . sag’, sollt ich es nicht fürchten?
+
+      ERIK.
+
+      Thou art so pale, and hence my fear.
+
+  SENTA.
+
+  Soll mich des Aermsten Schreckensloos nicht rühren?
+
+      SENTA.
+
+      Why should I not sympathize with the poor man’s fate?
+
+  ERIK.
+
+  Mein Leiden, Senta, rührt es Dich nicht mehr?
+
+      ERIK.
+
+      Why not rather feel sympathy with _my_ deep grief?
+
+  SENTA.
+
+  O! schweige doch. Was kann Dein Leiden sein?
+  Kennst jenes Unglücksel’gen Schicksal Du?
+  Fühlst Du den Schmerz, den tiefsten Gram,
+  Mit dem herab auf mich er sieht?
+  Ach, was die Ruh’ ihm ewig nahm,
+  Wie schneidend Weh durch’s Herz mir zieht!
+
+      SENTA.
+
+      Enough of this! Thou hast no grief;
+      But dost thou know the pale man’s horrid fate,
+      And dost thou feel how anguish wrung
+      The look he casts at me in wild despair?
+      His fate, relentless, bitter fate,
+      ’Tis a pang that wrings my heart.
+
+  ERIK.
+
+  Weh’ mir! Es mahnt mich ein unsel’ger Traum!
+  Gott schütze Dich! Satan hat Dich umgarnt.
+
+      ERIK.
+
+      Alas! alas my dream will then come true!
+      May God protect thee! Thou art in Satan’s power.
+
+  SENTA.
+
+  Was schreckt Dich so?
+
+      SENTA.
+
+      What is it that so frightens thee?
+
+  ERIK.
+
+  Senta, lass Dir vertrau’n: --
+  Ein Traum ist’s, -- höre ihn zur Warnung an:
+  Auf hohem Felsen lag ich träumend,
+  Sah unter mir des Meeres Fluth;
+  Die Brandung hört’ ich, wie sich schäumend
+  Am Ufer brach der Wogen Wuth: --
+  Ein fremdes Schiff am nahen Strande
+  Erblickt ich, seltsam, wunderbar: --
+  Zwei Männer nahten sich dem Lande,
+  Der Ein’, ich sah’s, Dein Vater war. . .
+
+      ERIK.
+
+      Listen, Senta, listen well!
+      A dream it was--let warning voice it be!
+      The rock that overhangs the sea
+      Was my bed, and dreaming, I fancied
+      I saw the waves roll in and out,
+      And heard the billows’ ceaseless roar.
+      Near the shore a ship I saw,
+      And strange to tell, for strange the sight:--
+      Near and nearer two seamen approached,
+      And one, well I knew his face, thy father was--
+
+  SENTA.
+
+  Der Andre?
+
+      SENTA.
+
+      And who was the other, pray?
+
+  ERIK.
+
+  Wohl erkannt’ ich ihn:
+  Mit schwarzem Wams und bleicher Mien’.
+
+      ERIK.
+
+      Ah, too well only did I know him,
+      Dressed in black in contrast strong to his pale face--
+
+  SENTA.
+
+  Und düst’rem Aug’. . .
+
+      SENTA.
+
+      And dark and sad his eye--
+
+  ERIK.
+
+  Der Seemann, er.
+
+      ERIK.
+
+      Yes, black as jet his eye.
+
+  SENTA.
+
+  Und ich?
+
+      SENTA.
+
+      And I? Where was I?
+
+  ERIK.
+
+  Du kamst vom Hause her,
+  Du flogst den Vater zu begrüssen;
+  Doch kaum noch sah ich an Dich langen,
+  Du stürztest zu des Fremden Füssen --
+  Ich sah Dich seine Knie umfangen. . .
+
+      ERIK.
+
+      Fleet as a fawn, startled in fear,
+      I saw thee rush toward the beach
+      To bid thy father welcome home,
+      But scarce arrived, I saw thee kneel
+      At the feet of the pale man accursed.
+
+  SENTA.
+
+  Er hob mich auf. . .
+
+      SENTA.
+
+      And he gently drew me to his breast.
+
+  ERIK.
+
+  An seine Brust; --
+  Voll Inbrunst hingst Du Dich an ihn,
+  Du küsstest ihn mit heisser Lust --
+
+      ERIK.
+
+      He folded thee to his treacherous heart,
+      And thou with fervor wild, unbridled,
+      Returnest kiss for kiss impassionate.
+
+  SENTA.
+
+  Und dann. . . ?
+
+      SENTA.
+
+      And then? What then?
+
+  ERIK.
+
+  Sah ich auf’s Meer Euch fliehn.
+
+      ERIK.
+
+      He took thee on board his shadowy ship.
+
+  SENTA.
+
+  Er sucht mich auf! Ich muss ihn sehn!
+  Mit ihm muss ich zu Grunde gehn!
+
+      SENTA.
+
+      He longs for me! I’ll follow him,
+      And if in the attempt perish I should.
+
+  ERIK.
+
+  Entsetzlich! Ha, mir wird es klar;
+  Sie ist dahin! Mein Traum sprach wahr!
+
+      ERIK.
+
+      Horrid ’tis! I see it clear,
+      My dream, my fearful dream spoke true.
+
+  SENTA.
+
+  Ach, wo weilt sie etc. etc.
+
+      SENTA.
+
+      Where, oh where is the woman so rare,
+      His love to win, his treasures to share?
+
+
+  DRITTE SCENE.
+
+      SCENE III.
+
+  DALAND.
+
+  Mein Kind, Du siehst mich auf der Schwelle. . .
+  Wie? kein Umarmen? keinen Kuss?
+  Du bleibst gebannt an Deiner Stelle. . .
+  Verdien’ ich, Senta, solchen Gruss?
+
+      DALAND.
+
+      Home again, my child, my darling!
+      But how is this? No kiss for me?
+      Why! ’tis a cool reception, sure.
+
+  SENTA.
+
+  Gott Dir zum Gruss! -- Mein Vater sprich!
+  Wer ist der Fremde?
+
+      SENTA.
+
+      Welcome home, my father! But say, speak quick,
+      Who is this stranger that comes with thee?
+
+  DALAND.
+
+  Drängst Du mich?
+
+  Mögst Du, mein Kind, den fremden Mann willkommen heissen!
+  Seemann ist er, gleich mir, das Gastrecht spricht er an;
+  Lang’ ohne Heimath, stets auf fernen, weiten Reisen.
+  In fremden Landen er der Schätze viel gewann.
+  Aus seinem Vaterland verwiesen,
+  Für einen Herd er reichlich lohnt;
+  Sprich, Senta, würd’ es Dich verdriessen,
+  Wenn dieser Fremde bei uns wohnt?
+
+      DALAND.
+
+      Welcome bid him with all thy heart!
+        Many a year he sails the sea,
+      No home is his, no kin his part,
+        Though rich he is as rich can be.
+      To him his native land is lost,
+        And home he seeks, a new home dear;
+      Come, Senta, come, be thou the host,
+        And welcome bid the stranger here!
+
+  Sagt, hab’ ich sie zu viel gepriesen?
+  Ihr seht sie selbst, -- ist sie Euch recht? --
+  Soll noch vom Lob ich überfliessen?
+  Gesteht, sie zieret ihr Geschlecht!
+  Mögst Du, mein Kind, dem Manne freundlich Dich erweisen!
+  Von Deinem Herzen auch spricht holde Gab’ er an.
+  Reich’ ihm die Hand, denn Bräutigam sollst Du ihn heissen;
+  Stimmst Du dem Vater bei, ist morgen er Dein Mann.
+
+      And you, my new-found friend, say true,
+        Does she suit to be your wife?
+      Why should I praise what’s only true
+        And will be blessing all your life?
+      And thou, my child, be good and true
+        Give him thy hand and hold him dear,
+      And, Senta, thou wilt never rue
+        That I have brought thy husband here.
+
+  Sieh’ dieses Band, sieh’ diese Spangen!
+  Was er besitzt, macht dies gering.
+  Muss, theures Kind, Dich’s nicht verlangen?
+  Dein ist es, wechselst Du den Ring?
+  Doch -- Keines spricht. -- Sollt’ ich hier lästig sein?
+  So ist’s! Am besten lass ich sie allein.
+  Mögst Du den edlen Mann gewinnen!
+  Glaub’ mir, solch Glück wird nimmer neu.
+  Bleibt hier allein; ich geh’ von hinnen.
+  Glaubt mir, wie schön, so ist sie treu!
+
+      See the golden things I’ve brought--
+        Quite worthless trifles when compar’d
+      With the riches in his vessel’s hold.
+        And all his treasures will be shar’d,
+      All his diamonds and all his gold,
+        With thee, my child, if thou wilt say
+      That thou wilt bless him with thy love,
+        And be his wife without delay;
+      Wed him, Senta, give him thy love!
+        I leave thee now alone, my child,
+      To speak to him as bids thy heart;
+        I trust in thee, my darling child--
+      Think how happy will be our part.
+
+  HOLLAENDER.
+
+  Wie aus der Ferne längst vergang’ner Zeiten
+  Spricht dieses Mädchens Bild zu mir;
+  Wie ich geträumt seit langen Ewigkeiten,
+  Vor meinen Augen seh’ ich’s hier.
+  Wohl hob auch ich voll Sehnsucht meine Blicke
+  Aus tiefer Nacht empor zu einem Weib:
+  Ein schlagend Herz liess, ach! mir Satans Tücke.
+  Dass eingedenk ich meiner Qualen bleib’!
+  Die düst’re Gluth, die hier ich fühle brennen,
+  Sollt’ ich Unseliger sie Liebe nennen?
+  Ach nein! die Sehnsucht ist es nach dem Heil!
+  Würd’ es durch solchen Engel mir zu Theil!
+
+      THE FLYING DUTCHMAN.
+
+      Like to a vision, seen in days long by gone,
+      This maiden’s face and form appear:
+      What I have sought thro’ countless years of sorrow
+      Am at I last beholding here!
+      Oft ’mid the torment of my night eternal,
+      Longing I gaz’d upon some being fair!
+      But I was driv’n by Satan’s pow’r infernal
+      On my dread course, in anguish and despair!
+      The glow that warms my heart with strange emotion,
+      Can I, accurs’d one, call it love’s devotion?
+      Ah! no, ’tis yearning blest repose to gain,
+      That such an angel might for me obtain!
+
+  SENTA.
+
+  Versank ich jetzt in wunderbares Träumen,
+  Was ich erblicke, ist es Wahn? --
+  Weilt’ ich bisher in trügerischen Räumen,
+  Brach des Erwachens Tag heut an? --
+  Er steht vor mir mit leidenvollen Zügen,
+  Es spricht sein unerhörter Gram zu mir;
+  Kann tiefen Mitleids Stimme mich belügen?
+  Wie ich ihn oft geseh’n, so steht er hier.
+  Die Schmerzen, die in meinem Busen brennen,
+  Ach! dies Verlangen, wie soll ich es nennen?
+  Wonach mit Sehnsucht es ihn treibt -- das Heil.
+
+      SENTA.
+
+      And am I sunk in wondrous depths of dreaming?
+      Is this a vision which I see,
+      Or am I now set free from long delusion?
+      Has morning truly dawned on me?
+      See, there he stands, his face with sorrow clouding--
+      He tells me all his mingled hope and fear;
+      Is it the voice of sympathy that cheats me?
+      As he has oft in dreams, so stands he here!
+      The sorrow which within my breast is burning--
+      Ah, this compassion, what dare I call it?
+      Thy heart is longing after rest and peace,
+      And thou at last through me shall find release.
+
+  HOLLAENDER.
+
+  Wirst Du des Vaters Wahl nicht schelten?
+  Was er versprach, wie? dürft’ es gelten? --
+  Du könntest Dich für ewig mir ergeben,
+  Und Deine Hand dem Fremdling reichtest Du?
+  Soll finden ich nach qualenvollem Leben
+  In Deiner Treu’ die lang ersehnte Ruh? --
+
+      THE FLYING DUTCHMAN.
+
+      Wilt thou, thy father’s choice fulfilling,
+      Do what he said? Say, art thou willing?
+      Wilt thou, indeed, thyself forever give me?
+      Shall I in truth, a stranger, thus be blessed?
+      Say, shall I find the time of sorrow ended--
+      In thy true love my long-expected rest?
+
+  SENTA.
+
+  Wer Du auch seist, und welches das Verderben,
+  Dem grausam Dich Dein Schicksal konnte weih’n:
+  Was auch das Loos, das ich mir sollt’ erwerben:
+  Gehorsam stets werd’ ich dem Vater sein.
+
+      SENTA.
+
+      Whoe’er thou art, where’er thy curse may lead thee,
+      And me, when I thy lot mine own have made--
+      Whate’er the fate which I with thee may share in,
+      My father’s will by me shall be obey’d.
+
+  HOLLAENDER.
+
+  So unbedingt, wie? könnte Dich durchdringen
+  Für meine Leiden tiefstes Mitgefühl?
+
+      THE FLYING DUTCHMAN.
+
+      So full of trust? what? canst thou in thy gladness,
+      For these my sorrows deep compassion know?
+
+  SENTA.
+
+  O, welche Leiden! Könnt’ ich Trost Dir bringen!
+
+      SENTA.
+
+      Unheard-of sorrows! would I joy might bring thee!
+
+  HOLLAENDER.
+
+  Welch holder Klang im mächtigen Gewühl! --
+  Du bist ein Engel! -- Eines Engels Liebe
+  Verworf’ne selbst zu trösten weiss! --
+  Ach, wenn Erlösung mir zu hoffen bliebe,
+  Allewiger, durch diese sei’s!
+
+      THE FLYING DUTCHMAN.
+
+      How sweet the sound that breaks my night of woe!
+      Thou art an angel, and a love angelic
+      Can comfort bring to one like me.
+      Ah, if redemption still be mine to hope for,
+      Heaven, grant that she my savior be!
+
+  SENTA.
+
+  Ach! wenn Erlösung ihm zu hoffen bliebe,
+  Allewiger, durch mich nur sei’s!
+
+      SENTA.
+
+      Ah, if redemption still be his to hope for,
+      Heaven, grant that I his saviour be!
+
+  HOLLAENDER.
+
+  O könntest das Geschick Du ahnen,
+  Dem dann mit mir Du angehörst:
+  Dich würd’ es an das Opfer mahnen,
+  Das Du mir bringst, wenn Treu’ Du schwörst.
+  Es flöhe schaudernd Deine Jugend,
+  Dem Loose, dem Du sie willst weih’n:
+  Nennst Du des Weibes schönste Tugend,
+  Nennst heil’ge Treue Du nicht Dein!
+
+      THE FLYING DUTCHMAN.
+
+      Ah, thou, the certain fate foreknowing,
+      Which must indeed with me be borne,
+      Wouldst not have made the vow thou madest--
+      Wouldst not to be my wife have sworn!
+      Thou wouldst have shuddered ere devoting,
+      To aid me, all thy golden youth--
+      Ere thou hadst woman’s joys surrendered,
+      Ere thou hadst bid me trust thy truth?
+
+  SENTA.
+
+  Wohl kenn’ ich Weibes hohe Pflichten, --
+  Sei d’rum getrost, unsel’ger Mann!
+  Lass über die das Schicksal richten,
+  Die seinem Spruche trotzen kann!
+  In meines Herzens höchster Reine
+  Kenn’ ich der Treue Hochgebot:
+  Wem ich sie weih’, schenk’ ich die Eine;
+  Die Treue bis zum Tod!
+
+      SENTA.
+
+      Well know I woman’s holy duties;
+      O hapless man, be thou at ease!
+      Leave me to fate’s unbending judgment--
+      Me, who defy its dread decrees.
+      Within the secret realm of conscience
+      Know I the high demands of faith:
+      Him, whom I chose, him I love only,
+      And loving e’en till death!
+
+  HOLLAENDER.
+
+  Ein heil’ger Balsam meinen Wunden,
+  Dem Schwur, dem hohen Wort entfliesst!
+
+      THE FLYING DUTCHMAN.
+
+      A healing balm for all my sorrows
+      From out her plighted word doth flow.
+
+  SENTA.
+
+  Von mächt’gem Zauber überwunden,
+  Reisst mich’s zu seiner Rettung fort:
+
+      SENTA.
+
+      ’Twas surely wrought by pow’r of magic
+      That I should his deliv’rer be.
+
+  HOLLAENDER.
+
+  Hört’ es: mein Heil hab’ ich gefunden,
+  Mächte, die ihr zurück mich stiess’t!
+  Du Stern des Unheils, sollst erblassen!
+  Licht meiner Hoffnung, leuchte neu.
+  Ihr Engel, die mich einst verlassen,
+  Stärkt jetzt dies Herz in seiner Treu’!
+
+      THE FLYING DUTCHMAN.
+
+      Hear this! Release at last is granted!
+      Hear this, ye mighty:
+      Your power is now laid low!
+      Star of misfortune, thou art paling!
+      Hope’s glorious light now shines anew!
+      Ye angels, ye who once forsook me,
+      Aid now my heart, and keep it true!
+
+  SENTA.
+
+  Hier habe Heimath er gefunden,
+  Hier ruh’ sein Schiff im ew’gen Port!
+  Was ist’s, das mächtig in mir lebet?
+  Was schliesst berauscht mein Busen ein?
+  Allmächt’ger, was mich hoch erhebet,
+  Lass es die Kraft der Treue sein!
+
+      SENTA.
+
+      Here may a home at last be granted,
+      Here may he rest, from danger free!
+      What is the power within me working?
+      What is the task it bids me do?
+      Almighty, now that high Thou hast raised me,
+      Grant me Thy strength, that I be true!
+
+  DALAND.
+
+  Verzeiht, mein Volk hält draussen sich mehr;
+  Nach jeder Rückkunft, wisset, giebt’s ein Fest: --
+  Verschönern möcht’ ich’s, komme deshalb her,
+  Ob mit Verlobung sich’s vereinen lässt? --
+  Ich denk’, Ihr habt nach Herzenswunsch gefreit? --
+  Senta, mein Kind, sag’, bist auch Du bereit? --
+
+      DALAND.
+
+      Pardon my intrusion; my men quite impatient will be,
+      On each arrival home we have a frolic,
+      And this time, I hope, it will be a marriage feast.
+      Say, Senta, child, art thou inclined to wed my friend?
+
+  SENTA.
+
+  Hier meine Hand, und ohne Reu’
+  Bis in den Tod gelob’ ich Treu’!
+
+      SENTA.
+
+      Here my hand to the man of the sea:--
+      Unto death I will faithful be.
+
+  HOLLAENDER.
+
+  Sie reicht die Hand: gesprochen sei
+  Hohn Hölle dir, durch ihre Treu’!
+
+      THE FLYING DUTCHMAN.
+
+      Gladly she gives her fond heart to me,
+      And ended is now my misery.
+
+  DALAND.
+
+  Euch soll dies Bündniss nicht gereu’n!
+  Zum Fest! heut muss sich Alles freu’n!
+
+      DALAND.
+
+      May happiness forev’r be your part!
+      To the feast now with joyous heart!
+
+
+
+
+  DRITTER AKT.
+
+      ACT III.
+
+
+  ERSTE SCENE.
+
+      SCENE I.
+
+
+  CHOR DER NORWEGISCHEN MATROSEN.
+
+  Steuermann, lass die Wacht!
+  Steuermann, her zu uns!
+  He! He! Je! Ha!
+  Hebt die Segel auf! Anker fest!
+  Steuermann, her! --
+  Fürchten weder Wind noch bösen Strand,
+  Wollen heute ’mal recht lustig sein!
+  Jeder hat sein Mädel auf dem Land,
+  Herrlichen Tabak und guten Branntewein.
+  Hussassahe!
+  Klipp’ und Sturm draus --
+  Jallolohe!
+  Lachen wir aus!
+  Hussassahe!
+  Segel ein! Anker fest! Klipp’ und Sturm lachen wir aus!
+  Steuermann her, trink’ mit aus!
+
+      _Chorus of Norwegian Sailors._
+
+      The sea! the sea! the open sea!
+      The blue, the fresh, the ever free!
+        Heigho! ho! heigho!
+      It runneth the earth’s wide region round!
+        Heigho! heigho!
+      It plays with the clouds; it mocks the skies,
+      Or like a cradled creature lies,
+        Heigho! ho! heigho!
+      We’re home again, home again!
+        Heigho! heigho!
+      Home again! home again!
+        Heigho! heigho!
+      Home again the sailor boy,
+      He his lassie’s only joy!
+      Let us quaff the golden wine!
+      Let us drink, drink, drink!
+
+  MAEDCHEN.
+
+  Nein! Seht doch an! Sie tanzen gar!
+  Der Mädchen bedarf’s da nicht fürwahr!
+
+      GIRLS.
+
+      See! how wildly they dance a jig
+      On deck their safely-anchored brig.
+
+  MATROSEN.
+
+  He! Mädel! Halt! wo geht ihr hin?
+
+      SAILORS.
+
+      Ho, girls, you mustn’t go away!
+
+  MAEDCHEN.
+
+  Steht euch nach frischem Wein der Sinn?
+  Eu’r Nachbar dort soll auch was haben,
+  Ist Trank und Schmaus für euch allein?
+
+      GIRLS.
+
+      We’ll fill the glasses on the tray.
+      Your neighbor, too, must have his share
+      Of golden wine and woman’s care.
+
+  STEUERMANN.
+
+  Fürwahr, trägt’s hin den armen Knaben,
+  Vor Durst sie scheinen matt zu sein.
+
+      MATE.
+
+      Yes, you must give those boys a share
+      Of golden wine and your own care.
+
+  MATROSEN.
+
+  Man hört sie nicht?
+
+      SAILORS.
+
+      They keep so quiet.
+
+  STEUERMANN.
+
+  Ei, seht doch nur!
+  Kein Licht! Von der Mannschaft keine Spur.
+
+      MATE.
+
+      A strange sight!
+      No sailors on deck and no light!
+
+  MAEDCHEN.
+
+    He! Seeleut’! He! Wollt Fackeln ihr?
+  Wo seid ihr doch? Man sieht nicht hier.
+
+      GIRLS.
+
+      Ho, sailors, ho! shall we bring light,
+      And make your ship look bright?
+
+  MATROSEN.
+
+  Weckt sie nicht auf; sie schlafen noch.
+
+      SAILORS.
+
+      Don’t awake them; they are sleeping still.
+
+  MAEDCHEN.
+
+  He! Seeleut’! He! Antwortet doch!
+
+      GIRLS.
+
+      Ho! sailors! ho! give answer us!
+
+  STEUERMANN UND MATROSEN.
+
+  Haha! Wahrhaftig, sie sind todt.
+  Sie haben Speis’ und Trank nicht noth.
+
+      MATE AND SAILORS.
+
+      Ha! ha! they are dead, indeed.
+        No meat and drink they will need.
+
+  MAEDCHEN.
+
+  Wie, Seeleute? Liegt Ihr so faul schon im Nest?
+  Ist heute für Euch denn nicht auch ein Fest?
+
+      GIRLS.
+
+      Sailors, ho! you are lazy boys,
+      Don’t care for frolic and joys.
+
+  STEUERMANN UND MATROSEN.
+
+  Sie liegen fest auf ihrem Platz,
+  Wie Drachen hüten sie den Schatz.
+
+      MATE AND SAILORS.
+
+      They watch the treasures in the hold,
+      They guard the gems and stones and gold.
+
+  MAEDCHEN.
+
+  Wie, Seeleute? Wollt Ihr nicht goldenen Wein?
+  Ihr müsset wahrlich doch auch durstig sein.
+
+      GIRLS.
+
+      Come, neighbors, come and have your share
+      Of golden wine and woman’s care.
+
+  STEUERMANN UND MATROSEN.
+
+  Sie trinken nicht, sie singen nicht,
+  In ihrem Schiffe brennt kein Licht.
+
+      MATE AND SAILORS.
+
+      They quaff no wine, they sing no song;
+      They must be dead ever so long.
+
+  MAEDCHEN.
+
+  Sagt, habt Ihr denn nicht auch ein Schätzchen am Land?
+  Wollt Ihr nicht mit tanzen auf freundlichem Strand?
+
+      GIRLS.
+
+      Are there no sweethearts on the strand
+      Awaiting you from foreign land?
+
+  MATROSEN.
+
+  Sie sind schon alt und bleich statt roth,
+  Und ihre Liebsten, die sind todt.
+
+      SAILORS.
+
+      Ah, well! their sweethearts on the strand
+      Died while they were in foreign land.
+
+  MAEDCHEN.
+
+  He, Seeleut’! Seeleut’! wacht doch auf!
+  Wir bringen Euch Speis’ und Trank zu Hauf!
+
+      GIRLS.
+
+      Ho! sailors! ho! don’t be lazy boys!
+      Come, partake of our frolicking joys!
+
+  MATROSEN.
+
+  Sie bringen Euch Speis’ und Trank zu Hauf!
+
+      SAILORS.
+
+      Come and join in our frolicking joys!
+
+  MAEDCHEN.
+
+  Wahrhaftig! Ja, sie scheinen todt.
+  Sie haben Speis’ und Trank nicht noth.
+
+      GIRLS.
+
+      They quaff no wine, they sing no song!
+      They must be dead ever so long.
+
+  MATROSEN.
+
+  Vom fliegenden Holländer wisst Ihr ja!
+  Sein Schiff, wie es leibt, wie es lebt, seht Ihr da.
+
+      SAILORS.
+
+      You’ve heard of the _Flying Dutchman_, perhaps,
+      And this must be one of his ugly traps.
+
+  MAEDCHEN.
+
+  So wecket die Mannschaft ja nicht auf,
+  Gespenster sind’s, wir schwören drauf!
+
+      GIRLS.
+
+      Then leave them alone, leave them at rest;
+      ’Tis really no time for such jest.
+
+  MATROSEN.
+
+  Wie viel hundert Jahre schon seid Ihr zur See?
+  Euch thut ja der Sturm und die Klippe nicht weh!
+
+      SAILORS.
+
+      How long, how long are you at sea?
+      Quite a pretty crew you must be.
+
+  MAEDCHEN.
+
+  Sie trinken nicht, sie singen nicht!
+  In ihrem Schiffe brennt kein Licht!
+
+      GIRLS.
+
+      They quaff no wine, they sing no song;
+      They must be dead ever so long.
+
+  MATROSEN.
+
+  Habt Ihr keine Brief’, keine Auftrag’ für’s Land?
+  Unsern Urgrossvätern wir bringen’s zur Hand.
+
+      SAILORS.
+
+      Have you no letter, no message to send
+      To great grandfather or other old friend?
+
+  MAEDCHEN.
+
+  Sie sind schon alt und bleich statt roth;
+  Ach! ihre Liebsten, die sind todt!
+
+      GIRLS.
+
+      Ah, well! they have no loved ones on the strand;
+      Their sweethearts died while they roamed in foreign land.
+
+  MATROSEN.
+
+  Hei! Seeleute! Spannt Eure Segel doch auf!
+  Und zeigt uns des fliegenden Holländers Lauf!
+
+      SAILORS.
+
+      Ho! sailors, ho! hoist the sails, quick, quick!
+      And show us the _Flying Dutchman’s_ trick.
+
+  MAEDCHEN.
+
+  Sie hören nicht, -- uns graust es hier!
+  Sie wollen nichts, -- was rufen wir?
+
+      GIRLS.
+
+      They hear us not, so let them rest;
+      They might revenge this sport and jest.
+
+  MATROSEN.
+
+  Ihr Mädel, lasst die Todten ruh’n!
+  Lasst’s uns Lebend’gen glücklich thun!
+
+      SAILORS.
+
+      We’d better leave the dead at rest,
+      And return to our sport and jest.
+
+  MAEDCHEN.
+
+  So nehmt, Eu’r Nachbar hat’s verschmäht!
+
+      GIRLS.
+
+      Then drink you the wine your neighbor declines.
+
+  STEUERMANN UND MATROSEN.
+
+  Wie? Kommt Ihr denn nicht selbst an Bord?
+
+      MATE AND SAILORS.
+
+      Come on board our safely-anchored brig,
+      And join us dancing a jolly jig.
+
+  MAEDCHEN.
+
+  Ei, jetzt noch nicht, es ist nicht spät.
+  Wir kommen bald, jetzt trinkt nur fort.
+  Und, wenn Ihr wollt, so tanzt dazu,
+  Nur lasst dem müden Nachbar Ruh’!
+
+      GIRLS.
+
+      Plenty o’ time for dance and sport,
+      Now that safely you’re in port.
+
+  MATROSEN.
+
+  Juchhe! Juchhe! da giebt’s die Fülle!
+  Ihr lieben Nachbarn, habet Dank!
+
+      SAILORS.
+
+      Hurrah! We have enough for all.
+      Good neighbors, thanks to you!
+
+  STEUERMANN.
+
+  Zum Rand sein Glas ein Jeder fülle!
+  Lieb Nachbar liefert uns den Trank!
+
+      MATE.
+
+      Boys, fill your goblets to the brink,
+      Let us have a jolly old drink.
+
+  MATROSEN.
+
+  Halloho! Halloho! Ho! ho! ho!
+  Lieb Nachbarn, habt Ihr Stimm’ und Sprach’,
+  So wachet auf, und macht’s uns nach!
+  Steuermann, lass die Wacht!
+  Steuermann, her zu uns!
+  Ho! He! Je! Ha!
+  Hisst die Segel auf! Anker fest! --
+  Steuermann, her! --
+  Wachten manche Nacht bei Sturm und Graus,
+  Tranken oft des Meer’s gesalz’nes Nass; --
+  Heute wachen wir bei Saus und Schmaus,
+  Besseres Getränk giebt Mädel uns vom Fass!
+  Hussassahe!
+  Klipp’ und Sturm draus! etc. etc.
+
+      SAILORS.
+
+        Hal-lo-ho-ho!
+      Good neighbors, you can speak at least!
+      Come, wake up, and join our feast!
+        Steersman, leave the watch!
+        Steersman, come to us!
+        Ho, hey, hey, ha!
+        See the sails are in! Anchor fast!
+        Steersman, come!
+      We have often watch’d ’mid howling storm;
+      We have often drunk the briny wave:
+      Watching takes to-day a fairer form--
+      Good and tasty wine our sweethearts let us have!
+        Hus-sas-sa-hey!
+
+  CHOR DER MANNSCHAFT DES FLIEGENDEN HOLLAENDERS.
+
+  Johohe! Johohohoe! hohohohoe! Hoe! Hoe! Hoe!
+  Huissa!
+  Nach dem Land treibt des Sturm --
+  Huissa!
+  Segel ein! Anker los!
+  Huissa!
+  In die Bucht laufet ein!
+  Schwarzer Hauptmann, geh’ an’s Land!
+  Sieben Jahre sind vorbei;
+  Frei’ um blonden Mädchens Hand;
+  Blondes Mädchen, sei ihm treu!
+  Lustig heut’,
+  Bräutigam!
+
+      CHORUS OF THE CREW OF THE “FLYING DUTCHMAN.”
+
+        Yo-ho-ho! Ho! oh!
+        Huissa!
+        To the land drives the storm.
+        Huissa!
+        Sails are in! Anchor down!
+        Huissa!
+        To the bay hurry in!
+      Gloomy captain, go on land,
+        Now that seven long years have flown,
+      Seek a faithful maiden’s hand!
+        Faithful maiden, be his own!
+          Joyful, hui!
+          Bridegroom, hui!
+
+  Sturmwind heult Brautmusik,
+  Ocean tanzt dazu.
+  Hui! -- Horch, er pfeift!
+  -- Capitän, bist wieder da? --
+  Hui! -- „Segel auf.“ --
+  -- Deine Braut, sag’, wo sie blieb? --
+  Hui! „Auf in See!“ --
+  Capitän! Capitän! Hast kein Glück in der Lieb’!
+  Hahaha!
+  Sause, Sturmwind, heule zu!
+  Uns’ren Segeln lässt du Ruh’:
+  Satan hat sie uns gefeit,
+  Reissen nicht in Ewigkeit!
+
+      Winds be thy wedding song,
+      Ocean rejoices with thee!
+      Hui! Hark! He pipes!
+      What! captain, hast thou returned?
+      Hui! Spread the sails!
+      And thy bride, say, where is she?
+      Hui! Off to sea!
+        As of old,
+      No good fortune for thee!
+        Ha-ha-ha!
+      Blow, thou storm wind, howl and blow!
+      What care we how fast we go?
+      We have sails from Satan’s store,
+      Sails that last for evermore--ho-hoe!
+
+  NORWEGISCHE MATROSEN.
+
+  Welcher Sang! Ist es Spuk? Wie mich’s graut!
+  Stimmet an unser Lied! Singet laut!
+  Steuermann, lass die Wacht etc.
+
+      _Chorus of the Norwegian Sailors._
+
+      What a song! Are they ghosts?
+      How I fear! Let them hear!
+      All unite in our song.
+      Steersman, leave the watch! etc.
+
+
+  ZWEITE SCENE.
+
+      SCENE II.
+
+  ERIK.
+
+  Was musst’ ich hören? Gott! was musst’ ich sehen!
+  Ist’s Täuschung? Wahrheit? Ist es That?
+
+      ERIK.
+
+      What must I hear! what must I see!
+      Oh, God above! how can this be!
+
+  SENTA.
+
+  Frag’ nicht, Erik! Antwort darf ich nicht geben.
+
+      SENTA.
+
+      Ask me not! No answer I can give.
+
+  ERIK.
+
+  Gerechter Gott! Kein Zweifel! Es ist wahr!
+  Welch unheilvolle Macht riss Dich dahin?
+  Welche Gewalt verführte Dich so schnell,
+  Grausam zu brechen dieses treuste Herz?
+  Dein Vater? ha, den Bräut’gam bracht er mit, --
+  Wohl kannt’ ich ihn, -- mir ahnte, was geschieht.
+  Doch Du? Ist’s möglich! -- reichest Deine Hand
+  Dem Mann, der Deine Schwelle kaum betrat!
+
+      ERIK.
+
+      Eternal God! no doubt prevails! ’tis true!
+      An evil power has ensnared thee,
+      Infatuation strange possesses thee;
+      Thou wilt break this loving heart!
+      Thy father, ha! the bridegroom he did bring;
+      I know him well: I fear’d what might befall!
+      Yet thou--amazing!--has given him thy hand
+      When scarce across the threshold he had come.
+
+  SENTA.
+
+  Nicht weiter! Schweig’! Ich muss! Ich muss!
+
+      SENTA.
+
+      No further! Cease! I must!
+
+  ERIK.
+
+  O des Gehorsams, blind wie Deine That!
+  Den Wink des Vaters nanntest Du willkommen,
+  Mit _einem_ Streich vernichtest Du mein Herz!
+
+      ERIK.
+
+      Oh, this obedience, blind as thy act!
+      Thy father’s hint thou failest not to follow;
+      A single blow crushes my loving heart!
+
+  SENTA.
+
+  Nicht mehr! Nicht mehr! Ich darf dich nicht mehr seh’n!
+  Nicht an Dich denken. Hohe Pflicht gebeut’s!
+
+      SENTA.
+
+      No more! No more may I see thee,
+      Nor think of thee: higher calls are mine!
+
+  ERIK.
+
+  Welch hohe Pflicht? Ist _Höh’re_ nicht zu halten,
+  Was Du mir einst gelobet, ew’ge Treue?
+
+      ERIK.
+
+      What higher calls? Thy highest is to render
+      What thou didst vow to give to me--love eternal.
+
+  SENTA.
+
+  Wie? Ew’ge Treue hätt’ ich Dir gelobt?
+
+      SENTA.
+
+      What love eternal did I vow to give?
+
+  ERIK.
+
+  Senta! O Senta! Läugnest Du?
+  Willst jenes Tags Du nicht Dich mehr entsinnen,
+  Als Du zu Dir mich riefest in das Thal?
+  Als, Dir des Hochlands Blume zu gewinnen,
+  Muthvoll ich trug Beschwerden ohne Zahl.
+  Gedenkst Du, wie auf steilem Felsenriffe
+  Vom Ufer wir den Vater scheiden sah’n?
+  Er zog dahin auf weiss beschwingtem Schiffe,
+  Und meinen Schutz vertraute er Dich an: --
+  Als sich Dein Arm um meinen Nacken schlang,
+  Gestandest Du mir Liebe nicht aufs Neu’?
+  Was bei der Hände Druck mich hehr durchdrang,
+  Sag’, war’s nicht die Versich’rung Deiner Treu’?
+
+      ERIK.
+
+      Senta! O Senta! deniest thou?--
+      Is that fair day no more by thee remember’d,
+      When from the vale thou call’d’st me to the height,
+      When fearlessly over rugged peaks I clamber’d,
+      And gather’d for thee many a wild flow’r bright?
+      Remember’st, as on rocky summit standing,
+      Thy father’s ship we saw ride on the tide?
+      We watch’d the sails with favor’d breeze expanding,
+      Did he not thee unto my care confide,
+      Thy arm so sweetly round my neck entwining,
+      Didst pledge thy love anew, how happy both!
+      Did’st press my hand, as on my breast reclining,
+      Say, was not that, indeed, the sealing of thy troth?
+
+  HOLLAENDER.
+
+  Verloren! Ach! verloren! Ewig verlor’nes Heil!
+
+      THE FLYING DUTCHMAN.
+
+      Lost to me, forever lost!
+      Salvation will not come to me!
+
+  ERIK.
+
+  Was seh’ ich? Gott!
+
+      ERIK.
+
+      What must I see?
+
+  HOLLAENDER.
+
+  Senta, leb’ wohl!
+
+      THE FLYING DUTCHMAN.
+
+      Senta, fare thee well!
+
+  SENTA.
+
+  Halt ein, Unsel’ger!
+
+      SENTA.
+
+      Stay, oh, stay! Desist ’ere it is too late.
+
+  ERIK.
+
+  Was beginnst Du?
+
+      ERIK.
+
+      Senta, Senta, what art thou doing?
+
+  HOLLAENDER.
+
+  In See, in See!
+  In See für ew’ge Zeiten!
+  Um Deine Treue ist’s gethan,
+  Um Deine Treue, um mein Heil.
+  Lebwohl, ich will dich nicht verderben!
+
+      THE FLYING DUTCHMAN.
+
+      To the sea! back to the sea!
+      To the sea for all eternity!
+      Thou hast broken faith,
+      Not can I be saved!
+      Farewell! Thy ruin I’ll not be.
+
+  ERIK.
+
+  Entsetzlich, dieser Blick!
+
+      ERIK.
+
+      Horrid! This diabolical glance!
+
+  SENTA.
+
+  Halt ein! Von dannen sollst Du nimmer flieh’n.
+
+      SENTA.
+
+      Desist! desist! thou must not go!
+
+  _Der Holländer gibt ein gellendes Zeichen auf seiner Pfeife
+  und ruft der Mannschaft seines Schiffes zu._
+
+      (_The Flying Dutchman gives a shrill signal on his whistle,
+      and hails his crew._)
+
+  HOLLAENDER.
+
+  Segel auf! Anker los! Sagt Lebwohl auf Ewigkeit dem Lande!
+
+      THE FLYING DUTCHMAN.
+
+      Hoist the sails once more,
+      Bid the shore farewell forevermore!
+
+  SENTA.
+
+  Ha, zweifelst Du an meiner Treue?
+  Unseliger, -- was verblendet Dich!
+  Halt ein! Halt ein! Halt ein!
+  Das Bündniss nicht bereue,
+  Was ich gelobte, halte ich.
+  Halt ein! Halt ein!
+
+      SENTA.
+
+      Doubt not my faith!
+      Act thou not rash!
+      Desist! desist!
+      In faith I’ll keep
+      What I’ve promised.
+      Act thou not rash!
+      Hold on! hold on!
+
+  ERIK.
+
+  Was hör’ ich, Gott, was muss ich sehn!
+  Muss ich dem Ohr, muss ich dem Auge traun!
+  Was hör’ ich, Gott, Senta!
+  Willst Du zu Grunde gehen?
+  Zu mir, zu mir: Du bist in Satans Klau’n!
+
+      ERIK.
+
+      What must I hear! what must I see!
+      Oh, God above! how can this be!
+      Senta, Senta,
+      Thou wilt perish!
+      Come to me! oh, come to me!
+      Thou art in Satan’s power!
+
+  HOLLAENDER.
+
+  Erfahre das Geschick, vor dem ich Dich bewahr’!
+  Verdammt bin ich zum gräszlichsten der Loose!
+  Zehnfacher Tod wär’ mir erwünschte Lust.
+  Vom Fluch ein Weib allein kann mich erlösen,
+  Ein Weib, das Treue bis in den Tod mir hält.
+  Wohl hast Du Treue mir gelobt,
+  Doch vor dem Ewigen noch nicht, dies rettet Dich!
+  Denn wiss’! Unselige, welches das Geschick,
+  Das Jene trifft, die mir die Treue brechen,
+  Ewige Verdammniss ist ihr Loos!
+  Zahllose Opfer fielen diesem Spruch durch mich.
+  Du aber sollst gerettet sein.
+  Lebwohl, fahr hin, mein Heil in Ewigkeit.
+
+      THE FLYING DUTCHMAN.
+
+      Learn now the doom from which I save thee!
+      Mine is a cruel, horrid fate;
+      Tenfold death would preferable be!
+      Woman alone from my curse can rescue me,
+      Woman who true unto death will be.
+      I have thy vow of constancy,
+      But not in the Eternal’s presence;
+      This from cruel fate will save thee;
+      For those who break their vow to me,
+      Damned in all eternity will be!
+      Thou shalt be saved, thou only!
+      Farewell, farewell! for all eternity
+      My curse will cleave to hapless me!
+
+  ERIK.
+
+  Zu Hülfe, rettet, rettet Sie!
+
+      ERIK.
+
+      Help! help quick! Save, oh save her!
+
+  SENTA.
+
+  Wohl kenn ich Dich! Wohl kenn ich Dein Geschick;
+  Ich kannte Dich, als ich zuerst Dich sah!
+  Das Ende Deiner Qual ist da!
+  Ich bin’s, durch deren Treu Dein Heil Du finden sollst!
+
+      SENTA.
+
+      No mystery to me
+      Is thy identity!
+      I know thy fate,
+      Thy cruel fate;
+      It’s not too late:--
+      I’ll be thy mate!
+      For all eternity
+      Saved thou shalt be
+      By woman’s constancy!
+
+  ERIK.
+
+  Helft Ihr, Sie ist verloren!
+
+      ERIK.
+
+      Save, oh, save her!
+
+  MARY.
+
+  Was erblicke ich?
+
+      MARY.
+
+      What must I see!
+
+  DALAND.
+
+  Was erblicke ich? Gott!
+
+      DALAND.
+
+      Oh, God, what must I see!
+
+  HOLLAENDER.
+
+  Du kennst mich nicht, Du ahnst nicht, wer ich bin!
+  Befrage die Meere aller Zonen.
+  Befrage den Seemann, der den Ocean durchstrich;
+  Erkenn’ dies Schiff, der Schrecken aller Frommen.
+  Den: „Fliegenden Holländer“ nennt man mich.
+
+      THE FLYING DUTCHMAN.
+
+      Thou know’st not my identity,
+      It is to thee a mystery.
+      Know’st thou this ship with spectral light?--
+      The Flying Dutchman I am called.
+
+  DIE MANNSCHAFT DES FLIEGENDEN HOLLAENDERS.
+
+  Jo ho, hoe!
+
+      CREW OF THE FLYING DUTCHMAN.
+
+      Heigho! ho! heigho!
+
+  MARY, ERIK, DALAND.
+
+  Senta, Senta, was willst Du thun?
+
+      MARY, ERIK, DALAND.
+
+      Senta, Senta, art thou raving?
+
+  SENTA.
+
+  Preis Deinen Engel und sein Gebot,
+  Hier steh’ ich treu Dir bis zum Tod.
+
+      SENTA.
+
+      Be cheerful thy mind, be joyous thy heart!
+      Thine will I be until death shall us part!
+
+  (_Sie stürzt sich in das Meer; -- zugleich versinkt das Schiff des
+  Holländers mit aller Mannschaft. Das Meer schwillt hoch auf und
+  sinkt in einem Wirbel wieder zurück. Im Glüroth der aufgehenden
+  Sonne sieht man über den Trümmern des Schiffes die verklärten
+  Gestalten Senta’s und des Holländer’s sich umschlungen haltend
+  dem Meere entsteigen und aufwärts schweben._)
+
+      (_She casts herself into the sea. The Dutchman’s ship, with all
+      her crew, sinks immediately. The sea rises high, and sinks back
+      in a whirlpool. In the glow of the sunset are clearly seen,
+      over the wreck of the ship, the forms of SENTA and the DUTCHMAN,
+      embracing each other, rising from the sea, and floating
+      upwards._)
+
+
+  ENDE.
+
+      THE END.
+
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+ERRATA.
+
+  I.i.
+  STEUERMANN.
+  Mit Gewitter und Sturm aus fernem Meer --
+  ...
+  MATE.
+  In tempest’s roar, on the wide sea,
+    [_Text and translation shown as printed: error for Daland?_]
+
+    Else waits my love in vain.
+  Hohohe! Jolohe! Heigho! heigho! heigho
+    [_final punctuation missing_]
+
+  II.i.
+  Ever and ever pursueth this man.  [_final . missing_]
+  Do not evade me now,  [Do no evade]
+  Why should I not feel sympathy?  [feed]
+
+  Ach, wo weilt sie etc. etc.  [etc .etc.]
+
+  II.iii.
+  Wonach mit Sehnsucht es ihn treibt -- das Heil.  [Heil,]
+
+
+
+
+
+
+End of Project Gutenberg's Der Fliegende Holländer, by Richard Wagner
+
+*** END OF THIS PROJECT GUTENBERG EBOOK DER FLIEGENDE HOLLÄNDER ***
+
+***** This file should be named 31963-0.txt or 31963-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/3/1/9/6/31963/
+
+Produced by Louise Hope, Juliet Sutherland and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
