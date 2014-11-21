@@ -10,7 +10,7 @@ import numpy as np
 
 N = 10000 # dimension of random index vectors
 k = 1000 # number of + (or -)
-cluster_max = 3 # size of max letter cluste
+cluster_max = 2 # size of max letter cluste
 ordered_clusters=1
 languages = ['english','german','norwegian','finnish','dutch','french','afrikaans','danish','spanish']
 
