@@ -34,29 +34,34 @@ def generate_id(N,k,alph=alphabet,cluster_sz=1, ordered=0):
 		for i in xrange(M):
 				# calculate repeats
 				cluster = clusters[i]
-				first = cluster[0]
-				repeats = 0
-				for char in cluster:
-						if first == char:
-								repeats += 1
-
-				if repeats == len(cluster):
-						# check if cluster all same letter
-						letter_idx = alphabet.find(first)
-						#print first, RI_letters[letter_idx,:]
-						RI[i,:] = RI_letters[letter_idx,:]
-				else:
-						letters = list(cluster)
-						prod = np.ones((1,N))
-						for letter in letters:
-								letter_idx = alphabet.find(letter)
-								prod = np.multiply(prod, RI_letters[letter_idx,:])
-						RI[i,:] = prod
+				RI[i,:] = id_vector(N, cluster, alphabet, RI_letters)
 					
 		dict = {}	
 		for i in range(len(clusters)):
 			dict[clusters[i]] = RI[i] 
 		return dict
+		
+def id_vector(N, cluster, alphabet, RI_letters):
+	vector = np.zeros(N)
+	first = cluster[0]
+	repeats = 0
+	for char in cluster:
+			if first == char:
+					repeats += 1
+
+	if repeats == len(cluster):
+			# check if cluster all same letter
+			letter_idx = alphabet.find(first)
+			#print first, RI_letters[letter_idx,:]
+			vector = RI_letters[letter_idx,:]
+	else:
+			letters = list(cluster)
+			prod = np.ones((1,N))
+			for letter in letters:
+					letter_idx = alphabet.find(letter)
+					prod = np.multiply(prod, RI_letters[letter_idx,:])
+			vector = prod
+	return vector
 
 def generate_RI_text(clusters_RI, text_name):
 		# generate RI vector for "text_name"
