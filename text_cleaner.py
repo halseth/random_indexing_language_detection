@@ -18,13 +18,13 @@ inputFile = codecs.open(str(sys.argv[1]), encoding='utf-8')
 outputFile = open(str(sys.argv[2]), 'w')
 
 for s in inputFile:
-    s = re.sub(u'ø', 'oe', s) // ø -> oe
-    s = re.sub(u'å', 'aa', s) // å -> aa
-    s = re.sub(u'æ', 'ae', s) // æ -> ae
-    s = re.sub(u'ä', 'ae', s) // ä -> ae
-    s = re.sub(u'ö', 'oe', s) // ö -> oe
-    s = re.sub(u'ü', 'ue', s) // ü -> ue
-    s = re.sub(u'ß', 'ss', s) // ß -> ss
+    s = re.sub(u'ø', 'oe', s) # ø -> oe
+    s = re.sub(u'å', 'aa', s) # å -> aa
+    s = re.sub(u'æ', 'ae', s) # æ -> ae
+    s = re.sub(u'ä', 'ae', s) # ä -> ae
+    s = re.sub(u'ö', 'oe', s) # ö -> oe
+    s = re.sub(u'ü', 'ue', s) # ü -> ue
+    s = re.sub(u'ß', 'ss', s) # ß -> ss
     s = unidecode(s)
     string_split = s.split()
     new_s = ''

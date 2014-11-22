@@ -52,14 +52,23 @@ def generate_id(N,k,alph=alphabet,cluster_sz=1, ordered=0):
 								letter_idx = alphabet.find(letter)
 								prod = np.multiply(prod, RI_letters[letter_idx,:])
 						RI[i,:] = prod
-		return clusters, RI
+					
+		dict = {}	
+		for i in range(len(clusters)):
+			dict[clusters[i]] = RI[i] 
+		return dict
 
-def generate_RI_text(clusters, RI, text_name):
+def generate_RI_text(clusters_RI, text_name):
 		# generate RI vector for "text_name"
 		# assumes text_name has .txt
 
-		N = RI.shape[1] # dimension of random indexing vectors
-		cluster_sz = len(clusters[0])
+
+
+		for key in clusters_RI:
+			cluster_sz = len(key)
+			N = clusters_RI[key].shape[0]
+			break # dimension of random indexing vectors
+			
 		text_vector = np.zeros((1, N))
 		text = utils.load_text(text_name)
 		for char_num in xrange(len(text)):
@@ -71,24 +80,24 @@ def generate_RI_text(clusters, RI, text_name):
 						cluster = ''
 						for j in xrange(cluster_sz):
 								cluster = text[char_num - j] + cluster
-						if cluster in clusters:
-								cluster_idx = clusters.index(cluster)
-								text_vector += RI[cluster_idx,:]
+						text_vector += clusters_RI[cluster]
 		return text_vector
 
-def generate_RI_lang(clusters, RI, languages=None):
+def generate_RI_lang(clusters_RI, languages=None):
 
 		if languages == None:
 				languages = ['english','german','norwegian','finnish']
 
-		N = RI.shape[1] # dimension of random indexing vectors
-		cluster_sz = len(clusters[0])
+		for key in clusters_RI:
+			N = clusters_RI[key].shape[0]
+			break # dimension of random indexing vectors
+				
 		num_lang = len(languages)
 
 		lang_vectors = np.zeros((num_lang,N))
 
 		for i in xrange(num_lang):
 				# load text one at a time (to save mem), English, German, Norwegian
-				lang_vectors[i,:] = generate_RI_text(clusters, RI, languages[i] + '.txt') 
+				lang_vectors[i,:] = generate_RI_text(clusters_RI, languages[i] + '.txt') 
 
 		return lang_vectors

@@ -10,7 +10,7 @@ import numpy as np
 
 N = 10000 # dimension of random index vectors
 k = 1000 # number of + (or -)
-cluster_max = 2 # size of max letter cluste
+cluster_max = 3 # size of max letter cluste
 ordered_clusters=1
 languages = ['english','german','norwegian','finnish','dutch','french','afrikaans','danish','spanish']
 
@@ -22,18 +22,18 @@ try:
 except IndexError:
 		unknown_txt = 'unknown1.txt'
 
-for cluster_sz in xrange(2,cluster_max+1):
+for cluster_sz in xrange(3,cluster_max+1):
 
 		# generate letter clusters and respective random indexing vectors
-		clusters, RI = random_idx.generate_id(N,k,cluster_sz=cluster_sz, ordered=ordered_clusters)
+		clusters_RI = random_idx.generate_id(N,k,cluster_sz=cluster_sz, ordered=ordered_clusters)
 
 		print "~~~~~~~~~~"
 		# calculate language vectors
-		lang_vectors = random_idx.generate_RI_lang(clusters, RI, languages=languages)
+		lang_vectors = random_idx.generate_RI_lang(clusters_RI, languages=languages)
 		total_vectors.append(lang_vectors)
 
 		# calculate unknown vector
-		unknown_vector = random_idx.generate_RI_text(clusters, RI,unknown_txt)
+		unknown_vector = random_idx.generate_RI_text(clusters_RI,unknown_txt)
 		unknown_tots.append(unknown_vector)
 
 		# print cosine angles 
