@@ -10,6 +10,17 @@ import pandas as pd
 
 alphabet = string.lowercase
 
+def generate_letter_id_vectors(N, k, alph=alphabet):
+	# build row-wise k-sparse random index matrix
+	# each row is random index vector for letter
+	num_letters = len(alphabet)
+	RI_letters = np.zeros((num_letters,N))
+	for i in xrange(num_letters):
+			rand_idx = np.random.permutation(N)
+			RI_letters[i,rand_idx[0:k]] = 1
+			RI_letters[i,rand_idx[k:2*k]] = -1
+	return RI_letters
+
 def generate_id(N,k,alph=alphabet,cluster_sz=1, ordered=0):
 		# generate id vectors of clusters from "alphabet" with size "cluster_sz"
 
@@ -20,15 +31,8 @@ def generate_id(N,k,alph=alphabet,cluster_sz=1, ordered=0):
 			clusters = utils.generate_ordered_clusters(alph,cluster_sz=cluster_sz)
 			
 		M = len(clusters) # number of letter clusters
-		num_letters = len(alphabet)
 
-		# build row-wise k-sparse random index matrix
-		# each row is random index vector for letter
-		RI_letters = np.zeros((num_letters,N))
-		for i in xrange(num_letters):
-				rand_idx = np.random.permutation(N)
-				RI_letters[i,rand_idx[0:k]] = 1
-				RI_letters[i,rand_idx[k:2*k]] = -1
+		RI_letters = generate_letter_id_vectors(N, k, alphabet)
 
 		RI = np.zeros((M,N))
 		for i in xrange(M):
@@ -67,12 +71,10 @@ def generate_RI_text(clusters_RI, text_name):
 		# generate RI vector for "text_name"
 		# assumes text_name has .txt
 
-
-
 		for key in clusters_RI:
 			cluster_sz = len(key)
-			N = clusters_RI[key].shape[0]
-			break # dimension of random indexing vectors
+			N = clusters_RI[key].shape[0] # dimension of random indexing vectors
+			break # need only one, so breaking
 			
 		text_vector = np.zeros((1, N))
 		text = utils.load_text(text_name)
@@ -94,8 +96,8 @@ def generate_RI_lang(clusters_RI, languages=None):
 				languages = ['english','german','norwegian','finnish']
 
 		for key in clusters_RI:
-			N = clusters_RI[key].shape[0]
-			break # dimension of random indexing vectors
+			N = clusters_RI[key].shape[0] # dimension of random indexing vectors
+			break
 				
 		num_lang = len(languages)
 
