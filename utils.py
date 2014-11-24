@@ -63,19 +63,6 @@ def display_graph(similarity, languages):
 
 		num_lang = len(languages)
 		offset=0.07
-		'''
-		G = nx.Graph()
-		G.add_nodes_from(languages)
-		for i in xrange(num_lang):
-				for j in xrange(num_lang):
-						G.add_edge(languages[i], languages[j], dist = similarity[i,j])
-		labels = {}
-		for node in G.nodes():
-					labels[node] = node
-		pos = nx.fruchterman_reingold_layout(G)
-		nx.draw(G,pos=pos,with_labels=True, node_color='r',font_color='k',font_size=16,alpha=0.5)
-		plt.show()
-		'''
 		dt = [('len',float)]
 		similarity = similarity.view(dt)
 
