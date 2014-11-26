@@ -24,21 +24,21 @@ except IndexError:
 
 # generate random indexing for letters, reused throughout
 RI_letters = random_idx.generate_letter_id_vectors(N,k)
-
+cluster_sizes = [5]
 # iterate over cluster sizes
-for cluster_sz in xrange(cluster_min,cluster_max+1):
+for cluster_sz in cluster_sizes:
 		# iterate over whether clusters are/arent ordered
 		for ordered in [0,1]:
 				# generate letter clusters and respective random indexing vectors
-				clusters_RI = random_idx.generate_id(RI_letters,cluster_sz=cluster_sz, ordered=0)
+				#clusters_RI = random_idx.generate_id(RI_letters,cluster_sz=cluster_sz, ordered=0)
 
 				print "~~~~~~~~~~"
 				# calculate language vectors
-				lang_vectors = random_idx.generate_RI_lang(clusters_RI, languages=languages)
+				lang_vectors = random_idx.generate_RI_lang(N, RI_letters, cluster_sz, ordered, languages=languages)
 				total_vectors.append(lang_vectors)
 
 				# calculate unknown vector
-				unknown_vector = random_idx.generate_RI_text(clusters_RI,unknown_txt)
+				unknown_vector = random_idx.generate_RI_text(N, RI_letters, cluster_sz, ordered,unknown_txt)
 				unknown_tots.append(unknown_vector)
 
 				# print cosine angles 
