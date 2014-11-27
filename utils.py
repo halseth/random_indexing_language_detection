@@ -146,3 +146,9 @@ def old_generate_unordered_clusters(alphabet, cluster_sz=1):
 						new_alph.append(cluster)
 
 		return new_alph
+
+def var_measure(cos_angles):
+		num_lang = cos_angles.shape[0]
+		iu1 = np.triu_indices(num_lang,1)
+		values = np.arcsin(cos_angles[iu1])
+		return np.var(values)

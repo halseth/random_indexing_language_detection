@@ -112,6 +112,8 @@ def generate_RI_text(N, RI_letters, cluster_sz, ordered, text_name, alph=alphabe
 
 def generate_RI_lang(N,RI_letters, cluster_sz, ordered, languages=None):
 
+		cluster_cache.clear()
+
 		if languages == None:
 				languages = ['english','german','norwegian','finnish']
 

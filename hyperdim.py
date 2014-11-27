@@ -23,12 +23,18 @@ except IndexError:
 		unknown_txt = 'unknown1.txt'
 
 # generate random indexing for letters, reused throughout
-RI_letters = random_idx.generate_letter_id_vectors(N,k)
-cluster_sizes = [5]
+cluster_sizes = [3]
+cluster_sz = 3
+Ns = [1e4,1e5,1e6]
+ks = [1e2, 1e3, 1e4]
+
 # iterate over cluster sizes
-for cluster_sz in cluster_sizes:
+#for cluster_sz in cluster_sizes:
+#for N in Ns:
+for k in ks:
 		# iterate over whether clusters are/arent ordered
-		for ordered in [0,1]:
+		RI_letters = random_idx.generate_letter_id_vectors(N,k)
+		for ordered in [0]:
 				# generate letter clusters and respective random indexing vectors
 				#clusters_RI = random_idx.generate_id(RI_letters,cluster_sz=cluster_sz, ordered=0)
 
@@ -50,7 +56,8 @@ for cluster_sz in cluster_sizes:
 
 				print 'N = ' + str(N) + '; k = ' + str(k) + '; letters clusters are ' + str(cluster_sz) + ', ' + ord_str + '\n'
 				cosangles = utils.cosangles(lang_vectors, languages)
-
+				print "variance of upper triangle: " + str(utils.var_measure(cosangles))
+'''
 final_lang = sum(total_vectors)
 
 # generate language pairs
@@ -85,3 +92,4 @@ utils.find_language(unknown_txt, final_unknown, np.vstack((final_lang, bilingual
 print '========='
 print 'N = ' + str(N) + '; k = ' + str(k) + '; max size letters clusters are ' + str(cluster_max) + '\n'
 cosangles = utils.cosangles(final_lang, languages, display=0)
+'''
