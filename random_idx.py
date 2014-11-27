@@ -7,8 +7,10 @@ import numpy as np
 import string
 import utils
 import pandas as pd
+import os
 
 alphabet = string.lowercase
+lang_dir = './preprocessed_texts/'
 
 cluster_cache = {}
 
@@ -124,6 +126,6 @@ def generate_RI_lang(N,RI_letters, cluster_sz, ordered, languages=None):
 
 		for i in xrange(num_lang):
 				# load text one at a time (to save mem), English, German, Norwegian
-				lang_vectors[i,:] = generate_RI_text(N, RI_letters, cluster_sz, ordered, languages[i] + '.txt')
+				lang_vectors[i,:] = generate_RI_text(N, RI_letters, cluster_sz, ordered, lang_dir + languages[i] + '.txt')
 
 		return lang_vectors

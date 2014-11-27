@@ -20,44 +20,45 @@ unknown_tots = []
 try:
 		unknown_txt = sys.argv[1]
 except IndexError:
-		unknown_txt = 'unknown1.txt'
+		unknown_txt = './preprocessed_texts/unknown1.txt'
+
+try:
+		new_RI = sys.argv[2]
+except IndexError:
+		new_RI = 'on'
 
 # generate random indexing for letters, reused throughout
-cluster_sizes = [3]
+cluster_sizes = [2]#,3,4]
 cluster_sz = 3
 Ns = [1e4,1e5,1e6]
 ks = [1e2, 1e3, 1e4]
+RI_letters = random_idx.generate_letter_id_vectors(N,k)
 
 # iterate over cluster sizes
-#for cluster_sz in cluster_sizes:
-#for N in Ns:
-for k in ks:
-		# iterate over whether clusters are/arent ordered
-		RI_letters = random_idx.generate_letter_id_vectors(N,k)
+for cluster_sz in cluster_sizes:
 		for ordered in [0]:
-				# generate letter clusters and respective random indexing vectors
-				#clusters_RI = random_idx.generate_id(RI_letters,cluster_sz=cluster_sz, ordered=0)
 
-				print "~~~~~~~~~~"
-				# calculate language vectors
-				lang_vectors = random_idx.generate_RI_lang(N, RI_letters, cluster_sz, ordered, languages=languages)
-				total_vectors.append(lang_vectors)
+					print "~~~~~~~~~~"
+					# calculate language vectors
+					lang_vectors = random_idx.generate_RI_lang(N, RI_letters, cluster_sz, ordered, languages=languages)
+					total_vectors.append(lang_vectors)
 
-				# calculate unknown vector
-				unknown_vector = random_idx.generate_RI_text(N, RI_letters, cluster_sz, ordered,unknown_txt)
-				unknown_tots.append(unknown_vector)
+					# calculate unknown vector
+					unknown_vector = random_idx.generate_RI_text(N, RI_letters, cluster_sz, ordered,unknown_txt)
+					unknown_tots.append(unknown_vector)
 
-				# print cosine angles 
-				print '=========='
-				if ordered == 0:
-						ord_str = 'unordered!'
-				else:
-						ord_str = 'ordered!'
+					# print cosine angles 
+					print '=========='
+					if ordered == 0:
+							ord_str = 'unordered!'
+					else:
+							ord_str = 'ordered!'
 
-				print 'N = ' + str(N) + '; k = ' + str(k) + '; letters clusters are ' + str(cluster_sz) + ', ' + ord_str + '\n'
-				cosangles = utils.cosangles(lang_vectors, languages)
-				print "variance of upper triangle: " + str(utils.var_measure(cosangles))
-'''
+					print 'N = ' + str(N) + '; k = ' + str(k) + '; letters clusters are ' + str(cluster_sz) + ', ' + ord_str + '\n'
+					cosangles = utils.cosangles(lang_vectors, languages)
+					#print "variance of language values: " + str(utils.var_measure(cosangles))
+
+
 final_lang = sum(total_vectors)
 
 # generate language pairs
@@ -66,7 +67,7 @@ for i in xrange(len(languages)):
 		for j in xrange(len(languages)):
 				if i < j:
 						bilinguals.append((languages[i],languages[j]))
-print bilinguals
+#print bilinguals
 
 bilingual_vectors = np.zeros((len(bilinguals),N))
 for i in xrange(len(bilinguals)):
@@ -91,5 +92,4 @@ utils.find_language(unknown_txt, final_unknown, np.vstack((final_lang, bilingual
 
 print '========='
 print 'N = ' + str(N) + '; k = ' + str(k) + '; max size letters clusters are ' + str(cluster_max) + '\n'
-cosangles = utils.cosangles(final_lang, languages, display=0)
-'''
+cosangles = utils.cosangles(final_lang, languages, display=1)

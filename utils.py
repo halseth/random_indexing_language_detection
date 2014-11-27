@@ -13,7 +13,6 @@ import matplotlib.pyplot as plt
 import networkx as nx
 
 # constants
-text_dir = os.getcwd() + '/preprocessed_texts/'
 whitespace = string.whitespace
 
 
@@ -21,12 +20,12 @@ def load_text(text_name):
 		# loads text of text_name, assumes text has .txt and the file exists
 		try:
 				print 'loading ' + str(text_name)
-				textfile = open(text_dir + text_name)
+				textfile = open(text_name)
 				text = textfile.read()
 				text = text.translate(None,whitespace)
 				textfile.close()
 		except UnboundLocalError:
-				print 'sorry, no such file named ' + text_name + ' in ' + text_dir
+				print 'sorry, no such file named ' + text_name
 
 		return text
 
