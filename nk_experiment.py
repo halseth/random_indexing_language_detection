@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 
 languages = ['english','german','norwegian','finnish','dutch','french','afrikaans','danish','spanish']
 cluster_sizes = [2]#,3,4]
-ordered = 0 # fixing to ordered clusters only (for time)
+ordered = 0 # fixing to unordered clusters only (for time)
 Ns = [1e3,2e3]#,3e3,4e3,5e3,6e3,7e3,8e3,9e3,1e4]
 sparsities = [0.01, 0.05]#, 0.1, 0.5, 1]
 
