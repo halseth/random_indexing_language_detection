@@ -7,17 +7,18 @@ import utils
 import sys
 import scipy.io as scio
 import numpy as np
+import matplotlib.pyplot as plt
 
 
 languages = ['english','german','norwegian','finnish','dutch','french','afrikaans','danish','spanish']
-cluster_sizes = [2,3,4]
+cluster_sizes = [2]#,3,4]
 ordered = 0 # fixing to ordered clusters only (for time)
-Ns = [1e3,2e3,3e3,4e3,5e3,6e3,7e3,8e3,9e3,1e4]
-sparsities = [0.01, 0.05, 0.1, 0.5, 1]
+Ns = [1e3,2e3]#,3e3,4e3,5e3,6e3,7e3,8e3,9e3,1e4]
+sparsities = [0.01, 0.05]#, 0.1, 0.5, 1]
 
 V = np.zeros((len(Ns),len(sparsities)))
 
-#for N in Ns:
+# build V (matrix of variances)
 for i in xrange(len(Ns)):
 		N = int(Ns[i])
 		for j in xrange(len(sparsities)):
@@ -52,4 +53,13 @@ for i in xrange(len(Ns)):
 				print "variance of cosine values: " + str(vary)
 				print '=========='
 
-np.savez('vars_dump.npz',V=V, Ns=Ns, sparsities=sparsities)
+np.savez('./vars/vars_dump.npz',V=V, Ns=Ns, sparsities=sparsities)
+
+# plot results
+CS = plt.contourf(sparsities,Ns,V, alpha=0.7, cmap=plt.cm.jet)
+CB = plt.colorbar(CS, shrink=0.8, extend='both')
+plt.xlabel('Sparsity of Vectors')
+plt.ylabel('N (dimension of vectors)')
+plt.title('Variance of Cosine Angles Between Vectors')
+plt.savefig('./plots/Nk_contours.png',bbox='tight')
+plt.show()
