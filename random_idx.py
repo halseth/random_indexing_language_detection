@@ -111,6 +111,21 @@ def generate_RI_text(N, RI_letters, cluster_sz, ordered, text_name, alph=alphabe
 								cluster = text[char_num - j] + cluster
 						text_vector += id_vector(N, cluster, alph,RI_letters, ordered)
 		return text_vector
+		
+def generate_RI_text_history(N, RI_letters, text_name, alph=alphabet):
+		# generate RI vector for "text_name"
+		# assumes text_name has .txt
+
+		text_vector = np.zeros((1, N))
+		history_vector = np.zeros((1,N))
+		text = utils.load_text(text_name)
+		for char_num in xrange(len(text)):
+			char = text[char_num]
+			letter_idx = alphabet.find(char)
+			history_vector = 0.75*history_vector + RI_letters[letter_idx,:]
+			text_vector += history_vector	
+				
+		return text_vector
 
 def generate_RI_lang(N,RI_letters, cluster_sz, ordered, languages=None):
 
