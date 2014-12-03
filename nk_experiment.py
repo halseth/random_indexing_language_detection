@@ -11,19 +11,25 @@ import matplotlib.pyplot as plt
 
 
 languages = ['english','german','norwegian','finnish','dutch','french','afrikaans','danish','spanish']
-cluster_sizes = [2]#,3,4]
+cluster_sizes = [2,3,4]
 ordered = 0 # fixing to unordered clusters only (for time)
-Ns = [1e3,2e3]#,3e3,4e3,5e3,6e3,7e3,8e3,9e3,1e4]
+Ns = [1e3,2e3,3e3,4e3,5e3,6e3,7e3,8e3,9e3,1e4]
 sparsities = [0.01, 0.05]#, 0.1, 0.5, 1]
+ks = [5, 10, 50, 100, 500, 1000, 5000]
 
-V = np.zeros((len(Ns),len(sparsities)))
+#V = np.zeros((len(Ns),len(sparsities)))
+V = np.zeros((len(Ns), len(ks)))
 
 # build V (matrix of variances)
 for i in xrange(len(Ns)):
 		N = int(Ns[i])
-		for j in xrange(len(sparsities)):
-				sparsity = sparsities[j]
-				k = int(N*sparsity/2)
+		#for j in xrange(len(sparsities)):
+		for j in xrange(len(ks)):
+				#sparsity = sparsities[j]
+				#k = int(N*sparsity/2)
+				k = ks[j]
+				if k >= N:
+						continue
 				RI_letters = random_idx.generate_letter_id_vectors(N,k)
 				total_vec = []
 				print N,k
@@ -53,13 +59,14 @@ for i in xrange(len(Ns)):
 				print "variance of cosine values: " + str(vary)
 				print '=========='
 
-np.savez('./vars/vars_dump.npz',V=V, Ns=Ns, sparsities=sparsities)
+np.savez('./vars/vars_dump.npz',V=V, Ns=Ns, sparsities=sparsities,ks=ks)
 
 # plot results
-CS = plt.contourf(sparsities,Ns,V, alpha=0.7, cmap=plt.cm.jet)
+#CS = plt.contourf(sparsities,Ns,V, alpha=0.7, cmap=plt.cm.jet)
+CS = plt.contourf(ks,Ns,V, alpha=0.7, cmap=plt.cm.jet)
 CB = plt.colorbar(CS, shrink=0.8, extend='both')
-plt.xlabel('Sparsity of Vectors')
-plt.ylabel('N (dimension of vectors)')
+plt.xlabel('k')
+plt.ylabel('N')
 plt.title('Variance of Cosine Angles Between Vectors')
-plt.savefig('./plots/Nk_contours.png',bbox='tight')
+plt.savefig('./plots/Nk_contours-ridiculous.png',bbox='tight')
 plt.show()
