@@ -144,3 +144,22 @@ def generate_RI_lang(N,RI_letters, cluster_sz, ordered, languages=None):
 				lang_vectors[i,:] = generate_RI_text(N, RI_letters, cluster_sz, ordered, lang_dir + languages[i] + '.txt')
 
 		return lang_vectors
+
+
+def generate_RI_lang_history(N,RI_letters, languages=None):
+
+		cluster_cache.clear()
+
+		if languages == None:
+				languages = ['english','german','norwegian','finnish']
+
+
+		num_lang = len(languages)
+
+		lang_vectors = np.zeros((num_lang,N))
+
+		for i in xrange(num_lang):
+				# load text one at a time (to save mem), English, German, Norwegian
+				lang_vectors[i,:] = generate_RI_text_history(N, RI_letters, lang_dir + languages[i] + '.txt')
+
+		return lang_vectors
