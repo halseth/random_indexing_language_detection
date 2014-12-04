@@ -49,7 +49,8 @@ def generate_letter_id_vectors(N, k, alph=alphabet):
 # 		return dictionary
 
 def id_vector(N, cluster, alphabet, RI_letters,ordered=0):
-	
+	if cluster == '':
+			return 0
 	if ordered == 0:
 		# unordered clusters
 		cluster = ''.join(sorted(cluster))
@@ -112,6 +113,23 @@ def generate_RI_text(N, RI_letters, cluster_sz, ordered, text_name, alph=alphabe
 						text_vector += id_vector(N, cluster, alph,RI_letters, ordered)
 		return text_vector
 		
+def generate_RI_words(N, RI_letters, text_name, alph=alphabet):
+		# generate RI vector for "text_name"
+		# assumes text_name has .txt
+
+		text_vector = np.zeros((1, N))
+		text = utils.load_text_spaces(text_name)
+		cluster = ''
+		for char_num in xrange(len(text)):
+				char = text[char_num]
+				if char == ' ':
+						text_vector += id_vector(N, cluster, alph, RI_letters)
+						# reset cluster
+						cluster = ''
+				else:
+						cluster += text[char_num]
+		return text_vector
+
 def generate_RI_text_history(N, RI_letters, text_name, alph=alphabet):
 		# generate RI vector for "text_name"
 		# assumes text_name has .txt
@@ -161,5 +179,23 @@ def generate_RI_lang_history(N,RI_letters, languages=None):
 		for i in xrange(num_lang):
 				# load text one at a time (to save mem), English, German, Norwegian
 				lang_vectors[i,:] = generate_RI_text_history(N, RI_letters, lang_dir + languages[i] + '.txt')
+
+		return lang_vectors
+
+def generate_RI_lang_words(N, RI_letters, languages=None):
+
+		cluster_cache.clear()
+
+		if languages == None:
+				languages = ['english','german','norwegian','finnish']
+
+
+		num_lang = len(languages)
+
+		lang_vectors = np.zeros((num_lang,N))
+
+		for i in xrange(num_lang):
+				# load text one at a time (to save mem), English, German, Norwegian
+				lang_vectors[i,:] = generate_RI_words(N, RI_letters, lang_dir + languages[i] + '.txt')
 
 		return lang_vectors

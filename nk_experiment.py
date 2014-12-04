@@ -12,10 +12,10 @@ import matplotlib.pyplot as plt
 
 languages = ['english','german','norwegian','finnish','dutch','french','afrikaans','danish','spanish']
 cluster_sizes = [2,3,4]
-ordered = 0 # fixing to unordered clusters only (for time)
+ordered = 1 # fixing to ordered clusters only
 Ns = [1e3,2e3,3e3,4e3,5e3,6e3,7e3,8e3,9e3,1e4]
 sparsities = [0.01, 0.05]#, 0.1, 0.5, 1]
-ks = [5, 10, 50, 100, 500, 1000, 5000]
+ks = list(np.round((np.logspace(0,4,10))))
 
 #V = np.zeros((len(Ns),len(sparsities)))
 V = np.zeros((len(Ns), len(ks)))
@@ -63,9 +63,9 @@ np.savez('./vars/vars_dump.npz',V=V, Ns=Ns, sparsities=sparsities,ks=ks)
 
 # plot results
 #CS = plt.contourf(sparsities,Ns,V, alpha=0.7, cmap=plt.cm.jet)
-CS = plt.contourf(ks,Ns,V, alpha=0.7, cmap=plt.cm.jet)
+CS = plt.contourf(np.log10(ks),Ns,V, alpha=0.7, cmap=plt.cm.jet)
 CB = plt.colorbar(CS, shrink=0.8, extend='both')
-plt.xlabel('k')
+plt.xlabel('log(k)')
 plt.ylabel('N')
 plt.title('Variance of Cosine Angles Between Vectors')
 plt.savefig('./plots/Nk_contours-ridiculous.png',bbox='tight')

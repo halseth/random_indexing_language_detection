@@ -29,6 +29,19 @@ def load_text(text_name):
 
 		return text
 
+def load_text_spaces(text_name):
+		# loads text of text_name, assumes text has .txt and the file exists
+		try:
+				print 'loading ' + str(text_name)
+				textfile = open(text_name)
+				text = textfile.read()
+				text = text.translate(None,whitespace[0:-1])
+				textfile.close()
+		except UnboundLocalError:
+				print 'sorry, no such file named ' + text_name
+
+		return text
+
 def cosangles(lang_vectors,languages,display=0):
 		# measures the cosine angle of the given "lang_vectors" and labels them with "language"
 
@@ -85,6 +98,11 @@ def find_language(text_name, text_vector, lang_vectors, languages):
 		text_vector_normd = text_vector/np.linalg.norm(text_vector)
 
 		cos_angles = lang_vectors_normd.dot(text_vector_normd.T)
+		cola = zip(cos_angles,languages)
+		cola.sort()
+		cola.reverse()
+		cos_angles = [x for x,y in cola]
+		languages = [y for x,y in cola]
 		labeled_cosangles = pd.DataFrame(cos_angles, index=languages, columns=['likelihood'])
 		print labeled_cosangles
 

@@ -10,8 +10,8 @@ import numpy as np
 
 N = 10000 # dimension of random index vectors
 k = 10 # number of + (or -)
-cluster_min = 2
-cluster_max = 3 # size of max letter cluste
+cluster_min = 4
+cluster_max = 4 # size of max letter cluster
 languages = ['english','german','norwegian','finnish','dutch','french','afrikaans','danish','spanish']
 
 total_vectors = []
@@ -27,11 +27,12 @@ try:
 		new_RI = sys.argv[2]
 except IndexError:
 		new_RI = 'on'
-
+###############################
 # generate random indexing for letters, reused throughout
-cluster_sizes = [2]#,3,4]
+cluster_sizes = xrange(cluster_min,cluster_max+1)
 RI_letters = random_idx.generate_letter_id_vectors(N,k)
 
+##############################
 # iterate over cluster sizes
 for cluster_sz in cluster_sizes:
 		for ordered in [1]:
@@ -58,6 +59,7 @@ for cluster_sz in cluster_sizes:
 					varys.append(variance)
 					print "variance of language values: " + str(utils.var_measure(cosangles))
 
+########################
 # history vectors
 lang_vectors = random_idx.generate_RI_lang_history(N, RI_letters, languages=languages)
 total_vectors.append(lang_vectors)
@@ -70,8 +72,27 @@ cosangles = utils.cosangles(lang_vectors, languages)
 variance = utils.var_measure(cosangles)
 varys.append(variance)
 print "variance of history language values: " + str(utils.var_measure(cosangles))
+#############################
+'''
+# calculate language vectors with words
 
+print "~~~~~~~~~~"
+# calculate language vectors
+lang_vectors = random_idx.generate_RI_lang_words(N, RI_letters, languages=languages)
+total_vectors.append(lang_vectors)
 
+print 'N = ' + str(N) + '; k = ' + str(k) + '; words words words! \n'
+cosangles = utils.cosangles(lang_vectors, languages)
+variance = utils.var_measure(cosangles)
+varys.append(variance)
+print "variance of language values: " + str(utils.var_measure(cosangles))
+
+# calculate unknown vector
+unknown_vector = random_idx.generate_RI_words(N, RI_letters, unknown_txt)
+unknown_tots.append(unknown_vector)
+'''
+#############################
+# final language vector calculations!
 final_lang = np.zeros(total_vectors[0].shape)
 final_unknown = np.zeros(unknown_tots[0].shape)
 for i in xrange(len(varys)):
