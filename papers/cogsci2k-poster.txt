@@ -1,0 +1,339 @@
+
+     RANDOM INDEXING OF TEXT SAMPLES FOR LATENT SEMANTIC ANALYSIS
+
+          Pentti Kanerva    Jan Kristoferson    Anders Holst
+           kanerva@sics.se    janke@sics.se     aho@sics.se
+             RWCP Theoretical Foundation SICS Laboratory
+                Swedish Institute of Computer Science
+                   Box 1263, SE-16429 Kista, Sweden
+
+
+                               ABSTRACT
+
+  In statistical study of natural language, word-use statistics
+  are often collected into a huge matrix, which then is analyzed
+  mathematically.  However, matrices for very large corpora can be
+  too large for computers to handle.  This poster describes a simple
+  method of limiting the size of the matrix without limiting the
+  size of the corpus.  The method is based on sparse distributed
+  representation and is explained with reference to Latent Semantic
+  Analysis/Indexing (LSA/LSI).
+
+(If you already know LSA/LSI, hop on down to "PROBLEM FOR LSA")
+
+
+TASK
+
+  Learn meanings of words from text.
+
+
+TEST OF LEARNING
+
+  TOEFL synonym test
+  (TOEFL = "Test of English as a Foreign Language")
+
+  EXAMPLE of TOEFL
+    3 test questions (from a total of 80):
+
+    "Which word (A, B, C, or D) is most like ...
+
+    ... prominent?      ... zenith?        ... flawed?
+    A. battered         A. completion      A. tiny
+    B. ancient          B. pinnacle        B. imperfect
+    C. mysterious       C. outset          C. lustrous
+    D. conspicuous      D. decline         D. crude"
+
+
+IDEA
+
+  Words with the same or similar meaning appear in similar
+  contexts--that is, together with words from the same subvocabulary.
+  The words can often be substituted for each other, as in
+
+    "You can travel by  BUS  if you rather not fly."
+    "You can travel by TRAIN if you rather not fly."
+
+  The idea is to learn such things from word-use statistics.
+
+
+LEARNING MATERIAL (the TASA corpus)
+
+  10 million words of UNMARKED high-school level English text on
+  Language arts, Health, Home economics, Industrial arts, Science,
+  Social studies, and Business.
+
+  Divided into 37,600 text samples, or contexts, or "documents"
+  (average of 166 words/document).
+
+  EXAMPLE of a 186-word "document" (TASA document #1728):
+
+    "A liquid is a strange substance.  The principles that govern the
+    behavior of solids and gases are much better understood than those
+    that govern the behavior of liquids.  The marvel is not that
+    liquids behave as they do, but that they exist at all.  In theory,
+    it might seem more reasonable for a crystalline solid to melt to
+    a fluid having molecules initially touching one another, and for
+    further heating to cause the molecules to move faster and farther
+    apart until something like a gas is produced, without any sharp
+    transition in fluid properties along the way.  This theoretical
+    possibility is diagrammed in Figure 17-1 in a plot of volume per
+    mole against temperature.  Real substances actually do behave this
+    way above what is called their critical pressure, PC, which is 218
+    atm for H2O and 72 atm for CO2.  But at lower pressures their
+    behavior is more like that shown in Figure 17-2.  The molar volume
+    usually increases slightly upon melting (point E to point D), and
+    then makes a sudden jump at the boiling point, TB, where the
+    liquid changes to a gas (point B to point C)."
+
+  Some WORD FREQUENCIES in Document 1728:
+    "substance" 1, "substances" 1, "liquid" 2, "liquids" 2, "fluid" 2,
+    "and" 5, "the" 9.
+
+
+  TOTAL VOCABULARY of
+    54,000 "words" when
+     - words truncated to 8 characters, and
+     - the least and the most frequent words are removed:
+       i.e., words occuring only once in 10 million (31,400 such),
+       and more than 17,000 times (75 such; "the" 739,155 times).
+    The resulting corpus is 5.1 million words.
+
+  Word-use statistics (word frequencies) are collected into a
+  54,000 x 37,600 (M x N) words-by-documents matrix F.
+
+  F_wd is the number of times the word w appears in document d.
+  SPARSE:  Most F_wd = 0 (~ 99.75%; only 1 in 400 is non-0).
+
+                       Document #        N =
+                 1 . . 1728 . . .  d  . . 37,600
+       Word    +--------------------------------+  Total
+         1     |                   .            |
+         .     |                   .            |
+     "crystal" | 0       1         .         0  |   182
+     "crystals"| 0       0         .         0  |   213
+         .     |              (mostly 0s)       |
+     "fluid"   | 0       2         .         0  |   454
+     "fluids"  | 0       2         .         0  |   124
+         .     |                   .            |
+     "liquid"  | 0       2         .         0  | 1,283
+         .     |                   .            |
+         w     | . (mostly 0s). . F_wd . . . .  |  F_w*
+         .     |                   .            |
+    M = 54,000 |                   .            |
+               +--------------------------------+
+       Total           101        F_*d         5,100,000
+
+
+
+LSA/LSI SOLUTION TO LEARNING AND TOEFL
+
+  Latent Semantic Analysis/Indexing (Landauer & Dumais 1997):
+
+    54,000 x 37,600 --> SVD --> 54,000 x 300
+
+  The  54,000 x 37,600 words-by-documents matrix F is reduced to,
+  say, 54,000 x    300 with Singular-Value Decomposition (SVD).
+  Each word is then represented by a 300-dimensional vector
+  (down from 37,600-D).  Words with similar meaning will have
+  vectors with a high correlation (cosine), and the test is made
+  by comparing the correlations.  Among the four choices in each
+  test question, the one with the highest correlation wins--it's
+  the machine's answer.
+
+
+PROBLEM FOR LSA
+
+  SVD is computationally "heavy," in terms of both memory size
+  and compute time (approx. 3 hrs. for this problem).  SVD for
+  a collection of a million documents is impractical today.
+
+
+One Answer:  APPROXIMATE DIMENSION EQUALIZATION
+
+  Jiang & Littman (2000; includes a beautiful mathematical summary
+  of vector-based information retrieval).
+
+
+Complementary Answer:  RANDOM INDEXING
+
+  54,000 x 37,600  --> Random Indexing -->  54,000 x 4,000
+
+  Based on Sparse Distributed Representation.
+
+  Instead of collecting word-use statistics into a 54,000 x 37,600
+  (M x N) words-by-documents matrix F, collect them into a
+  54,000 x 4,000 (M x N') matrix G.  How?
+
+  0.  Set G = 0.
+
+  1.  For each document d, make an N'-dimensional (e.g., 4,000-D)
+      ternary INDEX VECTOR i_d by placing a small number k of
+      -1s and +1s (e.g., ten of each; k = 10) at random among
+      the 4,000; the rest will be 0s:
+      i_d = 0000000+000...000+000000-000...000,
+            that's 4,000 "trits," 3,980 of them 0s.
+
+  2.  Scan through document d.  Every time the word w appears,
+      add the index vector i_d to row w of matrix G.
+
+  NOTE: The same procedure will produce the matrix F if the 37,600
+     index vectors i_d are 37,600-bit and have only one 1, in the
+     d-th position (i.e., unary or LOCAL representation):
+     i_d = 00000000000...000+0000000000...000000000000000000000000000,
+           that's 37,600 bits, 37,599 of them 0s.
+
+
+A LITTLE MATH
+
+  If the N random index vectors for documents are assembled into an
+  N x N' matrix D, whose row d is the index vector for document d
+  (i.e., D_d. = i_d), then G = FD.  The matrix D is "P-unitary,"
+  meaning that it is probabilistic and DD` ~ I times a constant (2k;
+  ` means `transpose'), so that F ~ GD`/2k (also, D`D ~ I times a
+  constant).  Thus, F and G have approximately the same information.
+
+
+EVALUATION
+
+  Table 1 and Figure 1 show test scores for Random Indexing together
+  with scores for LSA on the same data.  The comparable columns of
+  Table 1 are the two in the middle, and Random Indexing scores are
+  higher.  Normalization of the frequencies in matrix F (by logarithm
+  and entropy) before SVD is known to improve LSA scores.  Such
+  improved scores are also shown, and they are very much like the
+  scores for Random Indexing.
+
+                           TABLE 1
+                 TOEFL Scores, # correct/80
+            ===================================
+             Random Indexing        LSA/LSI
+            -----------------   ---------------
+                N'    k  #/80   #/80 #/80* Dim.
+            -----------------   ---------------
+              1,000  2-3  31     36   32    10
+              2,000   3   35     36   36    20
+              3,000   6   37     37   41    50
+              4,000  10   42     39   41   100
+              6,000  10   41     36   43   200
+              8,000  10   45     37   45   250
+             10,000  13   44     39   --   300
+            ===================================
+          * The second LSA column shows improved
+          TOEFL scores when the frequencies F_wd
+          are normalized (log entropy) before SVD.
+
+
+              20        30        40        50
+       N' =   |====.====:====.====:====.====: Dim.
+        1,000 |         .R        .         .
+              |         . +   o   .         .  10
+        2,000 |         .    R    .         .
+              |         .     *   .         .  20
+        3,000 |         .      R  .         .
+              |         .      o  .+        .  50
+        4,000 |         .         . R       .
+              |         .        o.+        . 100
+        6,000 |         .         .R        .
+              |         .     o   .  +      . 200
+        8,000 |         .         .    R    .
+              |         .      o  .    +    . 250
+       10,000 |         .         .   R     .
+              |         .        o.         . 300
+              |====.====:====.====:====.====:
+              20        30        40        50
+
+FIGURE 1.  Graph of Table 1 shows the dependence of TOEFL score
+  (correct answers in 80) on the number of dimensions in random
+  index vectors (N') and in SVD (Dim.).  A score of 20 corresponds
+  to guessing at random.
+   R = Random Indexing of word frequencies
+   o = LSA/LSI with SVD of word frequencies
+   + = LSA/LSI with SVD of "log-entropy" word frequencies
+
+
+COMMENTS & CAVEATS
+
+  These runs of LSA and Random Indexing have not been optimized
+  for either.  The goal has been to get comparable results from
+  two programs written far apart in space and time.
+
+  All of the above can be nicely presented and analyzed in
+  vector-matrix notation.
+
+
+CONCLUSIONS
+
+  Random Indexing lets very large document collections--in the
+  millions--to be analyzed by computer, because it
+
+  - makes the size of the words-by-documents matrix relatively
+    small, and independent of the number of documents, and
+
+  - seems to reduce the need for computationally "heavy" SVD;
+    tallying is all we've done.
+
+  COGNITIVE-SCIENCE CONNECTION.  Random Indexing is based on sparse
+  distributed representation, which, in turn, models representation
+  used by the brain (e.g., Kanerva 1988).  Random Indexing is a crude
+  model of word learning, in which words are associated with--they
+  get their meaning from--the stories in which they appear.  When
+  a word is first encountered, it gets the code of that story, and
+  is later modified by codes of other stories in which it appears.
+
+
+LOOKING AHEAD
+
+  Need to understand mathematically the relatively good results
+  obtained without SVD.
+
+  Reduce the matrix further, by randomly indexing also the words
+  of the vocabulary.
+
+  Analyze randomly-indexed words-by-documents matrices further:
+  with log-entropy normalization, SVD, Approximate Dimension
+  Equalization, ...
+
+  THE REAL CHALLENGE.  In addition to word-use statistics,
+  encode more of language structure into high-D distributed
+  representation and thereby capture more of the meaning.
+
+
+ACKNOWLEDGMENTS
+
+  Research funding, Japan's Ministry of International Trade and
+  Industry (MITI) through Real World Computing Partnership (RWCP).
+
+  TASA corpus (TASA = "Touchstone Applied Science Associates") and
+  TOEFL test questions, courtesy of Tom Landauer and Darrell Laham,
+  University of Colorado.
+
+  LSI software, courtesy of Cliff Behrens, Telcordia Technologies.
+
+  Helpful consultation, Sue Dumais, Microsoft Research (formerly
+  of Bell Labs).
+
+
+REFERENCES
+
+Jiang, F., and Littman, M.L.  Approximate dimension equalization
+  in vector-based information retrieval.  PROC. 17TH INT'L CONF.
+  ON MACHINE LEARNING (ICML-2000, Stanford, Pat Langley [ed.],
+  pp. 423-430).  San Francisco: Kaufmann, 2000.
+
+Kanerva, P.  SPARSE DISTRIBUTED MEMORY.  Cambridge, Mass.: MIT
+  Press, 1988.
+
+Landauer, T.K., and Dumais, S.T.  A solution to Plato's problem:
+  The Latent Semantic Analysis theory of the acquisition induction,
+  and representation of knowledge.  PSYCHOLOGICAL REVIEW
+  104(2):211-240, 1997.
+
+
+
+______________________________________________________________________
+Reference to one-page abstract:
+
+Kanerva, P., Kristoferson, J., and Holst, A.  "Random indexing of text
+   samples for Latent Semantic Analysis."  In L.R. Gleitman and A.K. Josh
+   (eds.), Proc. 22nd Annual Conference of the Cognitive Science Society
+   (U Pennsylvania), p. 1036.  Mahwah, New Jersey: Erlbaum, 2000.
