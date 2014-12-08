@@ -32,6 +32,7 @@ except IndexError:
 cluster_sizes = xrange(cluster_min,cluster_max+1)
 RI_letters = random_idx.generate_letter_id_vectors(N,k)
 
+'''
 ##############################
 # iterate over cluster sizes
 for cluster_sz in cluster_sizes:
@@ -72,8 +73,8 @@ cosangles = utils.cosangles(lang_vectors, languages)
 variance = utils.var_measure(cosangles)
 varys.append(variance)
 print "variance of history language values: " + str(utils.var_measure(cosangles))
-#############################
 '''
+#############################
 # calculate language vectors with words
 
 print "~~~~~~~~~~"
@@ -90,7 +91,6 @@ print "variance of language values: " + str(utils.var_measure(cosangles))
 # calculate unknown vector
 unknown_vector = random_idx.generate_RI_words(N, RI_letters, unknown_txt)
 unknown_tots.append(unknown_vector)
-'''
 #############################
 # final language vector calculations!
 final_lang = np.zeros(total_vectors[0].shape)
