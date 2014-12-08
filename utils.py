@@ -42,6 +42,12 @@ def load_text_spaces(text_name):
 
 		return text
 
+# The cosine of two vectors
+def vector_cosine(a,b):
+	a_norm = a / np.linalg.norm(a)
+	b_norm = b / np.linalg.norm(b)
+	return a_norm.dot(b_norm)
+
 def cosangles(lang_vectors,languages,display=0):
 		# measures the cosine angle of the given "lang_vectors" and labels them with "language"
 
