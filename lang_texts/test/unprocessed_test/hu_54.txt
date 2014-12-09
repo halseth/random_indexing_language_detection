@@ -1,0 +1,1 @@
+	A Bizottság felelős a program megvalósításáért, mint a program menedzsere. Munkáját komitológiai eljárás keretében a GNSS programbizottság segíti.

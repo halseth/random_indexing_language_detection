@@ -1,0 +1,1 @@
+	En sustancia, pensamos que no solo habrán más Estados que introducirán datos en esta base de datos, sino que habrá un mayor número de datos.

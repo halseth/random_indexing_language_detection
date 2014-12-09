@@ -1,0 +1,3327 @@
+﻿Project Gutenberg's Gli ultimi giorni di Goldoni, by Valentino Carrera
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: Gli ultimi giorni di Goldoni
+       Le Commedie, vol. 1
+
+Author: Valentino Carrera
+
+Release Date: July 21, 2014 [EBook #46352]
+
+Language: Italian
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK GLI ULTIMI GIORNI DI GOLDONI ***
+
+
+
+
+Produced by Carlo Traverso, Barbara Magni and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+
+
+
+
+GLI ULTIMI GIORNI DI GOLDONI
+
+
+
+
+                               LE
+                            COMMEDIE
+                               DI
+
+                        VALENTINO CARRERA
+
+
+                                ..... Se voeren sti poetta
+                            Ciappottan i passion, moeven el cœur,
+                            Hann de toccann i tast che ne diletta,
+                            Ciapann, come se dis, dove ne dœur;
+                            Senza andà sui baltresch a tirà a man
+                            I coregh e i scuffion gregh e roman!
+
+                                                  CARLO PORTA.
+
+
+                          VOLUME PRIMO
+
+
+
+                             TORINO
+                     TIPOGRAFIA L. ROUX E C.
+                              1887
+
+
+
+
+_L'editore e l'autore, osservati tutti gli obblighi, intendono di fruire
+di tutti i diritti della proprietà sia per la riproduzione e la
+traduzione, che per la rappresentazione._
+
+                                                                (918)
+
+
+
+
+GLI ULTIMI GIORNI DI GOLDONI
+
+COMMEDIA IN DUE ATTI ED UN INTERMEZZO
+
+
+
+
+NOTIZIA
+
+
+Dacchè l'autore, in una sua gita a Parigi per indagare qualche cosa
+sugli ultimi giorni del GOLDONI e la sorte della vedova, aveva sentito
+la contessa D'Agoult ricordare d'avere più d'una volta nella sua
+adolescenza sentito a dire in casa, da testimoni del Terrore, che CARLO
+GOLDONI era proprio morto «_dans la plus affreuse des misères dans un
+galetas_», un vivo desiderio lo aveva sempre tormentato, quello di
+vendicare, bene inteso coll'arte che gli era consentita, l'indegno
+abbandono in cui gli italiani avevano lasciato morire il più comico e
+spontaneo di tutti i commediografi, e di rendere nello stesso tempo
+omaggio alla memoria serena e pia della moglie Nicoletta Conio da
+Genova, e del nipote Antonio di Giovanni Goldoni.
+
+Ma non gli si era mai offerto il destro di porre in atto il suo onesto
+desiderio, quando sul finire del 1880 venne in mente al ch. prof. E. D.
+Müller di suggerire a Cesare Rossi direttore della Compagnia drammatica
+della città di Torino, ed uno dei pochissimi attori che conservino la
+tradizione goldoniana, di commettergli una commedia che avesse per
+soggetto la morte del nostro maggior poeta comico.
+
+L'impresa tornava onorevole quanto era ardua; ma l'autore non avrebbe
+forse accettato l'invito senza la speranza che il riverente antico
+affetto e la sempre maggiore ammirazione potessero inspirargli quanto
+chiedere non poteva all'ingegno; senza la lusinga non nuova, che la viva
+intelligenza di Cesare Rossi e lo zelo dei suoi compagni avrebbero
+sopperito alle troppe lacune con quelle infinite finezze e malizie
+dell'arte che si possono qualche volta accennare, ma non mai scrivere, e
+spargono tanto barbaglio di luce nella divina arte di far rivivere sulla
+scena un uomo ed un'epoca... La commedia, scritta di getto, venne letta,
+e il Rossi soddisfatto volle che il battesimo avesse luogo in quel
+teatro Goldoni di Venezia, così ricco di memorie goldoniane, dal primo
+monumento che si sia eretto al poeta dai suoi concittadini, al ricordo
+posto a quella insuperabile attrice in dialetto veneziano che fu
+Marianna Morolin, creatrice vera di parti e di scrittori e pure modesta,
+non veneziana e pure ammiratissima; dal numero di commedie dell'avvocato
+veneziano che videro per la prima volta la scena su quel palco, al
+pubblico intelligente, custode del buon gusto e della nostralità della
+commedia, uno dei pochissimi nemici di ogni altra ibrida forma.
+
+L'autore della commedia, con quel soggetto, con quella rivendicazione,
+dinnanzi a quel pubblico, in quel teatro, era tutto uno spasimo
+d'ansietà e di paure. Ma _Gli ultimi giorni di Goldoni_ erano messi su
+con mirabile cura e precisione di scene, di mobili e d'abiti; ma la
+parte di GOLDONI era sostenuta, e con quali spalle, da Cesare Rossi
+insuperato finora nella trasmissione degli affetti; quella di
+_Nicoletta_ da Teresa Bernieri; da Claudio Leigheb quella di
+_Battistino_; dal povero Arturo Diotti quella di _Antonio_, e Flavio
+Andò aveva voluto concorrere alla festa assumendo la parte dello
+_Chénier_, come Antonio Colombari quella di _Balletti_... Quale
+meraviglia se la sera del 30 marzo 1881 la commedia tornò gradita nella
+stessa Venezia, come poi nelle altre città, e con tanto accordo di
+indulgenza che arrivata a Torino fu ritenuta degna di raccogliere il
+premio drammatico che dava per l'ultima volta quel Comune? Erano in
+tanti a metterci il meglio del loro ingegno e della loro esperienza! E
+si trattava di GOLDONI, di cui basta pronunziare il nome sempre più
+luminoso perchè tosto se ne irradii qualche cosa della sua amabile
+indulgenza, giocondità e cortesia.
+
+
+
+
+INTERLOCUTORI
+
+
+  CARLO GOLDONI.
+  NICOLETTA, sua moglie.
+  ANTONIO, nipote di Carlo.
+  GIUSEPPE CHÉNIER.
+  BATTISTINO STUCK,        }
+  SUSANNA BERTINAZZI,      }
+  MARIA FARINELLI,         } Comici italiani al servizio
+  BALLETTI,                } del Re di Francia,
+  GANDINI,                 } pensionati.
+  MATTIUZZI,               }
+  PIERINA, serva di casa Goldoni.
+  ROSALIA FARINELLI, maestra di musica.
+  M. G. RICCOBONI, già attrice e poi scrittrice
+  RINALDI, professore di lingua italiana.
+  EMILIA RINALDI, sua moglie.
+  AGIRONI, farmacista.
+  LEGENDRE.
+  BOUCHARD.
+  Un COMMISSARIO di polizia.
+  Due agenti di polizia.
+
+L'azione nel 1º atto e nell'intermezzo in casa di Goldoni, a Parigi, in
+via Richelieu, il 22 settembre 1792; nel 2º in una soffitta in via
+Mauconseil, il 6 febbraio 1793.
+
+
+
+
+ATTO PRIMO
+
+In casa di Goldoni, via Richelieu, presso il Palazzo Reale. Sala
+arredata signorilmente secondo lo stile di Luigi XV; ma la mobilia
+dimostra di avere giusto i suoi trent'anni, per quanto conservata da una
+buona massaia. In fondo, ai due lati d'una porta che è la comune, due
+stipi, sopra uno dei quali c'è un busto di Molière fra due vasi di
+fiori, sull'altro un orologio a pendolo fra due candelieri: sulla scena,
+a destra dell'attore, un canapè fra due seggiole; a sinistra fra una
+seggiola ed un seggiolone, un tavolino sul quale ci sono dei libri, un
+campanello e l'occorrente per iscrivere. Tanto il canapè che il tavolino
+sono difesi da due paraventi, la cui intelaiatura è coperta d'antica
+stoffa di colore oscuro ed a disegno chinese. Cinque porte: la comune,
+come si è detto, nel mezzo in fondo, e quattro laterali; quella al
+proscenio a destra scorge alla camera da letto di Carlo ed Antonio, e
+quella a sinistra pure al proscenio alla stanza della signora Nicoletta
+e di Pierina. Delle altre due quella a destra scorge ad un salotto, e
+l'altra alla stanza di Battistino. Tra le due porte a sinistra,
+addossato alla parete e colla tastiera verso il fondo, un cembalo a
+mezza coda: alle pareti in fondo, sugli stipi, le specchiere dell'epoca;
+sul tavolino un tappeto, alle porte delle tende, e sull'impiantito una
+tela di colore oscuro ed unito. È giorno.
+
+
+SCENA I.
+
+_All'alzarsi del sipario suonano le nove al pendolo: ANTONIO, col
+cappello alla Franklin in capo ed una mazza in mano, entra in iscena con
+premura dalla destra; quindi a suo tempo BATTISTINO dal fondo, pure con
+cappello e mazza che depone sulle seggiole._
+
+
+ANT. _(entrando)_. — Lo zio fa la sua toeletta e non esce di camera per
+un'altra mezz'ora... se venisse subito Battistino! _(va a guardare al
+fondo)_ Sono già le nove! Oh! eccolo, finalmente! _(Battistino)_ Ebbene?
+
+BATT. — Buone nuove. Abbi pazienza se non ho potuto fare più presto; ma
+in questa benedetta Parigi non s'arriva mai!
+
+ANT. — Dunque verranno?
+
+BATT. — Meno la signora Desgrandes che è un pochino indisposta dalla
+paura e rimane nella sua tana di Passy, tutti!
+
+ANT. — Oh bravo il mio Battistino! E verrà anche l'Agironi da
+Clignancourt?
+
+BATT. — Il professore Rinaldi che s'è incaricato ieri di fare il giro,
+m'ha detto che sì, e che sperava di portarci anche la signora Riccoboni.
+
+ANT. — A meraviglia! E il desinare?
+
+BATT. — Il trattore della Grotta Fiamminga lo manderà su bell'e fatto
+per la metà del prezzo domandato dal Caffè Conti.
+
+ANT. — Benone! Ma gli invitati come verranno?
+
+BATT. — Rinaldi s'è inteso con Mastro Martin che andrà a pigliarli tutti
+in casa della Riccoboni.
+
+ANT. — Ma non ci sarà pericolo che la gente vedendo una carrozza...?
+
+BATT. — No, perchè Martin è quello che serve Danton e le sue carrozze
+coperte di nappe scarlatte sono così note che non possono destare alcun
+sospetto.
+
+ANT. — E i vecchi comici come verranno?
+
+BATT. — A piedi, tutti assieme, anche per impedire che Balletti ne
+faccia qualcheduna delle sue...
+
+ANT. — Benissimo: ora dàmmi quello che hai avanzato.
+
+BATT. — Avanzato? Mi fosse bastato!
+
+ANT. — E allora?
+
+BATT. — Allora... per dare ai nostri buoni vecchi ancora un giorno di
+felicità, ho preso quell'anellino che volevo serbare a Pierina, e così
+ho provveduto ad ogni cosa.
+
+ANT. _(abbracciandolo)_. — Battistino, tu non sei un amico!...
+
+BATT. — Grazie!
+
+ANT. — ... Sei un fratello! Ma, mi raccomando, che ogni cosa riesca
+inaspettata, e non dire allo zio che sono stato dallo Chénier, l'unico
+che possa ancora salvarci dalla rovina!
+
+BATT. — Sono impaziente di conoscere questo poeta in cui la bontà, bel
+caso! non è minore dell'ingegno.
+
+ANT. — Verrà oggi istesso a vedere lo zio; ma i suoi doveri di deputato
+non gli permettono di trattenersi con noi come io avrei desiderato.
+
+
+SCENA II.
+
+_PIERINA, una servotta spigliata e disinvolta, dal fondo con una
+lettera: cuffietta in capo, abito a mezza gamba di color chiaro, calze
+bianche e scarpe. DETTI._
+
+
+PIER. — Una lettera per l'avvocato dal segretario dell'Ambasciatore di
+Venezia.
+
+          (consegna la lettera a Battistino e poi va ad assettare
+            gli oggetti sugli stipi in fondo)
+
+BATT. — Gliela darò io.
+
+ANT. — Io scappo per tornare al più presto; ma se non facessi in tempo
+bada tu ad impedire che si parli allo zio della prigionia del Re, della
+morte della principessa di Lamballe e delle stragi alle prigioni!
+
+BATT. — Figurati, sarebbe lo stesso che farlo ricadere ammalato! E sì
+che s'egli potesse reggere al racconto di ciò che s'è fatto per sei
+giorni e cinque notti nelle prigioni, sarebbe pure un gran bel motivo
+d'orgoglio per noi italiani poter dire che in mezzo a tanta ferocia dei
+pochi ed a tanta vigliaccheria dei molti, una sola figura risplende
+veramente sublime, ed è quella d'un'italiana, Luisa di Savoia,
+principessa di Lamballe!
+
+ANT. — La sola in mezzo a tanti cortigiani del Re di Francia che abbia
+avuto il coraggio di lasciare il luogo dove era al sicuro per venire a
+dividere la terribile sorte dei suoi cari: una vera eroina, l'eroina
+della gentilezza e dell'amicizia... Ma a che serve ormai? Siamo intesi
+adunque. Addio. _(esce dal fondo)_
+
+BATT. — E anche tu sei un eroe, l'eroe del rispetto e del sacrifizio; e
+dovevi nascere nei secoli più gloriosi dell'antichità, quando non si
+portava in capo il cappello all'americana... Avresti preso dei grandi
+raffreddori di capo come tuo zio, senza avere in tasca le sue pezzuole;
+ma non saresti obbligato a fare l'interprete per pochi soldi, e non
+avresti dovuto rinunziare, per assistere i tuoi buoni e gloriosi vecchi,
+all'amore, la sola cosa per cui Battistino spera ancora e vive!
+
+PIER. — Finchè si rimane coll'avvocato non c'è da sperar nulla, e se non
+avete altri moccoli si resta al buio tutti e due!
+
+BATT. — Pierina, vi siete alzata colle paturnie stamattina!
+
+PIER. — C'è veramente di che stare allegri! La pigione è da pagare,
+credito non ce n'è più, e la sua brava pensione di quattro mila lire è
+bell'e sfumata per sempre!
+
+BATT. — E volete andarvene?
+
+PIER. — Anche troppo ci sono stata per quello che mi dànno.
+
+BATT. — Ci sto io per nulla!
+
+PIER. — Chi si contenta, gode.
+
+BATT. — Via, Pierina! Come si fa a piantare della gente che vi ama come
+una figliuola, come una sorella, senza contar me che vi idolatro in
+tutti i gradi di parentela?
+
+PIER. — Intanto l'altro mese mi avete trattenuta col dirmi che
+abbandonarli mentre l'avvocato era ammalato sarebbe stata una vera
+crudeltà...
+
+BATT. — E ora vi dico che sarebbe una vera indegnità.
+
+PIER. — Oh già voi non siete mai a corto di belle parole...
+
+BATT. — Sono fiorentino, guà: magari a corto di quattrini; ma di parole,
+mai! Abbiamo in casa il deposito della lingua, non costa nulla e si
+spende!
+
+PIER. — Alle corte, io mi sono bell'e trovato un altro padrone e un fior
+di padrone; deputato, e di quelli che hanno le mani in pasta...
+
+BATT. — Allora poco pulite.
+
+PIER. — E che è anche lui poeta comico tal quale l'avvocato.
+
+BATT. — Tal quale, nientemeno!
+
+PIER. — Ma sì! E ha un nome curioso... Collo..... Collo d'Erba...
+
+BATT. — Cicuta.
+
+PIER. — No... Collo d'Erba...
+
+BATT. — Amara!
+
+PIER. — Ma che amara!
+
+BATT. — Collo d'erba, semplicemente, del diavolo; _Collot d'Herbois_
+via!... Un comicuccio ubriacone ed invidioso che si è fatto _cuccare_ su
+tutti i teatri di Francia e di Navarra; uno _sbruffariso_ che quando si
+sarà alzato ben bene sulla punta dei piedi non arriverà ai tacchi di
+Carlo Goldoni!
+
+PIER. — Sarà, io non me ne intendo...
+
+BATT. — Zitta, che di teatro, politica e medicina, tutti professori!
+
+PIER. — Sia come si vuole: Carlo Goldoni non può più pagarmi la mesata
+ed io lo pianto.
+
+BATT. — No, finchè ci resto io.
+
+PIER. — Fin che sia morto, adunque, a fargli il galoppino! Che vergogna!
+un giovane come voi che sa fare di tutto...
+
+BATT. — Meno quattrini.
+
+PIER. — Un attore coi fiocchi...
+
+BATT. _(guardando gli orli delle falde del suo abito)_. — Soltanto colle
+frangie.
+
+PIER. — Il figliuolo d'un bravo maestro di musica...
+
+BATT. _(traendo fuori le saccoccie vuote delle brache)_. — Si vede.
+
+PIER. — E non vi vergognate di fare il servitore per nulla?
+
+BATT. — Coll'avvocato, punto.
+
+PIER. — E senza un soldo, senza una speranza, volete rimanere?
+
+BATT. — Finchè vive, sì.
+
+PIER. — E dite che mi volete bene, che volete sposarmi?
+
+BATT. — Nulla di più vero!
+
+PIER. — E allora bisogna dire che vi gira?
+
+BATT. — Per girare, a questi lumi di luna, gli è un bel giramento... Ma
+poichè l'ho da dire, state a sentire perchè credo mio dovere restare. Io
+non sono solamente il più bel figliuolo — unico — del maestro Battistino
+Stuck — nella mia famiglia di padre in figlio non si è meno Battistini
+che Stucchi — e il nostro primogenito sarà tanto Stucco anche lui quanto
+Battistino — ma sono anche un discreto attore di quella Commedia
+italiana dell'arte che maestra di intreccio e di dialogo allo stesso
+Molière, ha divertito per tre secoli tutta Europa, facendola ridere di
+quelle belle risate che scaricano il fegato ed alleggeriscono la milza;
+perchè a tenere il pubblico allegro noi non si recitava soltanto, non si
+inventavano soltanto lì per lì le più matte stramberie, le più piccanti
+risposte; ma, se faceva bisogno, si cantava e si suonava e si ballava, e
+si facevano giochi di agilità e di destrezza, senz'aiuto di poeta e di
+rammentatore, mostrando così ognuno di noi quant'era capace e spiritoso.
+
+PIER. — Oh! guarda; non lo sapeva!... Ma e il pubblico?
+
+BATT. — Il pubblico d'allora? Era tutt'altra cosa. Quel pubblico là non
+andava al teatro che per divertirsi e per ridere, e per questo quando
+s'arrivava in Francia, in Baviera, in Austria, in Boemia e nei Paesi
+Bassi, ci veniva incontro a braccia aperte gridando: benvenuti i comici
+italiani, evviva! Sapeva il buon pubblico che con noi non c'era pericolo
+di doversi sorbire le commedie che colla scusa della letteratura non
+fanno nè ridere, nè piangere, e intanto ognuno s'ingegnava di capire e
+di parlare la nostra fiorita e sonante lingua d'Italia. Oh sicuro, che
+qualche volta il nostro gesto passava un po' il segno, lo scherzo, la
+misura; ma allora il mondo era più alla buona, chiamava più le cose col
+loro nome e capiva che se c'era il peccato non c'era quasi mai
+l'intenzione, la malizia. Ebbene, ora sono quasi cinquant'anni, è venuto
+fuori a Venezia uno scrittore italiano, s'intende, a dire: questa
+commedia a soggetto colle maschere che i soli italiani sanno fare,
+buttiamola giù, e rifacciamo anche noi la commedia scritta in cui il
+comico non è più quasi nulla e il poeta è quasi tutto.
+
+PIER. — Non gli hanno mica dato retta a quel birbante?
+
+BATT. — ... Sulle prime, no; ma poi dàlli e picchia, finì per vincere:
+lui alle stelle, e noi... alle stalle!
+
+PIER. — Maledetto!
+
+BATT. — Il resto del carlino ce l'ha dato prima l'Opera e ora la
+rivoluzione, la quale come sapete, sospetta i comici di simpatie
+reazionarie, manda questi all'armata, ficca quegli altri in prigione ed
+obbliga i pochi rimasti sulla scena a farsi brutto strumento di vendetta
+e di derisione.
+
+PIER. — E voi?
+
+BATT. — Io a quest'ultimo rovescio piglio il mio coraggio a quattro
+mani... e mi nascondo. Ma le provvigioni finiscono presto e bisogna pure
+uscir fuori per cercarne! Ohimè! Appena in istrada, allo svolto di via
+Richelieu qua sotto, sento dietro di me due o tre fischi, come se
+chiamassero un cane. Io, bestione, dimenticando la differenza che corre
+fra il fischiare un cane ed un comico, mi volto!
+
+PIER. — Che differenza?
+
+BATT. — Il cane si fischia per chiamarlo e il comico per mandarlo...
+Voltarmi ed essere riconosciuto è un lampo. _È lui, il comico,
+Arlecchino, l'italiano, l'aristocratico... alla Senna!_ — E un nuvolo di
+manigoldi si slancia sopra di me... Ma io non mi perdo mica di
+coraggio...
+
+PIER. — Vi difendete?
+
+BATT. — No, strillo come un'aquila... Gli altri mi abbrancano, mi
+sollevano di peso e corrono verso la Senna...
+
+PIER. — Dio! Ma voi vi dibattete energicamente...
+
+BATT. — No... Faccio meglio... il meglio che si possa in cosifatto
+momentaccio... perdo coraggiosamente i sensi! Quando li riacquisto mi
+trovo sopra un buon letto, in una bella camera, in mezzo a due angioli,
+il poeta che ha ammazzato la commedia a soggetto, e sua moglie!
+
+PIER. — Allora rimanete. Partirò sola.
+
+BATT. — Ma non oggi, domani.
+
+PIER. — E perchè domani piuttosto che oggi?
+
+BATT. — Perchè oggi non bisogna dare nessun dispiacere ai nostri buoni
+vecchi; perchè oggi si sta allegri e si fa loro un mondo di sorprese,
+una più bella dell'altra, per festeggiare l'anniversario del loro
+matrimonio.
+
+PIER. — Davvero?
+
+BATT. — Come è vero... che vi voglio bene, ed eccovi il programma della
+festa; ma che non lo sappia neanche l'aria! Oggi, 22 settembre, mille
+settecento novantadue, in casa Goldoni, coll'intervento degli amici
+francesi ed italiani, un buon desinare bell'e fatto e servito dal
+trattore...
+
+PIER. — Meglio! Meglio!
+
+BATT. — Ma prima di desinare, musica e rappresentazione.
+
+PIER. — Suonatori e attori! Bene! Bene! E giovanotti?
+
+BATT. — Tutti di primo pelo; tutti uno più giovane dell'altro.
+
+PIER. — Ma i quattrini?
+
+BATT. — Già trovati e spesi.
+
+PIER. — Davvero?
+
+BATT. — Com'è vero che vi voglio far mia.
+
+PIER. — Sì, e mi fate troppo onore; ma come si fa? Io sono povera e voi
+non avete nulla...
+
+BATT. — Dunque siamo fatti apposta l'uno per l'altro!
+
+PIER. — Già, a volersi bene non si spende nulla...
+
+BATT. — E perciò voi non avete un'idea di quanto può amare l'uomo che
+non ha nulla! _(la abbraccia)_
+
+PIER. — Ma io preferirei che mi amaste un po' meno, e aveste messo da
+parte qualche sparagno.
+
+BATT. — La colpa è della rivoluzione!
+
+PIER. — Ma prima della rivoluzione dovevate conservare qualche cosa.
+
+BATT. — Avete ragione; ma prima, non pensando a prender moglie, non mi
+pareva di avere ragione di conservare... E ora che sarei conservatore,
+non ho più nulla da conservare!... Ma via, sono giovane, sono
+volonteroso, e se voi mi volete un po' di bene, mi par ancora d'esser
+più ricco di una badia, Pierina bella, Pierina sempre più cara ed amata!
+
+PIER. — Ecco quel che mi capita: faccio un mondo di proponimenti e poi e
+poi mi lascio intenerire da quattro chiacchere... imbecille!!
+
+BATT. — A me?
+
+PIER. — No, no, a me sola!
+
+BATT. — Pierina, non dobbiamo essere marito e moglie? Dunque un po' per
+uno anche l'imbecillità!
+
+
+SCENA III.
+
+_NICOLETTA, in abito da casa, dalla destra. DETTI._
+
+
+NICOL. — Battistino... Senti che ti ho da pregare d'un favore. Tu,
+Pierina, fammi il piacere di preparare il cioccolato.
+
+PIER. — Subito: l'acqua è già al fuoco da un pezzo. _(esce dal fondo)_
+
+BATT. — (Ma se il fuoco non s'è spento da sè, a quest'ora l'acqua lo ha
+spento lei).
+
+NICOL. — Dimmi, hai inteso stanotte quelle grida disperate dalla strada?
+_(accenna a sinistra)_
+
+BATT. — Altro! Ed ho subito pensato che è stata una gran bella idea la
+sua di pigliar lei la camera sul Palazzo Reale!
+
+NICOL. — Ma quando finirà questo baccanale sconcio e sanguinoso che dura
+da più di tre anni?
+
+BATT. — Appena i Francesi si saranno mangiati gli uni gli altri.
+
+NICOL. — Meno male che un po' per la malattia che gli ha impedito di
+uscire, un po' per le nostre cure, Carlo ignora le cose orribili
+accadute in questi ultimi mesi!
+
+BATT. — Oh! Guai s'egli si fosse potuto imbattere in certe mascherate
+indegne, per non dir peggio, ed ascoltare le loro canzonaccie sulla
+Regina! Ma c'è chi veglia; e prima d'ogni altro lei, signora Nicoletta,
+che non so che farebbe per suo marito; lei che vorrebbe potersi
+arrampicare fino al cielo per soffiar via la nuvoletta che gli facesse
+meno vivo un raggio di sole!
+
+NICOL. — Zitto! Zitto! Sarei degna moglie di Carlo Goldoni se non gli
+volessi tutto tutto il mio bene?
+
+BATT. — E sono de' begli anni che glielo vuole! Oh scusi!
+
+NICOL. _(sottovoce, contentissima)_. — Ma che! sono cinquantasei! e sono
+la mia gloria. E oggi appunto è l'anniversario delle nostre nozze!
+
+BATT. _(simulando sorpresa)_. — Oh! Ma non si sono sposati di luglio?
+
+NICOL. — Sì, nella mia Genova; ma non si fecero nozze solenni con tutti
+gli amici e parenti di Carlo che nel settembre a Venezia. E giusto a
+questo proposito, la vedi questa bella tabacchiera?
+
+BATT. — È quella che le regalò la marchesa di Marbœuf.
+
+NICOL. — Altri tempi! Ma va a venderla senza dir nulla nè a Carlo nè al
+nipote, e pensa tu a farci qualche bella sorpresa... In tasca presto che
+arriva mio marito!
+
+BATT. _(presa ed intascata la tabacchiera)_. — (Anche lei colle
+sorprese!)
+
+
+SCENA IV.
+
+_CARLO GOLDONI in veste da camera dalla destra. DETTI._
+
+
+GOLD. — Battistino, giusto te voglio... Ah! colla moglie ti colgo? Ora
+capisco tutto quel ciripipì che sentivo di là... Niente giustificazioni,
+e lei pensi che io sono uomo da pigliar subito una grande risoluzione
+se... _(mutato tono e ridendo)_ non mi dà subito il mio solito
+cioccolato!
+
+NICOL. — T'è ritornato l'appetito? A meraviglia!
+
+GOLD. — Ma se tu aspetti un altro poco, o diventa fame addirittura, o se
+ne va via!
+
+NICOL. — E io corro a fartelo subito subito... Battistino, ricordati la
+commissione...
+
+GOLD. — (Non vorrei che mi prevenisse...) Che commissione?
+
+NICOL. — Due soldi di refe bianco.
+
+GOLD. — (Meno male che se n'è scordata). Abbi pazienza, moglie mia; ma
+senza far torto a Pierina, il cioccolato fatto da te vale il doppio.
+
+NICOL. — Adulatore! Già lo sei sempre stato; colle donne, veh! _(esce
+dal fondo)_
+
+GOLD. — Ma con te, mai... oh colle altre! — Titino, senti. Promettimi il
+più scrupoloso segreto.
+
+BATT. — Prometto; ma legga prima questa lettera del segretario del
+Ministro residente di Venezia.
+
+GOLD. — Non poteva arrivare più a proposito! _(apre la lettera dopo
+essersi messo gli occhiali)_ Ahimè che non c'è nulla dentro! Aveva
+pregato il Vignola d'un piccolo... d'un piccolo... _(starnuta)_ favore.
+
+BATT. — Felicità.
+
+GOLD. — Grazie; ma per carità, chiudi subito la mia porta. — Gli
+domandavo una piccola anticipazione sugli arretrati della mia pensione;
+ma non dirlo ad Antonio. — A proposito c'è qualche buona speranza che le
+cose politiche si aggiustino presto?
+
+BATT. — Speranze? Moltissime! (Non si campa d'altro!)
+
+GOLD. — E il Re dov'è?
+
+BATT. — A Parigi.
+
+GOLD. — Non va più a Versailles?
+
+BATT. — Non ci va più di sicuro.
+
+GOLD. — Egli è così buono che finiranno per rendergli giustizia. Già il
+tempo è sempre galantuomo.
+
+BATT. — Che peccato non si possa dire altrettanto degli uomini!
+
+GOLD. — Tieni questo libro, _(trae di tasca un volume legato e lo dà a
+Battistino)_ mentre io leggo la lettera, — _(legge fra sè:)_ «Sua
+Eccellenza, a cui ho dovuto mostrare la vostra, non potendola soddisfare
+io stesso come desideravo, mi ha pregato ieri sera di dirvi che per
+imprevedibili circostanze non gli era dato di secondarla...» O che
+disdetta! _(ripigliando la lettura)_ «Ma è lieta di annunziarvi che il
+primo suo ufficio presso la Serenissima sarà quello di provvedere al
+rimpatrio di voi e della vostra famiglia». (Oh questa sì che è una
+notizia che m'allarga il cuore!) La giornata comincia bene! Una buona
+nuova da dare a mia moglie.
+
+BATT. — Vuole che la chiami?
+
+GOLD. — Più tardi... a tavola!
+
+BATT. — Per farle una sorpresa?
+
+GOLD. — Per l'appunto. Ma non basta. Va subito dal libraio Bernard,
+Lungosenna degli Agostini, 37: te lo pagherà cinque luigi.
+
+BATT. — Un libro di commedie e di tragedie, cinque luigi?
+
+GOLD. — Ne vale di più _l'illustre teatro di Corneille_ del 1644! La sua
+brava sfera elzeviriana, il ritratto inciso da Picart, la legatura del
+tempo... un vero tesoro da bibliomane! Ma questo è nulla: è per quelle
+due righe a mano sull'antiporta che mi rincresce di venderlo!
+
+BATT. _(legge)_. — «_A Carlo Goldoni, pittore della natura, e liberatore
+dell'Italia dai Goti. Voltaire, 1764._» — Voltaire!
+
+GOLD. — Sì, il letteratone, il grand'esprit fort del nostro secolo,
+quello che in fatto di gusto e di riputazione faceva il sole e la notte!
+
+BATT. — Che gloria per lei, e che cecca sul naso ai suoi nemici!
+
+GOLD. — Figurati! Ma vedi se ho ragione di dire che il tempo è
+galantuomo? Carlo Gozzi mi accusava di fomentare le bizze del popolo
+contro i nobili, precisamente come Fabre accusa adesso Collin di fare il
+rovescio; il pubblico mi preferiva più d'una volta l'abate Chiari;
+Baretti mi flagellava per anni ed anni colla sua _Frusta_, e quando io
+stanco di così lunga lotta coi comici, col pubblico e cogli accademici,
+mi rifugiava in Francia e vi otteneva il grande successo del _Burbero_,
+Baretti negava persino che potesse essere mio!... Ebbene io non me la
+sono presa allora coi miei Veneziani, nè col Baretti, no: ho taciuto ed
+ho aspettato con pazienza. Che cosa è successo, Titino? Che mentre i
+miei nemici sono quasi tutti dimenticati, ed i Granelleschi non si
+ricordano più che per riderne, il povero Avvocato Veneziano a poco a
+poco si è fatto strada ed ha finito per essere lodato, troppo lodato, e
+da chi? Da Gaspare Gozzi, Cesarotti, Verri e Parini in Italia, e qui da
+Marmontel, Grimm, Beaumarchais e Voltaire; e quando, or fanno cinque
+anni, sono ammalato, chi corre al mio capezzale a stringermi la mano, a
+consolarmi? Vittorio Alfieri, il più grande dei Piemontesi, compreso il
+signor Baretti! Dunque, figliuolo mio, mai bizze, mai rappresaglie che
+guastano il sangue e l'ingegno; ma pazienza, coraggio, fede nell'arte
+della verità e nella giustizia del tempo; e se mai voi altri giovanotti
+poteste dimenticarlo, venite a vedere Goldoni: eccolo qui sereno ed
+orgoglioso non di vendette e di rancori, ma dei suoi cinquant'anni di
+lavoro, dei suoi cento sessanta componimenti teatrali, e se oggidì non
+guasta, dell'onestà delle intenzioni che glieli hanno inspirati!
+
+BATT. _(con trasporto temperato da riverenza)_. — Ma come si fa a non
+volerle bene, anima piena di luce e di bontà?!
+
+GOLD. — In quanto a luce, mi si è già chiusa una finestra... Ma se mi
+vuoi tanto bene perchè non corri subito dal Bernard?
+
+BATT. — Lo vuol proprio vendere un libro così prezioso?
+
+GOLD. — Sicuro che è un gran bel documento per il mio amor proprio... Ma
+fra il mio amor proprio e il dare a mia moglie una prova di affetto,
+oggi, l'anniversario del più bel giorno della mia vita, non posso
+esitare... Vallo a vendere: sarà la prima volta che un tragico avrà
+servito a tenere di buon umore cinque persone... e poi fa tu quello che
+credi più conveniente... _(impaziente)_ Ma non perder tempo che è tardi!
+
+BATT. — Mi lascia pigliare il cappello?
+
+GOLD. — Oh! _(lo piglia fra le sue braccia)_ Scusami; t'ho parlato come
+ad un servitore e tu sei un amico; tu e il mio buon nipote, i miei
+figliuoli!
+
+BATT. _(commosso)_. — Fino alla morte! — La sua signora!
+
+GOLD. — Zitto! _(asciugandosi gli occhi)_ Ridi... ridi, ti dico!
+
+BATT. — Tocca a lei che m'ha fatto piangere, a lei che è il
+commediografo a farmi ridere.
+
+GOLD. — Giusto, poichè tutta l'arte nostra sta in questo di saper far
+ridere o piangere, ma più ridere! più ridere!
+
+BATT. — Per questo lei non ha rimorsi; anzi, se l'avesse, senza
+offenderla, soltanto un soldo per ogni risata che ha destato!
+
+GOLD. — Ah! non avrei certo da vendere i libri! Ma una commedia dove non
+c'è da ridere è come un desinare senza vino, un giorno senza sole!
+
+BATT. — La gioventù senza l'amore!
+
+GOLD. — Bravo!
+
+
+SCENA V.
+
+_NICOLETTA e PIERINA col cioccolato, dal fondo, indi G. M. CHÉNIER, pure
+dal fondo, in elegante abito alla moda, senza baffi, coi capelli lunghi.
+DETTI._
+
+
+NICOL. — Di buon umore, bravi tutti e due!
+
+GOLD. — Si parla d'arte, di sole, di gioventù, d'amore, da giovanotti
+pari nostri!... _(mutato tono)_ Senti, senti che profumo! Ma già
+cioccolato della Toutain e fatto dalle tue mani!
+
+          (una scampanellata in fondo. Pierina esce dal fondo per
+            ritornare subito in iscena col Chénier)
+
+NICOL. — Chi può essere a quest'ora? (Non posso sentire una
+scampanellata senza un brivido!)
+
+PIER. — Il cittadino deputato Giuseppe Maria Chénier.
+
+GOLD. — Ma venga, venga subito! _(a Battistino)_ E tu scappa via!
+_(Chénier)_
+
+NICOL. _(andandogli incontro)_. — Favorite...
+
+BATT. _(che intanto si è preso il cappello)_. — (Ma egli potrebbe
+parlare all'avvocato del Re e della Lamballe!)
+
+CHÉN. _(a Nicoletta)_. — La mia premura di parlare all'avvocato scuserà,
+io spero, l'indiscrezione di una visita così mattutina.
+
+NICOL. — Voi siete sempre il benvenuto ed a tutte l'ore.
+
+GOLD. — Ma chi ti vede più? Già, già, sempre occupato nella brutta
+politicaccia, invece che delle tue tragedie...
+
+CHÉN. — In fatto di tragedie...
+
+NICOL. — Piglia una tazza di cioccolato con Carlo?
+
+CHÉN. — Grazie, ho già fatto colezione. Godo intanto di vedervi tutti e
+due bene ristabiliti.
+
+NICOL. — Io, grazie a Dio, sì; ma Carlo, sebbene sia sempre di buon
+umore, non è più quello di prima...
+
+GOLD. — Zitta che non è vero! Non sono che le gambe che mi tradiscono! —
+Titino, le tue sono ancora buone?
+
+BATT. — Cerco il mio cappello... (Come faccio ad avvertirlo?)
+
+NICOL. — Ricordati del mio refe! — Vi lascio che ho qualche cosa da
+fare; con licenza, cittadino. _(esce dalla sinistra)_
+
+GOLD. — Sono ottantasei i carnevali che porto sulle spalle... e dico
+carnevali per modo di dire, chè dall'ottantanove a quest'anno di nessuna
+grazia sono tutte quaresime! _(starnuta)_
+
+BATT. — (Ah! l'ho trovato!) Prosit!
+
+GOLD. — Grazie, Titino... Fammi il piacere, uscendo, di chiudere la
+porta di fuori... _(va a chiuder la porta a sinistra)_ Accomodati,
+Chénier.
+
+BATT. _(presso Chénier, chinandosi come per prendergli un insetto sulle
+calze)_. — Scusate, cittadino... Non vi movete nessuno... C'è qui una
+grossa vespa sulla gamba... Fermo!
+
+CHÉN. — Io non la vedo. _(Pierina, Chénier, Battistino)_
+
+PIER. — Neanch'io.
+
+BATT. _(sottovoce)_. — Sfido io! Per carità, non una parola all'avvocato
+nè del Tempio, nè delle stragi alle prigioni. _(forte)_ Eccola! È presa!
+
+GOLD. — Aria! Aria!
+
+BATT. — Scusate, cittadino, la licenza che mi sono presa; ma io so che
+nessuno è più sensibile di un poeta! Avvocato, corro subito...
+
+GOLD. — E il cappello che cercavi?
+
+BATT. — L'avevo in mano... _(come se parlasse alla vespa)_ Tranquilla,
+veh! Altrimenti non vi rimetto in libertà...
+
+PIER. — Ma se non avete preso nulla!
+
+BATT. — E questo è il bello! _(esce dal fondo con Pierina)_
+
+GOLD. _(seduto con Chénier sul canapè)_. — Mio giovane amico, se tu mi
+hai portato una buona notizia, ti avviso che oggi, l'anniversario del
+mio matrimonio, la gusto il doppio.
+
+CHÉN. — Stammi a sentire. Io ho combinato le cose in modo che domanderò
+io stesso all'Assemblea Nazionale la restituzione della tua pensione e
+non senza speranza di vedere approvata la mia proposta...
+
+GOLD. — Sia lodato il cielo, che non posso proprio più aspettare
+dell'altro.
+
+CHÉN. — Ti farò restituire anche gli arretrati...
+
+GOLD. — Mille lire fra pochi giorni!
+
+CHÉN. — Ma bisogna che mi aiuti anche tu, non dimenticando che oltre
+all'essere straniero sei italiano, e veneziano per giunta.
+
+GOLD. — Veneziano per grazia di Dio e non per giunta!
+
+CHÉN. — Lasciami finire!
+
+GOLD. — Non parlo più.
+
+CHÉN. — Torino e Venezia hanno ospitato, l'una il Conte di Provenza e
+l'altra il Conte d'Artois, per aiutare la coalizione che si ordisce
+contro di noi.
+
+GOLD. — Io non so nulla di coalizioni; so che il Conte di Provenza è
+marito di una principessa di Savoia, e che l'ospitalità è sempre stata
+per noi un dovere...
+
+CHÉN. _(interrompendo)_. — E ora è un pretesto, e perciò il ministro
+Dumoriez ha cominciato col dichiarare la guerra al Piemonte, ordinando
+all'esercito d'invadere senz'altro la Savoia.
+
+GOLD. — Ma questa è una vera prepotenza a cui spero che i Piemontesi
+sapranno resistere!
+
+CHÉN. — Che cosa vuoi che facciano contro la Francia?
+
+GOLD. — Oh per questo non sarebbe mica la prima volta!
+
+CHÉN. — No certo; ma se è con queste idee che credi di conquistare la
+grazia dell'Assemblea, ti sbagli!
+
+GOLD. — Ma io domando un atto di giustizia e non una grazia, e se non me
+lo fa l'Assemblea, sono uomo da andare dritto dal Re alle Tuileries!
+
+CHÉN. — Alle Tuileries! Ma ora non è più col Re, è coll'Assemblea, è
+colla rivoluzione che bisogna trattare!
+
+GOLD. — Allora con quella masnada di assassini che opprime Parigi!
+
+CHÉN. — Ma a che serve dire che la rivoluzione non è più che lo sfogo
+d'ogni più feroce libidine, che ogni libertà è ora sopraffatta dalla
+brutalità furiosa e selvaggia della plebe, se è con coteste furie
+ubriache di vino e di sangue che bisogna fare i conti!
+
+GOLD. — E sia; ma perchè l'aspirazione suprema di tutti gli uomini
+onesti ed intelligenti, la libertà e l'uguaglianza nel diritto e nel
+dovere, deve cedere il posto agli apostoli dell'incendio, del saccheggio
+e della strage?
+
+CHÉN. — Per ora; ma lo riconquisteremo, per Iddio!
+
+GOLD. — Anzitutto Domineddio in Francia non c'è più... l'avete
+abolito... Ma te lo dico io il perchè: gli è che questa rivoluzione così
+cristiana nel suo fine è tutta nel cervello di uomini come te e tuo
+fratello, che credete basti bandire la libertà perchè tutti gli uomini
+ne approfittino soltanto per farsi migliori, perchè tutti gli istinti
+perversi e feroci siano subito corretti; stupenda illusione che è la
+mamma degli spropositi e degli equivoci. Appena voi bandite la libertà,
+gli istinti perversi vogliono la licenza; voi protestate in nome del
+popolo onesto e laborioso, in nome della società, e quelli vi rispondono
+buttando a terra leggi e famiglia e religione. Fermi! voi gridate: la
+libertà di tutti sta nell'ordine di tutti, e quelli non sapendo
+combattervi colle ragioni troncano con un colpo la discussione e la
+vostra testa. Ah! che commedia, che commedia! Altro che _Barufe
+ciozote_! E che peccato che io non possa più scriverla!
+
+CHÉN. — Ebbene sì, noi abbiamo il torto di esserci lasciato pigliare la
+mano da cotesta plebe ubriaca di vino e di tumulto che trionfa nel
+trasporto della sua collera brutale; ma questa plebe è pure il mondo
+antico che l'ha fatta così ignorante e schiava dei piaceri bestiali; ma
+questa collera è pur vendetta di leoni, che, stanchi d'essere chiusi e
+percossi, rompono finalmente la gabbia!
+
+GOLD. — Ma sono oramai quattr'anni che rompono!
+
+CHÉN. — Sono secoli che soffrono! Ma già è inutile che io parli di
+rivoluzione ad un veneziano nato in una repubblica governata col terrore
+da dieci aristocratici. _(si alza)_
+
+GOLD. — Bravo! Cinque parole, cinque spropositi; sì, perchè a Venezia il
+terrore è tanto, che se il Doge ha la cattiva idea di morire di
+carnevale, aspettano a dirlo che sia di quaresima; a Venezia c'è così
+poca libertà, che ci si corre da ogni parte del mondo, e caffè, e
+ridotti, e teatri sono giorno e notte pieni di gente allegra e senza
+pensiero, fin troppo senza pensiero! Oh sicuro che nella mia Venezia la
+libertà s'intende in un altro modo... Sicuro che laggiù nessuno porta
+pistola e coltello, e i farabutti, non c'è politica che tenga, sono
+farabutti; ma ad ogni modo, se qualche matto educato alla vostra bella
+scuola sognasse di dare il fuoco a San Marco o al Palazzo ducale,
+potrebbe essere sicuro che ogni veneziano correrebbe a spegnerlo, quando
+non bastasse l'acqua della laguna, col suo proprio sangue!
+
+CHÉN. — Tanto meglio per voi, tanto meglio!
+
+GOLD. — Gli è che dura chi misura, e noi duriamo da dodici secoli; gli è
+che..... io chiacchiero da mezz'ora, senza lasciarti dire quello che
+devo fare... Perdonami questo sfogo, mio buon amico, e dimmi subito il
+tuo consiglio.
+
+CHÉN. — Flins des Oliviers è l'amico intimo di Collot d'Herbois; il voto
+di Collot ti dà il voto di tutti i deputati di Parigi, anzi ti assicura
+il voto dell'onnipotente Comitato di sorveglianza. Ora bisogna che tu
+faccia a Flins des Oliviers la stessa dichiarazione che hai fatto una
+volta a Diderot.
+
+GOLD. — Dichiarare che neanche Flins mi ha rubato di sana pianta la
+_Locandiera_; dire insomma una bella bugia per accaparrarsi il voto di
+Collot d'Herbois, quella caricatura di Nerone, che vorrebbe tagliar la
+testa a quanti l'hanno fischiato! Sono troppi, messere! Te la faccio
+subito, subito; ma lascia osservare una cosa al vecchio commediografo:
+quando domando il fatto mio in nome della giustizia che ha inspirato la
+rivoluzione, mi si risponde picche. Faccio invece tanto di cappello ad
+un mascalzone come è il Flins, per far piacere ad un birbante come è il
+Collot? Tutti i deputati sono subito d'accordo per favorirmi! Bello!
+Bello!
+
+CHÉN. — No, brutto; ma così va il mondo per ora.
+
+GOLD. — E per un pezzo, e sai perchè? Perchè i primi ad approfittare
+d'una rivoluzione fatta, come la vostra, dal fiore dell'ingegno e
+dell'intendimento, è quasi sempre il fiore dei Flins e dei Collot!
+
+
+SCENA VI.
+
+_BATTISTINO dal fondo. DETTI._
+
+
+GOLD. — Giusto te. Vieni qui subito a stendere una dichiarazione al
+cittadino Flins des Oliviers come quella che si è fatta al Diderot; io
+la firmerò. _(a Chénier, mentre Battistino, deposto mazza e cappello
+sulle seggiole in fondo, si mette al tavolino)_ Il mio segretario, un
+buon comico, Battistino Stuck.
+
+CHÉN. _(sottovoce)_. — E tu, quando i comici sono sospetti e i tedeschi
+passano il Reno, te lo pigli in casa?
+
+GOLD. _(forte)_. — Ma egli non è tedesco; il mio Stuck è fiorentino...
+Non è vero?
+
+BATT. — Fiorentinissimo; Stuck, Stucco, molto Stucco, tutto Stucco, e,
+invece del Reno, passerei volentieri le Alpi.
+
+CHÉN. — Fiorentino? Ma certo di padre tedesco.
+
+BATT. — Al contrario. Mio padre è fiorentino ed io sono nato in
+tedescheria... ma per un semplice effetto del caso...... ci passava mio
+padre!
+
+CHÉN. _(ridendo)_. — E vostra madre?
+
+BATT. — Oh! mia madre, non lo nego, quando sono nato io, era presente.
+_(alzandosi)_ Ecco la dichiarazione tale e quale si è fatta a Monsù
+Diderot. (legge): «_Il sottoscritto Carlo Goldoni dichiara che non c'è
+parola nella Commedia «La Giovane albergatrice» del cittadino Flins che
+sia sua_».
+
+CHÉN. — Scusate: Claudio Carbon Flins des Oliviers, se vi piace.
+
+BATT. — Moltissimo. Io adoro i nomi lunghi... (si dimenticano più
+presto!) — Ecco fatto, signor avvocato.
+
+GOLD. — Ed ecco firmato, cittadino amico.
+
+CHÉN. _(osservando la dichiarazione)_. — Dichiara che non c'è una parola
+nella commedia di Flins che sia sua... _(guarda Battista che finge di
+essere distratto)_ — A chi si riferisce quel sua?
+
+BATT. — A Goldoni. Goldoni dichiara che nel lavoro di Flins non c'è una
+parola che sia sua, dunque di Goldoni.
+
+CHÉN. _(sorridendo come chi subodora una malizia)_. — Ma non c'è
+pericolo che quel sua si riferisca invece a Flins?
+
+BATT. — E allora, invece di _sua_, metteremo _di lui_.
+
+CHÉN. — Dichiara che nella commedia di Flins non c'è parola che sia di
+lui... _(guarda Stuck)_.
+
+BATT. — Se non è lupo, è can bigio.
+
+CHÉN. — E allora bisogna dire che voi altri non avete un'idea chiara
+della proprietà.
+
+BATT. — Domando scusa; per chi ruba si ha: plagiario, ladro, furfante,
+malandrino, predone, pirata e truffatore. Ma, tornando al _sua_, ho
+bell'e capito quel che bisognerebbe: che questo benedetto _sua_ si
+potesse declinare col nome cui si riferisce, come nel latino, e allora,
+per evitare ogni confusione, metterei l'avvocato al nominativo e Flins
+al genitivo od al dativo.
+
+CHÉN. — Ma bravo: conosce il latino come te!
+
+BATT. _(inchinandosi)_. — E per questo siamo entrambi all'ablativo.
+
+GOLD. — Vedi? Lui ha una risposta a tutto!
+
+CHÉN. _(sottovoce)_. — Ma un cosifatto segretario ti costerà chissà
+quanto...
+
+GOLD. — Adesso te lo faccio vedere..... Titino, qua una stretta di mano!
+
+BATT. — Troppo onore, mio illustre maestro! _(gli bacia la mano)_.
+
+CHÉN. _(c. s.)_. — Non gli dài altro?
+
+GOLD. — Nulla.
+
+CHÉN. — Sono ben lieto che questo incidente m'abbia fatto conoscere un
+amico così devoto. _(Battistino è andato a prendergli il cappello e la
+mazza)_ Cittadino, mi fate l'onore di una stretta di mano?
+
+BATT. — Voi mi confondete...
+
+CHÉN. _(gli stringe la destra)_. — Se tutti i cuori fossero come il
+vostro, il mio Goldoni vedrebbe assai più presto il frutto della nostra
+rivoluzione! Addio, e a rivederci presto. _(esce dal fondo)_
+
+GOLD. — Ma se tutti avessero il cuore e la testa di voi due, non farebbe
+bisogno di fare nessuna rivoluzione! — Ebbene, dimmi, dimmi, che cosa
+hai fatto dei denari del libraio?
+
+BATT. — Il libraio ha chiuso bottega. _(gli restituisce il libro)_
+
+GOLD. — O povero me! Neanche un fiore avrò da offrire a mia moglie! Mi
+stringe il cuore! Dopo tanti anni, è questo il primo che non posso fare
+nulla! Se almeno Nicoletta non si ricordasse che giorno è oggi! E la
+giornata era cominciata così bene..... Dammi il mio dizionarietto
+veneziano, ho bisogno di distrarmi... Vado nella mia camera...
+_(guardando nel quaderno manoscritto che gli ha dato Battistino, e che
+stava sopra uno stipo in fondo)_ _Destrigà, de sbrisson, descoconà..._
+Se sapevo, avrei superato la vergogna... _descogionà..._ Avrei domandato
+qualche cosa a Chénier... _descomodà..._ Con un pretesto...
+_descondon..._ _(s'avvia alla sua camera)_ Così non avrei questa
+disdetta... _desdita...._ O povera Nicoletta! dopo tanti anni... neanche
+un fiore! _(esce dalla destra)_
+
+BATT. — Per questa volta ho detto una bugia a te ed a tua moglie; ma
+verrà presto pur troppo il tempo di vendere libri e tabacchiere! Ma vien
+gente... Oh! ecco quella tromba di Balletti!
+
+
+SCENA VII.
+
+_PIERINA seguita da SUSANNA BERTINAZZI a braccio di BALLETTI, da GANDINI
+e MATTIUZZI. DETTO._
+
+
+PIER. — La signora Bertinazzi coi suoi amici.
+
+BATT. _(sottovoce)_. — Benvenuti tutti! _(accenna che parlino
+sottovoce)_.
+
+BALL. _(forte)_. — Eccoci qua tutti e quattro.
+
+BATT. — Sottovoce, che si vuole fare loro una sorpresa. E grazie a tutti
+anche per me...
+
+SUS. — Sta zitto, chè tanto l'avvocato e sua moglie che voi altri due,
+meritereste molto di più, se in questo tempo di casa del diavolo fosse
+possibile fare qualche cosa di buono. _(a Balletti)_ Ora non ho più
+bisogno di essere rimorchiata, mio gentil cavaliere! — Se sapeste
+quant'è ardente questo Balletti!
+
+BALL. — È vero! Ho sempre una gran sete!
+
+BATT. — Non dubitare che te la leverai. Una parola a tutti subito: che
+nessuno di voi faccia la più piccola allusione dinnanzi all'avvocato
+delle tragedie di questi ultimi giorni.
+
+GLI ALTRI. — Inteso!
+
+BALL. _(a Gandini)_. — Dove s'è fatto una nuova tragedia?
+
+GAND. — In piazza della Rivoluzione.
+
+BALL. — Ora capisco!
+
+MATT. — Non dimenticare dunque mai che Marat ha detto a Barbaroux che
+chi va al teatro in fondo è sempre un aristocratico da ghigliottinare.
+
+BALL. — E chi, invece d'andare in fondo, va ai posti di orchestra?
+
+GLI ALTRI. — Oh!
+
+MATT. — Via, compatitelo, è il più vecchio dell'arte!
+
+BALL. — Vecchio io? Ho un anno meno di Goldoni!
+
+BATT. — Una bella differenza.
+
+BALL. — Sicuro, e poi io sono della razza di Fiorelli, che a ottantatrè
+anni dava uno schiaffo con un piede...
+
+GLI ALTRI. — Vediamo! Vediamo!
+
+BALL. — Attenti... Oggi non sono in vena... E Vicentini se non
+l'applaudivano nel _Convitato di pietra_? S'arrampicava dal proscenio su
+su fino al terz'ordine, e si metteva a girare attorno sulla cornice,
+finchè il pubblico non gridava: basta!
+
+SUS. — Ebbene? Che cosa vuoi concludere?
+
+BALL. — Io? Nulla.
+
+GLI ALTRI. — Ah! Ah!
+
+GAND. — Sei addirittura rimbambito!
+
+BALL. — Io? Ti sfido a tutte l'armi ed a tutti i giuochi, cominciando
+dallo star ritto sopra una gamba!
+
+BATT. — Per carità, che se tu caschi, non ti alzi più.
+
+BALL. — Vecchio rimbambito io! Vecchio è chi muore, non io, pieno di
+vita e di fantasie! Ma domandate a Susanna che corte spietata le faccio!
+
+SUS. — Balletti, tu mi vuoi compromettere adunque!
+
+GAND. — Lascialo dire, che io mi contento di essere preferito!
+
+BATT. — Sta zitto, che tutte le Susanne assediate dai vecchi hanno
+sempre preferito un giovane!
+
+SUS. — Bravo, Tita!
+
+PIER. _(sottovoce a Batt.)_. — È questo il fior di giovanotti di primo
+pelo che aveva da venire?
+
+BATT. — Primo pelo... bianco!
+
+
+SCENA VIII.
+
+_ANTONIO che dà il braccio a MARIA RICCOBONI, RINALDI alla signora
+FARINELLI, LEGENDRE alla signora RINALDI, BOUCHARD alla signorina
+FARINELLI, ed AGIRONI, dal fondo, tutti con fiori o scatole di confetti.
+DETTI._
+
+
+ANT. — Ed ecco qui altri buoni amici!
+
+BATT. — Benvenuti tutti! _(ad Ant.)_ Sono ancora nelle loro stanze...
+
+ANT. — Tanto meglio, così la sorpresa sarà intera. _(ai comici)_ La
+signora Maria Riccoboni: non ho bisogno di dirvi chi sia.
+
+SUS. — La famosa romanziera che mantiene così alto il nome del nostro
+gran Luigi!
+
+RICCOB. — Troppo gentile; ma, se non m'inganno, lei è la vedova di
+Carlino Bertinazzi... _(discorre con Susanna)_.
+
+ANT. — Il professore Rinaldi e la sua signora, Aginori, Bouchard e
+Legendre, la signora Farinelli, che è stata anche lei una gran brava
+artista, e sua figlia Rosalia, maestra di musica. E qui i comici
+pensionati della commedia italiana; Balletti, prima amoroso...
+
+BALL. — Sempre amoroso, mie belle signore, sempre!
+
+ANT. — E poi bravissimo nella parte del _sor dutur Grazian d'B'logna_;
+Mattiuzzi, _Pantalon_...
+
+MATT. — Sempre più dei bisognosi!
+
+ANT. — E Gandini, _il terribile Capitan Coccodrillo_...
+
+GAND. — _Scarabombardon de la Papiriotonda!_
+
+ANT. — Se volete favorire nel salotto, potrete anche combinare colla
+signorina Farinelli per la parte della ragazza nel _Burbero_.
+
+ROS. — La so a memoria e vedrete mirabilia! A proposito, quando
+ritornate a Venezia?
+
+ANT. — Sono quattr'anni che si domanda e che gli Ambasciatori ci
+lusingano; ma non se ne farà nulla. Il governo della Serenissima, quando
+lo zio non ci sarà più, farà come me, che dirò: oh fosse ancora vivo, di
+quante maggiori cure, di quanta maggior tenerezza vorrei circondare la
+sua vecchiaia e quanto sarei più eloquente per onorarlo! Ma, mentre
+prevedo che avrò un rimorso, non so fare di più! _(si avviano al salotto
+a destra)_.
+
+RICCOB. — Ma il pubblico italiano?
+
+ANT. — Gli farà, quando sarà morto, un monumento..... Ma lasciamo questo
+discorso e favorite... _(voce di Nicoletta: Battistino!)_
+
+BATT. — Penso io a trattenerla..... _(rispondendo)_ Vengo subito!
+
+          (Sono usciti dalla destra prima Bouchard e la signora
+            Rinaldi, poi Rinaldi e Legendre, indi Agironi colla
+            Bertinazzi ed Antonio colla Riccoboni. Balletti,
+            vistosi portar via Susanna, s'affretta ad offrire il
+            suo braccio alla figliuola della signora Farinelli; ma
+            questa ha già preso quello di Gandini. Pierina esce dal
+            fondo, e Mattiuzzi offre ridendo a Balletti il suo
+            braccio).
+
+BALL. _(a Batt.)_ — Ma che si va a fare là dentro?
+
+BATT. — È vero che c'hai messo ottantacinque anni a perdere la memoria,
+ma ci sei riescito bene!... _(spinge fuori Balletti, chiude la porta e
+va incontro a Nicoletta)_ — Che cosa mi comanda?
+
+
+SCENA IX.
+
+_NICOLETTA dalla sinistra. DETTO._
+
+
+NICOL. — Ebbene? La tabacchiera?
+
+BATT. — Eccola. _(gliela consegna)_
+
+NICOL. — Non l'hai venduta?
+
+BATT. — Per lo stemma della marchesa, non l'ha voluta nessuno..... a
+meno di darla per un boccone di pane! Ecco l'avvocato.
+
+NICOL. — Lasciami un momento con lui. Ma che cosa potrò dirgli?
+
+BATT. — Una buona parola... è quello che costa meno.
+
+NICOL. — E alle volte fa più piacere. Ma ti par facile, a Goldoni?
+
+BATT. — Facilissimo... Si lascia parlare il cuore.
+
+NICOL. — Sicuro..... Ma per incominciare? Lì sta il difficile!
+
+BATT. — E lei non incominci, o faccia il rovescio: cominci col fine; se
+non farà meglio, farà più presto! _(inosservato, esce dalla destra verso
+il fondo)_.
+
+
+SCENA X.
+
+_GOLDONI dalla destra. DETTA._
+
+
+GOLD. _(fra sè, senza vedere Nicoletta)_. — No, non è bello, non è degno
+di me sperare in una dimenticanza...
+
+NICOL. _(senza vedere Goldoni, assorta in sè)_. — Ha ragione Battistino;
+se non posso fargli altra festa, facciamogli almeno quella d'una buona
+parola... _(volgendosi verso la destra e vedendo Carlo)_ Carlo!
+
+GOLD. _(a Nicoletta, contemporaneamente a lei)_. — Nicoletta! Volevi
+dirmi una parola?
+
+NICOL. — Per l'appunto, e anche tu a me?
+
+GOLD. — Hai indovinato.
+
+NICOL. — Forse la stessa idea!
+
+GOLD. — Probabilmente.
+
+NICOL. — Dunque parla.
+
+GOLD. — Oh! prima te.
+
+NICOL. — Non sarà mai.
+
+GOLD. — Abbiamo da parlare tutti e due in una volta?
+
+NICOL. — Via, comincierò io... (col fine... come dice Battistino...)
+Gran bella giornata oggi!
+
+GOLD. — Sì, per fine di settembre, a Parigi... Ma poteva cominciar
+meglio!
+
+NICOL. — Sì; ma contentiamoci.
+
+GOLD. — Questo è sempre da filosofi! Contentiamoci, poteva esser peggio.
+
+NICOL. — Sicuro, a questi tempi! E poi la vera felicità sta dentro di
+noi, e non nei quattrini.
+
+GOLD. — Massima eccellente, che deve essere stata inventata da un poeta
+comico italiano..... Eppure, in certe circostanze, in certe occasioni,
+farebbe pure un gran piacere averne!
+
+NICOL. — Ma che occasioni!
+
+GOLD. — Oggi, per esempio!
+
+NICOL. — Che? Se è vero che il maggior piacere per una donna è amare
+colla sicurezza di essere amata, chi m'ha voluto più bene di te, mio
+buon Carlo?
+
+GOLD. — Ma come non t'avrei amata e non ti amerei, quando, giovane o
+vecchio, fortunato o disgraziato, l'unica cosa che non mi sia mai venuta
+meno è il tuo affetto, mia buona Nicoletta?
+
+NICOL. _(intenerita)_. — Ma guarda un po' che cosa mi vieni a dire oggi!
+
+GOLD. — Ma non sai che giorno è oggi? È il cinquantesimosesto
+anniversario delle nostre nozze, e io vorrei poterti dire una parola
+tanto bella da valere tutti i regali, tutte le feste che per la prima
+volta non ti posso dare; ma questa parola, io che ne ho scritte tante,
+io che sono avvocato, non la trovo; forse bisogna dire che non ci sia,
+poichè quando si vuole dare la stura ai sentimenti che ci riempiono il
+cuore... si fa come me... si sente qui una confusione e qui un gruppo...
+si balbetta... si piange... e si finisce per far la figura dell'asino!
+
+NICOL. — Meno male che nessuno ti sente a parlare così ad una povera
+vecchia; saresti ridicolo!
+
+GOLD. — Cominciamo a dire che tu hai dieci anni meno di me; ma, se anche
+tu fossi vecchia come dici, io bell'e vecchio come sono..... anzi,
+appunto perchè così vecchio da poter apprezzare senza passione ogni cosa
+secondo il suo vero valore, vorrei che tutto il mondo mi sentisse a dire
+che cinquantasei anni fa io voleva un gran bene alla mia sposa tutta un
+fiore ed un sorriso; ma ora che tutto mi naufraga attorno, ora che tu
+sola resti il conforto e la gioia dei miei ultimi giorni, ora del bene
+te ne voglio il doppio!
+
+NICOL. — Tu sei troppo, troppo buono!
+
+GOLD. — No; non faccio che rendere giustizia alla moglie, che colla mia
+pace e la mia felicità, ha voluto anche la mia gloria; sì, sì, perchè
+non è che dopo di averti sposata, che ho trovato la mia buona
+inspirazione, il mio buon consiglio; e perciò sta pur sicura che se io
+sono stato messo al mondo senza dolore, se vi ho vissuto senza troppi
+pensieri, morrò però con un cruccio, l'unico vero cruccio della mia
+vita, quello di doverti lasciare!
+
+NICOL. _(profondamente commossa)_. — Oh il Signore mi farà la grazia che
+gli domando: quella di non doverti sopravvivere!
+
+GOLD. _(commosso alle lagrime, ma sforzandosi di scherzare, piglia
+Nicoletta fra le sue braccia, e si rivolge comicamente al cielo)_. — Per
+carità, non le dia retta! Ci faccia anzi vivere un altro bel pezzo per
+il buon esempio dei coniugati, e, quando sarà la nostra ora, ci pigli
+tutti e due, tutti e due assieme! _(piangono di tenerezza)_.
+
+
+SCENA XI.
+
+_PIERINA dal fondo va sulla soglia del salotto a destra a farvi un cenno
+inosservata dai presenti. BATTISTINO ed ANTONIO entrano subito in scena
+dal salotto, e Pierina esce dal fondo. DETTI._
+
+
+ANT. — Ancora in veste da camera? Presto, presto a far toeletta tutti e
+due!
+
+GOLD. — Tanto non viene nessuno a vederci...
+
+BATT. — Nessuno? _(piglia Nicoletta per mano e la porta ad origliare
+alla porta del salotto)_.
+
+ANT. — Nessuno? _(fa lo stesso con Carlo)_.
+
+GOLD. _(contentissimo)_. — Ma lì c'è molta gente!...
+
+NICOL. — Uomini e donne!...
+
+ANT. _e_ BATT. _(impedendo loro di aprire)_. — A vestirvi! A vestirvi!
+
+GOLD. e NICOL. — Ma chi sono? Chi sono?
+
+ANT. — Mistero!
+
+GOLD. _(a Nicoletta)_. — Mistero! A vestirci! _(ritornando a Batt.)_. —
+Ma come li tratterete tutti questi buoni amici che si ricordano ancora
+di noi?
+
+BATT. — Mistero!
+
+GOLD. — Ah birbone, ora capisco il ritorno di Corneille! — Andiamo.
+Nicoletta, andiamo a farci più belli, se è possibile... Mi sento
+ringiovanire! La vostra bella manina, cittadina!
+
+ANT. — Cittadina? Dunque anche tu ti fai rivoluzionario?
+
+GOLD. — Lo sono sempre stato in arte! Cento di questi giorni, cittadina:
+per quest'anno ancora a Parigi; ma l'anno venturo sicuramente a Venezia!
+
+NICOL., BATT., ANT. _(con vivissima curiosità)_. — A Venezia?
+
+GOLD. _(rifacendo le mosse di Antonio e Battista e canzonando e ridendo
+mentre trae via con sè nella sua stanza Nicoletta)_. — Mistero! Profondo
+mistero!
+
+
+FINE DEL PRIMO ATTO.
+
+
+
+
+INTERMEZZO
+
+La sala del primo atto, senza il tavolo. I due paraventi distesi, l'uno
+partendo dal cembalo e l'altro dalla prima quinta al proscenio, in modo
+da formare un angolo; lo spazio racchiuso in esso servirà poi di
+teatrino per la recita del prologo e del _Burbero benefico_. Dinnanzi a
+questa scena tuttora chiusa, il canapè, dietro il canapè le seggiole per
+gli invitati, disposte in modo da riempire la parte destra della scena.
+Sugli stipi in fondo l'occorrente per servire rinfreschi, i mazzi di
+fiori ed i regali portati dagli amici.
+
+
+SCENA I.
+
+_La RICCOBONI, le FARINELLI madre e figlia, i RINALDI marito e moglie,
+AGIRONI, BOUCHARD, LEGENDRE, ed ANTONIO e PIERINA che servono gli altri
+di rinfreschi._
+
+
+BOUCH. — Sentite, io capisco fin dove può arrivare una vendetta
+lungamente e ardentemente bramata; ma portare in trionfo i soldati che
+assassinano gli ufficiali, giurar fede alla legge per violarla e al re
+per arrestarlo, scannare i prigionieri, far scempio di donne e di
+fanciulli, questo, parola d'onore, non è più rappresaglia, è delirio di
+ogni più bassa passione.
+
+LEGEN. — Speriamo che si siano sfogati abbastanza, altrimenti ne vedremo
+delle altre, prima che la gente onesta capisca la necessità di mettersi
+d'accordo.
+
+RICC. — Intanto si è tutti come storditi da un gran colpo alla testa...
+Si sente in aria il coltello del macellaio, e non si fa nulla nessuno
+per liberarsene.
+
+EMILIA. — E avete osservato per le strade, che deserto!
+
+AGIR. — Sfido io! I negozi sono chiusi per la paura del saccheggio, ogni
+arte è sbandita come nemica, e ognuno sospetta del vicino!
+
+MARIA. — Aggiungete che ognuno teme di essere arrestato, poichè l'essere
+arrestato equivale ad essere condannato, e comparire dinnanzi ad un
+tribunale è lo stesso che una sentenza di morte.
+
+RINALDI. — E non vogliono che si faccia voti per essere liberati! Per me
+darei il benvenuto a Belzebù ed a tutti i diavoli dell'inferno!
+
+ANT. — Quando finirà quest'agonia?!
+
+RICC. — Voi siete ancora giovani...
+
+GLI ALTRI _(meno Rosalia)_. — Bella gioventù!
+
+RICC. — Appetto a me, e siamo in pieno regno dell'impreveduto; ma a me,
+ai Goldoni, a Balletti, Gandini e Mattiuzzi, che cosa ci resta? La
+rivoluzione ha cancellato ogni gloria come un insulto alle mediocrità
+irrimediabili, e Dio non voglia che ci tolga anche quel boccone di pane
+che ci ha dato la splendidezza della Corte!
+
+GLI ALTRI. — Dio guardi!
+
+MARIA. — Se si potesse scappare tutti in Italia!
+
+AGIR. — È quello che farò io al più presto.
+
+ROSALIA. — Ritorniamoci anche noi, mamma; tanto tu lo sai, io non ho più
+da dare una sola lezione di musica.
+
+RINALDI. — E chi pensa più ad imparare l'italiano adesso che la
+fratellanza universale ha esordito col dichiarare traditori gli
+italiani?
+
+BOUC. — Noi due ci siamo tappati nel nostro eremo, e finchè le cose non
+cambiano, chiusi!
+
+AGIR. — E, se non era per dare questa consolazione al povero Goldoni,
+davvero che non lasciavo Clignancourt, sopratutto oggi!
+
+ANT. — Per carità, non una parola di nulla allo zio!
+
+RINALDI. — Facciamo meglio: per oggi sopprimiamo ogni pensiero del
+presente e dell'avvenire.
+
+RICC. — Bravo; riviviamo, s'è possibile, qualche ora del passato!
+
+GLI ALTRI. — Sì, sì, per Goldoni!
+
+ANT. — Eccolo colla moglie... Mi raccomando adunque... E non si alzi
+troppo la voce, mi capite.
+
+
+SCENA II.
+
+_GOLDONI e NICOLETTA dalla destra al proscenio, in abito di gala tutti e
+due. DETTI._
+
+
+GLI ALTRI _(affollandosi attorno a Carlo e Nicoletta)_. — Cento di
+questi giorni!
+
+GOLD. — Oh che piacere, che consolazione mi date!
+
+NICOL. — Grazie, grazie proprio di cuore a tutti!
+
+GOLD. — La Riccoboni, la mia _Yenny_! Ma questo è un onore che io non
+merito... _Tò un baso, vecia!_ _(la bacia)_
+
+MARIA. — E a me nulla?
+
+GOLD. — Anche a te, la mia Farinelli!... Come recitavi... quando c'ero
+io in teatro! Brava, ti conservi sempre bella!
+
+MARIA. — Bella con cinque icchese sulle spalle?
+
+GOLD. — Sono bello io con otto e mezzo!
+
+EMILIA. — Carletto, non sono degna io di esser baciata da cotanto
+amante? Oh scusa, Nicoletta!
+
+GOLD. — Niente scuse, mia moglie sa che se io sono un così bel
+vecchietto, è tutto merito suo!
+
+NICOL. — Padron mio, dal momento che non dice nulla Rinaldi!
+
+RINALDI. — Goldoni è irresistibile!
+
+ROSALIA. — E io rimango a bocca asciutta?
+
+GOLD. — Figurati, a te ne do due! — Nicoletta, la colpa non è mia, è
+dell'usanza francese, la più bella delle vostre usanze, quella che
+voglio portare a Venezia: baci a tutto spiano! A proposito, Agironi — a
+te non ne dò, sei troppo brutto — ma ti ringrazio di essere venuto ad
+abbracciarmi prima di partire. A Venezia cercami subito un quartiere, a
+Riva, al sole. — Ah! Rinaldi, quella è un'aggiunta che avresti da
+copiare per le mie memorie! — Bravo Bouchard! — Bravo Legendre: avete
+visto che la montagna non si moveva per andare a Belleville, e voi siete
+venuti verso di essa...
+
+NICOL. _(andata in fondo colle altre signore)_. — Carlo, guarda che bei
+fiori! E confetti, e cioccolato... Quanto siete buoni! _(scende presso
+Goldoni, seguita dalle altre)_ Sai che cosa mi pare oggi? Che sia il
+primo giorno del nostro matrimonio!
+
+GOLD. — Delle nozze, vuoi dire; perchè il primo giorno di matrimonio io
+aveva la febbre, e mica soltanto la febbre dell'amore, la febbre del
+vaiuolo! Eh che disdetta? Ma siccome, dopo la burrasca, finisce sempre
+per splendere il sole, il vaiuolo è sparito e mi è rimasta questa buona
+e bella moglie.
+
+GLI ALTRI. — Bravo!
+
+NICOL. — Buona, mi sono ingegnata; bella, mai, e in ogni modo sarebbe
+troppo da un pezzo per ricordarlo.
+
+GOLD. — Senti, Nicolina — io per mia moglie ho due diminutivi
+accarezzativi, Nicoletta ogni giorno che Domineddio manda in terra, e
+Nicolina nelle grandi occasioni solenni — senti: per gli occhi del
+cuore... _(alle altre)_ voi altre è inutile che mi facciate l'occhio di
+pesce morto... tu sei sempre la più bella!...
+
+GLI ALTRI. — Bravo! bravo!
+
+ANT. — Più basso!
+
+GOLD. — Che c'è ora? Non si può più applaudire Goldoni?
+
+ANT. — Sì, sempre; ma è meglio non gridare... _(si odono tre colpi dalla
+sinistra)_
+
+GOLD. — Che cosa è? (Rosalia corre al pianoforte)
+
+ANT. — Il segnale all'orchestra.
+
+GOLD. — Quale orchestra?
+
+ROSALIA. — Eccola! _(suona un minuetto)_
+
+GOLD. — Si balla? Nicolina, si balla! _(con vivacità, offrendole la
+mano)_
+
+NICOL. — Proviamo? _(tutti fanno loro siepe)_
+
+GOLD. — Ma figurati se s'ha da provare! Non è questo il giorno delle
+nozze? Dunque si prova anche a ballare! _(fermandosi dopo un giro)_ Non
+è nè lo stomaco, nè la testa..... non sono che le gambe... ma si
+capisce, dopo la malattia... Del resto vedresti!...
+
+NICOL. — Sarà per un altr'anno!
+
+GOLD. — Brava, per un altr'anno, a Venezia!
+
+
+SCENA III.
+
+_BATTISTINO, vestito da Arlecchino, mette la testa fra i paraventi che
+ha socchiuso. DETTI._
+
+
+ARLEC. — Signorie!
+
+GOLD. — Arlecchino? Che cos'è questa baracca?
+
+ARLEC. — Se me lo permettono, vorrei dire una parola, senza contare le
+altre, in italiano e non nel mio bergamasco, per riguardo ad una parte
+della civile udienza...
+
+TUTTI. — Parla! Parla!
+
+ANT. — Qui sul canapè colla zia.
+
+GOLD. — Ho capito, anche una recita! che cari matti! _(seggono tutti)_
+
+ARLEC. _(uscito fuori dai paraventi e inchinatosi)_. — Cittadine belle
+ed amabili sempre, e cittadini... amabili... qualche volta e belli... io
+ho l'onore di annunziarvi quale capocomico — molto comico e niente capo
+— delle principali maschere dell'antica commedia dell'arte, non meno
+ragguardevoli per l'abilità — modestia a parte — quanto per la nobiltà
+di ventidue secoli, tutte proprietarie..... d'una infinità di generi
+brighelleschi tanto d'entrata che d'uscita — che non pagano dazio — che
+avremo l'onore di recitare colle principali maschere prima un prologo di
+nostra composizione e poi, senza papere e senza suggeritore, la commedia
+di Carlo Goldoni _Il Burbero benefico_, per rendere il maggior omaggio
+possibile al principe dei poeti comici italiani, al riformatore
+immortale delle nostre scene.
+
+GLI ALTRI _(meno Goldoni)_. — Bravi! Bravi!
+
+GOLD. — O quante sorprese!
+
+NICOL. — Che buoni amici!
+
+ARLEC. — Quanto ai costumi, si sa, in tempo di rivoluzione si tira via e
+le migliori intenzioni se ne vanno troppo sovente a monte..... di pietà;
+ma, in un'epoca così sbracata, loro sono ormai avvezzi a non badare
+troppo al sottile. _(apre i paraventi, ripiegandoli in modo che il primo
+serva di quinta alla porta al proscenio a sinistra, e l'altro copra il
+pianoforte)_ La scena rappresenta al vivo, come vedete, la città di
+Venezia: di qua a sinistra, il palazzo ducale tutto duro come un marmo,
+e così vero, che pare dipinto. Lì accosto, San Marco, che si metterebbe
+sotto una campana di vetro, tant'è meraviglioso e originale..... Lei di
+lì non lo vede... e neanche più in là... e glielo dico in segreto il
+perchè: San Marco, modesto, sa che siamo in tempi di rivoluzione e per
+timore di essere confuso colla gente che si fa avanti, preferisce di
+starsene indietro... bel caso! Poi la torre dell'orologio e le
+Procuratie... Qui Marco e Todero; dinnanzi il mare infinito; bucintori,
+gondole, peote e barche rotte — che sono giusto le meglio dipinte. Ora
+do il segnale per la sinfonia.
+
+GOLD. — Anche la sinfonia?
+
+ARLEC. — Diamine, un capocomico che rispetta l'arte!... Ma, stante il
+gran concorso, ho messo i suonatori fra le quinte, violini e violoni,
+tube e catube, fagotti, corni e pifferi, speriamo senza ritorno, ma
+tutti al vostro servizio.
+
+NICOL. — Ma non vedo gli istrumenti.
+
+ARLEC. — Oh gli istrumenti... si ommettono per brevità; ma non ci
+perderete nulla, anzi! La sinfonia, per il gradimento universale della
+musica e la fortunata allusione del titolo, è quella di _Giannina e
+Bernardone_ _(s'inchina a Carlo e Nicoletta)_ Ora giù il sipario... cioè
+no, niente sipario... se il sipario non va nè su, nè giù, ma che non lo
+sappia neanche l'aria, sopratutto l'aria che potrebbe averselo a male, è
+soltanto per risparmiare all'illustre poeta ed alla gentile udienza un
+raffreddore, col quale, inchinandomi, ho il piacere di lasciarvi!
+
+          (S'inchina verso tre parti e poi sparisce dietro il
+            paravento che ha alla sua destra)
+
+
+SCENA IV.
+
+_Dalla seconda porta a sinistra, dietro al paravento, colla Rosalia che
+si mette subito al cembalo, MATTIUZZI, vestito da Pantalone, GANDINI da
+Capitan Fracassa, BALLETTI da Dottore, SUSANNA da Colombina. DETTI._
+
+
+ARLEC., PANT., CAPIT., DOTT., COLOMB. —
+
+          (Solfeggiano la sinfonia dell'opera _Giannina e
+            Bernardone_ di Cimarosa, in grande voga a quell'epoca,
+            come il _Matrimonio segreto_ dello stesso maestro,
+            accompagnati col cembalo da Rosalia).
+
+GLI ALTRI _(a sinfonia finita, applaudendo)_. — Bravi! Bravi!
+
+
+SCENA V.
+
+_PANTALONE e COLOMBINA dal paravento alla loro destra DETTI._
+
+
+COLOMB. — Ma che _Burbero_ d'Egitto! Io non vi recito neanche se viene a
+domandarmelo in ginocchio l'Imperatore dei Pirenei, altro che Arlecchin
+Battocio, perchè alla fin fine Colombina non ha mai avuto bisogno e mai
+non avrà del poeta comico per farsi applaudire!
+
+PANT. — Questo xe vero...
+
+COLOMB. — Un po' di grazietta, occhiate in platea a dritta ed a
+sinistra, girate rapide per far vedere il piedino...
+
+PANT. — E magari un tocheto de gamba!
+
+COLOMB. — E il giuoco è fatto. E voi che cosa contate di fare?
+
+PANT. — Io? niente: questa la xe sempre sta la mia politica.
+
+COLOMB. — Sior Pantalon dei Bisognosi non ha bisogno di poeta per far
+ridere.
+
+PANT. — Mi? Non rapresento coi fioj l'autorità paterna, co la mugier la
+maritale e in banco la paronal? Dunque, quando se rapresenta l'autorità,
+no s'ha bisogno de poeti per far ridere, basta mostrarse!
+
+
+SCENA VI.
+
+_Il DOTTORE dalla sinistra del teatrino. DETTI._
+
+
+DOTT. — Voi parlate e favellate di ridere, ed io screpolo di rabbia!
+
+COLOMB. — Con chi l'avete, eccellentissimo Dottore?
+
+DOTT. — Salve, _foemina_! L'ho con quel mostro policromo di Arlecchino,
+che, senza alcun rispetto per un Dottore della mia circonferenza, dice
+che se non voglio recitare nel _Burbero_, è segno che sono un asino, sì,
+_asinus, vel buricchius_; e così io laureato senza aver aperto un libro,
+io famigerato prima di aver fatto checchessia comechessia; io delizia
+del pubblico per i miei insensati, ma spontanei spropositi in ogni
+scibile e ignorabile, dovrò dare il pessimo esempio ai miei discepoli di
+studiare prima di professare, di pensare prima di dire? Ah _Arlecchinus,
+non ego doctor in utràque et in utrìque, sed tu buricchius, terque,
+quaterque asellus_!
+
+PANT. — _Ciucus!_
+
+COLOMB. — _Asinissimusque!_
+
+
+SCENA VII.
+
+_Il CAPITAN FRACASSA dalla destra del teatrino. DETTI._
+
+
+CAPIT. _(spavaldo e minaccioso)_. — Chi è che mi dà dell'asino?
+
+DOTT. — Nessuno! nessuno! Anzi _salvete et salvetote vos, miles
+gloriosus_.
+
+COLOMB. — Vi faccio umilissima riverenza!
+
+PANT. — Paron mio, sor Capitan Fracassa, Spavento, Matamoros,
+Coccodrillo...
+
+COLOMB. _(crescendo comicamente)_. — Bellerofonte, Arcitonitrante,
+Firibirimbombo...
+
+CAPIT. — Scarabombardon de la Papiriotonda, invincibile ad ogni arma
+anche a vento!
+
+DOTT. — Quelle a vento non nominarle neanche, o scappo subito! Si
+parlava d'Arlecchino.
+
+CAPIT. — Arlecchino?! Se fosse possibile rivederlo, io lo ripiglierei
+per i tacchi e lo slancierei per aria tant'alto, tanto alto... che,
+quando cascasse giù, tutti i soldi della sua tasca sarebbero fuori di
+corso.
+
+DOTT. — Bella forza!
+
+CAPIT. — Io? Spiano i monti, asciugo il mare, divido il mappamondo, e se
+mi piace, inchiodo il sole, gioco alla palla coi pianeti e rompo il
+firmamento.
+
+COLOMB. — (Ma più le scatole!)
+
+PANT. — Capitano, disè una volta la verità: Arlechin v'ha dà dell'aseno!
+
+CAPIT. — A me?! A me?!! Voleva darmelo... ma bastò che io starnutissi,
+perchè... l'aveste più visto voi altri?
+
+GLI ALTRI. — No...
+
+CAPIT. — E neanch'io... _(guarda in aria e fa un gesto)_
+
+DOTT. — S'è fatto in polvere?...
+
+PANT. — S'è ridoto in caligo?...
+
+
+SCENA VIII.
+
+_ARLECCHINO, inosservato, dalla destra del teatrino. DETTI._
+
+
+CAPIT. _(mostrando un punto in aria)_. — Già, dalla paura... La vedete
+quella nuvoletta piccola piccola, che starebbe nel grembialino di
+Colombina, e corre giù giù verso la fine del mondo?
+
+COLOMB. — Quello è quanto rimane di Arlecchino?
+
+PANT. — Povareto!
+
+DOTT. — Ma già, se non finiva in nebbia oggi, finiva in polvere stassera
+lui ed il suo _Burbero_!
+
+PANT. — No digo che se lo meriteria; ma che bisogno gh'avemo nù de sta
+rassa de can de poeti per farse applaudire, quando n'avemo d'avanzo
+delle nostre entrate e sortite di scena? Pistolotti, digo mi, pistolotti
+a sogèto; smorfie, lazi a volontà, e po' basta!
+
+COLOMB. — A me, non avessi altro, basta la canzonetta allegra e l'ardita
+furlana. _Tra la la là!_
+
+CAPIT. — Io non ho che da aprir bocca perchè il pubblico dalla paura si
+metta subito ad applaudirmi.
+
+DOTT. — E io, più voglio parlare sul serio, e più faccio ridere!
+
+CAPIT. — Dunque, viva noi e abbasso i poeti, gente incontentabile.
+
+DOTT. — Che vuol sempre esser chiamata fuori...
+
+COLOMB. — Mentre non merita che d'esser messa dentro!
+
+GLI ALTRI _(meno Arlecchino)_. — Brava! Abbasso!
+
+CAPIT. — Sì, abbasso tutti i poeti e in particolare... _(vede Arlecchino
+che gli si pianta davanti agitando la bàtola)_ evviva Arlecchino!
+
+ARLEC. — Abbasso Arlecchino con tutte le teste di legno pari vostre, e
+viva Goldoni; sì, Goldoni, che per il primo ha dato all'Italia un teatro
+suo; Goldoni che ha fatto di più lui solo per render simpatica la nostra
+Venezia, che non tutti assieme gli artisti e scrittori del mondo;
+Goldoni, che col _Burbero_ ha la gloria splendidissima di aver
+ricondotto nel paese istesso di Molière il gusto e l'amore della
+naturalezza e della verità!
+
+GOLD. — È troppo! Basta, figliuoli...
+
+ARLEC. — Sì, è vero, Goldoni ha fatto della nostra commedia a braccia
+colle maschere... quello che il Capitano disse d'aver fatto di me...
+
+CAPIT. — Per ridere!
+
+ARLEC. _(seguitando)_. — Ma, mentre nessuno rimpiange la nostra commedia
+così recente e si dimenticano i meglio autori, l'Italia applaude ora,
+come venti, trenta e quarant'anni fa, il _Cavalier di spirito_...
+
+COLOMB. — _Pamèla..._
+
+PANT. — _Sior Todaro Brontolon..._
+
+CAPIT. — _Le barufe ciosote..._
+
+DOTT. — _L'avvocato Veneziano..._
+
+ARLEC. — _Il bugiardo..._
+
+COLOMB. — _La sposa sagace..._
+
+PANT. — _Il curioso accidente..._
+
+CAPIT. — _Le gelosie di Lindoro..._
+
+DOTT. — _Terenzio e Molière..._
+
+ARLEC. — _Il campièlo..._
+
+COLOMB. — _Gl'innamorati..._
+
+PANT. — _L'impresario delle smirne..._
+
+CAPIT. — _La bottega da caffè..._
+
+DOTT. — _La vedova scaltra..._
+
+ARLEC. — _Le donne curiose..._
+
+RICC. — _La bona mare..._
+
+M. FAR. — _La locandiera..._
+
+AGIR. — _I pettegolezzi..._
+
+SIGNORA RIN. — _Le tre della villeggiatura..._
+
+R. FARI. — _L'ultima notte di carnevale..._
+
+RINALDI. — _La moglie saggia..._
+
+ANT. — _Il ventaglio..._
+
+BOUCH. — _La casa nova..._
+
+LEG. — _I rusteghi..._
+
+NICOL. — E _Il burbero benefico_! _(abbraccia Goldoni)_.
+
+TUTTI _(meno Goldoni)_. — Viva Goldoni! _(applausi entusiastici)_
+
+GOLD. — Basta! Basta!
+
+GLI ALTRI _(seguitando l'ovazione)_. — Viva molti altri anni!
+
+          (Violenta scampanellata dal fondo, che tronca all'istante
+            gli applausi e gli abbracciamenti)
+
+PIER. — Corro io! _(esce dal fondo correndo)_
+
+ANT. — (Non può ancora essere il desinare). _(s'avvia al fondo)_
+
+
+SCENA IX.
+
+_PIERINA, un COMMISSARIO di polizia seguito da due AGENTI che rimangono
+in fondo. DETTI._
+
+
+PIER. — Signor avvocato, un commissario di polizia.
+
+ANT. — Lasciate parlare da me.
+
+COMMISS. _(intima a Pierina di uscire dal fondo, quindi bruscamente)_. —
+Qu'est il ce tapage, ces applaudissements?
+
+ANT. — Citoyen commissaire, nous fêtons entre amis l'anniversaire des
+noces de mon oncle l'avocat Goldoni, que voilà.
+
+COMMISS. _(ad Ant.)_. — Et dans quelle manière fêtez-vous ce bel
+anniversaire?
+
+ANT. — Avec des scènes improvisées, des impromptus...
+
+COMMISS. — Dites des chansons grivoises, des propos gaillards, je m'y
+connais; mais, allons donc! n'improvise pas qui veut des scènes!
+
+BALL. — Monsieur, il n'y a que l'argent que nous autres Italiens ne
+savons pas improviser!
+
+COMMISS. — Des Italiens? Qu'est qu'il radote ce vieux magot, mille
+million de tonnerres?!
+
+ANT. — Rien, excusez... Il a trop bu! _(a Ball.)_ Zitto!
+
+BALL. — (Trop bu? Se ho una sete che la vedo!)
+
+ANT. — Pardon, citoyen Commissaire; j'ai oublié de vous dire que tous
+ces messieurs et ces dames sont des artistes de théâtre.
+
+COMMISS. — Ah! Des baladins, des farceurs pour égayer les aristos?
+
+GOLD. — Non, citoyen, pour égayer tout le monde.
+
+COMMISS. — Et vous aussi, l'avocat, vous êtes de la bande?
+
+GOLD. — Oui, de la troupe.
+
+COMMISS. — Danseur?
+
+GOLD. — Je le voudrais bien; mais j'en suis simplement le poëte comique.
+
+COMMISS. — C'est une profession ça?
+
+GOLD. — Oui, en France.
+
+COMMISS. — Et cette mascarade?
+
+ANT. — Des pensionnaires de la troupe italienne au service du Roi de
+France.
+
+COMMISS. — Du Roi de France?! En voilà une bonne de farce! Mais c'est à
+se tordre de rire!! Dites moi, s'il vous plaît, qui est-ce maintenant ce
+fameux Roi de France qui vous paye la pension?
+
+ANT. — Mais... Louis Seize de Bourbon.
+
+
+SCENA X.
+
+_CHÉNIER dal fondo, seguito da PIERINA. DETTI._
+
+
+COMMISS. — Ah! Ah! quels farceurs! Et c'est de Louis Seize que vous
+attendez tous vôtre pension?
+
+CHÉN. — Citoyen Commissaire, je réponds d'eux tous; laissez nous.
+
+COMMISS. — Très-bien, citoyen député, c'est dit!... Mais, si vous avez
+envie de rire, demandez à ces gens qui fêtent, aujourd'hui!
+l'anniversaire de leur mariage, qui est-ce le Roi de France!
+
+CHÉN. — Suffit, Commissaire.
+
+COMMISS. — Suffit..... Ah! s'ils connaissent leur métier comme le temps
+où ils vivent, fichtre! c'était bien servi monsieur Capet... le Roi de
+France!
+
+          (Esce ridendo dopo i suoi agenti e seguito da Pierina,
+            che ritorna poi subito in scena).
+
+GLI ALTRI _(meno Chénier, con un respiro)_. — Ah! _(uscito il
+Commissario, s'affollano attorno a Chénier)_ Che cosa ha voluto dire?
+
+GOLD. — Che forse il Re ha abdicato?
+
+CHÉN. — Il Re non ha abdicato: l'Assemblea costituitasi in Convenzione
+nazionale ha abolito la monarchia.
+
+GLI ALTRI. — Dio!
+
+GOLD. — Oh il mio povero Luigi, così buono e generoso!
+
+CHÉN. — Il tuo primo grido di dolore non è per te, è per lui, generoso
+amico!... Ma bada e badate tutti che coll'abolizione della monarchia, la
+Convenzione ha oggi decretato la pena di morte per chiunque possa esser
+sospetto — soltanto sospetto — di far voti per la liberazione di Luigi
+ed il suo ritorno sul trono!
+
+GOLD. — La sua liberazione! Ma dunque egli...?
+
+CHÉN. — Egli è prigioniero colla famiglia nella torre del Tempio.
+
+GOLD. — Come un malfattore, lui! E anche la Regina? La Principessa
+Adelaide? Il delfino?
+
+NICOL. — Coraggio, Carlo!
+
+GOLD. — No... non posso reggere!..... Voglio fuggire da questo paese
+dove non si conosce moderazione in nulla; dove si è sempre agli estremi
+nella servilità e nella ribellione! L'ambasciatore di Venezia mi ha
+promesso di farmi ritornare a Venezia; ebbene, andiamo da lui subito,
+pur che si parta in qualunque modo, pur che si vada via!
+
+CHÉN. — Ohimè, che ti debbo dare anche questo dolore! L'ambasciatore
+Almorò Pisani è partito per Londra!
+
+GOLD. _(smarrito)_. — Partito... senza una parola... un soccorso!...
+partito... dopo d'avermi inchiodato qui a morire di terrore e di
+miseria!
+
+          (Si abbandona sopra una seggiola assistito da Nicoletta e
+            Battistino)
+
+ANT. — Fuggito dalla paura, lasciando qui abbandonata la sua vecchiaia
+veneranda! Ah! io non sono che un povero disgraziato, oscuro e
+miserabile; ma mi vergognerei di avere il cuore così basso come sua
+Eccellenza, ben degna di rappresentare, non il popolo veneziano,
+vivaddio! ma il Governo che non ha mai saputo riconoscere il tuo valore,
+che ti ha ricusato il misero impiego che gli domandavi per non essere
+costretto a venire in terra straniera a cercarvi il pane e la gloria!
+
+TUTTI _(meno Goldoni)_. — Sì, sì, ha ragione!
+
+GOLD. — Ma no che non ha ragione! Mi vuole troppo bene e l'amore lo fa
+ingiusto! Zitto là!... L'Ambasciatore è partito... buon viaggio! Ma ci
+resta l'amico che non abbandona, ci resta Chénier, il mio valoroso
+compagno d'arte, che ci farà dare gli arretrati della nostra pensione e
+ci porrà così in grado di ripararci tutti in Italia.
+
+GLI ALTRI _(meno Chénier)_. — Sì! Sì!
+
+BALL. — Daremo rappresentazioni...
+
+GAND. — Tutti vorranno vedere gli ultimi comici italiani del Re di
+Francia...
+
+BATT. — Tutti vorranno vedere Carlo Goldoni!
+
+GLI ALTRI _(supplichevoli)_. — Sì, Chénier! Se non per noi, per lui
+solo!
+
+CHÉN. — L'amicizia di Carlo Goldoni è l'orgoglio della mia gioventù; ma,
+appunto per questo, se io vi lusingassi, vi tradirei!
+
+GLI ALTRI _(costernati)_. — Come?
+
+CHÉN. — Ma, col Re in prigione, la monarchia abolita e l'assegno alla
+corona soppresso, io non posso per ora parlare di voi alla Convenzione
+senza compromettervi tutti!
+
+NICOL. — E intanto, per il mio buon Carlo..... la miseria!
+
+RICC. — Per me la morte!
+
+BALL. — Ora sì che mi sento vecchio!
+
+ANT. _(angosciato, a Goldoni)_. — E tu dici che io sono ingiusto verso
+il Governo di Venezia!
+
+GOLD. — Antonio..... Guarda quanti hanno perduto tutto come noi e non
+maledicono che la sorte! E tu, per troppo amore, invece di pensare a
+consolarci, mi tocchi la mia Venezia! _(un moto di Antonio)_ Ma anche
+chi ve comanda xè vinizian... e co se dise Venezia, mi no fasso
+distinzion... per mi Venezia la xè la mare cara e benedeta... di cui no
+se recorda che l'amor, la gloria, i benefizi... E bel e abandonà... bel
+e ridoto a non aver più speranza de poderla riveder _(con uno schianto)_
+mai più!...
+
+    da Venezia lontan do mila mia,
+    no passa di che no me vegna in mente...
+    el linguagio... e i costumi de la gente...
+    el dolse nome de la patria mia!
+
+          (Soffocato dalla emozione, si butta al collo di Antonio,
+            mentre tutti gli altri gli si accostano commossi, e
+            cala il sipario)
+
+
+FINE DELL'INTERMEZZO.
+
+
+
+
+ATTO SECONDO
+
+Una stamberga nel poverissimo quartierino sotto tetto in via Mauconseil.
+Tre porte, due laterali ed una in fondo verso la destra. Delle laterali
+quella a destra scorge alla stanza di Antonio e Battistino; quella a
+sinistra alla camera da letto di Carlo e Nicoletta. Nel mezzo della
+scena in fondo un ampio abbaino colla sua vetrata che guarda
+sull'infinita distesa dei tetti di Parigi coperti di neve. Sotto
+all'abbaino un mobiletto, come un piccolo canterano, sul quale sta il
+busto di Molière in mezzo al alcune boccette di medicinali. Sulla scena,
+a destra, un seggiolone a braccioli coperto di stoffa svanita, accosto
+ad un braciere colla sua palettina; a sinistra un tavolino fra due
+seggiole impagliate: sul tavolino un tappeto logoro, un candeliere di
+ottone colla sua candela spenta, l'occorrente per iscrivere, alcuni
+fogli di carta bollata bianca ed uno scartafaccio di carte legate con un
+nastro. D'inverno, il 6 di febbraio del 1793. È giorno.
+
+
+SCENA I.
+
+_ANTONIO al tavolino che copia scritture su carta bollata, soffiandosi
+di quando in quando sulle dita, e poi subito dal fondo BATTISTINO con
+cappello e mazza._
+
+
+ANT. _(scrivendo)_. — «Fait passé et signé en la demeure du soussigné, à
+la présence des dits témoins, à Paris, ce six février, mil sept cent
+quatre vingt treize.» _(stirandosi)_ Oh finalmente! non ne posso più!
+_(Battistino)_ Ebbene? _(si alza e s'accosta al braciere per riscaldarsi
+mani e piedi)_
+
+BATT. — Pieno di freddo e colle mani vuote secondo il solito... sebbene
+non abbia perduto affatto il tempo. E tu hai finito?
+
+ANT. — In questo momento... Mi scaldo un pochino e poi corro a portare
+quello che ho fatto. Potevo terminare tutto la notte scorsa, ma cascavo
+dal sonno...
+
+BATT. — Già! A non mangiare ci s'arriva; ma non a non dormire. Meno male
+che a levarsi il bisogno di dormire non costa nulla, mentre
+quell'altro... E oggi! — No, Tonino, se il mondo lo facevo io, questa
+brutta necessità di mangiare non ce la mettevo davvero! — Anzi l'uomo
+l'avrei fatto che si trovasse naturalmente nelle disposizioni di chi si
+alza da una buona tavola... _(ha levato una crosta di pane dal cassetto
+del tavolino e la rosicchia)_ Capisci che bella cosa? Tutti di buon
+umore, tutti a scherzare, o parlar d'arte, a fare all'amore: la vera età
+dell'oro!... mentre questa la vedi che età: l'età delle croste! _(per
+buttarla via)_ Oh vilissima crosta... se avessi di meglio! _(seguita a
+rosicchiare)_
+
+ANT. — Beato te che sai pigliare in burletta anche l'appetito!
+
+BATT. — Sono fiorentino! Ma chi non ha fatto la burletta è stato il
+padron di casa di via Richelieu. Altro che darmi quattrini per la
+mobilia che c'ha sequestrato per la pigione! Mi rispose che non tornava
+neanche il conto! Che si fosse già contenti d'aver potuto portar via
+questa bella roba... tre seggiole con tre gambe... e il busto di Molière
+per giunta!... Se gli era una pentola se la teneva: ma un poeta! Allora
+dissi fra me: andiamo a frecciare Préville a Beauvais, o Favart a
+Belleville.
+
+ANT. — Avresti fatto malissimo. La povertà deve avere il suo pudore.
+
+BATT. — Già. Ma Préville s'è nascosto e Favart, per non lasciarsi
+trovare, è addirittura morto. E per questo sono andato dritto dritto dal
+deputato Chénier.
+
+ANT. — Spero che non gli avrai detto che siamo quassù e nella più
+dolorosa povertà.
+
+BATT. — Ah! povertà non l'ho detto...
+
+ANT. — Meno male.
+
+BATT. — Ho detto estrema miseria.
+
+ANT. — Battistino!
+
+BATT. — Tonino, fammi il piacere, che quando il bastimento cola a fondo,
+non si deve pensare che a salvare la pelle!
+
+ANT. — E così il poeta italiano dovrà arrossire della sua miseria
+dinnanzi al poeta francese? Ma non senti che è meglio morire di fame
+mille volte?
+
+BATT. — Neanche una, poichè con tante belle libertà e sopra tutte quella
+di morir di fame, la tua morte non darebbe al povero avvocato che uno
+schianto di più al cuore! Oh se i sentimenti generosi potessero tener
+luogo di bistecche e di legna da riscaldare, allora nessuno starebbe
+meglio di noi. Ma par fatto apposta: più hai idee alte e meno puoi
+soddisfare i bisogni bassi! Quanto poi alla miseria del poeta italiano,
+capisco, rincresce, dinnanzi agli stranieri; ma dacchè mondo è mondo,
+poeta italiano e uomo squattrinato son sempre tornati la stessa cosa...
+Perchè dunque si dovrebbe fare un'eccezione per lui? Sarebbe
+un'ingiustizia anche per quelli di là da venire!
+
+ANT. — Meno male se non fosse che la miseria! Ma lo zio declina ogni
+giorno di più, e per quanto si cerchi di nascondergli le nostre
+strettezze, come si è fatto delle stragi del settembre e poi del
+supplizio del Re, io temo che l'abbandono di ogni antico amico gli debba
+essere fatale. _(si asciuga gli occhi)_
+
+BATT. — Coraggio, via! Chénier verrà quest'oggi istesso, e quando avrà
+visto... quello che non c'è, qualche cosa farà perchè il suo vecchio e
+glorioso amico possa almeno morire tranquillo. Tu va a portare le tue
+scritture: alla casa ci penso io.
+
+ANT. — Se viene intanto Chénier, digli quanto ti pare...
+
+BATT. — È presto detto: zero via zero, zero.
+
+ANT. — Ti dò carta bianca... Io non ho più la testa a segno, e l'avrei
+anche meno senza della zia così coraggiosa, senza di te che dopo la
+partenza di Pierina ti adatti ad ogni servizio più basso!...
+
+BATT. — Protesto: a questo piano non c'è più nulla di basso!
+
+ANT. — E io per tanta abnegazione _(lo piglia fra le sue braccia)_ non
+avrò da darti nessuna ricompensa! Nessuna!
+
+BATT. — Tonino, lo fai apposta ad intenerirmi, con quella crosta che ho
+sullo stomaco?
+
+ANT. — Hai ragione... Vado... E ricordati, se viene Chénier, carta
+bianca. _(piglia lo scartafaccio, cappello e mazza ed esce dal fondo)_
+
+BATT. — Carta bianca per dare ad un povero vecchio mezzo cieco un'ultima
+illusione di agiatezza, quando un assegnato di cento lire non serve che
+per quindici, quando tutta Parigi agonizza fra le strette delle armate
+straniere e del Comitato di salute pubblica? Salute per modo di dire!
+Sicuro che col suo metodo non si patisce più il mal di capo! Carta
+bianca e a chi? Ad un comico a spasso. — Che sa fare lei? — Ridere. —
+Far ridere quando una risata può dare a sospettare che abbiamo un'idea
+diversa dalla loro, quando per cambiarci le idee ci cambiano addirittura
+la testa — senza darcene neanche un'altra?! — Perdoni, mi pareva che
+giusto in questi momentacci il fare una bella risata facesse un po' di
+bene. — No, no, caro, il ridere per ridere è giù di moda. L'uomo dopo
+che s'è dato alla politica è più che mai la gran bestia malinconica. E
+poi noi i nostri comici li abbiamo senza andare in teatro: abbiamo
+quelli che fanno le cose ridicole coll'aria seria... questi sono adesso
+i grandi artisti! Lei è un avvocato vuoto d'idee e pieno di rettorica
+tal quale _el sour autor_? Bravo: lo manderemo all'Assemblea. Lei non ha
+mai saputo amministrare il fatto suo come _Pantalon_? Benone: le faremo
+amministrare il paese. Lei invece è di tutte le opinioni come
+_Arlechino_ di tutti i colori? A meraviglia! Avanti con _Brighella_,
+_Truffaldino_ e _Scaramuccia_: a voi il nostro voto e il nostro destino!
+A voi i migliori posti, belle maschere della nuova Commedia! — E tu,
+Battistino, non capisci perchè ora i comici vadano a terra? Ma se fanno
+ridere di più quegli altri!
+
+
+SCENA II.
+
+_PIERINA, con una panierina, dal fondo. DETTI._
+
+
+PIER. — Titino, sono venuta a darvi una buona notizia. Ma lasciate la
+chiave nell'uscio?
+
+BATT. — Non c'è nessun pericolo; ma ditemi subito... Oh che delizioso
+profumo da questa panierina!
+
+PIER. — Lo credo io: pasticcetti ripieni di selvaggina belli e caldi!
+
+BATT. — A questi lumi di luna selvaggina?
+
+PIER. — Nella casa dove mi sono allogata nessuna privazione!
+
+BATT. — (Tal quale in questa). Dunque sentiamo la buona notizia... ma è
+un gran buon odore!
+
+PIER. — L'odore non è nulla in confronto del sapore...
+
+BATT. — No... non ne voglio assaggiare... (Chissà che cosa direbbe
+quella crosta!)
+
+PIER. — Oh uno! Uno più uno meno! _(ha preso un pasticcetto nella
+paniera)_
+
+BATT. — Allora piglio un piatto... _(va al canterano a pigliarlo)_
+
+PIER. — Un piatto per metterci un pasticcetto!
+
+BATT. — Per mangiarmelo con tutto il comodo e la riflessione che merita.
+
+PIER. — Che stamberga! E a che piano siete venuti!
+
+BATT. — Oh! al sesto... (perchè non c'era il settimo...) per l'aria, la
+luce... _(guardando il pasticcetto nel piatto)_ Deve essere squisito...
+ma ora che ci penso... sarà meglio che lo dia all'avvocato.
+
+PIER. — E allora quest'altro a sua moglie. Due più, due meno!
+
+BATT. — Sicuro... E al nipote, quel bravo Tonino, nulla?
+
+PIER. — Ma allora sono tre... Via diamogliene uno anche a Tonino... Ma
+siete proprio ridotti agli sgoccioli?...
+
+BATT. _(sottovoce)_. — Non rimangono neanche più le sgocciolature!
+
+PIER. — E il vostro credito?
+
+BATT. — Credito?! Lo vedete, Pierina, questo foglio di carta bollata da
+una lira? Ebbene basta che io ci metta il mio nome sopra perchè non
+valga subito più nulla!
+
+PIER. — Ma io non voglio che il mio fidanzato si riduca così al
+lumicino.
+
+BATT. — Che lumicino d'Egitto? Se non sono più in carne è perchè sono
+degli Stuck che possono essere unti, ma grassi mai! E sto benone! Ho
+sempre un appetito... Ma che buon odore mandano questi pasticcetti!
+_(mette il piatto sul canterano)_
+
+PIER. — Ve ne ho già dati tre... _(un gesto di Battistino)_ ma voi non
+ne avete avuto nessuno... _(gliene porge un altro)_
+
+BATT. _(stendendo la mano)_. — Non vorrei essere indiscreto...
+
+PIER. — Ma tiriamo via e lasciatemi parlare. Il mio nuovo padrone, ve
+l'ho già detto, è un fornitore d'armata. Ora siccome andiamo a Nizza ad
+aspettare che l'esercito francese abbia preso Torino...
+
+BATT. — Aspetterete un pezzo.
+
+PIER. _(seguitando)_ — ... il padrone cerca un giovane segretario che
+sappia l'italiano per portarselo con sè, bene stipendiato, alloggiato,
+nutrito e con un tanto per cento sulle forniture, quattro cose.
+
+BATT. — E stare accanto a Pierina che ne vale dieci.
+
+PIER. — Stare accanto? Ma il padrone a cui ho raccontato tutto, è
+contento che ci sposiamo subito!
+
+BATT. — Troppa felicità in una volta!
+
+PIER. — Ma bisogna partire domani!
+
+BATT. — Domani... _(guarda a sinistra)_
+
+PIER. — È la nostra fortuna, Titino! Pensate che potremo risparmiare la
+paga, le mancie e ancora fare dei guadagni sulla spesa di casa... È
+proprio vero quello che dice l'avvocato, che il tempo è galantuomo!
+
+BATT. — Il tempo sì, ma non le serve che sgraffignano sulla spesa!
+
+PIER. — Oh il padrone è uno straniero per noi.
+
+BATT. — E non fa peccato anche il rubare agli stranieri?
+
+PIER. _(alzando le spalle)_. — Oh! quando si ama il suo paese!
+
+BATT. — Ho capito, si ruberebbe per amor di patria! Ma anche senza rubar
+nulla, come faremo, io sarò contentissimo di dovere tutto alla più bella
+delle Pierine! _(l'abbraccia)_
+
+
+SCENA III.
+
+_GOLDONI in veste da camera al braccio di NICOLETTA, dalla sinistra.
+DETTI._
+
+
+NICOL. — Tortoreggiano, bravi! _(a Goldoni)_ C'è la nostra brava Pierina
+che s'è ricordata di noi.
+
+GOLD. — Brava davvero!
+
+PIER. — (Povero avvocato, non è più che un'ombra!) Sono proprio io,
+venuta apposta... per...
+
+BATT. _(pigliando il cartoccio dei pasticcetti dalla paniera)_. — Farvi
+assaggiare due pasticci fatti da lei... _(sottovoce a Pierina)_ Per
+questa volta al fornitore resteranno quelli che fa lui... _(a Goldoni)_
+Senta che profumo!
+
+GOLD. — Squisito... ma non mi sento... Da qualche giorno non ho più
+voglia di nulla...
+
+NICOL. — Ma un po' di brodo, ora che hai riposato, lo devi prendere per
+farmi piacere.
+
+GOLD. — Per farti piacere, sia... Pierina, vieni qui vicino... Ti fai
+più bella tu.
+
+PIER. — Che dice, avvocato? Si vede proprio che non ci vede bene!
+
+NICOL. _(andata al canterano in fondo per pigliarvi un bricco)_. — Oh!
+le belle ragazze le vede ancora!
+
+GOLD. — Vedi, Pierina? Per causa tua mia moglie diventa gelosa! Troppo
+tardi, Nicoletta; ma ad ogni modo sta sicura che delle infedeltà non te
+ne faccio più!
+
+NICOL. _(mette il bricco a scaldare sul braciere)_. — Ci conto, badiamo!
+
+PIER. — Se me lo permettono, ritornerò più tardi... sono vicina...
+
+GOLD. — Mi fai un piacere a me — e due a Battistino.
+
+PIER. — Signora Nicoletta, serva sua... _(a Battistino sottovoce)_ A
+questa sera...
+
+NICOL. — Addio, Pierina, a rivederci. _(Pierina esce dal fondo con
+Battistino)_
+
+GOLD. — Bella gioventù, tesoro della vita! Avessi almeno il mio
+eccellente stomaco d'una volta, non sentirei tanto il freddo!
+
+NICOL. — Carlo, siamo oramai a mezzo febbraio... Ma chi è che parla così
+forte sulla scala?
+
+GOLD. — Se fosse qualche amico che si ricordasse di noi? Dove sono
+andati tutti quelli che c'hanno fatto tante feste in fine del settembre?
+Voi mi nascondete delle brutte cose, lo sento!
+
+NICOL. — Zitto... C'è Balletti... la Bertinazzi... sia lodato Iddio!
+
+GOLD. — Venite! Venite, amici, e siate benedetti!
+
+
+SCENA IV.
+
+_BATTISTINO, SUSANNA, BALLETTI, GANDINI e MATTIUZZI dal fondo, tutti,
+meno Battistino, ansanti e pallidi. DETTI._
+
+
+BATT. _(con stizza a Balletti)_. — Pochi discorsi, o si parla sottovoce,
+o si ripiglia la scala!
+
+GOLD. — Che cos'è stato?
+
+BALL. _(in fondo a Battistino)_. — E perchè non potrò gridare se ci sono
+tutte le libertà?
+
+BATT. — Anche quella di dar noia ad un ammalato?
+
+MATT. — Ci vuoi dunque far mettere in prigione, imbecille!
+
+GAND. — Non capisce più nulla, l'idiota!
+
+BALL. — Meno male imbecille, ma idiota...
+
+BATT. — Alle corte, silenzio!
+
+GOLD. — Ma Battistino, perchè strapazzi così il povero Balletti?
+
+SUS. — Ah! Goldoni, se siamo vivi è un vero miracolo! _(scendono tutti)_
+
+NICOL. — Ma non ci spaventate, per carità.
+
+GOLD. — Lasciali parlare. Sono amici che si ricordano di noi, poveretti,
+e Susanna poi è anche la vedova del mio gran Carlino, quello che
+m'inspirò il _Burbero_... Titino, falli sedere... Parla, Susanna, parla.
+
+SUS. — Oh è presto detto: Balletti è senza domicilio.
+
+BALL. — Senza domicilio e imbecille.
+
+SUS. — Il suo locandiere, visto che non ha più quattrini, lo ha messo
+fuori di casa. Piglio con me Mattiuzzi e Gandini e vado a scongiurarlo
+di pazientare per qualche giorno, di non mettere in istrada nel fitto
+dell'inverno un vecchio di quell'età...
+
+BALL. — Che vecchio? Ho un anno meno di Goldoni io!
+
+GAND. — Lo sentite? Ma il locandiere non vuole per nessun conto tenerlo
+dell'altro perchè Balletti compromette coi suoi discorsi la locanda.
+
+BALL. — Ho detto soltanto che un governo che odia la gente allegra è un
+governo detestabile!
+
+BATT. — Ho capito: sarà meglio andare a far la guardia. _(via dal
+fondo)_
+
+SUS. — A farla corta il locandiere finisce per metterci tutti e quattro
+fuori. Balletti, appena è in istrada si mette a gridare, a dirne di
+cotte e di crude, e così la gente corre, si affolla, ci attornia
+minacciosa e comincia ad urlare: _morte agli italiani!_
+
+GOLD. — Dio! E voi altri allora?
+
+MATT. — In mezzo a quella baraonda, come quattro pulcini senza sangue e
+senza fiato... No, del fiato ne restava e molto a Susanna, che bisogna
+dirlo è la sola che non si perda d'animo, la sola che osa gridare:
+_Parigini, minacciare una donna e tre vecchi è cosa indegna della
+Repubblica!_ e con queste parole si fa largo, ci spinge avanti, ci salva
+la vita!
+
+GOLD. — Brava!
+
+SUS. — Per fortuna Balletti aveva cessato di ripetere le sue
+sciocchezze!
+
+BALL. — Io era troppo contento che tu avessi dato del vecchio anche a
+loro due.
+
+SUS. — Ma si può essere più sciocco?
+
+BALL. — Oh basta! Ve lo farò vedere se sono sciocco! Goldoni, io ho
+ideato una gran commedia contro la convenzione; sissignori, l'ho tutta
+qui... _(a Goldoni)_ Non mi manca che il titolo.
+
+GOLD. — Te lo do io: tempo perso! _(risata di approvazione degli altri)_
+Via, per questa sera ti adatti a dormire sul canapè?
+
+NICOL. — C'è un guaio: il canapè non è in casa... l'abbiamo mandato a
+rassettare.
+
+
+SCENA V.
+
+_ANTONIO dal fondo con mazza e cappello. DETTI._
+
+
+GOLD. — E allora, caro Balletti, bisogna che ti contenti di un lettuccio
+fatto sulle seggiole.
+
+ANT. — Caro zio, è impossibile: non c'è altre materassa che quelle
+necessarie ai nostri letti. Buon giorno a tutti.
+
+GOLD. — Senti, caro Tonino, per pochi giorni...
+
+ANT. — Anche Paolo Bernardi l'avevi ospitato per un giorno e poi è
+rimasto a tuo carico per mesi e mesi!
+
+GOLD. — Spero non mi vorrai rimproverare una buona azione!
+
+ANT. — Voglio risparmiarti il dolore di doverlo licenziare domattina.
+
+GOLD. — Domattina? Non potrei invitarlo a desinare con me?
+
+ANT. — La vita è troppo cara!
+
+GOLD. — Ed è quando la vita è troppo cara che io devo respingere un
+infelice?
+
+ANT. — Quando non se n'ha più per sè!
+
+GOLD. — Ah!
+
+ANT. — Perdonami se ti do questo dolore... ma per risparmiartelo non
+sarebbe bastato che io mi fossi privato d'ogni cosa per darla a lui,
+sull'onor mio! _(esce dalla destra)_
+
+NICOL. — Povero Antonio!
+
+GOLD. — Povero Balletti! Povero Goldoni!
+
+BALL. _(commosso)_. — No, Carlo, non ti crucciare... Benchè vecchio... e
+idiota... so come farla finita e subito! Sì, vado al Palazzo Reale... al
+convegno di tutti i disordini, per gridarvi con quanta voce ho in petto
+che sono stati sei Re di Francia che hanno protetto i comici italiani...
+
+GLI ALTRI _(con preghiera)_. — Balletti!
+
+BALL. _(seguitando)_. — È stato un Re di Francia che ha protetto il
+primo poeta comico dell'Italia... Viva dunque il Re di Francia!
+
+GLI ALTRI _(affollandoglisi attorno)_. — Per carità!
+
+
+SCENA VI.
+
+_CHÉNIER preceduto da BATTISTINO, dal fondo. DETTI._
+
+
+BATT. _(annunziando)_. — Un amico: Chénier!
+
+CHÉN. _(in fondo, a Battistino)_. — Addirittura la miseria?
+
+BATT. — Sì, e se non fate presto, lo libererà la morte!
+
+CHÉN. _(abbracciando Goldoni)_. — Mio povero amico!
+
+GOLD. — È Dio che ti manda a levarmi una spina dal cuore. Questo mio
+antico compagno d'arte, senza pensione come me, è senza tetto e senza
+mezzo di guadagnarsi un pane, in mezzo alla strada!... e io..... tu ci
+vedi meglio di me e basta, senza che ti dica altro!
+
+CHÉN. _(scrive due parole sopra una carta che ha tratto dal suo taccuino
+e la porge con un assegnato a Susanna)_. — Questo al Direttore
+dell'Ospizio di Bicêtre, e questo per arrivarvi.
+
+SUS. — Voi fareste amare la rivoluzione; ma voi siete un poeta!
+
+NICOL. — Un vero amico! — _(agli altri)_ Non sarà detto che partiate
+senza aver preso qualche ristoro. Favorite di qua... _(verso la
+destra)_. Andiamo, Balletti?
+
+BATT. — Coraggio!
+
+BALL. — All'ospedale... un artista!
+
+BATT. — Son fatti apposta gli artisti per gli ospedali... cioè gli
+ospedali per gli artisti; ma già torna il medesimo.
+
+BALL. — Ma se riaprono i teatri...
+
+BATT. — Tornerai a fare l'amoroso, è inteso.
+
+NICOL. _(a Battistino)_. — Se si desse loro i pasticci di Pierina?
+
+BATT. — Nulla di meglio: pasticci e comici, va da sè. _(escono tutti
+dalla destra, mentre Chénier siede accanto a Goldoni)_
+
+GOLD. _(con una mano di Chénier fra le sue, affettuosamente)_. — Il mio
+ultimo amico!
+
+CHÉN. — Se non ho più potuto vederti, non è stato senza occuparmi di te,
+e ora sono lieto di dirti che all'ordine del giorno d'oggi c'è la mia
+interpellanza che ti riguarda. Non meravigliarti che io non abbia potuto
+in più di quattro mesi mettere una parola di pace, d'arte e di giustizia
+in quel vortice farragginoso: come se non bastasse la violenza delle
+passioni e degli avvenimenti, noi dobbiamo anche subire gli stolti
+capricci della tribuna pubblica, ogni dì più minacciosa e
+soverchiatrice!
+
+GOLD. — Grazie, grazie con tutta l'anima... Ma non dirmi altro di questi
+tempi...
+
+CHÉN. — Si può dimenticare molti eccessi e sperare nell'avvenire quando
+si vede che in mezzo alla coalizione straniera la Francia improvvisa un
+milione di soldati!
+
+GOLD. — E tu hai forse ragione; ma che vuoi, io sono d'un'altra epoca,
+d'un'epoca spensierata ma disciplinata, allegra ma rispettosa, e perciò
+guardo dalla riva su cui rimango abbandonato da tutti i miei coetanei
+questa vostra gran corrente torbida e rovinosa, senza avere il coraggio
+d'imbarcarmi, quasi certo che dopo di avere ammazzato il buon umore
+finirete per togliere all'uomo tutti i sostegni più sicuri della vita!
+
+CHÉN. — E io ti compatisco: alla tua età non si rifà tutta un'abitudine
+di sentire e di pensare.
+
+GOLD. — Ma se rimpiango la gioventù, abbi pazienza, non è per fare della
+politica, no; ma per lavorare, per tratteggiare nuovi tipi, nuove
+commedie, per usare tutta la libertà di scegliere i miei argomenti dove
+mi pare, non come il Goldoni d'una volta che non poteva mettere in scena
+nè governanti, nè nobili, nè magistrati, nè preti e soldati. Ma poichè
+io non posso comprendere, e quel ch'è peggio, non posso fuggire la tua
+rivoluzione, lasciami morire in pace e fedele alle mie convinzioni.
+
+CHÉN. — Eppure è indispensabile che tu mi autorizzi a dichiarare oggi
+alla Convenzione che ti glorii di essere cittadino francese...
+
+GOLD. — Sempre!
+
+CHÉN. — ... e repubblicano.
+
+GOLD. — A Venezia; ma qui, finchè vive il Re Luigi, mai! _(si alza)_
+
+CHÉN. — Ma disgraziato amico, il Re Luigi è morto da due settimane!
+
+GOLD. — Morto! Morto d'angoscia e di patimenti, in prigione?
+
+CHÉN. — Peggio!
+
+GOLD. _(colpito)_. — Peggio? Ci può essere di peggio?
+
+CHÉN. — In piazza della Rivoluzione.
+
+GOLD. _(non comprendendo sulle prime)_. — In piazza?... Ah! no, no, non
+è possibile, come un assassino, lui! _(un cenno di Chénier)_ È stato
+possibile? E la Regina? E la principessa Adelaide, il Delfino?
+
+CHÉN. — Aspettano in carcere il loro giudizio.
+
+GOLD. — Giudizio! E Luisa Savoia di Lamballe? Voglio saper tutto!
+
+CHÉN. — Da più di un mese stracciata a pezzi dalla plebe.
+
+GOLD. _(con ribrezzo)_. — Oh! La donna più bella, gentile e generosa!!
+Ed è questa la rivoluzione di cui mi vuoi far complice? La morte, mille
+volte la morte... che non può più essere nè amara, nè lontana!
+
+CHÉN. — La morte... Ma tua moglie?
+
+GOLD. — Mia moglie?! _(con un grido disperato)_ Oh come sono infelice!
+_(si abbandona con uno scoppio di pianto sopra una seggiola)_
+
+CHÉN. — Via, Carlo, non smarrire il coraggio che ti sostenne in tante
+prove!
+
+GOLD. — Hai ragione... Va pure a dire quello che vuoi... Fra tante
+menzogne infami questa almeno sarà pietosa!
+
+CHÉN. — Scusami se t'ho fatto soffrire...
+
+GOLD. — Come non soffersi mai! Ma tu l'hai fatto per il mio bene;
+meglio, l'hai fatto per quello della mia povera Nicoletta! _(si è alzato
+e accompagna Chénier al fondo)_ Va... non perder tempo e ritorna con una
+buona notizia... _(Chénier esce)_ ... e presto!
+
+
+SCENA VII.
+
+_ANTONIO dalla destra. DETTO._
+
+
+GOLD. _(portando le mani al cuore come un uomo ferito)_. — Ah! m'ha
+piantato qui un coltello, un coltello che non mi andrà più via!
+
+ANT. — Mio zio! Tu hai pianto... Che cosa ti ha detto Chénier?
+
+GOLD. _(come chi è stato oppresso da una rivelazione troppo terribile
+per le sue forze, con vero terrore, quasi gliene apparisse la visione)_.
+— Tutto!
+
+ANT. _(raccogliendolo fra le sue braccia e portandolo sul seggiolone)_.
+— Dio!
+
+GOLD. — Che vuoi! Sono stato a corte come Molière, ma senza essere
+cortigiano, e volevo loro bene non perchè principi, non perchè larghi di
+doni, ma perchè colla cortesia e colla affabilità avevano guadagnato il
+mio cuore e quello di Nicoletta.
+
+ANT. — Senti, sarà meglio che chiami la zia e ti portiamo sul letto...
+
+GOLD. — No, si spaventerebbe, e sul letto io soffocherei... Ma non ti
+pare che si faccia notte?
+
+ANT. — Ad ogni modo non è lontana, ed accendo subito un lume. _(va ad
+accendere la candela)_
+
+GOLD. — Antonio, lascia stare e vieni qui presso di me che t'ho a dire
+una cosa mentre non c'è Nicoletta: io non ho bisogno del lume per
+leggere nei tuoi occhi quanto ci sei affezionato!...
+
+ANT. — Non parlare di me!
+
+GOLD. — Eccolo il mio piccolo burbero benefico!... Ma come mal
+ricompensato! E che eredità ti lascierà questo povero zio!
+
+ANT. — Un gran nome e la memoria incancellabile della tua bontà!
+
+GOLD. — Ma assai più debiti! Ma il tempo è galantuomo e io spero che un
+giorno qualcheduno penserà che Antonio Goldoni merita pure un raggio, il
+più puro, della gloria di Carlo, se gloria ci sarà... Lasciami dire...
+Intanto tu promettimi... quando mi vedrai oppresso dal male... di
+sollevarmi con altri pensieri...
+
+ANT. — L'arte tua, il passato!
+
+GOLD. — Bravo! Ma sopratutto di aiutare, quando io non ci sarò più, la
+mia Nicoletta a sostenere con coraggio la prova della nostra
+separazione.
+
+ANT. — Sì! Sì! Ma bisogna che tu ti senta molto male per parlare di
+queste cose.
+
+GOLD. — No... ma mentre sono in tempo... mentre posso ancora darti... a
+te che seguiterai ad essere per lei un figliuolo amoroso...
+
+ANT. — Sull'anima mia!
+
+GOLD. — La mia benedizione!
+
+ANT. — Tu ti senti mancare! La zia...
+
+GOLD. — Non la spaventare... povera Nicoletta... non le dir nulla... Mi
+sento già meglio... molto meglio!
+
+
+SCENA VIII.
+
+_NICOLETTA dalla destra. DETTI._
+
+
+NICOL. — Quel povero Balletti a momenti ti fa piangere e a momenti... Ma
+Carlo si sente male?
+
+GOLD. — Non è nulla... Un po' di nervi...
+
+ANT. — Chénier l'ha fatto inquietare senza volerlo...
+
+GOLD. — Allontana quel braciere, Tonino... e accendi una volta il lume.
+
+NICOL. — (O Dio!) _(piange)_
+
+ANT. — (Ohimè!) Non c'è più candele, zio... Ma appena sono andati via
+quegli altri, scendo subito a pigliarne.
+
+GOLD. — Bravo... Intanto qui tutti e due... le vostre mani... Chi è che
+piange?
+
+ANT. — Nessuno!
+
+NICOL. — Nessuno!
+
+GOLD. — Lo sapete bene che non ho mai potuto sentire a piangere!... E
+ora meno che mai... E poi la mia parte... una lunga parte! l'ho
+recitata... e bisogna pure che rientri nelle quinte... Non era a Parigi
+che volevo fare l'ultima scena, oh no! ma laggiù... laggiù nella mia
+Venezia!...
+
+ANT. — La Venezia della tua riforma! La Venezia delle tue prime
+vittorie!
+
+GOLD. _(si rasserena in volto e si abbandona assopito sul guanciale)_. —
+Venezia!
+
+          (Antonio va sulla soglia della destra a chiamare con un
+            cenno gli altri)
+
+
+SCENA IX.
+
+_BATTISTINO, SUSANNA, GANDINI, MATTIUZZI e BALLETTI dal salotto a destra
+e PIERINA dal fondo. DETTI._
+
+
+NICOL. _(inginocchiata presso Goldoni)_. — Il mio Carlo muore!
+
+BATT. — Io corro subito a cercare un medico.
+
+SUS. — È inutile: egli non si ridesterà che per spirare!
+
+ANT. — Oh s'io potessi dargli un'ultima gioia!
+
+NICOL. — Egli ritorna in sè! Carlo! mio buon Carlo!
+
+GOLD. _(sentendo gli altri che lo attorniano)_. — C'è molta gente?
+
+ANT. _(con progetto)_. — Sì!... il teatro è pieno..... recita Préville!
+
+GOLD. — Préville?
+
+BATT. — Che fa lui il Burbero.
+
+GOLD. _(entrando a poco a poco nell'illusione)_. — Lui? Non ho più
+paura!
+
+ANT. — Senti? Senti?
+
+
+SCENA X.
+
+_CHÉNIER dal fondo. DETTI._
+
+
+BALL., GAND., SUS., MATT., BATT., PIER. _(allontanatisi ad un cenno di
+Antonio, sempre al proscenio, sottovoce, ed applaudendo leggermente, per
+produrre l'illusione desiderata)_. — L'autore! l'autore!
+
+GOLD. _(rasserenato, raggiante, per alzarsi sostenuto da Nicoletta ed
+Antonio)_. — A Parigi!
+
+CHÉN. — Carlo Goldoni, la Convenzione ti ha restituito la tua pensione!
+
+GOLD. _(ritornato in sè con un grido di riconoscenza)_. — O Francia!
+_(sentendosi mancare si abbandona fra le braccia di Antonio e di
+Nicoletta, dicendo a Chénier come una preghiera)_ Per lei! Per la mia
+buona moglie!
+
+          (Il sipario cala lentamente mentre Chénier assicura
+            Goldoni spirante che il suo voto sarà soddisfatto)
+
+
+FINE DELLA COMMEDIA.
+
+
+
+
+
+Nota del Trascrittore
+
+Ortografia e punteggiatura originali sono state mantenute, correggendo
+senza annotazione minimi errori tipografici.
+
+
+
+
+
+End of Project Gutenberg's Gli ultimi giorni di Goldoni, by Valentino Carrera
+
+*** END OF THIS PROJECT GUTENBERG EBOOK GLI ULTIMI GIORNI DI GOLDONI ***
+
+***** This file should be named 46352-0.txt or 46352-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/4/6/3/5/46352/
+
+Produced by Carlo Traverso, Barbara Magni and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

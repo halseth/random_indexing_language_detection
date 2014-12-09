@@ -1,0 +1,1 @@
+	Por isso, é preciso desenvolver modelos completamente novos de métodos de teste, se tal for porventura possível.

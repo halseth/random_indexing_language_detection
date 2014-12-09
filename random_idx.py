@@ -159,6 +159,7 @@ def generate_RI_lang(N,RI_letters, cluster_sz, ordered, languages=None):
 
 		for i in xrange(num_lang):
 				# load text one at a time (to save mem), English, German, Norwegian
+				print 'loading ' + languages[i]
 				lang_vectors[i,:] = generate_RI_text(N, RI_letters, cluster_sz, ordered, lang_dir + languages[i] + '.txt')
 
 		return lang_vectors

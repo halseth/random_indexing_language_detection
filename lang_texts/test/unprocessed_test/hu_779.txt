@@ -1,0 +1,1 @@
+	Optimális megoldást kell találnunk. Meg kell találni az egyensúlyt a különböző szabályok és a közös követelmények között.

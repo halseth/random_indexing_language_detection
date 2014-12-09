@@ -1,0 +1,1 @@
+	Ilyen egységes szabályokkal biztosítható a konzisztencia, azonban ugyanakkor azokat ki kell igazítani, hogy a sokféle megbízatású és hatáskörű szervre egyaránt érvényesek legyenek.

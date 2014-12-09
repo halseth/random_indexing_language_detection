@@ -7,6 +7,10 @@ import os
 import codecs
 import string
 import pandas as pd
+pd.set_option('display.height', 1000)
+pd.set_option('display.max_rows', 500)
+pd.set_option('display.max_columns', 500)
+pd.set_option('display.width', 1000)
 import numpy as np
 import itertools
 import matplotlib.pyplot as plt
@@ -16,10 +20,11 @@ import networkx as nx
 whitespace = string.whitespace
 
 
-def load_text(text_name):
+def load_text(text_name,display=0):
 		# loads text of text_name, assumes text has .txt and the file exists
 		try:
-				print 'loading ' + str(text_name)
+				if display:
+						print 'loading ' + str(text_name)
 				textfile = open(text_name)
 				text = textfile.read()
 				text = text.translate(None,whitespace)
@@ -29,10 +34,11 @@ def load_text(text_name):
 
 		return text
 
-def load_text_spaces(text_name):
+def load_text_spaces(text_name,display=0):
 		# loads text of text_name, assumes text has .txt and the file exists
 		try:
-				print 'loading ' + str(text_name)
+				if display:
+						print 'loading ' + str(text_name)
 				textfile = open(text_name)
 				text = textfile.read()
 				text = text.translate(None,whitespace[0:-1])
@@ -84,7 +90,7 @@ def display_graph(similarity, languages):
 		plt.show()
 
 
-def find_language(text_name, text_vector, lang_vectors, languages):
+def find_language(text_name, text_vector, lang_vectors, languages,display=0):
 
 		# number of languages
 		num_lang,N = lang_vectors.shape
@@ -104,11 +110,12 @@ def find_language(text_name, text_vector, lang_vectors, languages):
 		cos_angles = [x for x,y in cola]
 		languages = [y for x,y in cola]
 		labeled_cosangles = pd.DataFrame(cos_angles, index=languages, columns=['likelihood'])
-		print labeled_cosangles
 
 		likely_lang_idx = np.argmax(cos_angles)
 		likely_language = languages[likely_lang_idx]
-		print 'most likely language of ' + text_name + ' is ' + str(likely_language)
+		if display:
+				print labeled_cosangles
+				print 'most likely language of ' + text_name + ' is ' + str(likely_language)
 		return likely_language
 
 def generate_ordered_clusters(alphabet, cluster_sz=1):

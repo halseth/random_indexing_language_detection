@@ -1,0 +1,1 @@
+	Faza 1 constă în dezvoltarea unui program de inspecţie rapidă pentru verificarea stării vagoanelor în uz, precum şi a calităţii axelor lor.

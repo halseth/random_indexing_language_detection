@@ -9,10 +9,12 @@ import scipy.io as scio
 import numpy as np
 
 N = 10000 # dimension of random index vectors
-k = 10 # number of + (or -)
-cluster_min = 4
+k = 100 # number of + (or -)
+cluster_min = 2
 cluster_max = 4 # size of max letter cluster
-languages = ['english','german','norwegian','finnish','dutch','french','afrikaans','danish','spanish']
+ordy = [1]
+lang_map = {'af':'afrikaans','bg':'bulgarian','cs':'czech','da':'danish','nl':'dutch','de':'german','en':'english','et':'estonian','fi':'finnish','fr':'french','el':'greek','hu':'hungarian','it':'italian','pl':'polish','pt':'portuguese','ro':'romanian','sk':'slovak','sl':'slovenian','es':'spanish','sv':'swedish'}
+languages = lang_map.values()
 
 total_vectors = []
 unknown_tots = []
@@ -32,11 +34,10 @@ except IndexError:
 cluster_sizes = xrange(cluster_min,cluster_max+1)
 RI_letters = random_idx.generate_letter_id_vectors(N,k)
 
-'''
 ##############################
 # iterate over cluster sizes
 for cluster_sz in cluster_sizes:
-		for ordered in [1]:
+		for ordered in ordy:
 
 					print "~~~~~~~~~~"
 					# calculate language vectors
@@ -73,8 +74,8 @@ cosangles = utils.cosangles(lang_vectors, languages)
 variance = utils.var_measure(cosangles)
 varys.append(variance)
 print "variance of history language values: " + str(utils.var_measure(cosangles))
-'''
 #############################
+'''
 # calculate language vectors with words
 
 print "~~~~~~~~~~"
@@ -91,6 +92,7 @@ print "variance of language values: " + str(utils.var_measure(cosangles))
 # calculate unknown vector
 unknown_vector = random_idx.generate_RI_words(N, RI_letters, unknown_txt)
 unknown_tots.append(unknown_vector)
+'''
 #############################
 # final language vector calculations!
 final_lang = np.zeros(total_vectors[0].shape)
@@ -125,10 +127,10 @@ utils.find_language(unknown_txt, final_unknown, final_lang, languages)
 print '\n'
 # compare with "unknown text" on bilinguals
 print '========'
-utils.find_language(unknown_txt, final_unknown, np.vstack((final_lang, bilingual_vectors)), languages + bilinguals)
+utils.find_language(unknown_txt, final_unknown, np.vstack((final_lang, bilingual_vectors)), languages + bilinguals, display=1)
 
 
 print '========='
 print 'N = ' + str(N) + '; k = ' + str(k) + '; max size letters clusters are ' + str(cluster_max) + '\n'
-cosangles = utils.cosangles(final_lang, languages, display=0)
+cosangles = utils.cosangles(final_lang, languages, display=1)
 print "variance of language values: " + str(utils.var_measure(cosangles))

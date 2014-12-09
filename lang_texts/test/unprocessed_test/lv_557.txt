@@ -1,0 +1,1 @@
+	Piemēram, mums ir jāsaskaņo nodokļu sistēmas tādu ienākumu aplikšanai ar nodokļiem, kas gūti kā procentu maksājumi par uzkrājumiem.

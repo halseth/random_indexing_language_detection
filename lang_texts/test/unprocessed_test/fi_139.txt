@@ -1,0 +1,1 @@
+	Esitevaatimus raukeaa tarjousajan päätyttyä tai vaihdon käynnistyttyä sen mukaan, kumpi tapahtuu myöhemmin.

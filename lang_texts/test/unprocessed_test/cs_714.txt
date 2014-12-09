@@ -1,0 +1,1 @@
+	Také je pro nás důležité zavést právní požadavek na automatické přerušení napájení, aby se nabíječka automaticky vypnula, když je zařízení nabito.
