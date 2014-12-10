@@ -178,6 +178,7 @@ def generate_RI_lang_history(N,RI_letters, languages=None):
 		lang_vectors = np.zeros((num_lang,N))
 
 		for i in xrange(num_lang):
+				print 'loading ' + languages[i]
 				# load text one at a time (to save mem), English, German, Norwegian
 				lang_vectors[i,:] = generate_RI_text_history(N, RI_letters, lang_dir + languages[i] + '.txt')
 
@@ -196,6 +197,7 @@ def generate_RI_lang_words(N, RI_letters, languages=None):
 		lang_vectors = np.zeros((num_lang,N))
 
 		for i in xrange(num_lang):
+				print 'loading ' + languages[i]
 				# load text one at a time (to save mem), English, German, Norwegian
 				lang_vectors[i,:] = generate_RI_words(N, RI_letters, lang_dir + languages[i] + '.txt')
 
