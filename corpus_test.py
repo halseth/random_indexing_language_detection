@@ -18,8 +18,8 @@ test_dir = '/lang_texts/test/processed_test'
 # parameters
 N = 10000 # dimension of random index vectors
 k = 100 # number of + (or -)
-cluster_min = 2
-cluster_max = 2 # size of max letter cluster
+cluster_min = 1
+cluster_max = 1 # size of max letter cluster
 ordy = [1]
 #lang_map = {'af':'afr','bg':'bul','cs':'ces','da':'dan','nl':'nld','de':'deu','en':'eng','et':'est','fi':'fin','fr':'fra','el':'ell','hu':'hun','it':'ita','lv':'lav','lt':'lit','pl':'pol','pt':'por','ro':'ron','sk':'slk','sl':'slv','es':'spa','sv':'swe'}
 lang_map = {'af':'afrikaans','bg':'bulgarian','cs':'czech','da':'danish','nl':'dutch','de':'german','en':'english','et':'estonian','fi':'finnish','fr':'french','el':'greek','hu':'hungarian','it':'italian','pl':'polish','pt':'portuguese','ro':'romanian','sk':'slovak','sl':'slovenian','es':'spanish','sv':'swedish'}
@@ -27,7 +27,7 @@ languages = lang_map.values()
 #languages = ['french','italian','finnish','estonian']
 
 total_vectors = []
-unknown_tots = []
+
 
 ###############################
 # generate random indexing for letters, reused throughout
@@ -63,8 +63,10 @@ test_fn = glob.glob(main_base + test_dir + '/*txt')
 total = len(test_fn)
 correct = 0
 
-for i in trange(100):
+for i in trange(total):
 		testf = test_fn[i]
+		unknown_tots = []
+		#print len(testf),testf[91:93]
 	#if testf == main_base + test_dir + '/da_432_p.txt':
 		for cluster_sz in cluster_sizes:
 				for ordered in ordy:
@@ -74,8 +76,8 @@ for i in trange(100):
 						unknown_tots.append(unknown_vector)
 		final_unknown = sum(unknown_tots)
 		likely_lang = utils.find_language(testf, final_unknown, final_lang, languages,display=0)
-		print testf[71:], '=> ',likely_lang
-		if lang_map[testf[71:73]] == likely_lang:
+		print testf[91:], '=> ',likely_lang
+		if lang_map[testf[91:93]] == likely_lang:
 				correct +=1
 
 print "correct: ", correct, "; total: ", total,"; final percentage correct: ", float(correct)/total
