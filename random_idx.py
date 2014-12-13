@@ -112,6 +112,36 @@ def generate_RI_text(N, RI_letters, cluster_sz, ordered, text_name, alph=alphabe
 								cluster = text[char_num - j] + cluster
 						text_vector += id_vector(N, cluster, alph,RI_letters, ordered)
 		return text_vector
+	
+	
+	#Not really fast. Theoretically faster, but not for real (not using cache)	
+def generate_RI_text_fast(N, RI_letters, cluster_sz, ordered, text_name, alph=alphabet):
+	text_vector = np.zeros((1, N))
+	text = utils.load_text(text_name)
+	cluster2 = ''
+	vector = np.ones((1,N))
+	for char_num in xrange(len(text)):		
+		cluster = cluster + text[char_num]
+		if len(cluster) < cluster_sz:
+			continue
+		elif len(cluster) > cluster_sz:
+			prev_letter = cluster[0]
+			prev_letter_idx = alphabet.find(letter)
+			inverse = np.roll(RI_letters[prev_letter_idx,:], cluster_sz-1)
+			vector = np.multiply(vector, inverse)
+			vector = np.roll(vector, 1)
+			letter = text[char_num]
+			letter_idx = alphabet.find(letter)
+			vector = np.multiply(vector, RI_letters[letter_idx,:])
+			cluster = cluster[1:]
+		else: # (len(cluster) == cluster_size), happens once
+			letters = list(cluster)
+			for letter in letters:
+				vector = np.roll(vector,1)
+				letter_idx = alphabet.find(letter)
+				vector = np.multiply(vector, RI_letters[letter_idx,:])
+		text_vector += vector
+	return text_vector
 		
 def generate_RI_words(N, RI_letters, text_name, alph=alphabet):
 		# generate RI vector for "text_name"
