@@ -14,3 +14,220 @@ n=10000, k=5000:
 0.798 using, clusters 1 to 3, ordered
 0.8902, clusters 2 to 3, ordered
 0.8448, clusters 2 to 3, unorderd
+
+n=10000, k=500
+0.700578947368 cluster 1, ordered -	var 0.00772166929846
+0.494368421053 cluster 2, ordered -	var 0.0187395413045
+0.205105263158 cluster 3, ordered -	var 0.0158221406892
+0.052263157895 cluster 4, ordered -	var 0.00929805220971
+0.051947368421 cluster 5, ordered - var 0.00970820506111
+
+N=1000, k=10, unordered
+cluster size 1: 0.702473684211  variance= 0.0068957747879
+clustes size 2: 0.580684210526  variance= 0.0240669001062
+cluster size 3: 0.148894736842  variance= 0.0917759523055
+cluster size 4: 0.0526315789474  variance= nan
+cluster size 5: 0.0526315789474  variance= nan
+
+N=1000, k=10, ordered
+cluster size 1: 0.702473684211  variance= 0.0068957747879
+clustes size 2: 0.525947368421  variance= 0.028626262122
+cluster size 3: 0.134578947368  variance= 0.0876637231551
+cluster size 4: 0.0526842105263  variance= nan
+cluster size 5: 0.0526315789474  variance= nan
+
+N=1000, k=100, unordered
+cluster size 1: 0.701  variance= 0.00766485002661
+clustes size 2: 0.815789473684  variance= 0.0137856081087
+cluster size 3: 0.740368421053  variance= 0.0161201758345
+cluster size 4: 0.470368421053  variance= 0.0143867013499
+cluster size 5: 0.234578947368  variance= 0.0198663255719
+
+N=1000, k=100, ordered
+cluster size 1: 0.701  variance= 0.00766485002661
+clustes size 2: 0.857684210526  variance= 0.0176984596733
+cluster size 3: 0.789684210526  variance= 0.0167865329561
+cluster size 4: 0.507684210526  variance= 0.0126534400483
+cluster size 5: 0.219368421053  variance= 0.0169243247793
+
+N=1000, k=500, unordered
+cluster size 1: 0.700684210526  variance= 0.007801293169
+clustes size 2: 0.820526315789  variance= 0.01457457638
+cluster size 3: 0.818842105263  variance= 0.0183383277895
+cluster size 4: 0.746526315789  variance= 0.015868958431
+cluster size 5: 0.610368421053  variance= 0.0152337965315
+
+N=1000, k=500, ordered
+cluster size 1: 0.700684210526  variance= 0.007801293169
+clustes size 2: 0.869789473684  variance= 0.0180102314943
+cluster size 3: 0.845368421053  variance= 0.0159053335883
+cluster size 4: 0.673473684211  variance= 0.00976670007713
+cluster size 5: 0.361315789474  variance= 0.0104499971903
+
+N=2000, k=20, unordered
+cluster size 1: 0.700368421053  variance= 0.00769074768977
+clustes size 2: 0.640526315789  variance= 0.0221487298555
+cluster size 3: 0.204473684211  variance= 0.0378126424637
+cluster size 4: 0.0664736842105  variance= 0.138256387266
+cluster size 5: 0.0506842105263  variance= nan
+
+N=2000, k=20, ordered
+cluster size 1: 0.700368421053  variance= 0.00769074768977
+clustes size 2: 0.630105263158  variance= 0.0264241487937
+cluster size 3: 0.239526315789  variance= 0.0361436486445
+cluster size 4: 0.0793157894737  variance= 0.101085955584
+cluster size 5: 0.0505789473684  variance= nan
+
+N=2000, k=200, unordered
+cluster size 1: 0.699157894737  variance= 0.0079878291321
+clustes size 2: 0.822789473684  variance= 0.0126268086715
+cluster size 3: 0.777210526316  variance= 0.0142314972777
+cluster size 4: 0.613315789474  variance= 0.0138474231588
+cluster size 5: 0.328421052632  variance= 0.0209482256821
+
+N=2000, k=200, ordered
+cluster size 1: 0.699157894737  variance= 0.0079878291321
+clustes size 2: 0.860052631579  variance= 0.0172439729084
+cluster size 3: 0.833473684211  variance= 0.0162309370198
+cluster size 4: 0.599421052632  variance= 0.00877694184321
+cluster size 5: 0.270263157895  variance= 0.0115750797678
+
+N=2000, k=1000, unordered
+cluster size 1: 0.700578947368  variance= 0.00802410817571
+clustes size 2: 0.822947368421  variance= 0.0153082198484
+cluster size 3: 0.823473684211  variance= 0.0174844770842
+cluster size 4: 0.770684210526  variance= 0.0139376625345
+cluster size 5: 0.679421052632  variance= 0.0121767138499
+
+N=2000, k=1000, ordered
+cluster size 1: 0.700578947368  variance= 0.00802410817571
+clustes size 2: 0.868736842105  variance= 0.0189144044194
+cluster size 3: 0.869526315789  variance= 0.0152931871831
+cluster size 4: 0.751947368421  variance= 0.00977705296661
+cluster size 5: 0.490157894737  variance= 0.0113004387725
+
+N=5000, k=50, unordered
+cluster size 1: 0.701421052632  variance= 0.00759945399446
+clustes size 2: 0.650421052632  variance= 0.0218346888101
+cluster size 3: 0.238842105263  variance= 0.0458384507115
+cluster size 4: 0.0537894736842  variance= 0.204623078462
+cluster size 5: 0.0526315789474  variance= nan
+
+N=5000, k=50, ordered
+cluster size 1: 0.701421052632  variance= 0.00759945399446
+clustes size 2: 0.637631578947  variance= 0.0250116923924
+cluster size 3: 0.326368421053  variance= 0.0285224035678
+cluster size 4: 0.0693684210526  variance= 0.0444721910411
+cluster size 5: 0.0526315789474  variance= nan
+
+N=5000, k=500, unordered
+cluster size 1: 0.701263157895  variance= 0.00751020410254
+clustes size 2: 0.83  variance= 0.0138940867047
+cluster size 3: 0.819684210526  variance= 0.0148676849256
+cluster size 4: 0.719368421053  variance= 0.0135177462742
+cluster size 5: 0.463842105263  variance= 0.0186928346055
+
+N=5000, k=500, ordered
+cluster size 1: 0.701263157895  variance= 0.00751020410254
+clustes size 2: 0.866473684211  variance= 0.0174848922984
+cluster size 3: 0.873  variance= 0.0154175893028
+cluster size 4: 0.742421052632  variance= 0.00991557958183
+cluster size 5: 0.413052631579  variance= 0.0104009337859
+
+N=5000, k=2500, unordered
+cluster size 1: 0.702368421053  variance= 0.00782653458528
+clustes size 2: 0.827157894737  variance= 0.014761191566
+cluster size 3: 0.836052631579  variance= 0.0155068192939
+cluster size 4: 0.801  variance= 0.012378039929
+cluster size 5: 0.737473684211  variance= 0.0118714537228
+
+N=5000, k=2500, unordered
+cluster size 1: 0.702368421053  variance= 0.00782653458528
+clustes size 2: 0.876736842105  variance= 0.0176761054841
+cluster size 3: 0.896263157895  variance= 0.0153612895765
+cluster size 4: 0.833947368421  variance= 0.00927902376262
+cluster size 5: 0.645526315789  variance= 0.0104743555592
+
+N=8000, k=80, unordered
+cluster size 1: 0.700473684211  variance= 0.00784107366714
+clustes size 2: 0.646526315789  variance= 0.0229530088544
+cluster size 3: 0.282631578947  variance= 0.0306974935575
+cluster size 4: 0.0542631578947  variance= 0.24132728251
+cluster size 5: 0.0526315789474  variance= nan
+
+N=8000, k=80, ordered
+cluster size 1: 0.700473684211  variance= 0.00784107366714
+clustes size 2: 0.632684210526  variance= 0.0278157797713
+cluster size 3: 0.339947368421  variance= 0.0263757966785
+cluster size 4: 0.0944210526316  variance= 0.116541686779
+cluster size 5: 0.0526315789474  variance= nan
+
+N=8000, k=800, unordered
+cluster size 1: 0.701684210526  variance= 0.00774865807587
+clustes size 2: 0.828052631579  variance= 0.0141352032295
+cluster size 3: 0.834  variance= 0.0155137067907
+cluster size 4: 0.754684210526  variance= 0.0135994164215
+cluster size 5: 0.546157894737  variance= 0.0111419854459
+
+N=8000, k=800, ordered
+cluster size 1: 0.701684210526  variance= 0.00774865807587
+clustes size 2: 0.868210526316  variance= 0.0179412351913
+cluster size 3: 0.880157894737  variance= 0.0170210331252
+cluster size 4: 0.789052631579  variance= 0.00896783591121
+cluster size 5: 0.507  variance= 0.0117588658806
+
+N=8000, k=4000, unordered
+cluster size 1: 0.704473684211  variance= 0.00752767547909
+clustes size 2: 0.825210526316  variance= 0.0140759945326
+cluster size 3: 0.836526315789  variance= 0.0152760806661
+cluster size 4: 0.810052631579  variance= 0.012912518608
+cluster size 5: 0.759157894737  variance= 0.0118521036338
+
+N=8000, k=4000, ordered
+cluster size 1: 0.704473684211  variance= 0.00752767547909
+clustes size 2: 0.877684210526  variance= 0.0175414483724
+cluster size 3: 0.895105263158  variance= 0.0159226150173
+cluster size 4: 0.845578947368  variance= 0.00916986261308
+cluster size 5: 0.705315789474  variance= 0.0107957208009
+
+N=10000, k=100, unordered
+cluster size 1: 0.703052631579  variance= 0.00761986982949
+clustes size 2: 0.673894736842  variance= 0.0207642962776
+cluster size 3: 0.348210526316  variance= 0.0248763728366
+cluster size 4: 0.0833684210526  variance= 0.0814054827272
+cluster size 5: 0.0526315789474  variance= nan
+
+N=10000, k=100, ordered
+cluster size 1: 0.703052631579  variance= 0.00761986982949
+clustes size 2: 0.635315789474  variance= 0.0245497814966
+cluster size 3: 0.458631578947  variance= 0.0205408296061
+cluster size 4: 0.0810526315789  variance= 0.0519106576613
+cluster size 5: 0.0491578947368  variance= 0.280299153698
+
+N=10000, k=1000, unordered
+cluster size 1: 0.701578947368  variance= 0.0078765816441
+clustes size 2: 0.831105263158  variance= 0.0149288814048
+cluster size 3: 0.830631578947  variance= 0.0148351820801
+cluster size 4: 0.771894736842  variance= 0.0129950847438
+cluster size 5: 0.545157894737  variance= 0.0144464930234
+
+N=10000, k=1000, ordered
+cluster size 1: 0.701578947368  variance= 0.0078765816441
+clustes size 2: 0.866736842105  variance= 0.0178675578133
+cluster size 3: 0.886052631579  variance= 0.0159150675938
+cluster size 4: 0.804263157895  variance= 0.00959469118454
+cluster size 5: 0.534631578947  variance= 0.00923133612792
+
+N=10000, k=5000, unordered
+cluster size 1: 0.703684210526  variance= 0.00745178688178
+clustes size 2: 0.823315789474  variance= 0.0139778108356
+cluster size 3: 0.839157894737  variance= 0.014401641792
+cluster size 4: 0.811315789474  variance= 0.0127325796899
+cluster size 5: 0.767789473684  variance= 0.0119053340489
+
+N=10000, k=5000, ordered
+cluster size 1: 0.703684210526  variance= 0.00745178688178
+clustes size 2: 0.877684210526  variance= 0.0175656436564
+cluster size 3: 0.894842105263  variance= 0.0155581920337
+cluster size 4: 0.858368421053  variance= 0.00925882559579
+cluster size 5: 0.720210526316  variance= 0.0104920908931
