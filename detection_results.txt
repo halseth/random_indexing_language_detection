@@ -1,0 +1,16 @@
+n=10000, k=5000:
+0.7026, cluster 1, unordered - 	var 0.00770797418387
+0.7015, clusrer 1, ordered - 	var 0.00733196525569
+0.8267, cluster 2, unordered - 	var 0.0146911988655
+0.8739, cluster 2, ordered - 	var 0.0175363099891
+0.8403, cluster 3, unordered - 	var 0.014884196191
+0.8972, cluster 3, ordered - 	var 0.0152095671908
+0.8109, cluster 4, unordered - 	var 0.0132731596119
+0.8581, clusters 4, ordered - 	var 0.00881416457223
+0.7662, clusters 5, unordered -	var 0.0113622425598
+0.7243, clusters 5, ordered - 	var 0.0103926946532
+
+0.79 using, clusters 1 to 3, unordered
+0.798 using, clusters 1 to 3, ordered
+0.8902, clusters 2 to 3, ordered
+0.8448, clusters 2 to 3, unorderd
