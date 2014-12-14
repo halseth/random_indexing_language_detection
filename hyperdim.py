@@ -11,12 +11,14 @@ from tsne import *
 import matplotlib.pyplot as plt
 
 N = 10000 # dimension of random index vectors
-k = 10 # number of + (or -)
-cluster_min = 1
+k = 100 # number of + (or -)
+cluster_min = 2
 cluster_max = 2 # size of max letter cluster
 ordy = [1]
-lang_map = {'af':'afrikaans','bg':'bulgarian','cs':'czech','da':'danish','nl':'dutch','de':'german','en':'english','et':'estonian','fi':'finnish','fr':'french','el':'greek','hu':'hungarian','it':'italian','pl':'polish','pt':'portuguese','ro':'romanian','sk':'slovak','sl':'slovenian','es':'spanish','sv':'swedish'}
+#lang_map = {'af':'afrikaans','bg':'bulgarian','cs':'czech','da':'danish','nl':'dutch','de':'german','en':'english','et':'estonian','fi':'finnish','fr':'french','el':'greek','hu':'hungarian','it':'italian','pl':'polish','pt':'portuguese','ro':'romanian','sk':'slovak','sl':'slovenian','es':'spanish','sv':'swedish'}
+lang_map = {'af':'afr','bg':'bul','cs':'ces','da':'dan','nl':'nld','de':'deu','en':'eng','et':'est','fi':'fin','fr':'fra','el':'ell','hu':'hun','it':'ita','lv':'lav','lt':'lit','pl':'pol','pt':'por','ro':'ron','sk':'slk','sl':'slv','es':'spa','sv':'swe'}
 languages = lang_map.values()#[0:3]
+languages.append('nob') #languages.append('norwegian')
 
 total_vectors = []
 unknown_tots = []
@@ -64,6 +66,7 @@ for cluster_sz in cluster_sizes:
 					print "variance of language values: " + str(utils.var_measure(cosangles))
 
 ########################
+'''
 # history vectors
 lang_vectors = random_idx.generate_RI_lang_history(N, RI_letters, languages=languages)
 total_vectors.append(lang_vectors)
@@ -76,6 +79,7 @@ cosangles = utils.cosangles(lang_vectors, languages)
 variance = utils.var_measure(cosangles)
 varys.append(variance)
 print "variance of history language values: " + str(utils.var_measure(cosangles))
+'''
 #############################
 '''
 # calculate language vectors with words
@@ -141,8 +145,20 @@ print 'N = ' + str(N) + '; k = ' + str(k) + '; max size letters clusters are ' +
 cosangles = utils.cosangles(final_lang, languages, display=0)
 print "variance of language values: " + str(utils.var_measure(cosangles))
 
+plt.figure()
+print final_lang.shape
+X = pca(cosangles)
+plt.scatter(X[:,0],X[:,1])#,len(languages),np.r_[1:len(languages)])
+for label, x, y in zip(languages, X[:, 0], X[:, 1]):
+    plt.annotate(
+        label, 
+        xy = (x, y), xytext = (-20, 20),
+        textcoords = 'offset points', ha = 'right', va = 'bottom',
+        bbox = dict(boxstyle = 'round,pad=0.5', fc = 'yellow', alpha = 0.5),
+        arrowprops = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0'))
 # plot language points
-Y = tsne(cosangles,no_dims=2,initial_dims=1000,perplexity=8)
+plt.figure()
+Y = tsne(cosangles,no_dims=2,initial_dims=100,perplexity=8)
 plt.scatter(Y[:,0],Y[:,1])#,len(languages),np.r_[1:len(languages)])
 for label, x, y in zip(languages, Y[:, 0], Y[:, 1]):
     plt.annotate(
