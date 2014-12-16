@@ -10,6 +10,9 @@ import numpy as np
 import glob
 import os
 from tqdm import trange
+from text_cleaner import cleaner
+import codecs
+import locale
 
 # important directories
 main_base = os.getcwd()
@@ -23,7 +26,7 @@ cluster_max = 4 # size of max letter cluster
 ordy = [1]
 lang_map = {'af':'afr','bg':'bul','cs':'ces','da':'dan','nl':'nld','de':'deu','en':'eng','et':'est','fi':'fin','fr':'fra','el':'ell','hu':'hun','it':'ita','lv':'lav','lt':'lit','pl':'pol','pt':'por','ro':'ron','sk':'slk','sl':'slv','es':'spa','sv':'swe'}
 #lang_map = {'af':'afrikaans','bg':'bulgarian','cs':'czech','da':'danish','nl':'dutch','de':'german','en':'english','et':'estonian','fi':'finnish','fr':'french','el':'greek','hu':'hungarian','it':'italian','pl':'polish','pt':'portuguese','ro':'romanian','sk':'slovak','sl':'slovenian','es':'spanish','sv':'swedish'}
-languages = lang_map.values()
+languages = lang_map.values()[1:2]
 languages.append('nob')
 #languages = ['french','italian','finnish','estonian']
 
@@ -71,8 +74,9 @@ for N in Ns:
 							# iterate through test files and calculate correctness
 							print "Now waiting for input"
 							while True:
-								sentence = sys.stdin.readline()
+								sentence = raw_input().decode(sys.stdin.encoding or locale.getpreferredencoding(True))
 								unknown_tots = []
+								sentence = cleaner(sentence)
 								unknown_vector = random_idx.generate_RI_sentence(N, RI_letters, cluster_sz, ordered,sentence)
 								unknown_tots.append(unknown_vector)
 								final_unknown = sum(unknown_tots)
