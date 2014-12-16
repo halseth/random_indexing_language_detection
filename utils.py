@@ -71,7 +71,7 @@ def cosangles(lang_vectors,languages,display=0):
 		# label the cosine angles table
 		labeled_cosangles = pd.DataFrame(cos_angles, index=languages, columns=languages)
 
-		print labeled_cosangles
+		#print labeled_cosangles
 		if display:
 
 				# calculate angles

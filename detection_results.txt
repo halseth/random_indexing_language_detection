@@ -1,3 +1,5 @@
+Using Gutenberg data to build Language Vector, testing on Europarl:
+
 n=10000, k=5000:
 0.7026, cluster 1, unordered - 	var 0.00770797418387
 0.7015, clusrer 1, ordered - 	var 0.00733196525569
@@ -141,7 +143,7 @@ cluster size 3: 0.836052631579  variance= 0.0155068192939
 cluster size 4: 0.801  variance= 0.012378039929
 cluster size 5: 0.737473684211  variance= 0.0118714537228
 
-N=5000, k=2500, unordered
+N=5000, k=2500, ordered
 cluster size 1: 0.702368421053  variance= 0.00782653458528
 clustes size 2: 0.876736842105  variance= 0.0176761054841
 cluster size 3: 0.896263157895  variance= 0.0153612895765
@@ -231,3 +233,144 @@ clustes size 2: 0.877684210526  variance= 0.0175656436564
 cluster size 3: 0.894842105263  variance= 0.0155581920337
 cluster size 4: 0.858368421053  variance= 0.00925882559579
 cluster size 5: 0.720210526316  variance= 0.0104920908931
+
+Using webcrawl data to build Language Vectors, testing on Europarl:
+
+N = 1000 , k = 10 ,  unordered
+cluster size 1 : 0.73819047619 , var 0.00962799486584                       
+cluster size 2 : 0.636095238095 , var 0.0348428965616                       
+cluster size 3 : 0.129857142857 , var 0.139453226643                        
+cluster size 4 : 0.0519523809524 , var 0.143137743755                       
+cluster size 5 : 0.047619047619 , var nan  
+
+N = 1000 , k = 10 ,  ordered
+cluster size 1 : 0.73819047619 , var 0.00962799486584                       
+cluster size 2 : 0.629714285714 , var 0.0353841184994                       
+cluster size 3 : 0.160952380952 , var 0.0511260343861
+cluster size 4 : 0.0491904761905 , var 0.11911933431   
+cluster size 5 : 0.047619047619 , var nan
+
+N = 1000 , k = 100 ,  unordered
+cluster size 1 : 0.736904761905 , var 0.00912860862283                      
+cluster size 2 : 0.872 , var 0.0179210304156                                
+cluster size 3 : 0.825904761905 , var 0.0177680519671                       
+cluster size 4 : 0.60580952381 , var 0.0223189477473                        
+cluster size 5 : 0.313142857143 , var 0.0211755134303  
+
+N = 1000 , k = 100 ,  ordered
+cluster size 1 : 0.736904761905 , var 0.00912860862283                      
+cluster size 2 : 0.910142857143 , var 0.0200588784569                       
+cluster size 3 : 0.888952380952 , var 0.0226772441576
+cluster size 4 : 0.657666666667 , var 0.0170486816639 
+cluster size 5 : 0.35980952381 , var 0.0107443050718
+
+N = 1000 , k = 500 ,  unordered
+cluster size 1 : 0.741428571429 , var 0.00835254641621                      
+cluster size 2 : 0.874523809524 , var 0.0145903296079                       
+cluster size 3 : 0.888476190476 , var 0.0197376683926                       
+cluster size 4 : 0.863523809524 , var 0.0184654057303                       
+cluster size 5 : 0.78 , var 0.0170549771411
+
+N = 1000 , k = 500 ,  ordered
+cluster size 1 : 0.741428571429 , var 0.00835254641621                      
+cluster size 2 : 0.919904761905 , var 0.0187099577749                       
+cluster size 3 : 0.935571428571 , var 0.0184385083962 
+cluster size 4 : 0.853476190476 , var 0.0117865105001
+cluster size 5 : 0.649619047619 , var 0.00742475535205
+
+N = 5000 , k = 50 ,  unordered
+cluster size 1 : 0.742047619048 , var 0.00829834562487                      
+cluster size 2 : 0.720666666667 , var 0.0272634830921                       
+cluster size 3 : 0.273619047619 , var 0.0591448382764                       
+cluster size 4 : 0.0622380952381 , var 0.0635595145262                      
+cluster size 5 : 0.047619047619 , var nan
+
+N = 5000 , k = 50 ,  ordered
+cluster size 1 : 0.742047619048 , var 0.00829834562487                      
+cluster size 2 : 0.70819047619 , var 0.0299993784038                        
+cluster size 3 : 0.337904761905 , var 0.0383646322302 
+cluster size 4 : 0.0717142857143 , var 0.0582515526831
+cluster size 5 : 0.0480476190476 , var 0.141559805675 
+
+N = 5000 , k = 500 ,  unordered
+cluster size 1 : 0.742047619048 , var 0.00797173438826                      
+cluster size 2 : 0.88880952381 , var 0.0135409353914                        
+cluster size 3 : 0.899095238095 , var 0.0182358691737                       
+cluster size 4 : 0.847666666667 , var 0.017155298953                        
+cluster size 5 : 0.600619047619 , var 0.0154086716815
+
+N = 5000 , k = 500 ,  ordered
+cluster size 1 : 0.742047619048 , var 0.00797173438826                      
+cluster size 2 : 0.923142857143 , var 0.0163680418077                       
+cluster size 3 : 0.950571428571 , var 0.0190100123499
+cluster size 4 : 0.901047619048 , var 0.0141174760944
+cluster size 5 : 0.694 , var 0.00816348812232 
+
+N = 5000 , k = 2500 ,  unordered
+cluster size 1 : 0.741714285714 , var 0.00822005726318                      
+cluster size 2 : 0.879 , var 0.014129016261                                 
+cluster size 3 : 0.910476190476 , var 0.017138429037                        
+cluster size 4 : 0.914571428571 , var 0.0173562393691                       
+cluster size 5 : 0.895952380952 , var 0.0162622446477   
+N = 5000 , k = 2500 ,  ordered
+cluster size 1 : 0.741714285714 , var 0.00822005726318                      
+cluster size 2 : 0.927952380952 , var 0.0166177759456                       
+cluster size 3 : 0.95780952381 , var 0.0178851548014
+cluster size 4 : 0.952047619048 , var 0.012522850902  
+cluster size 5 : 0.899761904762 , var 0.006443712743 
+
+N = 10000 , k = 100 ,  unordered
+cluster size 1 : 0.743761904762 , var 0.00780756309644                      
+cluster size 2 : 0.747857142857 , var 0.0262911289808                       
+cluster size 3 : 0.335476190476 , var 0.0301072432386                       
+cluster size 4 : 0.0609523809524 , var 0.371057254866                       
+cluster size 5 : 0.047619047619 , var nan
+
+N = 10000 , k = 100 ,  ordered
+cluster size 1 : 0.743761904762 , var 0.00780756309644                      
+cluster size 2 : 0.72580952381 , var 0.0291688797654                        
+cluster size 3 : 0.484285714286 , var 0.0279704632492 
+cluster size 4 : 0.0987142857143 , var 0.0861144457735 
+cluster size 5 : 0.0484285714286 , var 0.118974568606
+
+N = 10000 , k = 1000 ,  unordered
+cluster size 1 : 0.743714285714 , var 0.00788341407791                      
+cluster size 2 : 0.888904761905 , var 0.0145307571942                       
+cluster size 3 : 0.907952380952 , var 0.0174482759093                       
+cluster size 4 : 0.884952380952 , var 0.0175076856969                       
+cluster size 5 : 0.743952380952 , var 0.0166098654851  
+
+N = 10000 , k = 1000 ,  ordered
+cluster size 1 : 0.743714285714 , var 0.00788341407791                      
+cluster size 2 : 0.925523809524 , var 0.017472773866                        
+cluster size 3 : 0.957380952381 , var 0.0174792543031
+cluster size 4 : 0.943571428571 , var 0.0123953938384 
+cluster size 5 : 0.83080952381 , var 0.0070630886038 
+
+N = 10000 , k = 5000 ,  unordered
+cluster size 1 : 0.742285714286 , var 0.00787423833099                      
+cluster size 2 : 0.878714285714 , var 0.0142378684153                       
+cluster size 3 : 0.910952380952 , var 0.0170228994737                       
+cluster size 4 : 0.919571428571 , var 0.0172522207604                       
+cluster size 5 : 0.911523809524 , var 0.0161772682367 
+
+N = 10000 , k = 5000 ,  ordered
+cluster size 1 : 0.742285714286 , var 0.00787423833099                      
+cluster size 2 : 0.927380952381 , var 0.0169603819556                       
+cluster size 3 : 0.961619047619 , var 0.0181195677123
+cluster size 4 : 0.962857142857 , var 0.0121729344364 
+cluster size 5 : 0.935095238095 , var 0.00671645187211
+
+N = 10000 , k = 5000 ,  unordered
+cluster size 1 : 0.749238095238 , var 0.00578222543492
+cluster size 2 : 0.905333333333 , var 0.0127813236416 
+cluster size 3 : 0.923571428571 , var 0.0149129259615 
+cluster size 4 : 0.940857142857 , var 0.0168462518353
+cluster size 5 : 0.951761904762 , var 0.0149957920637 
+
+N = 10000 , k = 5000 ,  ordered
+cluster size 1 : 0.749238095238 , var 0.00578222543492
+cluster size 2 : 0.939571428571 , var 0.0193137110487
+cluster size 3 : 0.972476190476 , var 0.0207294756583
+cluster size 4 : 0.978285714286 , var 0.0145603076755
+cluster size 5 : 0.973285714286 , var 0.00836696389008 

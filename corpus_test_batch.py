@@ -16,7 +16,7 @@ main_base = os.getcwd()
 test_dir = '/lang_texts/test/processed_test'
 
 # parameters
-Ns = [1000] # dimension of random index vectors
+Ns = [10000] # dimension of random index vectors
 ks = [0.5] # number of + (or -)
 cluster_min = 1
 cluster_max = 5 # size of max letter cluster
@@ -48,7 +48,6 @@ for N in Ns:
 			
 				print "N =", N, ", k =", k, ", ", ord_str
 				for cluster_sz in cluster_sizes:
-				
 							
 							##print "~~~~~~~~~~"
 							total_vectors = []
