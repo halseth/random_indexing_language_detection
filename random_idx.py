@@ -9,7 +9,7 @@ import utils
 import pandas as pd
 import os
 
-alphabet = string.lowercase
+alphabet = string.lowercase + " "
 lang_dir = './preprocessed_texts/'
 
 cluster_cache = {}
@@ -100,7 +100,25 @@ def generate_RI_text(N, RI_letters, cluster_sz, ordered, text_name, alph=alphabe
 		# assumes text_name has .txt
 
 		text_vector = np.zeros((1, N))
-		text = utils.load_text(text_name)
+		text = utils.load_text_spaces(text_name)
+		for char_num in xrange(len(text)):
+
+				if char_num < cluster_sz:
+						continue
+				else:
+						# build cluster
+						cluster = ''
+						for j in xrange(cluster_sz):
+								cluster = text[char_num - j] + cluster
+						text_vector += id_vector(N, cluster, alph,RI_letters, ordered)
+		return text_vector
+	
+def generate_RI_sentence(N, RI_letters, cluster_sz, ordered, text, alph=alphabet):
+		# generate RI vector for "text_name"
+		# assumes text_name has .txt
+
+		text_vector = np.zeros((1, N))
+		##text = utils.load_text_spaces(text_name)
 		for char_num in xrange(len(text)):
 
 				if char_num < cluster_sz:
@@ -143,7 +161,7 @@ def generate_RI_text_fast(N, RI_letters, cluster_sz, ordered, text_name, alph=al
 		text_vector += vector
 	return text_vector
 		
-def generate_RI_words(N, RI_letters, text_name, alph=alphabet):
+def generate_RI_text_words(N, RI_letters, text_name, alph=alphabet):
 		# generate RI vector for "text_name"
 		# assumes text_name has .txt
 
@@ -229,6 +247,6 @@ def generate_RI_lang_words(N, RI_letters, languages=None):
 		for i in xrange(num_lang):
 				print 'loading ' + languages[i]
 				# load text one at a time (to save mem), English, German, Norwegian
-				lang_vectors[i,:] = generate_RI_words(N, RI_letters, lang_dir + languages[i] + '.txt')
+				lang_vectors[i,:] = generate_RI_text_words(N, RI_letters, lang_dir + languages[i] + '.txt')
 
 		return lang_vectors
