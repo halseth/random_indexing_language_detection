@@ -11,6 +11,7 @@ pd.set_option('display.height', 1000)
 pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
+pd.set_option('precision',3)
 import numpy as np
 import itertools
 import matplotlib.pyplot as plt
@@ -182,3 +183,29 @@ def var_measure(cos_angles):
 		iu1 = np.triu_indices(num_lang,1)
 		values = np.arcsin(cos_angles[iu1])
 		return np.var(values)
+
+def confusion_mat(guessing_dicts,num_tests=21000,display=0):
+
+		# initialize confusion matrix
+		conf_mat = np.zeros((len(guessing_dicts),len(guessing_dicts)))
+		labels = guessing_dicts.keys()
+
+		# iterate over each language and add values
+		i = 0
+		for lang in sorted(labels):
+				dicty = guessing_dicts[lang]
+				j = 0
+				for guess in sorted(dicty.keys()):
+						if guess == 'total':
+								continue
+						else:
+								conf_mat[i,j] = dicty[guess]
+								j += 1
+				i += 1
+
+		# create the labeled confusion matrix
+		confy = pd.DataFrame(100*(conf_mat/float(num_tests)), index=labels, columns=labels)
+		if display:
+				print confy
+
+		return0

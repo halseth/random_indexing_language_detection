@@ -10,22 +10,25 @@ import numpy as np
 import glob
 import os
 from tqdm import trange
+import matplotlib.pyplot as plt
+import pandas as pd
+pd.set_option('precision',2)
 
 # important directories
 main_base = os.getcwd()
 test_dir = '/lang_texts/test/processed_test'
 
 # parameters
-N = 10000 # dimension of random index vectors
-k = 5000 # number of + (or -)
-cluster_min = 3
-cluster_max = 3 # size of max letter cluster
+N = 100 # dimension of random index vectors
+k = 50 # number of + (or -)
+cluster_min = 1
+cluster_max = 1 # size of max letter cluster
 ordy = [1]
-#lang_map = {'af':'afr','bg':'bul','cs':'ces','da':'dan','nl':'nld','de':'deu','en':'eng','et':'est','fi':'fin','fr':'fra','el':'ell','hu':'hun','it':'ita','lv':'lav','lt':'lit','pl':'pol','pt':'por','ro':'ron','sk':'slk','sl':'slv','es':'spa','sv':'swe'}
-lang_map = {'af':'afrikaans','bg':'bulgarian','cs':'czech','da':'danish','nl':'dutch','de':'german','en':'english','et':'estonian','fi':'finnish','fr':'french','el':'greek','hu':'hungarian','it':'italian','pl':'polish','pt':'portuguese','ro':'romanian','sk':'slovak','sl':'slovenian','es':'spanish','sv':'swedish'}
-languages = lang_map.values()
+lang_map = {'af':'afr','bg':'bul','cs':'ces','da':'dan','nl':'nld','de':'deu','en':'eng','et':'est','fi':'fin','fr':'fra','el':'ell','hu':'hun','it':'ita','lv':'lav','lt':'lit','pl':'pol','pt':'por','ro':'ron','sk':'slk','sl':'slv','es':'spa','sv':'swe'}
+#lang_map = {'af':'afrikaans','bg':'bulgarian','cs':'czech','da':'danish','nl':'dutch','de':'german','en':'english','et':'estonian','fi':'finnish','fr':'french','el':'greek','hu':'hungarian','it':'italian','pl':'polish','pt':'portuguese','ro':'romanian','sk':'slovak','sl':'slovenian','es':'spanish','sv':'swedish'}
+lang_tots = lang_map.values()
+languages = lang_map.values()[0:3]
 #languages = ['french','italian','finnish','estonian']
-
 total_vectors = []
 
 ###############################
@@ -55,11 +58,24 @@ for cluster_sz in cluster_sizes:
 					variance = utils.var_measure(cosangles)
 					print "variance of language values: " + str(utils.var_measure(cosangles))
 final_lang = sum(total_vectors)
+#print final_lang.shape
+#langy = final_lang[1,:]
+#print langy[:,np.newaxis].shape
+#print final_lang[1,:].T.dot(final_lang[1,:]).shape
+
+'''
+h,axarr = plt.subplots(len(languages),1)
+for i in xrange(len(languages)):
+	langy = final_lang[i,:]
+	axarr[i].imshow(langy[:,np.newaxis].dot(langy[np.newaxis,:]),cmap='gray',interpolation='nearest')
+	axarr[i].set_title(languages[i])
+plt.show()
+'''
 
 ###############################
 # iterate through test files and calculate correctness
 test_fn = glob.glob(main_base + test_dir + '/*txt')
-total = len(test_fn)
+total = 100 #len(test_fn)
 correct = 0
 guessing_dicts = {}
 
@@ -81,6 +97,7 @@ for i in trange(total):
 		except KeyError:
 				continue
 
+
 		if true_lang not in guessing_dicts.keys():
 				guessing_dicts[true_lang] = {'correct':0, 'total':1}
 		else:
@@ -95,13 +112,23 @@ for i in trange(total):
 		else:
 				guessing_dicts[true_lang][likely_lang] += 1
 
+confusion_matrix = np.zeros((len(lang_map),len(lang_map)))
 print "\n"
 print "correct: ", correct, "; total: ", total,"; final percentage correct: ", '%.01f' % (100*float(correct)/total)
-for lang in guessing_dicts.keys():
+language_list = guessing_dicts.keys()
+for lang in language_list:
+		i = lang_tots.index(lang)
 		dicty = guessing_dicts[lang]
-		results = ''
+		#results = ''
 		for key in sorted(dicty.keys()):
 				if key == 'correct' or key == 'total':
 						continue
-				results += key + ': ' + str(dicty[key]) + '| '
-		print lang, ': %.01f' % (100*dicty['correct']/float(dicty['total'])), '%:\n\t' + results
+				j = lang_tots.index(key)
+				#results += key + ': %.01f| ' % (dicty[key]/float(dicty['total'])*100)
+				confusion_matrix[i,j] = dicty[key]/float(dicty['total'])*100
+		#print lang, ': %.01f' % (100*dicty['correct']/float(dicty['total'])), '%:\n\t' + results
+
+cm = pd.DataFrame(confusion_matrix, index = lang_tots, columns=lang_tots)
+print cm
+#cm.plot(kind='bar', stacked=True);
+#plt.show()
