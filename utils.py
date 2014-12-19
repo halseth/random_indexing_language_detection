@@ -184,28 +184,58 @@ def var_measure(cos_angles):
 		values = np.arcsin(cos_angles[iu1])
 		return np.var(values)
 
-def confusion_mat(guessing_dicts,num_tests=21000,display=0):
+def disp_confusion_mat(data,row_labels=None,col_labels=None,save=0,display=0):
 
-		# initialize confusion matrix
-		conf_mat = np.zeros((len(guessing_dicts),len(guessing_dicts)))
-		labels = guessing_dicts.keys()
+		if row_labels == None or col_labels == None:
+				print "please provide labels, otherwise visualizing the matrix as a confusion matrix is meaningless"
 
-		# iterate over each language and add values
-		i = 0
-		for lang in sorted(labels):
-				dicty = guessing_dicts[lang]
-				j = 0
-				for guess in sorted(dicty.keys()):
-						if guess == 'total':
+		# initialize plot 
+		fig, ax = plt.subplots()
+		fig = plt.gcf()
+		heatmap = ax.pcolormesh(data,cmap=plt.cm.Blues,alpha=0.8)
+		# put the major ticks at the middle of each cell
+		ax.set_xticks(np.arange(data.shape[0]) + 0.5, minor=False)
+		ax.set_yticks(np.arange(data.shape[1]) + 0.5, minor=False)
+		# want a more natural, table-like display
+		ax.invert_yaxis()
+		ax.xaxis.tick_top()
+
+		# set labels!!
+		ax.set_xticklabels(row_labels,minor=False)
+		ax.set_yticklabels(col_labels,minor=False)
+
+		# rotate xlabels stylishly
+		plt.xticks(rotation=45)
+
+		ax.grid(False)
+
+		# turn off all ticks
+		plt.gca()
+
+		for t in ax.xaxis.get_major_ticks():
+				t.tick1On = False
+				t.tick2On = False
+		for t in ax.yaxis.get_major_ticks():
+				t.tick1On = False
+				t.tick2On = False
+
+		plt.xlabel('Predicted Labels')
+		plt.ylabel('True Labels')
+		plt.suptitle('Confusion Matrix')
+		plt.axis('tight')
+		for y in range(data.shape[0]):
+				for x in range(data.shape[1]):
+						if np.abs(data[y,x]) <= 1e-4:
 								continue
-						else:
-								conf_mat[i,j] = dicty[guess]
-								j += 1
-				i += 1
 
-		# create the labeled confusion matrix
-		confy = pd.DataFrame(100*(conf_mat/float(num_tests)), index=labels, columns=labels)
+						plt.text(x + 0.5, y + 0.5, '%.1f' % data[y, x],
+										 horizontalalignment='center',
+										 verticalalignment='center',
+										 )
+		plt.colorbar(heatmap)
+
+		if save:
+				fig.savefig(os.getcwd() + '/plots/confusion_matrix.png')
+
 		if display:
-				print confy
-
-		return0
+				plt.show()

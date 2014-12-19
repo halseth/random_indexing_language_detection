@@ -95,6 +95,24 @@ def id_vector(N, cluster, alphabet, RI_letters,ordered=0):
 	cluster_cache[cluster] = vector
 	return vector
 
+def generate_RI_str(N, RI_letters, cluster_sz, ordered, string, alph=alphabet):
+		# generate RI vector for "text_name"
+		# assumes text_name has .txt
+
+		text_vector = np.zeros((1,N))
+		for char_num in xrange(len(string)):
+
+				if char_num < cluster_sz:
+						continue
+				else:
+						# build cluster
+						cluster = ''
+						for j in xrange(cluster_sz):
+								cluster = string[char_num - j] + cluster
+						text_vector += id_vector(N, cluster, alph,RI_letters, ordered)
+		return text_vector
+	
+
 def generate_RI_text(N, RI_letters, cluster_sz, ordered, text_name, alph=alphabet):
 		# generate RI vector for "text_name"
 		# assumes text_name has .txt
