@@ -9,6 +9,7 @@ import scipy.io as scio
 import numpy as np
 import glob
 import os
+import re
 from tqdm import trange
 
 # important directories
@@ -74,6 +75,7 @@ for N in Ns:
 
 							for i in trange(total):
 									testf = test_fn[i]
+									actual_lang = re.findall('(\w+)_\d+_p.txt$', testf)[0]
 									unknown_tots = []
 									#print len(testf),testf[91:93]
 								#if testf == main_base + test_dir + '/da_432_p.txt':
@@ -83,7 +85,7 @@ for N in Ns:
 									final_unknown = sum(unknown_tots)
 									likely_lang = utils.find_language(testf, final_unknown, final_lang, languages,display=0)
 									#print testf[91:], '=> ',likely_lang
-									if lang_map[testf[91:93]] == likely_lang:
+									if lang_map[actual_lang] == likely_lang:
 											correct +=1
 
 							#print "for size ", cluster_sz, " ordered=", ordered, " correct: ", correct, "; total: ", total,"; final percentage correct: ", float(correct)/total, " variance=",utils.var_measure(cosangles)
