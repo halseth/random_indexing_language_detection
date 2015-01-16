@@ -49,51 +49,58 @@ def generate_letter_id_vectors(N, k, alph=alphabet):
 # 		return dictionary
 
 def id_vector(N, cluster, alphabet, RI_letters,ordered=0):
-	if cluster == '':
-			return 0
-	if ordered == 0:
-		# unordered clusters
-		cluster = ''.join(sorted(cluster))
-	
-	#if it's already calculated, just return it
-	if cluster in cluster_cache:
-		return cluster_cache[cluster]
-		
-	vector = np.zeros(N)
-	first = cluster[0]
-	repeats = 0
-	for char in cluster:
-			if first == char:
-					repeats += 1
+        if cluster == '':
+                        return 0
+        if ordered == 0:
+                # unordered clusters
+                cluster = ''.join(sorted(cluster))
 
-	if repeats == len(cluster):
-			# check if cluster all same letter
-			letter_idx = alphabet.find(first)
-			#print first, RI_letters[letter_idx,:]
-			vector = RI_letters[letter_idx,:]
-	else:
-			
-					# letters = list(cluster)
+#if it's already calculated, just return it
+        if cluster in cluster_cache:
+                return cluster_cache[cluster]
+                
+        vector = np.zeros(N)
+        first = cluster[0]
+        repeats = 0
+        for char in cluster:
+                        if first == char:
+                                        repeats += 1
+
+        if repeats == len(cluster):
+                        # check if cluster all same letter
+                        letter_idx = alphabet.find(first)
+                        #print first, RI_letters[letter_idx,:]
+                        vector = RI_letters[letter_idx,:]
+        else:
+                        
+                                        # letters = list(cluster)
 # 					prod = np.ones((1,N))
 # 					for letter in letters:
 # 							letter_idx = alphabet.find(letter)
 # 							prod = np.multiply(prod, RI_letters[letter_idx,:])
 # 					vector = prod
-			
-			# ordered clusters
-			letters = list(cluster)
-			prod = np.ones((1,N))
-			for letter in letters:
-					letter_idx = alphabet.find(letter)
-					prod = np.multiply(prod, RI_letters[letter_idx,:])
-					prod = np.roll(prod,1)
-			vector = prod
-	
-	if len(cluster_cache) > 100000:
-		cluster_cache.clear()
-		print "clearing cache"
-	cluster_cache[cluster] = vector
-	return vector
+                        
+                        # ordered clusters
+                        letters = list(cluster)
+                        prod = np.ones((1,N))
+                        roller = len(letters)-1
+                        for letter in letters:
+                                        # working code
+                                        #letter_idx = alphabet.find(letter)
+                                        #prod = np.multiply(prod, RI_letters[letter_idx,:])
+                                        #prod = np.roll(prod,1)
+                                        
+                                        # testing permutations
+                                        letter_idx = alphabet.find(letter)
+                                        prod = np.multiply(prod, np.roll(RI_letters[letter_idx, :],roller))
+                                        roller -= 1
+                        vector = prod
+
+        if len(cluster_cache) > 100000:
+                cluster_cache.clear()
+                print "clearing cache"
+        cluster_cache[cluster] = vector
+        return vector
 
 def generate_RI_str(N, RI_letters, cluster_sz, ordered, string, alph=alphabet):
 		# generate RI vector for "text_name"

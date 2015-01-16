@@ -19,13 +19,14 @@ main_base = os.getcwd()
 test_dir = '/lang_texts/test/processed_test'
 
 # parameters
-N = 100 # dimension of random index vectors
-k = 50 # number of + (or -)
-cluster_min = 1
-cluster_max = 1 # size of max letter cluster
+N = 10000 # dimension of random index vectors
+k = 5000 # number of + (or -)
+cluster_min = 3
+cluster_max = 3 # size of max letter cluster
 ordy = [1]
 lang_map = {'af':'afr','bg':'bul','cs':'ces','da':'dan','nl':'nld','de':'deu','en':'eng','et':'est','fi':'fin','fr':'fra','el':'ell','hu':'hun','it':'ita','lv':'lav','lt':'lit','pl':'pol','pt':'por','ro':'ron','sk':'slk','sl':'slv','es':'spa','sv':'swe'}
 #lang_map = {'af':'afrikaans','bg':'bulgarian','cs':'czech','da':'danish','nl':'dutch','de':'german','en':'english','et':'estonian','fi':'finnish','fr':'french','el':'greek','hu':'hungarian','it':'italian','pl':'polish','pt':'portuguese','ro':'romanian','sk':'slovak','sl':'slovenian','es':'spanish','sv':'swedish'}
+del lang_map['af'] # no afrikaans in test corpus
 lang_tots = lang_map.values()
 languages = lang_map.values()
 #languages = ['french','italian','finnish','estonian']

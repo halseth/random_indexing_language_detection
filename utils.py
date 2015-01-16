@@ -122,7 +122,7 @@ def find_language(text_name, text_vector, lang_vectors, languages,display=0):
 		likely_language = languages[likely_lang_idx]
 		if display:
 				print labeled_cosangles
-				print 'most likely language of ' + text_name + ' is ' + str(likely_language)
+				print 'most likely match of ' + text_name + ' is ' + str(likely_language)
 		return likely_language
 
 def generate_ordered_clusters(alphabet, cluster_sz=1):
