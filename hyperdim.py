@@ -2,7 +2,7 @@
 # set of experiments using random_idx
 
 # libraries
-import random_idx
+import random_idx as random_idx
 import utils
 import sys
 import scipy.io as scio
@@ -12,11 +12,11 @@ import matplotlib.pyplot as plt
 
 N = 10000 # dimension of random index vectors
 k = 5000 # number of + (or -)
-cluster_min = 3
-cluster_max = 3 # size of max letter cluster
+cluster_min = 4
+cluster_max = 4 # size of max letter cluster
 ordy = [1]
 #lang_map = {'af':'afrikaans','bg':'bulgarian','cs':'czech','da':'danish','nl':'dutch','de':'german','en':'english','et':'estonian','fi':'finnish','fr':'french','el':'greek','hu':'hungarian','it':'italian','pl':'polish','pt':'portuguese','ro':'romanian','sk':'slovak','sl':'slovenian','es':'spanish','sv':'swedish'}
-lang_map = {'af':'afr','bg':'bul','cs':'ces','da':'dan','nl':'nld','de':'deu','en':'eng','et':'est','fi':'fin','fr':'fra','el':'ell','hu':'hun','it':'ita','lv':'lav','lt':'lit','pl':'pol','pt':'por','ro':'ron','sk':'slk','sl':'slv','es':'spa','sv':'swe'}
+lang_map = {'af':'afr','bg':'bul','cs':'ces'}#,'da':'dan','nl':'nld','de':'deu','en':'eng','et':'est','fi':'fin','fr':'fra','el':'ell','hu':'hun','it':'ita','lv':'lav','lt':'lit','pl':'pol','pt':'por','ro':'ron','sk':'slk','sl':'slv','es':'spa','sv':'swe'}
 languages = lang_map.values()
 languages.append('nob') #languages.append('norwegian')
 
@@ -94,11 +94,11 @@ cosangles = utils.cosangles(lang_vectors, languages)
 variance = utils.var_measure(cosangles)
 varys.append(variance)
 print "variance of language values: " + str(utils.var_measure(cosangles))
-
 # calculate unknown vector
 unknown_vector = random_idx.generate_RI_words(N, RI_letters, unknown_txt)
 unknown_tots.append(unknown_vector)
 '''
+
 #############################
 # final language vector calculations!
 '''
@@ -110,7 +110,7 @@ for i in xrange(len(varys)):
 '''
 final_lang = sum(total_vectors)
 final_unknown = sum(unknown_tots)
-
+'''
 # generate language pairs
 bilinguals = []
 for i in xrange(len(languages)):
@@ -127,17 +127,18 @@ for i in xrange(len(bilinguals)):
 		lang2_idx = languages.index(lang2)
 
 		bilingual_vectors[i,:] = final_lang[lang1_idx,:]/np.linalg.norm(final_lang[lang1_idx,:]) + final_lang[lang2_idx,:]/np.linalg.norm(final_lang[lang2_idx,:])
-
+'''
 print '\n'
 # compare with "unknown text"
 #final_unknown = sum(unknown_tots)
 utils.find_language(unknown_txt, final_unknown, final_lang, languages, display=1)
 
-
+'''
 print '\n'
 # compare with "unknown text" on bilinguals
 print '========'
 utils.find_language(unknown_txt, final_unknown, np.vstack((final_lang, bilingual_vectors)), languages + bilinguals, display=1)
+'''
 
 
 print '========='

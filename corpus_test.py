@@ -83,3 +83,29 @@ for i in trange(total):
 				correct +=1
 
 print "correct: ", correct, "; total: ", total,"; final percentage correct: ", float(correct)/total
+
+###############################
+# dimension reduction plot to view vectors in 2-d
+
+
+print '========='
+print 'N = ' + str(N) + '; k = ' + str(k) + '; max size letters clusters are ' + str(cluster_max) + '\n'
+cosangles = utils.cosangles(final_lang, languages, display=0)
+print "variance of language values: " + str(utils.var_measure(cosangles))
+
+# plot language points
+plt.figure()
+Y = tsne(cosangles,no_dims=2,initial_dims=100,perplexity=8)
+plt.scatter(Y[:,0],Y[:,1])#,len(languages),np.r_[1:len(languages)])
+for label, x, y in zip(languages, Y[:, 0], Y[:, 1]):
+    plt.annotate(
+        label, 
+        xy = (x, y), xytext = (-20, 20),
+        textcoords = 'offset points', ha = 'right', va = 'bottom',
+        bbox = dict(boxstyle = 'round,pad=0.5', fc = 'yellow', alpha = 0.5),
+        arrowprops = dict(arrowstyle = '->', connectionstyle = 'arc3,rad=0'),
+				fontsize='x-large')
+frame = plt.gca()
+frame.axes.get_xaxis().set_ticks([])
+frame.axes.get_yaxis().set_ticks([])
+plt.show()

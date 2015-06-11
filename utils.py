@@ -14,8 +14,15 @@ pd.set_option('display.width', 1000)
 pd.set_option('precision',3)
 import numpy as np
 import itertools
+import matplotlib as mpl
 import matplotlib.pyplot as plt
 import networkx as nx
+import Table
+
+# date
+import time
+now = time.strftime("%Y-%m-%d %H:%M")
+print now
 
 # constants
 whitespace = string.whitespace
@@ -71,6 +78,7 @@ def cosangles(lang_vectors,languages,display=0):
 
 		# label the cosine angles table
 		labeled_cosangles = pd.DataFrame(cos_angles, index=languages, columns=languages)
+		lang_vectors_labelled = pd.DataFrame(lang_vectors, index=languages)
 
 		#print labeled_cosangles
 		if display:
@@ -81,7 +89,7 @@ def cosangles(lang_vectors,languages,display=0):
 				acos_angles[acos_angles < 1e-5] = 0
 
 				display_graph(acos_angles, languages)
-		return cos_angles
+		return cos_angles, lang_vectors_labelled
 
 def display_graph(similarity, languages):
 		# display network of languages
@@ -114,16 +122,19 @@ def find_language(text_name, text_vector, lang_vectors, languages,display=0):
 		cola = zip(cos_angles,languages)
 		cola.sort()
 		cola.reverse()
-		cos_angles = [x for x,y in cola]
-		languages = [y for x,y in cola]
-		labeled_cosangles = pd.DataFrame(cos_angles, index=languages, columns=['likelihood'])
+		cos_angles_ord = [x for x,y in cola]
+		languages_ord = [y for x,y in cola]
+                labeled_cola = pd.DataFrame(cos_angles, index=list(languages), columns=['likelihoods'])
+		labeled_cosangles = pd.DataFrame(cos_angles_ord, index=languages_ord, columns=['likelihood'])
 
 		likely_lang_idx = np.argmax(cos_angles)
 		likely_language = languages[likely_lang_idx]
 		if display:
+                                print labeled_cola
+                                print "~~~~~~~~~"
 				print labeled_cosangles
 				print 'most likely match of ' + text_name + ' is ' + str(likely_language)
-		return likely_language
+		return likely_language, cos_angles, languages
 
 def generate_ordered_clusters(alphabet, cluster_sz=1):
 		# generates list of letter clusters of size "cluster" with "alphabet", ordered
@@ -184,58 +195,21 @@ def var_measure(cos_angles):
 		values = np.arcsin(cos_angles[iu1])
 		return np.var(values)
 
-def disp_confusion_mat(data,row_labels=None,col_labels=None,save=0,display=0):
+def disp_confusion_mat(data,row_labels=None,col_labels=None,saven='confusion_matrix',display=0):
+    if row_labels == None or col_labels == None:
+        print "please provide labels, otherwise visualizing the matrix as a confusion matrix is meaningless"
 
-		if row_labels == None or col_labels == None:
-				print "please provide labels, otherwise visualizing the matrix as a confusion matrix is meaningless"
+    df = pd.DataFrame(data, index=row_labels, columns=col_labels)
 
-		# initialize plot 
-		fig, ax = plt.subplots()
-		fig = plt.gcf()
-		heatmap = ax.pcolormesh(data,cmap=plt.cm.Blues,alpha=0.8)
-		# put the major ticks at the middle of each cell
-		ax.set_xticks(np.arange(data.shape[0]) + 0.5, minor=False)
-		ax.set_yticks(np.arange(data.shape[1]) + 0.5, minor=False)
-		# want a more natural, table-like display
-		ax.invert_yaxis()
-		ax.xaxis.tick_top()
+    with open('./plots/' + saven + '-' + now + '.tex','w') as f:
 
-		# set labels!!
-		ax.set_xticklabels(row_labels,minor=False)
-		ax.set_yticklabels(col_labels,minor=False)
-
-		# rotate xlabels stylishly
-		plt.xticks(rotation=45)
-
-		ax.grid(False)
-
-		# turn off all ticks
-		plt.gca()
-
-		for t in ax.xaxis.get_major_ticks():
-				t.tick1On = False
-				t.tick2On = False
-		for t in ax.yaxis.get_major_ticks():
-				t.tick1On = False
-				t.tick2On = False
-
-		plt.xlabel('Predicted Labels')
-		plt.ylabel('True Labels')
-		plt.suptitle('Confusion Matrix')
-		plt.axis('tight')
-		for y in range(data.shape[0]):
-				for x in range(data.shape[1]):
-						if np.abs(data[y,x]) <= 1e-4:
-								continue
-
-						plt.text(x + 0.5, y + 0.5, '%.1f' % data[y, x],
-										 horizontalalignment='center',
-										 verticalalignment='center',
-										 )
-		plt.colorbar(heatmap)
-
-		if save:
-				fig.savefig(os.getcwd() + '/plots/confusion_matrix.png')
-
-		if display:
-				plt.show()
+        f.write('\\documentclass[a4paper,12pt]{article}\n')
+        f.write('\\usepackage{booktabs}')
+        f.write('\usepackage[a4paper,margin=1in,landscape]{geometry}')
+        f.write('\\begin{document}\n')
+        f.write('\\begin{table}[ht]\n')
+        f.write('\\caption{confusion matrix}')
+        f.write('\\centering')
+        f.write(df.to_latex())
+        f.write('\\end{table}')
+        f.write('\end{document}')

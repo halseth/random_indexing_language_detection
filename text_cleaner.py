@@ -1,3 +1,7 @@
+# text_cleaner.py
+# preprocesses text so that it preserves only lowercase latin letters and spaces
+# Johan and Aditya, Fall 2014
+
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 import sys
